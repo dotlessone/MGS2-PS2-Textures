@@ -1,0 +1,2 @@
+assets/tri/us/web_site.tri
+assets/gcx/eu/scenerio_stage_webdemo.gcx

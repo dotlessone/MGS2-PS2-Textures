@@ -1,0 +1,2 @@
+assets/tri/us/museum.tri
+assets/gcx/us/scenerio_stage_museum.gcx

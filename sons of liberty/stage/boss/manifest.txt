@@ -1,0 +1,1 @@
+assets/gcx/us/scenerio_stage_boss.gcx

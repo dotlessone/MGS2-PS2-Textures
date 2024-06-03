@@ -1,0 +1,10 @@
+assets/tri/us/animal.tri
+assets/tri/us/clear_code_stage_ending.tri
+assets/tri/us/code_mane.tri
+assets/tri/us/save_load.tri
+assets/row/us/tnkicon_stage_d13t.row
+assets/row/us/plticon_stage_d080p01.row
+assets/o2d/us/save_load_stage_d080p01.o2d
+assets/o2d/us/code_name.o2d
+assets/o2d/us/clear_code_stage_ending.o2d
+assets/gcx/eu/scenerio_stage_ending.gcx

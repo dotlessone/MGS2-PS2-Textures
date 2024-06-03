@@ -1,0 +1,2 @@
+assets/row/us/keepfont.row
+assets/gcx/us/scenerio_stage_r_title.gcx

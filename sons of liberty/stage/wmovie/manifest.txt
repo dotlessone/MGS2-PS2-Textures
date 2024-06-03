@@ -1,0 +1,3 @@
+assets/tri/us/mgs2logo.tri
+assets/row/eu/ending_eng.row
+assets/gcx/eu/scenerio_stage_wmovie.gcx
