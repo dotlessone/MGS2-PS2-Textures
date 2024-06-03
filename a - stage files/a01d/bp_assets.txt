@@ -646,7 +646,6 @@ textures/flatlist/speaker01.bmp_eca4c136e484651509b11b773d32f163.ctxr
 textures/flatlist/speaker02.bmp_60d9fe67157117c03c26035ec72537cd.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
 textures/flatlist/ssk_06.bmp.ctxr
 textures/flatlist/suppressor_mk_alp.bmp.ctxr
 textures/flatlist/svc2_body.bmp.ctxr

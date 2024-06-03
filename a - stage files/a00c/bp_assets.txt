@@ -124,8 +124,6 @@ textures/flatlist/env00_factory1.bmp.ctxr
 textures/flatlist/env00_mht1_alp_ovl.bmp.ctxr
 textures/flatlist/env00_mht2_alp_ovl.bmp.ctxr
 textures/flatlist/env00_mht3_alp_ovl.bmp.ctxr
-textures/flatlist/env01a_msk.bmp.ctxr
-textures/flatlist/env01b_msk.bmp.ctxr
 textures/flatlist/eva_alp_ovl.bmp.ctxr
 textures/flatlist/exit_alp_ovl.bmp.ctxr
 textures/flatlist/fire1_alp.bmp.ctxr
@@ -307,8 +305,6 @@ textures/flatlist/socom_f_msk.bmp.ctxr
 textures/flatlist/sonic02_alp.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/sun_alp.bmp.ctxr
@@ -393,7 +389,6 @@ textures/flatlist/w00a_blc_s1.bmp_11f66effee79793a24dc40a2482299da.ctxr
 textures/flatlist/w00a_blc_s2.bmp.ctxr
 textures/flatlist/w00a_blc_t1.bmp_7f11fc01c0e5875532e7dd318d7c9e68.ctxr
 textures/flatlist/w00a_blc_t2.bmp.ctxr
-textures/flatlist/w00a_blc_t3.bmp.ctxr
 textures/flatlist/w00a_cod_alp.bmp.ctxr
 textures/flatlist/w00a_dc1.bmp.ctxr
 textures/flatlist/w00a_dck_at10.bmp.ctxr
@@ -403,8 +398,6 @@ textures/flatlist/w00a_dck_at5.bmp.ctxr
 textures/flatlist/w00a_dck_at6.bmp.ctxr
 textures/flatlist/w00a_dck_at7.bmp.ctxr
 textures/flatlist/w00a_dck_at8.bmp.ctxr
-textures/flatlist/w00a_fl1.bmp.ctxr
-textures/flatlist/w00a_frt1.bmp.ctxr
 textures/flatlist/w00a_ltb1v.bmp.ctxr
 textures/flatlist/w00a_ltb3.bmp.ctxr
 textures/flatlist/w00a_ltb4.bmp.ctxr
@@ -415,7 +408,6 @@ textures/flatlist/w00a_pol1.bmp.ctxr
 textures/flatlist/w00a_rail5.bmp.ctxr
 textures/flatlist/w00a_rb2a.bmp.ctxr
 textures/flatlist/w00a_rep1.bmp.ctxr
-textures/flatlist/w00a_rtn0.bmp.ctxr
 textures/flatlist/w00a_rtn1_msk.bmp.ctxr
 textures/flatlist/w00a_rw1.bmp.ctxr
 textures/flatlist/w00a_sf1.bmp.ctxr
@@ -424,12 +416,7 @@ textures/flatlist/w00a_sf3.bmp.ctxr
 textures/flatlist/w00a_sf4.bmp.ctxr
 textures/flatlist/w00a_sn3.bmp.ctxr
 textures/flatlist/w00a_w1.bmp.ctxr
-textures/flatlist/w00a_w2v.bmp.ctxr
-textures/flatlist/w00a_w2v.bmp.ctxr
-textures/flatlist/w00a_w3.bmp.ctxr
 textures/flatlist/w00a_wi1.bmp.ctxr
-textures/flatlist/w00ak_blc_t4.bmp.ctxr
-textures/flatlist/w00ak_crane_floor.bmp.ctxr
 textures/flatlist/w00ak_pod_s1.bmp.ctxr
 textures/flatlist/w00ak_pod_t1.bmp.ctxr
 textures/flatlist/w00ak_rail1_t.bmp.ctxr
@@ -458,7 +445,6 @@ textures/flatlist/w00b_duct_boxt.bmp.ctxr
 textures/flatlist/w00b_fade1.bmp.ctxr
 textures/flatlist/w00b_fannel1.bmp.ctxr
 textures/flatlist/w00b_fannel2.bmp.ctxr
-textures/flatlist/w00b_fannel3s.bmp.ctxr
 textures/flatlist/w00b_firehose.bmp.ctxr
 textures/flatlist/w00b_firehose_box.bmp.ctxr
 textures/flatlist/w00b_firehose_post1.bmp.ctxr

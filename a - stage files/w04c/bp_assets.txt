@@ -82,8 +82,6 @@ textures/flatlist/pdray_foot_s.bmp.ctxr
 textures/flatlist/powder02_alp.bmp.ctxr
 textures/flatlist/qt_break_alp.bmp.ctxr
 textures/flatlist/qt_normal_alp.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/ray_arm_t1.bmp.ctxr
 textures/flatlist/ray_arm_u1.bmp.ctxr
@@ -206,8 +204,6 @@ textures/flatlist/sna_hi_eye_ovl_sub_alp.bmp.ctxr
 textures/flatlist/sna_hi_eye_ovl_sub_alp.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
-textures/flatlist/sna_hi_teeth_u2.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u4.bmp.ctxr
 textures/flatlist/socom_f_msk.bmp.ctxr

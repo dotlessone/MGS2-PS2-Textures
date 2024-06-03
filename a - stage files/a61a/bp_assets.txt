@@ -60,7 +60,6 @@ textures/flatlist/GW_neck.bmp.ctxr
 textures/flatlist/a_p_sensor_alp.bmp.ctxr
 textures/flatlist/a_p_sensor_case.bmp.ctxr
 textures/flatlist/a_p_sensor_case2.bmp.ctxr
-textures/flatlist/alpha03_alp_ovl.bmp.ctxr
 textures/flatlist/alt_alp_ovl.bmp.ctxr
 textures/flatlist/alt_b_alp_ovl.bmp.ctxr
 textures/flatlist/amg_main1.bmp.ctxr

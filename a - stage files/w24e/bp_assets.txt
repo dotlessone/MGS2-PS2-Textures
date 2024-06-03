@@ -315,7 +315,6 @@ textures/flatlist/rdr_noise2.bmp.ctxr
 textures/flatlist/rdr_noise3.bmp.ctxr
 textures/flatlist/rdr_yaji_alp_ovl.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
-textures/flatlist/rev_boot_02dt.bmp.ctxr
 textures/flatlist/rev_boot_03dt.bmp.ctxr
 textures/flatlist/rev_bullet_02dt.bmp.ctxr
 textures/flatlist/rev_face_01dt.bmp.ctxr
@@ -433,7 +432,6 @@ textures/flatlist/sol_shoulder_dt.bmp.ctxr
 textures/flatlist/sol_shoulder_dt_ovl_sub_alp.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
 textures/flatlist/sps_all2_msk.bmp.ctxr
 textures/flatlist/sps_emb.bmp.ctxr
 textures/flatlist/svc_bonbori.bmp.ctxr

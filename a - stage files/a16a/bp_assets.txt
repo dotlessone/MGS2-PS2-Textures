@@ -515,8 +515,6 @@ textures/flatlist/sosuS.bmp_8e92fc0a7c4edf084c06c082554d82d6.ctxr
 textures/flatlist/sourse_hlf_ovl.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/stg_rabel_alp_ovl.bmp.ctxr

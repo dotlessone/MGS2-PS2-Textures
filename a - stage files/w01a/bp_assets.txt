@@ -366,8 +366,6 @@ textures/flatlist/speaker02.bmp.ctxr
 textures/flatlist/speaker04.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/ssk_06.bmp.ctxr

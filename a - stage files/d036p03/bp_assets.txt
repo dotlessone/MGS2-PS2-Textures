@@ -519,14 +519,6 @@ textures/flatlist/rai_gbs_body_ss.bmp.ctxr
 textures/flatlist/rai_gbs_body_ss.bmp.ctxr
 textures/flatlist/rai_gbs_face.bmp.ctxr
 textures/flatlist/rai_gbs_face.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rai_hand_01_fix.bmp.ctxr
@@ -597,8 +589,6 @@ textures/flatlist/rdr_yaji_alp_ovl.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
-textures/flatlist/rev_boot_02dt.bmp.ctxr
-textures/flatlist/rev_boot_02dt.bmp.ctxr
 textures/flatlist/rev_boot_03dt.bmp.ctxr
 textures/flatlist/rev_boot_03dt.bmp.ctxr
 textures/flatlist/rev_bullet_02dt.bmp.ctxr
@@ -668,7 +658,6 @@ textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna_e_ovl_mod1120_alp_emap.bmp.ctxr
-textures/flatlist/sna_f_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_hi_ela01_alp_ovl.bmp.ctxr
 textures/flatlist/sna_hi_eye_ovl_sub_alp.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
@@ -681,11 +670,6 @@ textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
-textures/flatlist/sna_hi_teeth_u2.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
@@ -731,8 +715,6 @@ textures/flatlist/sol_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sonic02_alp.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/sr08j_alp_ovl.bmp_501fe309963ffa2693e775abe15afe45.ctxr

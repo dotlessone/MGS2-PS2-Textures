@@ -77,7 +77,6 @@ textures/flatlist/aks_sb_s.bmp.ctxr
 textures/flatlist/aks_sb_s.bmp.ctxr
 textures/flatlist/aks_selecter.bmp.ctxr
 textures/flatlist/aks_selecter.bmp.ctxr
-textures/flatlist/alpha03_alp_ovl.bmp.ctxr
 textures/flatlist/alt_alp_ovl.bmp.ctxr
 textures/flatlist/alt_b_alp_ovl.bmp.ctxr
 textures/flatlist/ammo_case1_top.bmp.ctxr
@@ -403,10 +402,6 @@ textures/flatlist/rai_fx_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/rai_gbs_arm_ss.bmp.ctxr
 textures/flatlist/rai_gbs_belt_leg.bmp.ctxr
 textures/flatlist/rai_gbs_body_ss.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rai_hand_01_fix.bmp.ctxr
 textures/flatlist/rai_hand_01_fix_ovl_sub_alp.bmp.ctxr
@@ -456,7 +451,6 @@ textures/flatlist/sp03a4_shd1_alp_ovl.bmp.ctxr
 textures/flatlist/sp03a_sdw00_alp_ovl.bmp.ctxr
 textures/flatlist/sp03a_wall_sdw00_alp_ovl.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/sps_all2_msk.bmp.ctxr

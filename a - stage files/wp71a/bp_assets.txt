@@ -61,7 +61,6 @@ textures/flatlist/a_p_sensor_case.bmp.ctxr
 textures/flatlist/a_p_sensor_case2.bmp.ctxr
 textures/flatlist/ak_sp_tx_mk_alp.bmp.ctxr
 textures/flatlist/ak_tx_alp.bmp.ctxr
-textures/flatlist/alpha03_alp_ovl.bmp.ctxr
 textures/flatlist/alt_alp_ovl.bmp.ctxr
 textures/flatlist/alt_b_alp_ovl.bmp.ctxr
 textures/flatlist/ammo_case1_top.bmp.ctxr

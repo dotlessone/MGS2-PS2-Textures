@@ -1,6 +1,5 @@
 textures/flatlist/a_p_sensor_case.bmp.ctxr
 textures/flatlist/a_p_sensor_case2.bmp.ctxr
-textures/flatlist/alpha03_alp_ovl.bmp.ctxr
 textures/flatlist/alt_alp_ovl.bmp.ctxr
 textures/flatlist/alt_b_alp_ovl.bmp.ctxr
 textures/flatlist/ammo_case1_top.bmp.ctxr
@@ -82,8 +81,6 @@ textures/flatlist/nypo_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/powder02_alp.bmp.ctxr
 textures/flatlist/qt_break_alp.bmp.ctxr
 textures/flatlist/qt_normal_alp.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rdr_noise1.bmp.ctxr
 textures/flatlist/rdr_noise2.bmp.ctxr

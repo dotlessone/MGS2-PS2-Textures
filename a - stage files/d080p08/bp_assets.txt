@@ -3,7 +3,6 @@ textures/flatlist/003f0404.ctxr
 textures/flatlist/007a0189.ctxr
 textures/flatlist/00e103ff.ctxr
 textures/flatlist/GW_neck.bmp.ctxr
-textures/flatlist/alpha03_alp_ovl.bmp.ctxr
 textures/flatlist/alt_alp_ovl.bmp.ctxr
 textures/flatlist/alt_b_alp_ovl.bmp.ctxr
 textures/flatlist/amg_main1.bmp.ctxr
@@ -244,8 +243,6 @@ textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u4.bmp.ctxr

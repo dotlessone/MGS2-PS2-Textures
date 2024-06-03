@@ -476,7 +476,6 @@ textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u4.bmp.ctxr
 textures/flatlist/sna_m9_glip.bmp.ctxr
@@ -485,8 +484,6 @@ textures/flatlist/socom_f_msk.bmp.ctxr
 textures/flatlist/sonic02_alp.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/sps_all2_msk.bmp.ctxr

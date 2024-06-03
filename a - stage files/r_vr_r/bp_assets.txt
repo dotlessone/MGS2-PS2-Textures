@@ -79,7 +79,6 @@ textures/flatlist/bsn1_alp_ovl.bmp.ctxr
 textures/flatlist/bsn2_alp_ovl.bmp.ctxr
 textures/flatlist/bsn3.bmp.ctxr
 textures/flatlist/camera_alp_ovl.bmp.ctxr
-textures/flatlist/car_shadow_01.bmp.ctxr
 textures/flatlist/cbox_dry_alp_ovl.bmp.ctxr
 textures/flatlist/cbox_wet_alp_ovl.bmp.ctxr
 textures/flatlist/cbx_a.bmp_be89fab0e4f647837831c3734a72fc8f.ctxr
@@ -282,14 +281,6 @@ textures/flatlist/rai_glass_flame.bmp.ctxr
 textures/flatlist/rai_glass_flame.bmp.ctxr
 textures/flatlist/rai_glass_sub_ovl_alp.bmp.ctxr
 textures/flatlist/rai_glass_sub_ovl_alp.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rai_hair_b_base.bmp.ctxr
@@ -385,7 +376,6 @@ textures/flatlist/shuukanshi_ura2.bmp.ctxr
 textures/flatlist/shv_alp_ovl.bmp.ctxr
 textures/flatlist/smoke_alp_ovl.bmp.ctxr
 textures/flatlist/sna_m9_glip.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
 textures/flatlist/stg_grip.bmp.ctxr
 textures/flatlist/stg_msl_s.bmp.ctxr
 textures/flatlist/stg_s_sb.bmp.ctxr

@@ -106,8 +106,6 @@ textures/flatlist/e_alp_ovl.bmp_8e27cb0e71983c0e48ae8d1f53626f8d.ctxr
 textures/flatlist/entrance_alp_add_ovl.bmp.ctxr
 textures/flatlist/entrance_alp_add_ovl.bmp.ctxr
 textures/flatlist/entyou_oil_sea.bmp.ctxr
-textures/flatlist/env01a_msk.bmp.ctxr
-textures/flatlist/env01b_msk.bmp.ctxr
 textures/flatlist/eva_alp_ovl.bmp.ctxr
 textures/flatlist/fire1_alp.bmp.ctxr
 textures/flatlist/flare0_msk.bmp.ctxr
@@ -372,7 +370,6 @@ textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna_e_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_e_ovl_mod1120_alp_emap.bmp.ctxr
-textures/flatlist/sna_f_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_g4_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_glass_bld080_ovl_alp.bmp.ctxr
 textures/flatlist/sna_hi_ela01_alp_ovl.bmp.ctxr
@@ -382,7 +379,6 @@ textures/flatlist/sna_hi_eye_ovl_sub_alp.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u4.bmp.ctxr
 textures/flatlist/socom_f_msk.bmp.ctxr
@@ -437,8 +433,6 @@ textures/flatlist/sol_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sol_shoulder_dt.bmp.ctxr
 textures/flatlist/sol_shoulder_dt_ovl_sub_alp.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/sun_alp.bmp.ctxr

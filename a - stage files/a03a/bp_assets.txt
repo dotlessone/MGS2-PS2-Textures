@@ -379,7 +379,6 @@ textures/flatlist/skk_05a.bmp.ctxr
 textures/flatlist/smoke_msk.bmp.ctxr
 textures/flatlist/socom_f_msk.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
 textures/flatlist/ssk_06.bmp.ctxr
 textures/flatlist/suppressor_mk_alp.bmp.ctxr
 textures/flatlist/svc_bonbori.bmp.ctxr

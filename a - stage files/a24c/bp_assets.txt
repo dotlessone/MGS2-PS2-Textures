@@ -449,7 +449,6 @@ textures/flatlist/socom_alp_ovl.bmp.ctxr
 textures/flatlist/socom_f_msk.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
 textures/flatlist/sps_all2_msk.bmp.ctxr
 textures/flatlist/sps_emb.bmp.ctxr
 textures/flatlist/stg_rabel_alp_ovl.bmp.ctxr

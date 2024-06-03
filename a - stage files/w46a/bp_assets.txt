@@ -11,7 +11,6 @@ textures/flatlist/a_p_sensor_case2.bmp.ctxr
 textures/flatlist/ag_rectum_alp_ovl.bmp.ctxr
 textures/flatlist/ak_sp_tx_mk_alp.bmp.ctxr
 textures/flatlist/ak_tx_alp.bmp.ctxr
-textures/flatlist/alpha03_alp_ovl.bmp.ctxr
 textures/flatlist/alt_alp_ovl.bmp.ctxr
 textures/flatlist/alt_b_alp_ovl.bmp.ctxr
 textures/flatlist/ammo_case1_top.bmp.ctxr
@@ -374,7 +373,6 @@ textures/flatlist/sna_hi_eye_ovl_sub_alp.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u4.bmp.ctxr
 textures/flatlist/socom_alp_ovl.bmp.ctxr
@@ -449,8 +447,6 @@ textures/flatlist/sol_shoulder_dt_ovl_sub_alp.bmp.ctxr
 textures/flatlist/sonic02_alp.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/stg_rabel_alp_ovl.bmp.ctxr

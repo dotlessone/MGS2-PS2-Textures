@@ -79,7 +79,6 @@ textures/flatlist/bsn1_alp_ovl.bmp.ctxr
 textures/flatlist/bsn2_alp_ovl.bmp.ctxr
 textures/flatlist/bsn3.bmp.ctxr
 textures/flatlist/camera_alp_ovl.bmp.ctxr
-textures/flatlist/car_shadow_01.bmp.ctxr
 textures/flatlist/cbox_dry_alp_ovl.bmp.ctxr
 textures/flatlist/cbox_wet_alp_ovl.bmp.ctxr
 textures/flatlist/cbx_a.bmp_be89fab0e4f647837831c3734a72fc8f.ctxr
@@ -268,10 +267,6 @@ textures/flatlist/rai_gbs_arm_ss.bmp.ctxr
 textures/flatlist/rai_gbs_arm_ss.bmp.ctxr
 textures/flatlist/rai_gbs_belt_leg.bmp.ctxr
 textures/flatlist/rai_gbs_body_ss.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rai_hand_01_fix.bmp.ctxr
 textures/flatlist/rai_hand_01_fix_ovl_sub_alp.bmp.ctxr
@@ -304,7 +299,6 @@ textures/flatlist/shuukanshi_ura2.bmp.ctxr
 textures/flatlist/shv_alp_ovl.bmp.ctxr
 textures/flatlist/smoke_alp_ovl.bmp.ctxr
 textures/flatlist/sna_e_ovl_mod1120_alp_emap.bmp.ctxr
-textures/flatlist/sna_f_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_g2_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_g2_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_glass_bld095_ovl_alp.bmp.ctxr
@@ -343,7 +337,6 @@ textures/flatlist/sna_txd_shirt.bmp.ctxr
 textures/flatlist/sna_txd_shoe.bmp.ctxr
 textures/flatlist/sna_txd_shoe_ovl_sub_alp.bmp.ctxr
 textures/flatlist/sna_txd_vest.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
 textures/flatlist/stg_grip.bmp.ctxr
 textures/flatlist/stg_msl_s.bmp.ctxr
 textures/flatlist/stg_s_sb.bmp.ctxr

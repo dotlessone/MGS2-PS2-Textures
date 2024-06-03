@@ -258,14 +258,6 @@ textures/flatlist/rai_gbs_arm_ss.bmp.ctxr
 textures/flatlist/rai_gbs_arm_ss.bmp.ctxr
 textures/flatlist/rai_gbs_belt_leg.bmp.ctxr
 textures/flatlist/rai_gbs_body_ss.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rai_hair_b_base.bmp.ctxr
@@ -373,7 +365,6 @@ textures/flatlist/shuukanshi_ura2.bmp.ctxr
 textures/flatlist/shv_alp_ovl.bmp.ctxr
 textures/flatlist/smoke_alp_ovl.bmp.ctxr
 textures/flatlist/sna_m9_glip.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
 textures/flatlist/stg_grip.bmp.ctxr
 textures/flatlist/stg_msl_s.bmp.ctxr
 textures/flatlist/stg_s_sb.bmp.ctxr

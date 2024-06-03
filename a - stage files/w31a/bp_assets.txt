@@ -502,7 +502,6 @@ textures/flatlist/rev_blk.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
-textures/flatlist/rev_boot_02dt.bmp.ctxr
 textures/flatlist/rev_boot_03dt.bmp.ctxr
 textures/flatlist/rev_bullet_02dt.bmp.ctxr
 textures/flatlist/rev_face_ovl_sub_alp.bmp.ctxr
@@ -540,7 +539,6 @@ textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna2h_mouin.bmp.ctxr
-textures/flatlist/sna_f_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
@@ -550,10 +548,6 @@ textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
-textures/flatlist/sna_hi_teeth_u2.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr

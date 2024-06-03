@@ -6,7 +6,6 @@ textures/flatlist/007a0189.ctxr
 textures/flatlist/00e103ff.ctxr
 textures/flatlist/00edb9fc.ctxr
 textures/flatlist/a_alp_ovl.bmp.ctxr
-textures/flatlist/alpha03_alp_ovl.bmp.ctxr
 textures/flatlist/b_alp_ovl.bmp.ctxr
 textures/flatlist/berrazano_alp_ovl.bmp.ctxr
 textures/flatlist/bigshell_alp_ovl.bmp.ctxr
@@ -73,8 +72,6 @@ textures/flatlist/door_lamp_alp.bmp.ctxr
 textures/flatlist/drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.ctxr
 textures/flatlist/drp_01.bmp.ctxr
 textures/flatlist/e_alp_ovl.bmp.ctxr
-textures/flatlist/env01a_msk.bmp.ctxr
-textures/flatlist/env01b_msk.bmp.ctxr
 textures/flatlist/f_alp_ovl.bmp.ctxr
 textures/flatlist/fire1_alp.bmp.ctxr
 textures/flatlist/flag_sons_of_liberty.bmp.ctxr
@@ -231,8 +228,6 @@ textures/flatlist/sopelem_eye_01.bmp.ctxr
 textures/flatlist/sopelem_himo_01.bmp.ctxr
 textures/flatlist/sopelem_plate_01.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/sr00e_alp_ovl.bmp.ctxr

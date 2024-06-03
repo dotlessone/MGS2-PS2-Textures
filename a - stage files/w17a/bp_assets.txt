@@ -416,15 +416,12 @@ textures/flatlist/sky_d2_alp.bmp.ctxr
 textures/flatlist/sky_d4_alp.bmp.ctxr
 textures/flatlist/sky_sun_d_alp.bmp.ctxr
 textures/flatlist/smoke_msk.bmp.ctxr
-textures/flatlist/sna_f_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_m9_glip.bmp.ctxr
 textures/flatlist/socom_alp_ovl.bmp.ctxr
 textures/flatlist/socom_f_msk.bmp.ctxr
 textures/flatlist/sonic02_alp.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/sps_all2_msk.bmp.ctxr

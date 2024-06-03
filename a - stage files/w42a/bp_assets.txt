@@ -26,7 +26,6 @@ textures/flatlist/ag_rouka_wall_03.bmp.ctxr
 textures/flatlist/ag_stmach_alp_ovl.bmp.ctxr
 textures/flatlist/ak_sp_tx_mk_alp.bmp.ctxr
 textures/flatlist/ak_tx_alp.bmp.ctxr
-textures/flatlist/alpha03_alp_ovl.bmp.ctxr
 textures/flatlist/alt_alp_ovl.bmp.ctxr
 textures/flatlist/alt_b_alp_ovl.bmp.ctxr
 textures/flatlist/ammo_case1_top.bmp.ctxr
@@ -216,8 +215,6 @@ textures/flatlist/socom_f_msk.bmp.ctxr
 textures/flatlist/sonic02_alp.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/stg_rabel_alp_ovl.bmp.ctxr

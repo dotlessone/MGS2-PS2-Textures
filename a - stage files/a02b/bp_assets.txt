@@ -217,7 +217,6 @@ textures/flatlist/mrl_p_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/mrl_tatoo.bmp.ctxr
 textures/flatlist/mrl_tatoo_sub_ovl_alp.bmp.ctxr
 textures/flatlist/mrl_waist_mag.bmp.ctxr
-textures/flatlist/mrl_waist_pack.bmp.ctxr
 textures/flatlist/mrl_wrist.bmp.ctxr
 textures/flatlist/nametag_cube_def_add_alp.bmp.ctxr
 textures/flatlist/nametag_hexa_def_add_alp.bmp.ctxr
@@ -328,15 +327,12 @@ textures/flatlist/sky_1_alp.bmp.ctxr
 textures/flatlist/sky_1_alp.bmp.ctxr
 textures/flatlist/smoke_msk.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u4.bmp.ctxr
 textures/flatlist/socom_f_msk.bmp.ctxr
 textures/flatlist/sonic02_alp.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash04_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/ssk_all.bmp.ctxr

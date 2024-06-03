@@ -261,18 +261,6 @@ textures/flatlist/rai_glass_flame.bmp.ctxr
 textures/flatlist/rai_glass_flame.bmp.ctxr
 textures/flatlist/rai_glass_sub_ovl_alp.bmp.ctxr
 textures/flatlist/rai_glass_sub_ovl_alp.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_back.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_fro.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
-textures/flatlist/rai_gun_side2.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
 textures/flatlist/rai_gun_top.bmp.ctxr
@@ -325,7 +313,6 @@ textures/flatlist/sna_glass_flame2.bmp.ctxr
 textures/flatlist/sna_glass_sub_ovl_alp.bmp.ctxr
 textures/flatlist/sna_glass_sub_ovl_alp.bmp.ctxr
 textures/flatlist/sna_m9_glip.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
 textures/flatlist/stg_grip.bmp.ctxr
 textures/flatlist/stg_msl_s.bmp.ctxr
 textures/flatlist/stg_s_sb.bmp.ctxr

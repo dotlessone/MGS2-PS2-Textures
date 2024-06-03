@@ -179,8 +179,6 @@ textures/flatlist/elvt_tes3_alp_ovl.bmp.ctxr
 textures/flatlist/elvt_tesuri2.bmp.ctxr
 textures/flatlist/elvt_wall_ligh3_alp_add_ovl.bmp.ctxr
 textures/flatlist/entrance_alp_add_ovl.bmp.ctxr
-textures/flatlist/env01a_msk.bmp.ctxr
-textures/flatlist/env01b_msk.bmp.ctxr
 textures/flatlist/eva_alp_ovl.bmp.ctxr
 textures/flatlist/evdr_00.bmp.ctxr
 textures/flatlist/evdr_00.bmp.ctxr
@@ -471,7 +469,6 @@ textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u4.bmp.ctxr
 textures/flatlist/socom_f_msk.bmp.ctxr

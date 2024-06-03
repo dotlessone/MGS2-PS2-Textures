@@ -63,7 +63,6 @@ textures/flatlist/31_hashira_04.bmp.ctxr
 textures/flatlist/31_wall_03.bmp_dcd28d5f145ae8e80dfbe4d117fedff0.ctxr
 textures/flatlist/31_wall_10.bmp.ctxr
 textures/flatlist/31_wall_11.bmp.ctxr
-textures/flatlist/alpha03_alp_ovl.bmp.ctxr
 textures/flatlist/alt_alp_ovl.bmp.ctxr
 textures/flatlist/alt_b_alp_ovl.bmp.ctxr
 textures/flatlist/ammo_case1_top.bmp.ctxr
@@ -193,8 +192,6 @@ textures/flatlist/smoke_msk.bmp.ctxr
 textures/flatlist/sna_shadow.bmp.ctxr
 textures/flatlist/socom_f_msk.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
-textures/flatlist/splash05_alp.bmp.ctxr
-textures/flatlist/splash06_alp.bmp.ctxr
 textures/flatlist/splash06_msk.bmp.ctxr
 textures/flatlist/splash07_alp.bmp.ctxr
 textures/flatlist/svc_bonbori.bmp.ctxr

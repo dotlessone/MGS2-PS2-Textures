@@ -263,7 +263,6 @@ textures/flatlist/mrl_p_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/mrl_tatoo.bmp.ctxr
 textures/flatlist/mrl_tatoo_sub_ovl_alp.bmp.ctxr
 textures/flatlist/mrl_waist_mag.bmp.ctxr
-textures/flatlist/mrl_waist_pack.bmp.ctxr
 textures/flatlist/mrl_wrist.bmp.ctxr
 textures/flatlist/nametag_cube_def_add_alp.bmp.ctxr
 textures/flatlist/nametag_gbs1_def_add_alp.bmp.ctxr
