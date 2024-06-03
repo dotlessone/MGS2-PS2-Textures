@@ -37,10 +37,6 @@ textures/flatlist/case_test_top.bmp.ctxr
 textures/flatlist/cau_alp_ovl.bmp.ctxr
 textures/flatlist/chaff_alp.bmp.ctxr
 textures/flatlist/chi01_alp.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
 textures/flatlist/chi02_alp.bmp.ctxr
 textures/flatlist/chi02_msk.bmp.ctxr
 textures/flatlist/chi03_alp.bmp.ctxr
@@ -77,8 +73,6 @@ textures/flatlist/door_b00a.bmp.ctxr
 textures/flatlist/door_bfl00.bmp.ctxr
 textures/flatlist/door_lamp_alp.bmp.ctxr
 textures/flatlist/door_rail.bmp.ctxr
-textures/flatlist/drop01_msk.bmp.ctxr
-textures/flatlist/drop02_msk.bmp.ctxr
 textures/flatlist/drp_00.bmp.ctxr
 textures/flatlist/drp_00b.bmp.ctxr
 textures/flatlist/drp_01.bmp.ctxr
@@ -216,8 +210,6 @@ textures/flatlist/gogle_ibox.bmp.ctxr
 textures/flatlist/gogle_rabel_alp_ovl.bmp.ctxr
 textures/flatlist/gun_ibox.bmp.ctxr
 textures/flatlist/h_grenade_alp.bmp.ctxr
-textures/flatlist/hamon04_add_msk.bmp.ctxr
-textures/flatlist/hamon05_add_msk.bmp.ctxr
 textures/flatlist/hamon09_add_alp.bmp.ctxr
 textures/flatlist/hiyoko_karada_stamp01.bmp.ctxr
 textures/flatlist/hiyoko_stamp01.bmp.ctxr
@@ -248,7 +240,6 @@ textures/flatlist/launch_rabel_alp_ovl.bmp.ctxr
 textures/flatlist/launcher_ammo_side.bmp.ctxr
 textures/flatlist/launcher_ibox.bmp.ctxr
 textures/flatlist/light05_msk.bmp.ctxr
-textures/flatlist/light10_msk.bmp.ctxr
 textures/flatlist/light12_msk.bmp.ctxr
 textures/flatlist/lv2_alp_ovl.bmp.ctxr
 textures/flatlist/lv4_alp_ovl.bmp.ctxr
@@ -332,7 +323,6 @@ textures/flatlist/rabel_alp_ovl.bmp.ctxr
 textures/flatlist/rai_all_ibox.bmp.ctxr
 textures/flatlist/ration_box.bmp.ctxr
 textures/flatlist/ray_add_alp.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rdr_noise1.bmp.ctxr
 textures/flatlist/rdr_noise2.bmp.ctxr
 textures/flatlist/rdr_noise3.bmp.ctxr
@@ -577,9 +567,6 @@ textures/flatlist/wtd_petbottle2_mt_01.bmp.ctxr
 textures/flatlist/wtd_petbottle2_mt_ovl_alp_sub_01.bmp.ctxr
 textures/flatlist/wtm2_body.bmp.ctxr
 textures/flatlist/wtm2_pile.bmp.ctxr
-textures/flatlist/xlit04a_alp.bmp.ctxr
-textures/flatlist/xlit04b_alp.bmp.ctxr
-textures/flatlist/xlit05a_alp.bmp.ctxr
 textures/flatlist/xlit05b_alp.bmp.ctxr
 textures/flatlist/zoom_alp_ovl.bmp.ctxr
 textures/flatlist/zzz_msk.bmp.ctxr

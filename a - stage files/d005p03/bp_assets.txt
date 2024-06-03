@@ -17,9 +17,6 @@ textures/flatlist/bombpowder1_msk.bmp.ctxr
 textures/flatlist/bombpowder7_msk.bmp.ctxr
 textures/flatlist/c_alp_ovl.bmp.ctxr
 textures/flatlist/chi01_alp.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
 textures/flatlist/chi02_alp.bmp.ctxr
 textures/flatlist/chi02_msk.bmp.ctxr
 textures/flatlist/chi03_alp.bmp.ctxr
@@ -70,8 +67,6 @@ textures/flatlist/dankon2_alp.bmp.ctxr
 textures/flatlist/door_afl00c.bmp.ctxr
 textures/flatlist/door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.ctxr
 textures/flatlist/door_lamp_alp.bmp.ctxr
-textures/flatlist/drop01_msk.bmp.ctxr
-textures/flatlist/drop02_msk.bmp.ctxr
 textures/flatlist/drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.ctxr
 textures/flatlist/drp_01.bmp.ctxr
 textures/flatlist/e_alp_ovl.bmp.ctxr
@@ -122,8 +117,6 @@ textures/flatlist/h6h_twing_t1.bmp.ctxr
 textures/flatlist/h6h_wheel.bmp.ctxr
 textures/flatlist/h6h_wheel_shaft.bmp.ctxr
 textures/flatlist/h_alp_ovl.bmp_195755e5686e25eaa259a854a626b6f0.ctxr
-textures/flatlist/hamon04_add_msk.bmp.ctxr
-textures/flatlist/hamon05_add_msk.bmp.ctxr
 textures/flatlist/hamon09_add_alp.bmp.ctxr
 textures/flatlist/item_glass.bmp.ctxr
 textures/flatlist/item_grass2.bmp.ctxr
@@ -228,7 +221,6 @@ textures/flatlist/rai_watch_dt01_ovl_sub_alp.bmp.ctxr
 textures/flatlist/rai_watch_dt02.bmp.ctxr
 textures/flatlist/rai_watch_dt02_ovl_sub_alp.bmp.ctxr
 textures/flatlist/rcm_l_alp.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
 textures/flatlist/rhw_roter.bmp.ctxr
 textures/flatlist/rhw_roter_t1.bmp.ctxr
@@ -251,15 +243,12 @@ textures/flatlist/sky_sun_d_alp.bmp.ctxr
 textures/flatlist/smoke_msk.bmp.ctxr
 textures/flatlist/socom_f_msk.bmp.ctxr
 textures/flatlist/sopelem_body_01.bmp.ctxr
-textures/flatlist/sopelem_body_02.bmp.ctxr
 textures/flatlist/sopelem_body_03.bmp.ctxr
 textures/flatlist/sopelem_bord_01.bmp.ctxr
-textures/flatlist/sopelem_cap_01.bmp.ctxr
 textures/flatlist/sopelem_cap_top_01.bmp.ctxr
 textures/flatlist/sopelem_eye_01.bmp.ctxr
 textures/flatlist/sopelem_himo_01.bmp.ctxr
 textures/flatlist/sopelem_plate_01.bmp.ctxr
-textures/flatlist/sopelem_renz_01.bmp.ctxr
 textures/flatlist/splash03_alp.bmp.ctxr
 textures/flatlist/splash05_alp.bmp.ctxr
 textures/flatlist/splash06_alp.bmp.ctxr

@@ -11,9 +11,6 @@ textures/flatlist/c_alp_ovl.bmp.ctxr
 textures/flatlist/c_box_top.bmp.ctxr
 textures/flatlist/caution_alp_ovl.bmp.ctxr
 textures/flatlist/chi01_alp.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
 textures/flatlist/chi02_alp.bmp.ctxr
 textures/flatlist/chi02_msk.bmp.ctxr
 textures/flatlist/chi03_alp.bmp.ctxr
@@ -65,8 +62,6 @@ textures/flatlist/door_b00a.bmp.ctxr
 textures/flatlist/door_b00a.bmp.ctxr
 textures/flatlist/door_b00a.bmp.ctxr
 textures/flatlist/door_lamp_alp.bmp.ctxr
-textures/flatlist/drop01_msk.bmp.ctxr
-textures/flatlist/drop02_msk.bmp.ctxr
 textures/flatlist/drp_00.bmp.ctxr
 textures/flatlist/drp_00.bmp.ctxr
 textures/flatlist/drp_01.bmp.ctxr
@@ -417,11 +412,8 @@ textures/flatlist/otc_shues_under.bmp.ctxr
 textures/flatlist/otc_tang.bmp.ctxr
 textures/flatlist/otc_tear_l_sub_alp_ovl.bmp.ctxr
 textures/flatlist/otc_tear_r_sub_alp_ovl.bmp.ctxr
-textures/flatlist/otc_teeth_d1.bmp.ctxr
-textures/flatlist/otc_teeth_d2.bmp.ctxr
 textures/flatlist/otc_teeth_d3.bmp.ctxr
 textures/flatlist/otc_teeth_d4.bmp.ctxr
-textures/flatlist/otc_teeth_u1.bmp.ctxr
 textures/flatlist/otc_teeth_u2.bmp.ctxr
 textures/flatlist/otc_teeth_u3.bmp.ctxr
 textures/flatlist/otc_teeth_u4.bmp.ctxr
@@ -514,7 +506,6 @@ textures/flatlist/rai_watch_dt01_ovl_sub_alp.bmp.ctxr
 textures/flatlist/rai_watch_dt02.bmp.ctxr
 textures/flatlist/rai_watch_dt02_ovl_sub_alp.bmp.ctxr
 textures/flatlist/rcm_l_alp.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
 textures/flatlist/ripple02_alp.bmp.ctxr
 textures/flatlist/s_oil_ref_add_alp_ovl_mod1120.bmp.ctxr
@@ -557,7 +548,6 @@ textures/flatlist/sna_hi_eye_ovl_sub_alp.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d2.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr

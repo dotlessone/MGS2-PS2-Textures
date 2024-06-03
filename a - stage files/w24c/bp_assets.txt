@@ -49,10 +49,6 @@ textures/flatlist/chair02_pipe.bmp_0b475423fac278c1a2f428acbd23acc2.ctxr
 textures/flatlist/chair02_pipekim.bmp.ctxr
 textures/flatlist/chair_magnet.bmp.ctxr
 textures/flatlist/chi01_alp.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
 textures/flatlist/chi02_alp.bmp.ctxr
 textures/flatlist/chi02_msk.bmp.ctxr
 textures/flatlist/chi03_alp.bmp.ctxr
@@ -97,8 +93,6 @@ textures/flatlist/door_bfl00.bmp.ctxr
 textures/flatlist/door_bfl00.bmp.ctxr
 textures/flatlist/door_lamp_alp.bmp.ctxr
 textures/flatlist/drop01_alp_mod1201.bmp.ctxr
-textures/flatlist/drop01_msk.bmp.ctxr
-textures/flatlist/drop02_msk.bmp.ctxr
 textures/flatlist/dzp2_tx_alp.bmp.ctxr
 textures/flatlist/eva_alp_ovl.bmp.ctxr
 textures/flatlist/fire1_alp.bmp.ctxr
@@ -288,11 +282,9 @@ textures/flatlist/launch_rabel_alp_ovl.bmp.ctxr
 textures/flatlist/launcher_ammo_side.bmp.ctxr
 textures/flatlist/launcher_ibox.bmp.ctxr
 textures/flatlist/light05_msk.bmp.ctxr
-textures/flatlist/light10_msk.bmp.ctxr
 textures/flatlist/light12_msk.bmp.ctxr
 textures/flatlist/lsight_msk.bmp.ctxr
 textures/flatlist/m4_alp.bmp.ctxr
-textures/flatlist/m92_jyuukou.bmp.ctxr
 textures/flatlist/magazine_tx2.bmp.ctxr
 textures/flatlist/magazine_tx_alp.bmp.ctxr
 textures/flatlist/mark_warning_alp_ovl.bmp_b02569d9d2fe228c695d6e54a1f86d70.ctxr
@@ -332,7 +324,6 @@ textures/flatlist/rad_musen4.bmp.ctxr
 textures/flatlist/rad_musen5.bmp.ctxr
 textures/flatlist/rai_all_ibox.bmp.ctxr
 textures/flatlist/ration_box.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rdr_noise1.bmp.ctxr
 textures/flatlist/rdr_noise2.bmp.ctxr
 textures/flatlist/rdr_noise3.bmp.ctxr
@@ -628,9 +619,6 @@ textures/flatlist/w24c_sptlit00b.bmp.ctxr
 textures/flatlist/w24c_sptlit00c.bmp.ctxr
 textures/flatlist/wc_alp_ovl.bmp.ctxr
 textures/flatlist/xlit01b_msk.bmp.ctxr
-textures/flatlist/xlit04a_alp.bmp.ctxr
-textures/flatlist/xlit04b_alp.bmp.ctxr
-textures/flatlist/xlit05a_alp.bmp.ctxr
 textures/flatlist/xlit05b_alp.bmp.ctxr
 textures/flatlist/xlit24a_alp.bmp.ctxr
 textures/flatlist/xlit24b_alp.bmp.ctxr

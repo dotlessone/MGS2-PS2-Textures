@@ -100,10 +100,6 @@ textures/flatlist/cfr_sb_all.bmp.ctxr
 textures/flatlist/cfr_trp_f2.bmp.ctxr
 textures/flatlist/cfr_wire_alp.bmp.ctxr
 textures/flatlist/chi01_alp.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
 textures/flatlist/chi02_alp.bmp.ctxr
 textures/flatlist/chi02_msk.bmp.ctxr
 textures/flatlist/chi03_alp.bmp.ctxr
@@ -123,8 +119,6 @@ textures/flatlist/dankon2_alp.bmp.ctxr
 textures/flatlist/dogtag_chain_black_msk.bmp.ctxr
 textures/flatlist/drop01_alp2_mod1021.bmp.ctxr
 textures/flatlist/drop01_alp_mod1201.bmp.ctxr
-textures/flatlist/drop01_msk.bmp.ctxr
-textures/flatlist/drop02_msk.bmp.ctxr
 textures/flatlist/dzp2_tx_alp.bmp.ctxr
 textures/flatlist/eva_alp_ovl.bmp.ctxr
 textures/flatlist/exit_alp_ovl.bmp.ctxr
@@ -230,14 +224,11 @@ textures/flatlist/kirari_msk.bmp.ctxr
 textures/flatlist/light03_msk.bmp.ctxr
 textures/flatlist/light05_msk.bmp.ctxr
 textures/flatlist/light08_msk.bmp.ctxr
-textures/flatlist/light10_msk.bmp.ctxr
 textures/flatlist/light12_msk.bmp.ctxr
 textures/flatlist/lockon_octa_add_alp.bmp.ctxr
 textures/flatlist/lockon_tag1_add_alp.bmp.ctxr
 textures/flatlist/lsight_msk.bmp.ctxr
 textures/flatlist/m4_alp.bmp.ctxr
-textures/flatlist/m92_jyuukou.bmp.ctxr
-textures/flatlist/m92_jyuukou.bmp.ctxr
 textures/flatlist/mode_alp_ovl.bmp.ctxr
 textures/flatlist/mog_loc2.bmp.ctxr
 textures/flatlist/mog_loc2.bmp.ctxr
@@ -274,7 +265,6 @@ textures/flatlist/rad_musen2.bmp.ctxr
 textures/flatlist/rad_musen3.bmp.ctxr
 textures/flatlist/rad_musen4.bmp.ctxr
 textures/flatlist/rad_musen5.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rdr_noise1.bmp.ctxr
 textures/flatlist/rdr_noise2.bmp.ctxr
 textures/flatlist/rdr_noise3.bmp.ctxr
@@ -372,7 +362,6 @@ textures/flatlist/vr2_noise_c1_alp.bmp.ctxr
 textures/flatlist/vr2_noise_c2_alp.bmp.ctxr
 textures/flatlist/w00_fog_fader_alp.bmp.ctxr
 textures/flatlist/w00ak_crps_saku_msk.bmp_50b2d5d61891091657d01c88babeca5b.ctxr
-textures/flatlist/w00ak_crps_tsr1.bmp_3d24cf44976efdff0e00afe3cfe81bd3.ctxr
 textures/flatlist/w00ak_crps_tsr2.bmp_d1a68e5584d236c2d3f9882383c6e348.ctxr
 textures/flatlist/w01a13_control_panel0.bmp.ctxr
 textures/flatlist/w01a13_door_rail.bmp.ctxr
@@ -584,9 +573,6 @@ textures/flatlist/w03a_w04a.bmp.ctxr
 textures/flatlist/w03b_w02c.bmp.ctxr
 textures/flatlist/w04a3_bou_debug.bmp.ctxr
 textures/flatlist/xlit01b_msk.bmp.ctxr
-textures/flatlist/xlit04a_alp.bmp.ctxr
-textures/flatlist/xlit04b_alp.bmp.ctxr
-textures/flatlist/xlit05a_alp.bmp.ctxr
 textures/flatlist/xlit05b_alp.bmp.ctxr
 textures/flatlist/zoom_alp_ovl.bmp.ctxr
 textures/flatlist/zzz_msk.bmp.ctxr

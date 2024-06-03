@@ -35,10 +35,6 @@ textures/flatlist/bombpowder7_msk.bmp.ctxr
 textures/flatlist/call_alp_ovl.bmp.ctxr
 textures/flatlist/cau_alp_ovl.bmp.ctxr
 textures/flatlist/chi01_alp.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
 textures/flatlist/chi02_alp.bmp.ctxr
 textures/flatlist/chi02_msk.bmp.ctxr
 textures/flatlist/chi03_alp.bmp.ctxr
@@ -55,8 +51,6 @@ textures/flatlist/col128_add.bmp.ctxr
 textures/flatlist/col256_bld100.bmp.ctxr
 textures/flatlist/d_sky_hasira_alp.bmp.ctxr
 textures/flatlist/dankon2_alp.bmp.ctxr
-textures/flatlist/drop01_msk.bmp.ctxr
-textures/flatlist/drop02_msk.bmp.ctxr
 textures/flatlist/eva_alp_ovl.bmp.ctxr
 textures/flatlist/federal_alp_ovl.bmp.ctxr
 textures/flatlist/fire1_alp.bmp.ctxr
@@ -134,7 +128,6 @@ textures/flatlist/kmo_wing_ovl__alp.bmp.ctxr
 textures/flatlist/kwtmst_hl_alp_ovl.bmp.ctxr
 textures/flatlist/light05_msk.bmp.ctxr
 textures/flatlist/light08_msk.bmp.ctxr
-textures/flatlist/light10_msk.bmp.ctxr
 textures/flatlist/light12_msk.bmp.ctxr
 textures/flatlist/light13_msk.bmp.ctxr
 textures/flatlist/m92_pointer.bmp.ctxr
@@ -229,7 +222,6 @@ textures/flatlist/rai_watch_dt02.bmp.ctxr
 textures/flatlist/rai_watch_dt02_ovl_sub_alp.bmp.ctxr
 textures/flatlist/rai_watch_dt02_ovl_sub_alp.bmp.ctxr
 textures/flatlist/raiden_gogle_sev_alp.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rdr_noise1.bmp.ctxr
 textures/flatlist/rdr_noise2.bmp.ctxr
 textures/flatlist/rdr_noise3.bmp.ctxr
@@ -250,8 +242,6 @@ textures/flatlist/sna_hi_eye_ovl_sub_alp.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d2.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d2.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
@@ -496,9 +486,6 @@ textures/flatlist/w62a_saku_02_1_alp_ovl.bmp.ctxr
 textures/flatlist/w62a_saku_02_alp.bmp.ctxr
 textures/flatlist/w62a_tree_02_alp.bmp.ctxr
 textures/flatlist/w62a_wbill1.bmp.ctxr
-textures/flatlist/xlit04a_alp.bmp.ctxr
-textures/flatlist/xlit04b_alp.bmp.ctxr
-textures/flatlist/xlit05a_alp.bmp.ctxr
 textures/flatlist/xlit05b_alp.bmp.ctxr
 textures/flatlist/zoom_alp_ovl.bmp.ctxr
 assets/evm/us/rai_def_addhand_mh_mt.cmdl

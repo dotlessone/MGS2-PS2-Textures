@@ -85,10 +85,6 @@ textures/flatlist/call_alp_ovl.bmp.ctxr
 textures/flatlist/case_dr.bmp.ctxr
 textures/flatlist/cau_alp_ovl.bmp.ctxr
 textures/flatlist/chi01_alp.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
 textures/flatlist/chi02_alp.bmp.ctxr
 textures/flatlist/chi02_msk.bmp.ctxr
 textures/flatlist/chi03_alp.bmp.ctxr
@@ -115,8 +111,6 @@ textures/flatlist/dog_tag.bmp.ctxr
 textures/flatlist/dog_tag2.bmp.ctxr
 textures/flatlist/dogtag_sh_alp.bmp.ctxr
 textures/flatlist/dogtag_tx_alp.bmp.ctxr
-textures/flatlist/drop01_msk.bmp.ctxr
-textures/flatlist/drop02_msk.bmp.ctxr
 textures/flatlist/dzp2_tx_alp.bmp.ctxr
 textures/flatlist/eva_alp_ovl.bmp.ctxr
 textures/flatlist/exit_alp_ovl.bmp.ctxr
@@ -185,7 +179,6 @@ textures/flatlist/ketchap_g.bmp.ctxr
 textures/flatlist/kwtmst_hl_alp_ovl.bmp.ctxr
 textures/flatlist/light05_msk.bmp.ctxr
 textures/flatlist/light08_msk.bmp.ctxr
-textures/flatlist/light10_msk.bmp.ctxr
 textures/flatlist/light12_msk.bmp.ctxr
 textures/flatlist/light13_msk.bmp.ctxr
 textures/flatlist/lockon_octa_add_alp.bmp.ctxr
@@ -215,7 +208,6 @@ textures/flatlist/rabel_alp_ovl.bmp.ctxr
 textures/flatlist/rai_all_ibox.bmp.ctxr
 textures/flatlist/raiden_gogle_sev_alp.bmp.ctxr
 textures/flatlist/ration_box.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rdr_noise1.bmp.ctxr
 textures/flatlist/rdr_noise2.bmp.ctxr
 textures/flatlist/rdr_noise3.bmp.ctxr
@@ -423,9 +415,6 @@ textures/flatlist/w62a_tree_02_alp.bmp.ctxr
 textures/flatlist/w62a_wbill1.bmp.ctxr
 textures/flatlist/w_bonbori.bmp.ctxr
 textures/flatlist/wave12_alp_ovl.bmp.ctxr
-textures/flatlist/xlit04a_alp.bmp.ctxr
-textures/flatlist/xlit04b_alp.bmp.ctxr
-textures/flatlist/xlit05a_alp.bmp.ctxr
 textures/flatlist/xlit05b_alp.bmp.ctxr
 textures/flatlist/zoom_alp_ovl.bmp.ctxr
 assets/evm/us/sol_def_face_mh_mt.cmdl

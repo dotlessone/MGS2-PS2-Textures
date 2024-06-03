@@ -74,10 +74,6 @@ textures/flatlist/bombpowder7_msk.bmp.ctxr
 textures/flatlist/call_alp_ovl.bmp.ctxr
 textures/flatlist/cau_alp_ovl.bmp.ctxr
 textures/flatlist/chi01_alp.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
 textures/flatlist/chi02_alp.bmp.ctxr
 textures/flatlist/chi02_msk.bmp.ctxr
 textures/flatlist/chi03_alp.bmp.ctxr
@@ -98,8 +94,6 @@ textures/flatlist/dankon2_alp.bmp.ctxr
 textures/flatlist/door_lamp_alp.bmp.ctxr
 textures/flatlist/drop01_alp2_mod1021.bmp.ctxr
 textures/flatlist/drop01_alp_mod1201.bmp.ctxr
-textures/flatlist/drop01_msk.bmp.ctxr
-textures/flatlist/drop02_msk.bmp.ctxr
 textures/flatlist/eva_alp_ovl.bmp.ctxr
 textures/flatlist/exit_alp_ovl.bmp.ctxr
 textures/flatlist/fire1_alp.bmp.ctxr
@@ -190,13 +184,10 @@ textures/flatlist/ketchap_g.bmp.ctxr
 textures/flatlist/kirari_msk.bmp.ctxr
 textures/flatlist/light03_msk.bmp.ctxr
 textures/flatlist/light05_msk.bmp.ctxr
-textures/flatlist/light07_msk.bmp.ctxr
 textures/flatlist/light08_msk.bmp.ctxr
-textures/flatlist/light10_msk.bmp.ctxr
 textures/flatlist/lockon_octa_add_alp.bmp.ctxr
 textures/flatlist/lockon_tag1_add_alp.bmp.ctxr
 textures/flatlist/lsight_msk.bmp.ctxr
-textures/flatlist/m92_jyuukou.bmp.ctxr
 textures/flatlist/mode_alp_ovl.bmp.ctxr
 textures/flatlist/nametag_cube_def_add_alp.bmp.ctxr
 textures/flatlist/nametag_gbs1_def_add_alp.bmp.ctxr
@@ -213,7 +204,6 @@ textures/flatlist/plasma_msk.bmp.ctxr
 textures/flatlist/powder02_alp.bmp.ctxr
 textures/flatlist/qt_break_alp.bmp.ctxr
 textures/flatlist/qt_normal_alp.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rdr_noise1.bmp.ctxr
 textures/flatlist/rdr_noise2.bmp.ctxr
 textures/flatlist/rdr_noise3.bmp.ctxr

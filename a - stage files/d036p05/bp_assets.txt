@@ -51,10 +51,6 @@ textures/flatlist/c_alp_ovl.bmp_c3c45df5eff774d767719a74e507012e.ctxr
 textures/flatlist/call_alp_ovl.bmp.ctxr
 textures/flatlist/cau_alp_ovl.bmp.ctxr
 textures/flatlist/chi01_alp.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
 textures/flatlist/chi02_alp.bmp.ctxr
 textures/flatlist/chi02_msk.bmp.ctxr
 textures/flatlist/chi03_alp.bmp.ctxr
@@ -295,7 +291,6 @@ textures/flatlist/loc_door_05.bmp.ctxr
 textures/flatlist/loc_door_07.bmp.ctxr
 textures/flatlist/loc_door_ura.bmp.ctxr
 textures/flatlist/lsight_msk.bmp.ctxr
-textures/flatlist/m92_jyuukou.bmp.ctxr
 textures/flatlist/m92_pointer.bmp.ctxr
 textures/flatlist/mark_arrow_alp_ovl.bmp.ctxr
 textures/flatlist/mark_arrow_u24a.bmp.ctxr
@@ -446,7 +441,6 @@ textures/flatlist/rai_watch_dt01_ovl_sub_alp.bmp.ctxr
 textures/flatlist/rai_watch_dt02.bmp.ctxr
 textures/flatlist/rai_watch_dt02_ovl_sub_alp.bmp.ctxr
 textures/flatlist/ray_eye_bonbori_alp.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rdr_noise1.bmp.ctxr
 textures/flatlist/rdr_noise2.bmp.ctxr
 textures/flatlist/rdr_noise3.bmp.ctxr
@@ -476,7 +470,6 @@ textures/flatlist/smoke_msk.bmp.ctxr
 textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d2.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr

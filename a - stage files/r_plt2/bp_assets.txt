@@ -197,7 +197,6 @@ textures/flatlist/m4a_sb_s1.bmp.ctxr
 textures/flatlist/m4a_sb_sight_msk.bmp.ctxr
 textures/flatlist/m4grn_bul.bmp.ctxr
 textures/flatlist/m92_bul3.bmp.ctxr
-textures/flatlist/m92_jyuukou.bmp.ctxr
 textures/flatlist/m92_laserpoint_f1.bmp.ctxr
 textures/flatlist/m92_laserpointer.bmp.ctxr
 textures/flatlist/m92_magazine.bmp.ctxr
@@ -369,7 +368,6 @@ textures/flatlist/rai_watch_dt02.bmp.ctxr
 textures/flatlist/rai_watch_dt02_ovl_sub_alp.bmp.ctxr
 textures/flatlist/raiden_gbssub_alp_ovl.bmp.ctxr
 textures/flatlist/ration_alp_ovl.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
 textures/flatlist/rev_blk.bmp.ctxr
 textures/flatlist/rgb_alp_ovl.bmp.ctxr
@@ -393,7 +391,6 @@ textures/flatlist/shuukanshi_hyoushi3.bmp.ctxr
 textures/flatlist/shuukanshi_ura2.bmp.ctxr
 textures/flatlist/shv_alp_ovl.bmp.ctxr
 textures/flatlist/smoke_alp_ovl.bmp.ctxr
-textures/flatlist/smoke_lp1_alp.bmp.ctxr
 textures/flatlist/sna_g2_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_g2_ovl_mod1120_alp_emap.bmp.ctxr
 textures/flatlist/sna_g4_ovl_mod1120_alp_emap.bmp.ctxr

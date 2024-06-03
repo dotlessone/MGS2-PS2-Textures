@@ -21,10 +21,6 @@ textures/flatlist/call_alp_ovl.bmp.ctxr
 textures/flatlist/cam_mouin.bmp.ctxr
 textures/flatlist/cau_alp_ovl.bmp.ctxr
 textures/flatlist/chi01_alp.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
-textures/flatlist/chi01_msk.bmp.ctxr
 textures/flatlist/chi02_alp.bmp.ctxr
 textures/flatlist/chi02_msk.bmp.ctxr
 textures/flatlist/chi03_alp.bmp.ctxr
@@ -61,8 +57,6 @@ textures/flatlist/door_lamp_alp.bmp.ctxr
 textures/flatlist/door_rail.bmp.ctxr
 textures/flatlist/drop01_alp2_mod1021.bmp.ctxr
 textures/flatlist/drop01_alp_mod1201.bmp.ctxr
-textures/flatlist/drop01_msk.bmp.ctxr
-textures/flatlist/drop02_msk.bmp.ctxr
 textures/flatlist/drp_00.bmp.ctxr
 textures/flatlist/drp_00.bmp.ctxr
 textures/flatlist/drp_00.bmp.ctxr
@@ -219,8 +213,6 @@ textures/flatlist/flare_r2_msk.bmp.ctxr
 textures/flatlist/frost02_alp.bmp.ctxr
 textures/flatlist/g_dankon_alp.bmp.ctxr
 textures/flatlist/gbs_ak_sling2.bmp.ctxr
-textures/flatlist/hamon04_add_msk.bmp.ctxr
-textures/flatlist/hamon05_add_msk.bmp.ctxr
 textures/flatlist/hamon09_add_alp.bmp.ctxr
 textures/flatlist/hosi_msk.bmp.ctxr
 textures/flatlist/jam_alp_ovl.bmp.ctxr
@@ -236,9 +228,7 @@ textures/flatlist/label02_alp_ovl.bmp.ctxr
 textures/flatlist/label_rei_alp_ovl.bmp.ctxr
 textures/flatlist/light03_msk.bmp.ctxr
 textures/flatlist/light05_msk.bmp.ctxr
-textures/flatlist/light07_msk.bmp.ctxr
 textures/flatlist/light08_msk.bmp.ctxr
-textures/flatlist/light10_msk.bmp.ctxr
 textures/flatlist/light12_msk.bmp.ctxr
 textures/flatlist/light13_msk.bmp.ctxr
 textures/flatlist/lsight_msk.bmp.ctxr
@@ -386,7 +376,6 @@ textures/flatlist/rai_watch_dt01.bmp.ctxr
 textures/flatlist/rai_watch_dt01_ovl_sub_alp.bmp.ctxr
 textures/flatlist/rai_watch_dt02.bmp.ctxr
 textures/flatlist/rai_watch_dt02_ovl_sub_alp.bmp.ctxr
-textures/flatlist/rcm_l_msk.bmp.ctxr
 textures/flatlist/rdr_noise1.bmp.ctxr
 textures/flatlist/rdr_noise2.bmp.ctxr
 textures/flatlist/rdr_noise3.bmp.ctxr
@@ -403,7 +392,6 @@ textures/flatlist/sna2h_mouin.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
 textures/flatlist/sna_hi_tang01dt.bmp.ctxr
-textures/flatlist/sna_hi_teeth_d2.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d3.bmp.ctxr
 textures/flatlist/sna_hi_teeth_d4.bmp.ctxr
 textures/flatlist/sna_hi_teeth_u3.bmp.ctxr
@@ -860,9 +848,6 @@ textures/flatlist/wrain06_add_alp_ovl.bmp.ctxr
 textures/flatlist/wtm2_body.bmp.ctxr
 textures/flatlist/wtm2_pile.bmp.ctxr
 textures/flatlist/xlit01b_msk.bmp.ctxr
-textures/flatlist/xlit04a_alp.bmp.ctxr
-textures/flatlist/xlit04b_alp.bmp.ctxr
-textures/flatlist/xlit05a_alp.bmp.ctxr
 textures/flatlist/xlit05b_alp.bmp.ctxr
 textures/flatlist/zoom_alp_ovl.bmp.ctxr
 textures/flatlist/zzz_msk.bmp.ctxr
