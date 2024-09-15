@@ -73,5 +73,5 @@ assets/kms/us/field_camera_base.kms
 assets/kms/us/field_camera_all_stage_d10t.kms
 assets/kms/us/demo_w00_sdr_r.kms
 assets/kms/us/demo_w00_sdr_l_stage_d10t.kms
-assets/evm/us/sna_def_mh.evm
+assets/evm/us/sna_def_mh.evm,us/stage/d10t/cache/0055aaa5.evm,cache/0055aaa5.evm
 assets/gcx/eu/scenerio_stage_d10t.gcx

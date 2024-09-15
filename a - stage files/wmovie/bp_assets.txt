@@ -1,1 +1,1 @@
-textures/flatlist/title_logo_mono_alp_ovl.bmp.ctxr
+title_logo_mono_alp_ovl.bmp.png

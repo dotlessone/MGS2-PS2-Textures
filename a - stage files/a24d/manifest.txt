@@ -230,7 +230,7 @@ assets/kms/us/ak_sp_label.kms
 assets/kms/us/ak_label.kms
 assets/kms/us/abk_amo.kms
 assets/kms/us/abk.kms
-assets/evm/us/par_def_mh.evm
+assets/evm/us/par_def_mh.evm,us/stage/a24d/cache/00e932a4.evm,cache/00e932a4.evm
 assets/cv2/us/w24d2_glass6_bro.cv2
 assets/cv2/us/w24d2_glass5_bro.cv2
 assets/cv2/us/w24d2_glass4_bro.cv2

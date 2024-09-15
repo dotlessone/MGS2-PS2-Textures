@@ -83,10 +83,10 @@ assets/kms/us/c4_kaitai_b1_frost_cm.kms
 assets/kms/us/c4_kaitai_b1_frost_stage_d001p02.kms
 assets/kms/us/c4_kaitai_b1_stage_d001p02.kms
 assets/kms/us/awa_model2.kms
-assets/evm/us/sna_def_mh_stage_d001p02.evm
-assets/evm/us/rai_fin_r_mh_stage_d001p02.evm
-assets/evm/us/rai_fin_l_mh_stage_d001p02.evm
-assets/evm/us/rai_diver_addhand_mh_mt.evm
+assets/evm/us/sna_def_mh_stage_d001p02.evm,us/stage/d001p02/cache/0055aaa5.evm,cache/0055aaa5.evm
+assets/evm/us/rai_fin_r_mh_stage_d001p02.evm,us/stage/d001p02/cache/00ad0fbb.evm,cache/00ad0fbb.evm
+assets/evm/us/rai_fin_l_mh_stage_d001p02.evm,us/stage/d001p02/cache/00aa0fbb.evm,cache/00aa0fbb.evm
+assets/evm/us/rai_diver_addhand_mh_mt.evm,us/stage/d001p02/cache/00e9397c.evm,cache/00e9397c.evm
 assets/cv2/us/scr_waterline01.cv2
 assets/cv2/us/scr_kihou01.cv2
 assets/cv2/us/awa_model2.cv2

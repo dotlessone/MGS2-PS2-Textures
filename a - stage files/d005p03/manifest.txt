@@ -95,7 +95,7 @@ assets/kms/us/hh60h_canopy_mt.kms
 assets/kms/us/hh60h.kms
 assets/kms/us/demo_dummy.kms
 assets/kms/us/d_sky_wall1.kms
-assets/evm/us/rai_hair_mh_mt_stage_a41b.evm
-assets/evm/us/rai_fin_r_mh.evm
-assets/evm/us/rai_fin_l_mh.evm
+assets/evm/us/rai_hair_mh_mt_stage_a41b.evm,us/stage/d005p03/cache/00543563.evm,cache/00543563.evm
+assets/evm/us/rai_fin_r_mh.evm,us/stage/d005p03/cache/00ad0fbb.evm,cache/00ad0fbb.evm
+assets/evm/us/rai_fin_l_mh.evm,us/stage/d005p03/cache/00aa0fbb.evm,cache/00aa0fbb.evm
 assets/gcx/eu/scenerio_stage_d005p03.gcx

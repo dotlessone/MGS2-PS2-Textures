@@ -1,6 +1,6 @@
-textures/flatlist/museum_de_alp_ovl.bmp.ctxr
-textures/flatlist/museum_e_alp_ovl.bmp.ctxr
-textures/flatlist/museum_es_alp_ovl.bmp.ctxr
-textures/flatlist/museum_fr_alp_ovl.bmp.ctxr
-textures/flatlist/museum_it_alp_ovl.bmp.ctxr
-textures/flatlist/museum_j_alp_ovl.bmp.ctxr
+museum_de_alp_ovl.bmp.png
+museum_e_alp_ovl.bmp.png
+museum_es_alp_ovl.bmp.png
+museum_fr_alp_ovl.bmp.png
+museum_it_alp_ovl.bmp.png
+museum_j_alp_ovl.bmp.png

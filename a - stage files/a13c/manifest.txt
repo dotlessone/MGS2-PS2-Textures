@@ -122,8 +122,8 @@ assets/kms/us/aks_sp.kms
 assets/kms/us/aks.kms
 assets/kms/us/abk_amo.kms
 assets/kms/us/abk.kms
-assets/evm/us/org_plant_mh_mt.evm
-assets/evm/us/org_plant_hair_mh_stage_a13c.evm
+assets/evm/us/org_plant_mh_mt.evm,us/stage/a13c/cache/0094b943.evm,cache/0094b943.evm
+assets/evm/us/org_plant_hair_mh_stage_a13c.evm,us/stage/a13c/cache/0087470d.evm,cache/0087470d.evm
 assets/cv2/us/vr2_goalpost.cv2
 assets/cv2/us/gps_hand_def.cv2
 assets/cv2/us/gps_hand5.cv2

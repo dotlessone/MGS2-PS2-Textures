@@ -81,11 +81,11 @@ assets/kms/us/demo_kwt_uni_mount.kms
 assets/kms/us/demo_kwt_sht_stage_d080p08.kms
 assets/kms/us/demo_dummy.kms
 assets/kms/us/amg_def.kms
-assets/evm/us/sol_snakearm_2_mh_mt.evm
-assets/evm/us/sol_gantai_mh_mt.evm
-assets/evm/us/sol_def_addhand_mh_mt_stage_d070px9.evm
-assets/evm/us/rai_def_mh_mt.evm
-assets/evm/us/rai_def_addhand_mh_mt.evm
+assets/evm/us/sol_snakearm_2_mh_mt.evm,us/stage/d080p08/cache/0048565b.evm,cache/0048565b.evm
+assets/evm/us/sol_gantai_mh_mt.evm,us/stage/d080p08/cache/00dad5df.evm,cache/00dad5df.evm
+assets/evm/us/sol_def_addhand_mh_mt_stage_d070px9.evm,us/stage/d080p08/cache/00eaa621.evm,cache/00eaa621.evm
+assets/evm/us/rai_def_mh_mt.evm,us/stage/d080p08/cache/00541e89.evm,cache/00541e89.evm
+assets/evm/us/rai_def_addhand_mh_mt.evm,us/stage/d080p08/cache/00dea60a.evm,cache/00dea60a.evm
 assets/cv2/us/w61a_flag.cv2
 assets/cv2/us/sna_skl2.cv2
 assets/gcx/eu/scenerio_stage_d080p08.gcx

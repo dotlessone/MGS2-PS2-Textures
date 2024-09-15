@@ -136,7 +136,7 @@ assets/kms/us/demo_rev_scope_stage_d04t.kms
 assets/kms/us/demo_dummy.kms
 assets/kms/us/aks_sp_stage_a02a.kms
 assets/kms/us/aks_amo_stage_d04t.kms
-assets/evm/us/sna_def_mh.evm
+assets/evm/us/sna_def_mh.evm,us/stage/d04t/cache/0055aaa5.evm,cache/0055aaa5.evm
 assets/cv2/us/w00_vw6.cv2
 assets/cv2/us/w00_vw5.cv2
 assets/cv2/us/w00_vw4.cv2
@@ -148,7 +148,7 @@ assets/cv2/us/sna_skl3_stage_a00b.cv2
 assets/cv2/us/fastlope03.cv2
 assets/cv2/us/fastlope02.cv2
 assets/cv2/us/fastlope01.cv2
-assets/anm/us/fastlope03.anm
-assets/anm/us/fastlope02.anm
-assets/anm/us/fastlope01.anm
+assets/anm/us/fastlope03.anm,us/stage/d04t/cache/004e501f.anm,cache/004e501f.anm
+assets/anm/us/fastlope02.anm,us/stage/d04t/cache/004e501e.anm,cache/004e501e.anm
+assets/anm/us/fastlope01.anm,us/stage/d04t/cache/004e501d.anm,cache/004e501d.anm
 assets/gcx/eu/scenerio_stage_d04t.gcx

@@ -287,9 +287,9 @@ assets/kms/us/86_58_88_number.kms
 assets/kms/us/37_37_37_number.kms
 assets/kms/us/35_25_37_number.kms
 assets/kms/us/23_42_84_number.kms
-assets/evm/us/w24c0_flag_mh.evm
-assets/evm/us/hos_femaleb_sk_mh_mt.evm
-assets/evm/us/hos_femalea_sk_mh.evm
+assets/evm/us/w24c0_flag_mh.evm,us/stage/w24c/cache/00dfa642.evm,cache/00dfa642.evm
+assets/evm/us/hos_femaleb_sk_mh_mt.evm,us/stage/w24c/cache/009347b9.evm,cache/009347b9.evm
+assets/evm/us/hos_femalea_sk_mh.evm,us/stage/w24c/cache/007b4ae3.evm,cache/007b4ae3.evm
 assets/cv2/us/gbs_hand_def_stage_a24a.cv2
 assets/cv2/us/gbs_hand5_stage_a24a.cv2
 assets/cv2/us/gbs_hand4_stage_a24a.cv2

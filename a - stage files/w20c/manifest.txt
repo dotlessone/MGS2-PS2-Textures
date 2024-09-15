@@ -192,9 +192,9 @@ assets/kms/us/ak_sp_label_stage_a03b.kms
 assets/kms/us/ak_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_stage_a03b.kms
-assets/far/us/fat_boss.far
-assets/evm/us/fat_nonc_dead_mh_mt_stage_w20c.evm
-assets/evm/us/fat_def_mh_mt.evm
+assets/far/us/fat_boss.far,us/stage/w20c/cache/00261401.far,cache/00261401.far
+assets/evm/us/fat_nonc_dead_mh_mt_stage_w20c.evm,us/stage/w20c/cache/00f755f7.evm,cache/00f755f7.evm
+assets/evm/us/fat_def_mh_mt.evm,us/stage/w20c/cache/00535eb5.evm,cache/00535eb5.evm
 assets/cv2/us/w20b_horo.cv2
 assets/cv2/us/fat_def_sh_mt.cv2
 assets/gcx/eu/scenerio_stage_w20c.gcx

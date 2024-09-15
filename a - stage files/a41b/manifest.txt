@@ -89,9 +89,9 @@ assets/kms/us/dr_lamp_cor_off.kms
 assets/kms/us/dr_lamp_cel_off.kms
 assets/kms/us/demo_svc_plant_pose_stage_a14a.kms
 assets/kms/us/a41a_pos01.kms
-assets/evm/us/vmp_parts_vkpa_mh.evm
-assets/evm/us/rev_plant_mh_mt.evm
-assets/evm/us/rai_hair_mh_mt_stage_a41b.evm
-assets/evm/us/hos_femaleb_sk_mh_mt.evm
+assets/evm/us/vmp_parts_vkpa_mh.evm,us/stage/a41b/cache/00edcc40.evm,cache/00edcc40.evm
+assets/evm/us/rev_plant_mh_mt.evm,us/stage/a41b/cache/003ba944.evm,cache/003ba944.evm
+assets/evm/us/rai_hair_mh_mt_stage_a41b.evm,us/stage/a41b/cache/00543563.evm,cache/00543563.evm
+assets/evm/us/hos_femaleb_sk_mh_mt.evm,us/stage/a41b/cache/009347b9.evm,cache/009347b9.evm
 assets/cv2/us/vr2_goalpost.cv2
 assets/gcx/eu/scenerio_stage_a41a.gcx

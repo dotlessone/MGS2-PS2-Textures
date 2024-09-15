@@ -188,10 +188,10 @@ assets/kms/us/ak_sp_label_stage_a03b.kms
 assets/kms/us/ak_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_stage_a03b.kms
-assets/evm/us/sol_snakearm_2_mh_mt.evm
-assets/evm/us/sol_gantai_mh_mt.evm
-assets/evm/us/sol_def_mh_mt.evm
-assets/evm/us/rai_def_mh_mt.evm
+assets/evm/us/sol_snakearm_2_mh_mt.evm,us/stage/a46a/cache/0048565b.evm,cache/0048565b.evm
+assets/evm/us/sol_gantai_mh_mt.evm,us/stage/a46a/cache/00dad5df.evm,cache/00dad5df.evm
+assets/evm/us/sol_def_mh_mt.evm,us/stage/a46a/cache/00543595.evm,cache/00543595.evm
+assets/evm/us/rai_def_mh_mt.evm,us/stage/a46a/cache/00541e89.evm,cache/00541e89.evm
 assets/cv2/us/vr2_goalpost.cv2
 assets/cv2/us/pdray_def_mt.cv2
 assets/gcx/eu/scenerio_stage_a46a.gcx

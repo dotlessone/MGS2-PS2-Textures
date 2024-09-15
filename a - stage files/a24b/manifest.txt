@@ -264,10 +264,10 @@ assets/kms/us/abk.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_stage_a03b.kms
 assets/kms/us/a24b_a24c.kms
-assets/evm/us/sna_glass_mh_mt.evm
-assets/evm/us/sna_glass_black_mh_mt.evm
-assets/evm/us/sna_def_mh_stage_a24b.evm
-assets/evm/us/sna_def_addhand_mh_mt.evm
+assets/evm/us/sna_glass_mh_mt.evm,us/stage/a24b/cache/008c80e0.evm,cache/008c80e0.evm
+assets/evm/us/sna_glass_black_mh_mt.evm,us/stage/a24b/cache/00a77090.evm,cache/00a77090.evm
+assets/evm/us/sna_def_mh_stage_a24b.evm,us/stage/a24b/cache/0055aaa5.evm,cache/0055aaa5.evm
+assets/evm/us/sna_def_addhand_mh_mt.evm,us/stage/a24b/cache/003ea621.evm,cache/003ea621.evm
 assets/cv2/us/vr2_goalpost.cv2
 assets/cv2/us/gbs_hand_def_stage_a24a.cv2
 assets/cv2/us/gbs_hand5_stage_a24a.cv2

@@ -115,7 +115,7 @@ assets/kms/us/cbx_a_futa2_mt.kms
 assets/kms/us/cbx_a_futa1_mt.kms
 assets/kms/us/brk_scr07_full_stage_r_plt_s_r.kms
 assets/kms/us/aks_amo_stage_r_plt0_r.kms
-assets/evm/us/snh_def_mh_mt.evm
+assets/evm/us/snh_def_mh_mt.evm,us/stage/r_sna_b/resident/00543505.evm,resident/00543505.evm
 assets/cv2/us/sna_def_sh.cv2
 assets/cv2/us/sna_def.cv2
 assets/cv2/us/cbx_a_mt.cv2

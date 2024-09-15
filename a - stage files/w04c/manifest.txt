@@ -104,5 +104,5 @@ assets/kms/us/cbx_label_stage_a00c.kms
 assets/kms/us/box2_ibox_sh_stage_a00c.kms
 assets/kms/us/box2_ibox_stage_a00c.kms
 assets/kms/us/a_p_sensor_ibox.kms
-assets/evm/us/sco_def.evm
+assets/evm/us/sco_def.evm,us/stage/w04c/cache/00213a93.evm,cache/00213a93.evm
 assets/gcx/eu/scenerio_stage_w04c.gcx

@@ -112,7 +112,7 @@ assets/kms/us/aks_amo_label_stage_w25c.kms
 assets/kms/us/aks.kms
 assets/kms/us/abk_amo.kms
 assets/kms/us/abk.kms
-assets/evm/us/rai_def_mh_mt_stage_d010p01.evm
+assets/evm/us/rai_def_mh_mt_stage_d010p01.evm,us/stage/w25c/cache/00541e89.evm,cache/00541e89.evm
 assets/cv2/us/gps_hand_def.cv2
 assets/cv2/us/gps_hand5.cv2
 assets/cv2/us/gps_hand4.cv2

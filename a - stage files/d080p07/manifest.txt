@@ -48,5 +48,5 @@ assets/kms/us/rai_onemesh_mt.kms
 assets/kms/us/for_onemesh_mt.kms
 assets/kms/us/demo_w10a_wood.kms
 assets/kms/us/amg_def.kms
-assets/evm/us/rai_def_mh_mt_stage_d010p01.evm
+assets/evm/us/rai_def_mh_mt_stage_d010p01.evm,us/stage/d080p07/cache/00541e89.evm,cache/00541e89.evm
 assets/gcx/eu/scenerio_stage_d080p07.gcx

@@ -170,10 +170,10 @@ assets/kms/us/aks_sp.kms
 assets/kms/us/aks.kms
 assets/kms/us/abk_amo.kms
 assets/kms/us/abk.kms
-assets/evm/us/w24c0_flag_mh.evm
-assets/evm/us/sol_def_mant_mh_mt.evm
-assets/evm/us/hos_femaleb_sk_mh_mt.evm
-assets/evm/us/hos_femalea_sk_mh.evm
+assets/evm/us/w24c0_flag_mh.evm,us/stage/w24e/cache/00dfa642.evm,cache/00dfa642.evm
+assets/evm/us/sol_def_mant_mh_mt.evm,us/stage/w24e/cache/00a76edb.evm,cache/00a76edb.evm
+assets/evm/us/hos_femaleb_sk_mh_mt.evm,us/stage/w24e/cache/009347b9.evm,cache/009347b9.evm
+assets/evm/us/hos_femalea_sk_mh.evm,us/stage/w24e/cache/007b4ae3.evm,cache/007b4ae3.evm
 assets/cv2/us/gbs_hand_def_stage_a24a.cv2
 assets/cv2/us/gbs_hand5_stage_a24a.cv2
 assets/cv2/us/gbs_hand4_stage_a24a.cv2

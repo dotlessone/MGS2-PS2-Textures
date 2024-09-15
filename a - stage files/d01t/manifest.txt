@@ -145,9 +145,9 @@ assets/kms/us/crg_hlst.kms
 assets/kms/us/aks_sp_stage_a02a.kms
 assets/kms/us/aks_amo.kms
 assets/kms/us/aks_stage_a02a.kms
-assets/evm/us/tnr_coat_mlch.evm
-assets/evm/us/sna_def_mh.evm
-assets/evm/us/crg_def_mh_mt.evm
+assets/evm/us/tnr_coat_mlch.evm,us/stage/d01t/cache/007646ca.evm,cache/007646ca.evm
+assets/evm/us/sna_def_mh.evm,us/stage/d01t/cache/0055aaa5.evm,cache/0055aaa5.evm
+assets/evm/us/crg_def_mh_mt.evm,us/stage/d01t/cache/00533701.evm,cache/00533701.evm
 assets/cv2/us/w00_vw6.cv2
 assets/cv2/us/w00_vw5.cv2
 assets/cv2/us/w00_vw4.cv2

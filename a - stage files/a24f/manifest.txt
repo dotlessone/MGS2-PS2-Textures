@@ -114,7 +114,7 @@ assets/kms/us/86_58_88_number.kms
 assets/kms/us/37_37_37_number.kms
 assets/kms/us/35_25_37_number.kms
 assets/kms/us/23_42_84_number.kms
-assets/evm/us/w24c0_flag_mh.evm
-assets/evm/us/sco_standing.evm
+assets/evm/us/w24c0_flag_mh.evm,us/stage/a24f/cache/00dfa642.evm,cache/00dfa642.evm
+assets/evm/us/sco_standing.evm,us/stage/a24f/cache/0056a30a.evm,cache/0056a30a.evm
 assets/cv2/us/vr2_goalpost.cv2
 assets/gcx/eu/scenerio_stage_a24c.gcx

@@ -244,7 +244,7 @@ assets/kms/us/abk_amo.kms
 assets/kms/us/abk.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_stage_a03b.kms
-assets/evm/us/par_def_mh.evm
+assets/evm/us/par_def_mh.evm,us/stage/w24d/cache/00e932a4.evm,cache/00e932a4.evm
 assets/cv2/us/w24d2_glass6_bro.cv2
 assets/cv2/us/w24d2_glass5_bro.cv2
 assets/cv2/us/w24d2_glass4_bro.cv2

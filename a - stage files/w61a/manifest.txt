@@ -100,8 +100,8 @@ assets/kms/us/box2_ibox_stage_a61a.kms
 assets/kms/us/bam_label_stage_a61a.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a61a.kms
 assets/kms/us/a_p_sensor_ibox_stage_a61a.kms
-assets/evm/us/sol_snakearm_mh_mt.evm
-assets/evm/us/sol_def_face_mh_mt.evm
+assets/evm/us/sol_snakearm_mh_mt.evm,us/stage/w61a/cache/00c61aca.evm,cache/00c61aca.evm
+assets/evm/us/sol_def_face_mh_mt.evm,us/stage/w61a/cache/00c7131a.evm,cache/00c7131a.evm
 assets/cv2/us/w61a_flag.cv2
 assets/cv2/us/sol_vanim_1_sh_mt.cv2
 assets/cv2/us/sol_vanim_0_sh_mt.cv2

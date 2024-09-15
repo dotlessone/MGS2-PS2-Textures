@@ -212,8 +212,8 @@ assets/kms/us/ak_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_stage_a03b.kms
 assets/kms/us/a42a_dummy.kms
-assets/evm/us/rai_dogtag_naked_mh_stage_a43a.evm
-assets/evm/us/rah_naked_mh_mt.evm
+assets/evm/us/rai_dogtag_naked_mh_stage_a43a.evm,us/stage/a43a/cache/007f4ac9.evm,cache/007f4ac9.evm
+assets/evm/us/rah_naked_mh_mt.evm,us/stage/a43a/cache/00dc7d3a.evm,cache/00dc7d3a.evm
 assets/cv2/us/vr2_goalpost.cv2
 assets/cv2/us/rai_naked_sh.cv2
 assets/cv2/us/rai_naked.cv2

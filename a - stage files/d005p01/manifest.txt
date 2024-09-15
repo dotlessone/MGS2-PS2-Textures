@@ -102,7 +102,7 @@ assets/kms/us/kmo_hane.kms
 assets/kms/us/kmo_def.kms
 assets/kms/us/elv_1.kms
 assets/kms/us/demo_dummy.kms
-assets/evm/us/rai_hair_diver_mh_mt_stage_d005p01.evm
-assets/evm/us/rai_diver_mh_mt.evm
-assets/evm/us/rai_def_mh_mt_stage_d005p01.evm
+assets/evm/us/rai_hair_diver_mh_mt_stage_d005p01.evm,us/stage/d005p01/cache/0049a30a.evm,cache/0049a30a.evm
+assets/evm/us/rai_diver_mh_mt.evm,us/stage/d005p01/cache/00e79093.evm,cache/00e79093.evm
+assets/evm/us/rai_def_mh_mt_stage_d005p01.evm,us/stage/d005p01/cache/00541e89.evm,cache/00541e89.evm
 assets/gcx/eu/scenerio_stage_d005p01.gcx

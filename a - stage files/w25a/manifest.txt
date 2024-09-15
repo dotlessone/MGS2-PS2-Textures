@@ -239,7 +239,7 @@ assets/kms/us/ak_sp_label_stage_a03b.kms
 assets/kms/us/ak_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_stage_a03b.kms
-assets/evm/us/rai_def_mh_mt.evm
+assets/evm/us/rai_def_mh_mt.evm,us/stage/w25a/cache/00541e89.evm,cache/00541e89.evm
 assets/cv2/us/w25a_flag.cv2
 assets/cv2/us/sna_skl.cv2
 assets/gcx/eu/scenerio_stage_w25a.gcx

@@ -56,9 +56,9 @@ assets/kms/us/null.kms
 assets/kms/us/gbs_def_stage_a12a.kms
 assets/kms/us/demo_dummy.kms
 assets/kms/us/cbx_a_frg1_cm.kms
-assets/evm/us/sna_def_mh.evm
-assets/evm/us/rev_liq_addhand_mh_mt_stage_d12t4.evm
-assets/evm/us/rev_hair_liq_mh_stage_d12t4.evm
+assets/evm/us/sna_def_mh.evm,us/stage/d13t/cache/0055aaa5.evm,cache/0055aaa5.evm
+assets/evm/us/rev_liq_addhand_mh_mt_stage_d12t4.evm,us/stage/d13t/cache/00d2ae2f.evm,cache/00d2ae2f.evm
+assets/evm/us/rev_hair_liq_mh_stage_d12t4.evm,us/stage/d13t/cache/00a843f0.evm,cache/00a843f0.evm
 assets/cv2/us/sna_skl3.cv2
 assets/cv2/us/ray_def_mt.cv2
 assets/gcx/eu/scenerio_stage_d13t.gcx

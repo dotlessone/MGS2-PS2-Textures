@@ -188,7 +188,7 @@ assets/kms/us/c4_kaitai_b1_frost_cm.kms
 assets/kms/us/c4_kaitai_b1_frost_stage_d001p02.kms
 assets/kms/us/c4_kaitai_b1_stage_d001p02.kms
 assets/kms/us/awa_model2.kms
-assets/evm/us/vmp_coat_mh_mt_stage_d012p01.evm
+assets/evm/us/vmp_coat_mh_mt_stage_d012p01.evm,us/stage/w11b/cache/00cab962.evm,cache/00cab962.evm
 assets/cv2/us/w11c2_oilspot1.cv2
 assets/cv2/us/w11c2_forklift_fwheel.cv2
 assets/cv2/us/w11c2_ceiling1_brk1.cv2

@@ -209,7 +209,7 @@ assets/kms/us/aks_amo_label.kms
 assets/kms/us/aks.kms
 assets/kms/us/ak_sp_label.kms
 assets/kms/us/ak_label.kms
-assets/evm/us/human_tnc_ghost.evm
+assets/evm/us/human_tnc_ghost.evm,us/stage/a03a/cache/00ee56b7.evm,cache/00ee56b7.evm
 assets/cv2/us/vr2_goalpost.cv2
 assets/cv2/us/hose_new2.cv2
 assets/cv2/us/gbs_sling.cv2

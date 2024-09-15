@@ -112,11 +112,11 @@ assets/kms/us/box2_ibox_sh_stage_a31c.kms
 assets/kms/us/box2_ibox_stage_a31c.kms
 assets/kms/us/bam_label_stage_a31c.kms
 assets/kms/us/aks_amo_label_stage_a31c.kms
-assets/far/us/ema.far
-assets/evm/us/ema_idrope_mh_mt_stage_a16a.evm
-assets/evm/us/ema_hair_swim_mh.evm
-assets/evm/us/ema_hair_mh_stage_a16a.evm
-assets/evm/us/ema_def_mh_mt.evm
+assets/far/us/ema.far,us/stage/w31f/cache/0001a201.far,cache/0001a201.far
+assets/evm/us/ema_idrope_mh_mt_stage_a16a.evm,us/stage/w31f/cache/00c04d7b.evm,cache/00c04d7b.evm
+assets/evm/us/ema_hair_swim_mh.evm,us/stage/w31f/cache/00654892.evm,cache/00654892.evm
+assets/evm/us/ema_hair_mh_stage_a16a.evm,us/stage/w31f/cache/00ce9e72.evm,cache/00ce9e72.evm
+assets/evm/us/ema_def_mh_mt.evm,us/stage/w31f/cache/00535469.evm,cache/00535469.evm
 assets/cv2/us/sna_skl3_stage_a00b.cv2
 assets/cv2/us/scr_waterline01.cv2
 assets/cv2/us/scr_kihou01.cv2

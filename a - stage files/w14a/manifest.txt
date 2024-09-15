@@ -259,8 +259,8 @@ assets/kms/us/abk_amo.kms
 assets/kms/us/abk.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_stage_a03b.kms
-assets/far/us/sna_npc.far
-assets/evm/us/iro_bandage_mh_mt_stage_w14a.evm
+assets/far/us/sna_npc.far,us/stage/w14a/cache/00416405.far,cache/00416405.far
+assets/evm/us/iro_bandage_mh_mt_stage_w14a.evm,us/stage/w14a/cache/006e9b0a.evm,cache/006e9b0a.evm
 assets/cv2/us/htc_hand_def.cv2
 assets/cv2/us/htc_hand_5.cv2
 assets/cv2/us/htc_hand_4.cv2

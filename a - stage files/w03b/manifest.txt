@@ -263,8 +263,8 @@ assets/kms/us/ak_sp_label_stage_a03b.kms
 assets/kms/us/ak_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_stage_a03b.kms
-assets/evm/us/sna_def_mh.evm
-assets/evm/us/rev_coat.evm
+assets/evm/us/sna_def_mh.evm,us/stage/w03b/cache/0055aaa5.evm,cache/0055aaa5.evm
+assets/evm/us/rev_coat.evm,us/stage/w03b/cache/0026f2c6.evm,cache/0026f2c6.evm
 assets/cv2/us/rev_parts_coat.cv2
 assets/cv2/us/hose_new2.cv2
 assets/cv2/us/gbs_sling.cv2

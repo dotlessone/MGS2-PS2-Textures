@@ -204,9 +204,9 @@ assets/kms/us/ak_sp_label_stage_a03b.kms
 assets/kms/us/ak_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_stage_a03b.kms
-assets/far/us/sna_npc.far
-assets/evm/us/sna_glass_mh_mt_stage_a45a.evm
-assets/evm/us/sna_def_mh_stage_a45a.evm
-assets/evm/us/rai_def_mh_mt.evm
+assets/far/us/sna_npc.far,us/stage/w45a/cache/00416405.far,cache/00416405.far
+assets/evm/us/sna_glass_mh_mt_stage_a45a.evm,us/stage/w45a/cache/008c80e0.evm,cache/008c80e0.evm
+assets/evm/us/sna_def_mh_stage_a45a.evm,us/stage/w45a/cache/0055aaa5.evm,cache/0055aaa5.evm
+assets/evm/us/rai_def_mh_mt.evm,us/stage/w45a/cache/00541e89.evm,cache/00541e89.evm
 assets/cv2/us/tng_high.cv2
 assets/gcx/eu/scenerio_stage_w45a.gcx

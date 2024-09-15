@@ -222,9 +222,9 @@ assets/kms/us/ak_sp_label_stage_a03b.kms
 assets/kms/us/ak_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_label_stage_a03b.kms
 assets/kms/us/a_p_sensor_ibox_stage_a03b.kms
-assets/evm/us/ptr_food_mh_mt_stage_d014p01.evm
-assets/evm/us/ptr_def_mh_mt.evm
-assets/evm/us/iro_def_mh_mt_stage_d014p01.evm
+assets/evm/us/ptr_food_mh_mt_stage_d014p01.evm,us/stage/w16a/cache/001f9663.evm,cache/001f9663.evm
+assets/evm/us/ptr_def_mh_mt.evm,us/stage/w16a/cache/0054082d.evm,cache/0054082d.evm
+assets/evm/us/iro_def_mh_mt_stage_d014p01.evm,us/stage/w16a/cache/00539721.evm,cache/00539721.evm
 assets/cv2/us/w16a2_mirror_bro.cv2
 assets/cv2/us/w16a0_glass_bro.cv2
 assets/gcx/eu/scenerio_stage_w16a.gcx
