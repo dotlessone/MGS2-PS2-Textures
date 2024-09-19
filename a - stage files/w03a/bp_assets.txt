@@ -29,10 +29,6 @@ case_test_top.bmp.png
 cau_alp_ovl.bmp.png
 chaff_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -144,8 +140,6 @@ dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
@@ -245,7 +239,6 @@ launcher_ammo_side.bmp.png
 launcher_ibox.bmp.png
 light05_msk.bmp.png
 light08_msk.bmp.png
-light10_msk.bmp.png
 light12_msk.bmp.png
 litA0_add_alp.bmp.png
 litA0b_add_alp.bmp.png
@@ -253,7 +246,6 @@ litA1_add_alp.bmp_4d053ed55a7b98b83c4ecba8517bdedb.png
 litA2_add_alp.bmp.png
 litA3_add_alp.bmp.png
 m4_alp.bmp.png
-m92_jyuukou.bmp.png
 magazine_tx2.bmp.png
 magazine_tx_alp.bmp.png
 medicine_box.bmp.png
@@ -279,7 +271,6 @@ rad_musen4.bmp.png
 rad_musen5.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -321,7 +312,6 @@ smoke_msk.bmp.png
 socom_alp_ovl.bmp.png
 socom_f_msk.bmp.png
 splash03_alp.bmp.png
-splash05_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
@@ -357,7 +347,6 @@ tnc_spe_ovl_mod1120_alp_emap.bmp.png
 tnr_shoese.bmp.png
 tnr_shoese_re.bmp.png
 tnr_shoese_re_ovl_sub_alp.bmp.png
-usp_emb.bmp.png
 w00_fog_fader_alp.bmp.png
 w01a0_dr00a.bmp.png
 w01a0_dr00b.bmp.png
@@ -680,9 +669,6 @@ w03c_wc03.bmp.png
 w03c_wc04.bmp.png
 w03c_wc04a.bmp.png
 w03c_wc05.bmp.png
-xlit04a_alp.bmp.png
-xlit04b_alp.bmp.png
-xlit05a_alp.bmp.png
 xlit05b_alp.bmp.png
 zoom_alp_ovl.bmp.png
 zzz_msk.bmp.png

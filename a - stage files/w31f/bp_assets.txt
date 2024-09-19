@@ -26,10 +26,6 @@ case_test_side.bmp.png
 cau_alp_ovl.bmp.png
 caust00_alp_add_ovl.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -49,8 +45,6 @@ dekisi_alp_ovl.bmp.png
 door_bfl00.bmp.png
 door_rail.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 ema_arm00.bmp.png
 ema_arm00.bmp.png
@@ -130,8 +124,6 @@ fire1_alp.bmp.png
 frost02_alp.bmp.png
 g_dankon_alp.bmp.png
 h_grenade_alp.bmp.png
-hamon04_add_msk.bmp.png
-hamon05_add_msk.bmp.png
 hamon09_add_alp.bmp.png
 hiyoko_karada_stamp01.bmp.png
 hiyoko_stamp01.bmp.png
@@ -149,7 +141,6 @@ ketchap00_alp.bmp.png
 ketchap_g.bmp.png
 kirari_msk.bmp.png
 light05_msk.bmp.png
-light10_msk.bmp.png
 light12_msk.bmp.png
 lv4_alp_ovl.bmp.png
 m4_alp.bmp.png
@@ -157,7 +148,6 @@ magazine_tx2.bmp.png
 magazine_tx_alp.bmp.png
 moai02.bmp.png
 mode_alp_ovl.bmp.png
-node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
 null_msk.bmp.png
@@ -186,7 +176,6 @@ ptr_tooth_u3.bmp.png
 ptr_tooth_u4.bmp.png
 qt_break_alp.bmp.png
 qt_normal_alp.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -200,8 +189,6 @@ smoke_msk.bmp.png
 sna_hi_tang01dt.bmp.png
 socom_f_msk.bmp.png
 splash03_alp.bmp.png
-splash05_alp.bmp.png
-splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 svc_bonbori.bmp.png
@@ -406,9 +393,6 @@ wtd_petbottle2_mt_01.bmp.png
 wtd_petbottle2_mt_ovl_alp_sub_01.bmp.png
 wtm2_body.bmp.png
 wtm2_pile.bmp.png
-xlit04a_alp.bmp.png
-xlit04b_alp.bmp.png
-xlit05a_alp.bmp.png
 xlit05b_alp.bmp.png
 zoom_alp_ovl.bmp.png
 zzz_msk.bmp.png

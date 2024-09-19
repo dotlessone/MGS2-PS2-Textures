@@ -53,10 +53,6 @@ case_test_side.bmp.png
 cau_alp_ovl.bmp.png
 chaff_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -79,8 +75,6 @@ dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 elv1_flr1.bmp.png
 elv1_u1.bmp.png
 elv1_wall1.bmp.png
@@ -230,16 +224,13 @@ kirari_msk.bmp.png
 light03_msk.bmp.png
 light05_msk.bmp.png
 light08_msk.bmp.png
-light10_msk.bmp.png
 lsight_msk.bmp.png
-m92_jyuukou.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2.bmp.png
 mog_loc2.bmp.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
 mog_loc2_top.bmp.png
-node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
 plant_bomb2_alp_ovl.bmp.png
@@ -254,7 +245,6 @@ rad_musen3.bmp.png
 rad_musen4.bmp.png
 rad_musen5.bmp.png
 ray_eye_bonbori_alp.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -278,7 +268,6 @@ sbm_wing_01.bmp.png
 sbm_wing_side_01.bmp.png
 smoke_msk.bmp.png
 socom_f_msk.bmp.png
-splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 svc_bonbori.bmp.png

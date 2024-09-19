@@ -96,10 +96,6 @@ cau_alp_ovl.bmp.png
 cbx_b.bmp.png
 chaff_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -170,8 +166,6 @@ drlit_02_brk.bmp.png
 drlit_02a_brk.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.png
 drp_00b.bmp_b79ec594d4e58e0b4cf32b6925773e01.png
 drp_01_brk.bmp.png
@@ -301,8 +295,6 @@ gun_ibox.bmp.png
 gun_light_f.bmp.png
 gun_light_s.bmp.png
 h_grenade_alp.bmp.png
-hamon04_add_msk.bmp.png
-hamon05_add_msk.bmp.png
 hamon09_add_alp.bmp.png
 hosi_msk.bmp.png
 ibox2_tx_all_alp.bmp.png
@@ -329,16 +321,13 @@ launcher_ammo_side.bmp.png
 launcher_ibox.bmp.png
 light03_msk.bmp.png
 light05_msk.bmp.png
-light07_msk.bmp.png
 light08_msk.bmp.png
-light10_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
 lsight_msk.bmp.png
 m4_alp.bmp.png
-m92_jyuukou.bmp.png
 magazine_tx2.bmp.png
 magazine_tx_alp.bmp.png
 mark_arrow_alp_ovl.bmp.png
@@ -355,7 +344,6 @@ nametag_square_def_add_alp.bmp.png
 nametag_straw_def_add_alp.bmp.png
 nametag_triangle_def_add_alp.bmp.png
 nametag_wall_def_add_alp.bmp.png
-node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
 null_msk.bmp.png
@@ -381,7 +369,6 @@ rad_musen5.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
 ray_eye_bonbori_alp.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -395,8 +382,6 @@ rlv1a_alp_ovl.bmp.png
 s1_center_1f_alp_ovl.bmp.png
 s1_e_1f_alp_ovl.bmp.png
 s1_f_1f_alp_ovl.bmp.png
-shell-1_alp_ovl.bmp.png
-shell-2_alp_ovl.bmp.png
 shl_frg_add_ovl.bmp.png
 shuukanshi_hyoushi3.bmp.png
 shuukanshi_ura2.bmp.png
@@ -404,9 +389,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
-sky_e1_alp.bmp.png
-sky_e2_alp.bmp.png
-sky_e4_alp.bmp.png
 sky_sun_e_alp.bmp.png
 smoke_msk.bmp.png
 socom_alp_ovl.bmp.png
@@ -414,8 +396,6 @@ socom_f_msk.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
-splash05_alp.bmp.png
-splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
@@ -885,9 +865,6 @@ wrain04_add_alp_ovl.bmp.png
 wrain05_add_alp_ovl.bmp.png
 wrain06_add_alp_ovl.bmp.png
 xlit01b_msk.bmp.png
-xlit04a_alp.bmp.png
-xlit04b_alp.bmp.png
-xlit05a_alp.bmp.png
 xlit05b_alp.bmp.png
 zoom_alp_ovl.bmp.png
 zzz_msk.bmp.png

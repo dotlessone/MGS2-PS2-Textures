@@ -89,10 +89,6 @@ cbx_b.bmp.png
 cbx_c.bmp.png
 chaff_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -148,8 +144,6 @@ door_c00a.bmp.png
 drlit_01_alp_add_ovl.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 drp_00b.bmp_b79ec594d4e58e0b4cf32b6925773e01.png
 e_alp_ovl.bmp_8e27cb0e71983c0e48ae8d1f53626f8d.png
 e_shuhai_1f_alp_ovl.bmp.png
@@ -266,8 +260,6 @@ gun_light_s.bmp.png
 gun_light_s.bmp.png
 h_alp_ovl.bmp.png
 h_grenade_alp.bmp.png
-hamon04_add_msk.bmp.png
-hamon05_add_msk.bmp.png
 hamon09_add_alp.bmp.png
 hosi_msk.bmp.png
 htc_arm_uc.bmp.png
@@ -319,9 +311,7 @@ kirari_msk.bmp.png
 l_alp_ovl.bmp.png
 light03_msk.bmp.png
 light05_msk.bmp.png
-light07_msk.bmp.png
 light08_msk.bmp.png
-light10_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
 lockon_octa_add_alp.bmp.png
@@ -331,8 +321,6 @@ m4a_all.bmp.png
 m4a_gl_unit.bmp.png
 m4a_sb_s1.bmp.png
 m4grn_bul_high.bmp.png
-m4grn_emb.bmp.png
-m92_jyuukou.bmp.png
 mkrv_all.bmp.png
 mode_alp_ovl.bmp.png
 motor_body_01.bmp.png
@@ -345,7 +333,6 @@ nametag_square_def_add_alp.bmp.png
 nametag_straw_def_add_alp.bmp.png
 nametag_triangle_def_add_alp.bmp.png
 nametag_wall_def_add_alp.bmp.png
-node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
 null_msk.bmp.png
@@ -366,7 +353,6 @@ rad_musen3.bmp.png
 rad_musen4.bmp.png
 rad_musen5.bmp.png
 ray_eye_bonbori_alp.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -380,8 +366,6 @@ s1_e_1f_alp_ovl.bmp.png
 sel_sling1_alp_ovl.bmp.png
 sel_sling2_alp_ovl.bmp.png
 sel_sling3.bmp.png
-shell-1_alp_ovl.bmp.png
-shell-2_alp_ovl.bmp.png
 shl_bul1_add.bmp.png
 shl_bul2_add.bmp.png
 shl_bul3_add.bmp.png
@@ -417,16 +401,12 @@ socom_f_msk.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
-splash05_alp.bmp.png
-splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 sps_all2_msk.bmp.png
-sps_emb.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 usp_all.bmp.png
-usp_emb.bmp.png
 vr2_goal_add_alp.bmp.png
 vr2_goal_post_add_alp.bmp.png
 vr2_goalpost_add_alp.bmp.png
@@ -925,9 +905,6 @@ wrain04_add_alp_ovl.bmp.png
 wrain05_add_alp_ovl.bmp.png
 wrain06_add_alp_ovl.bmp.png
 xlit01b_msk.bmp.png
-xlit04a_alp.bmp.png
-xlit04b_alp.bmp.png
-xlit05a_alp.bmp.png
 xlit05b_alp.bmp.png
 zoom_alp_ovl.bmp.png
 zzz_msk.bmp.png

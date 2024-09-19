@@ -77,7 +77,6 @@ aks_sb_s.bmp.png
 aks_sb_s.bmp.png
 aks_selecter.bmp.png
 aks_selecter.bmp.png
-alpha03_alp_ovl.bmp.png
 alt_alp_ovl.bmp.png
 alt_b_alp_ovl.bmp.png
 ammo_case1_top.bmp.png
@@ -101,10 +100,6 @@ case_test_side.bmp.png
 cau_alp_ovl.bmp.png
 chaff_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -125,8 +120,6 @@ dankon2_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
@@ -356,9 +349,7 @@ kirari_alp_ovl.bmp.png
 kirari_msk.bmp.png
 light03_msk.bmp.png
 light05_msk.bmp.png
-light07_msk.bmp.png
 light08_msk.bmp.png
-light10_msk.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
 lsight_msk.bmp.png
@@ -367,9 +358,6 @@ m4a_all.bmp.png
 m4a_gl_unit.bmp.png
 m4a_sb_s1.bmp.png
 m4grn_bul_high.bmp.png
-m4grn_emb.bmp.png
-m92_jyuukou.bmp.png
-m92_jyuukou.bmp.png
 magazine_tx2.bmp.png
 magazine_tx_alp.bmp.png
 mecgeno1_alp_ovl.bmp.png
@@ -384,7 +372,6 @@ nametag_square_def_add_alp.bmp.png
 nametag_straw_def_add_alp.bmp.png
 nametag_triangle_def_add_alp.bmp.png
 nametag_wall_def_add_alp.bmp.png
-node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
 null_msk.bmp.png
@@ -411,16 +398,8 @@ rai_fx_ovl_mod1120_alp_emap.bmp.png
 rai_gbs_arm_ss.bmp.png
 rai_gbs_belt_leg.bmp.png
 rai_gbs_body_ss.bmp.png
-rai_gun_back.bmp.png
-rai_gun_fro.bmp.png
-rai_gun_side.bmp.png
-rai_gun_side2.bmp.png
 rai_gun_top.bmp.png
-rai_hand_01_fix.bmp.png
-rai_hand_01_fix_ovl_sub_alp.bmp.png
-rai_hand_02_fix.bmp.png
 rai_hand_02_fix_ovl_sub_alp.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -465,11 +444,9 @@ sp03a4_shd1_alp_ovl.bmp.png
 sp03a_sdw00_alp_ovl.bmp.png
 sp03a_wall_sdw00_alp_ovl.bmp.png
 splash03_alp.bmp.png
-splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 sps_all2_msk.bmp.png
-sps_emb.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 tgt_col1_rgb_sol_add_alp.bmp.png
@@ -531,7 +508,6 @@ tng_shoulder_p2.bmp.png
 tng_shoulder_p2_ovl_sub_alp.bmp.png
 tng_shoulder_p_ovl_sub_alp.bmp.png
 usp_all.bmp.png
-usp_emb.bmp.png
 vr2_chi01_alp.bmp.png
 vr2_chi02_alp.bmp.png
 vr2_chi03_alp.bmp.png

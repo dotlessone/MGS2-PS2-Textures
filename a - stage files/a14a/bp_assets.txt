@@ -108,10 +108,6 @@ case_test_top.bmp.png
 cau_alp_ovl.bmp.png
 chaff_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -149,8 +145,6 @@ door_bfl00.bmp.png
 drlit_01_alp_add_ovl.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
@@ -247,8 +241,6 @@ gun_light_f.bmp.png
 gun_light_s.bmp.png
 gun_light_s.bmp.png
 h_grenade_alp.bmp.png
-hamon04_add_msk.bmp.png
-hamon05_add_msk.bmp.png
 hosi_msk.bmp.png
 htc_arm_uc.bmp.png
 htc_arm_uc.bmp.png
@@ -308,9 +300,7 @@ launcher_ammo_side.bmp.png
 launcher_ibox.bmp.png
 light03_msk.bmp.png
 light05_msk.bmp.png
-light07_msk.bmp.png
 light08_msk.bmp.png
-light10_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
 lockon_octa_add_alp.bmp.png
@@ -325,8 +315,6 @@ m4a_s2.bmp.png
 m4a_s2.bmp.png
 m4a_sb_s1.bmp.png
 m4grn_bul_high.bmp.png
-m4grn_emb.bmp.png
-m92_jyuukou.bmp.png
 magazine_tx2.bmp.png
 magazine_tx_alp.bmp.png
 medicine_box.bmp.png
@@ -345,7 +333,6 @@ nenga.bmp.png
 node_body_fs.bmp_d819c57df00f391256bc3bf38120bad6.png
 node_elebox.bmp_b4c2568c09313c1b4aaeb57bd03443b7.png
 node_pipe_alp_ovl.bmp_d2e26dc22aa153eff8267589cff125d9.png
-node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
 plasma_msk.bmp.png
@@ -367,7 +354,6 @@ rad_musen5.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
 ray_eye_bonbori_alp.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -434,8 +420,6 @@ socom_f_msk.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
-splash05_alp.bmp.png
-splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
@@ -771,9 +755,6 @@ w25a_pp05.bmp.png
 w25a_tank00.bmp.png
 w25a_tank00a.bmp.png
 xlit01b_msk.bmp.png
-xlit04a_alp.bmp.png
-xlit04b_alp.bmp.png
-xlit05a_alp.bmp.png
 xlit05b_alp.bmp.png
 zoom_alp_ovl.bmp.png
 zzz_msk.bmp.png

@@ -81,10 +81,6 @@ cam_eyes_ovl_sub_alp.bmp.png
 cau_alp_ovl.bmp.png
 cbx_a.bmp_be89fab0e4f647837831c3734a72fc8f.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -113,8 +109,6 @@ dankon2_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 ema_arm00.bmp.png
 ema_arm_sub_alp_ovl.bmp.png
 ema_arm_t.bmp.png
@@ -225,13 +219,10 @@ kirari_alp_ovl.bmp.png
 kirari_msk.bmp.png
 light03_msk.bmp.png
 light05_msk.bmp.png
-light07_msk.bmp.png
 light08_msk.bmp.png
-light10_msk.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
 lsight_msk.bmp.png
-m92_jyuukou.bmp.png
 mode_alp_ovl.bmp.png
 mrk_hlst000.bmp.png
 mrl_a_ovl_mod1120_alp_emap.bmp.png
@@ -270,7 +261,6 @@ mrl_p_ovl_mod1120_alp_emap.bmp.png
 mrl_tatoo.bmp.png
 mrl_tatoo_sub_ovl_alp.bmp.png
 mrl_waist_mag.bmp.png
-mrl_waist_pack.bmp.png
 mrl_wrist.bmp.png
 nametag_cube_def_add_alp.bmp.png
 nametag_gbs1_def_add_alp.bmp.png
@@ -280,7 +270,6 @@ nametag_square_def_add_alp.bmp.png
 nametag_straw_def_add_alp.bmp.png
 nametag_triangle_def_add_alp.bmp.png
 nametag_wall_def_add_alp.bmp.png
-node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
 orp_e_ovl_mod1120_alp_emap.bmp.png
@@ -310,7 +299,6 @@ rar_wan.bmp.png
 rar_wan_out.bmp.png
 rar_wari.bmp.png
 rar_yakib_alp_ovl.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png

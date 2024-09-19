@@ -107,10 +107,6 @@ chair02_pipe.bmp_0b475423fac278c1a2f428acbd23acc2.png
 chair02_pipekim.bmp.png
 chair_magnet.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -150,8 +146,6 @@ dogtag_tx_alp.bmp.png
 door_bfl00.bmp.png
 door_bfl00.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
@@ -347,13 +341,11 @@ launch_rabel_alp_ovl.bmp.png
 launcher_ammo_side.bmp.png
 launcher_ibox.bmp.png
 light05_msk.bmp.png
-light10_msk.bmp.png
 light12_msk.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
 lsight_msk.bmp.png
 m4_alp.bmp.png
-m92_jyuukou.bmp.png
 magazine_tx2.bmp.png
 magazine_tx_alp.bmp.png
 mark_warning_alp_ovl.bmp_b02569d9d2fe228c695d6e54a1f86d70.png
@@ -400,7 +392,6 @@ rad_musen4.bmp.png
 rad_musen5.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -452,9 +443,7 @@ socom_alp_ovl.bmp.png
 socom_f_msk.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
-splash05_alp.bmp.png
 sps_all2_msk.bmp.png
-sps_emb.bmp.png
 stg_rabel_alp_ovl.bmp.png
 suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
@@ -462,7 +451,6 @@ test_lit.bmp.png
 test_lit1_add_alp.bmp_318341ad48ae8cf5060d706dfcae454f.png
 test_rabel_alp_ovl.bmp.png
 usp_all.bmp.png
-usp_emb.bmp.png
 vr2_goal_add_alp.bmp.png
 vr2_goal_post_add_alp.bmp.png
 vr2_goalpost_add_alp.bmp.png
@@ -684,9 +672,6 @@ w24c_sptlit00b.bmp.png
 w24c_sptlit00c.bmp.png
 wc_alp_ovl.bmp.png
 xlit01b_msk.bmp.png
-xlit04a_alp.bmp.png
-xlit04b_alp.bmp.png
-xlit05a_alp.bmp.png
 xlit05b_alp.bmp.png
 xlit24a_alp.bmp.png
 xlit24b_alp.bmp.png

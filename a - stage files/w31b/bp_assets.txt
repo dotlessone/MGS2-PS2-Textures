@@ -37,10 +37,6 @@ case_test_top.bmp.png
 cau_alp_ovl.bmp.png
 chaff_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -72,8 +68,6 @@ dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
 door_bfl00.bmp.png
 door_rail.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 elv2_rflig02_add_alp_ovl.bmp.png
 elv_2_ent.bmp.png
@@ -169,8 +163,6 @@ gogle_ibox.bmp.png
 gogle_rabel_alp_ovl.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
-hamon04_add_msk.bmp.png
-hamon05_add_msk.bmp.png
 hamon09_add_alp.bmp.png
 hiyoko_karada_stamp01.bmp.png
 hiyoko_stamp01.bmp.png
@@ -200,7 +192,6 @@ launch_rabel_alp_ovl.bmp.png
 launcher_ammo_side.bmp.png
 launcher_ibox.bmp.png
 light05_msk.bmp.png
-light10_msk.bmp.png
 light12_msk.bmp.png
 lv4_alp_ovl.bmp.png
 m4_alp.bmp.png
@@ -211,7 +202,6 @@ medicine_rabel_alp_ovl.bmp.png
 moai02.bmp.png
 mode_alp_ovl.bmp.png
 node_areaname_alp_ovl.bmp.png
-node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
@@ -279,7 +269,6 @@ rabel_alp_ovl.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
 ray_add_alp.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -299,7 +288,6 @@ sna_hi_tang01dt.bmp.png
 sna_hi_tang01dt.bmp.png
 socom_alp_ovl.bmp.png
 socom_f_msk.bmp.png
-splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
@@ -503,9 +491,6 @@ wtd_petbottle2_mt_01.bmp.png
 wtd_petbottle2_mt_ovl_alp_sub_01.bmp.png
 wtm2_body.bmp.png
 wtm2_pile.bmp.png
-xlit04a_alp.bmp.png
-xlit04b_alp.bmp.png
-xlit05a_alp.bmp.png
 xlit05b_alp.bmp.png
 zoom_alp_ovl.bmp.png
 zzz_msk.bmp.png

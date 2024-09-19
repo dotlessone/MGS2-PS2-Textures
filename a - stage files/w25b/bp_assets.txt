@@ -35,10 +35,6 @@ case_test_top.bmp.png
 cau_alp_ovl.bmp.png
 chaff_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -104,8 +100,6 @@ drlit_01_alp_add_ovl.bmp.png
 drlit_02_brk.bmp.png
 drlit_02a_brk.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 drp_00b.bmp_b79ec594d4e58e0b4cf32b6925773e01.png
 drp_00b.bmp_b79ec594d4e58e0b4cf32b6925773e01.png
 drp_00b_brk.bmp.png
@@ -270,10 +264,8 @@ launcher_ammo_side.bmp.png
 launcher_ibox.bmp.png
 lg_renraku_alp_ovl.bmp.png
 light05_msk.bmp.png
-light10_msk.bmp.png
 lsight_msk.bmp.png
 m4_alp.bmp.png
-m92_jyuukou.bmp.png
 magazine_tx2.bmp.png
 magazine_tx_alp.bmp.png
 medicine_box.bmp.png
@@ -300,7 +292,6 @@ rad_musen5.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
 ray_eye_bonbori_alp.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -313,10 +304,6 @@ ripple02_alp.bmp.png
 rlv3_alp_ovl.bmp.png
 s1_d_1f_alp_ovl.bmp.png
 s2_l_1f_alp_ovl.bmp.png
-shell-1_alp_ovl.bmp.png
-shell-1_alp_ovl.bmp.png
-shell-2_alp_ovl.bmp.png
-shell-2_alp_ovl.bmp.png
 shl_frg_add_ovl.bmp.png
 shuukanshi_hyoushi3.bmp.png
 shuukanshi_ura2.bmp.png
@@ -327,7 +314,6 @@ sky_sun_d_alp.bmp.png
 smoke_msk.bmp.png
 socom_alp_ovl.bmp.png
 socom_f_msk.bmp.png
-splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png

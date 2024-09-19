@@ -24,10 +24,6 @@ case_test_side.bmp.png
 cau_alp_ovl.bmp.png
 chaff_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -46,8 +42,6 @@ dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
@@ -69,7 +63,6 @@ kirari_msk.bmp.png
 leg.bmp.png
 leg.bmp.png
 light05_msk.bmp.png
-light10_msk.bmp.png
 m4_alp.bmp.png
 m4a_all.bmp.png
 m4a_gl_unit.bmp.png
@@ -88,8 +81,6 @@ pdray_foot_s.bmp.png
 powder02_alp.bmp.png
 qt_break_alp.bmp.png
 qt_normal_alp.bmp.png
-rai_gun_fro.bmp.png
-rai_gun_side.bmp.png
 rai_gun_top.bmp.png
 ray_arm_t1.bmp.png
 ray_arm_u1.bmp.png
@@ -130,7 +121,6 @@ ray_thigh_s1.bmp.png
 ray_thigh_t1.bmp.png
 ray_waist_b1x.bmp.png
 ray_waist_s1.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -152,10 +142,8 @@ rev_hand1.bmp.png
 rev_hand2.bmp.png
 rev_kanagu.bmp.png
 rev_leg_ss.bmp.png
-rev_saapack.bmp.png
 rev_spur1_ovl_alp.bmp.png
 rev_tama.bmp.png
-rev_tama_top.bmp.png
 rev_toe.bmp.png
 rifle_ibox.bmp.png
 s_01_sub_ovl.bmp.png
@@ -214,12 +202,7 @@ sna_hi_eye01dt.bmp_c0784f99238a539837ac94a145e6ffbf.png
 sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_tang01dt.bmp.png
-sna_hi_teeth_d1.bmp.png
-sna_hi_teeth_d2.bmp.png
 sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_d4.bmp.png
-sna_hi_teeth_u1.bmp.png
-sna_hi_teeth_u2.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
 socom_f_msk.bmp.png

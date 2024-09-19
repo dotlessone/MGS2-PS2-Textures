@@ -32,10 +32,6 @@ case_test_side.bmp.png
 cau_alp_ovl.bmp.png
 chaff_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -56,8 +52,6 @@ dog_tag2.bmp.png
 dogtag_sh_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 elv1_flr1.bmp.png
 elv1_u1.bmp.png
 elv1_wall1.bmp.png
@@ -109,8 +103,6 @@ gas_dai02.bmp.png
 gas_dai02b.bmp.png
 gas_dai02c.bmp.png
 gbs_ak_sling2.bmp.png
-hamon04_add_msk.bmp.png
-hamon05_add_msk.bmp.png
 hamon09_add_alp.bmp.png
 hnm_death_00_ovl_alp.bmp.png
 hnm_def01.bmp.png
@@ -142,9 +134,7 @@ ketchap_g.bmp.png
 kirari_msk.bmp.png
 light03_msk.bmp.png
 light05_msk.bmp.png
-light07_msk.bmp.png
 light08_msk.bmp.png
-light10_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
 lsight_msk.bmp.png
@@ -154,7 +144,6 @@ mog_loc2.bmp.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
 mog_loc2_top.bmp.png
-node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
 plant_bomb2_alp_ovl.bmp.png
@@ -167,7 +156,6 @@ powfog03_add.bmp.png
 qt_break_alp.bmp.png
 qt_normal_alp.bmp.png
 ray_eye_bonbori_alp.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -201,8 +189,6 @@ socom_f_msk.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
-splash05_alp.bmp.png
-splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 sun_alp.bmp.png
@@ -522,9 +508,6 @@ wrain04_add_alp_ovl.bmp.png
 wrain05_add_alp_ovl.bmp.png
 wrain06_add_alp_ovl.bmp.png
 xlit01b_msk.bmp.png
-xlit04a_alp.bmp.png
-xlit04b_alp.bmp.png
-xlit05a_alp.bmp.png
 xlit05b_alp.bmp.png
 zoom_alp_ovl.bmp.png
 zzz_msk.bmp.png

@@ -100,10 +100,6 @@ cfr_sb_all.bmp.png
 cfr_trp_f2.bmp.png
 cfr_wire_alp.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -123,8 +119,6 @@ dankon2_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
@@ -230,14 +224,11 @@ kirari_msk.bmp.png
 light03_msk.bmp.png
 light05_msk.bmp.png
 light08_msk.bmp.png
-light10_msk.bmp.png
 light12_msk.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
 lsight_msk.bmp.png
 m4_alp.bmp.png
-m92_jyuukou.bmp.png
-m92_jyuukou.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2.bmp.png
 mog_loc2.bmp.png
@@ -273,7 +264,6 @@ rad_musen2.bmp.png
 rad_musen3.bmp.png
 rad_musen4.bmp.png
 rad_musen5.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -303,10 +293,8 @@ shl_s_alp.bmp.png
 smoke_msk.bmp.png
 socom_f_msk.bmp.png
 sps_all2_msk.bmp.png
-sps_emb.bmp.png
 svc_bonbori.bmp.png
 tnc_fl.bmp.png
-usp_emb.bmp.png
 val_amo1.bmp.png
 val_amo2k.bmp.png
 val_amo3k.bmp.png
@@ -371,7 +359,6 @@ vr2_noise_c1_alp.bmp.png
 vr2_noise_c2_alp.bmp.png
 w00_fog_fader_alp.bmp.png
 w00ak_crps_saku_msk.bmp_50b2d5d61891091657d01c88babeca5b.png
-w00ak_crps_tsr1.bmp_3d24cf44976efdff0e00afe3cfe81bd3.png
 w00ak_crps_tsr2.bmp_d1a68e5584d236c2d3f9882383c6e348.png
 w01a13_control_panel0.bmp.png
 w01a13_door_rail.bmp.png
@@ -386,10 +373,6 @@ w01a13_wall_etc.bmp.png
 w01a13_wall_hole_alp.bmp.png
 w01a13_wall_step.bmp.png
 w01a_sdw2_sub.bmp.png
-w01alc_gmen3.bmp.png
-w01alc_tes1.bmp.png
-w01alc_tes2.bmp.png
-w01alc_tes3.bmp.png
 w01d_soko_flour_2.bmp.png
 w01d_soko_flour_new.bmp.png
 w01f_b1stp00.bmp.png
@@ -571,8 +554,6 @@ w02_yukaf_s2.bmp.png
 w02a_chain_alp.bmp.png
 w02a_door.bmp.png
 w02a_door.bmp.png
-w02a_pos01.bmp.png
-w02a_pos02.bmp.png
 w02a_suimitu_dr.bmp.png
 w02a_suimitu_handle.bmp.png
 w02a_yuka_s_alp.bmp.png
@@ -583,9 +564,6 @@ w03a_w04a.bmp.png
 w03b_w02c.bmp.png
 w04a3_bou_debug.bmp.png
 xlit01b_msk.bmp.png
-xlit04a_alp.bmp.png
-xlit04b_alp.bmp.png
-xlit05a_alp.bmp.png
 xlit05b_alp.bmp.png
 zoom_alp_ovl.bmp.png
 zzz_msk.bmp.png

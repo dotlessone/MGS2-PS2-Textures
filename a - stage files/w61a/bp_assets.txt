@@ -2,7 +2,6 @@ GW_neck.bmp.png
 a_p_sensor_alp.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-alpha03_alp_ovl.bmp.png
 alt_alp_ovl.bmp.png
 alt_b_alp_ovl.bmp.png
 amg_main1.bmp.png
@@ -27,10 +26,6 @@ call_alp_ovl.bmp.png
 case_dr.bmp.png
 cau_alp_ovl.bmp.png
 chi01_alp.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
-chi01_msk.bmp.png
 chi02_alp.bmp.png
 chi02_msk.bmp.png
 chi03_alp.bmp.png
@@ -57,8 +52,6 @@ dog_tag.bmp.png
 dog_tag2.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
-drop01_msk.bmp.png
-drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 eva_alp_ovl.bmp.png
 federal_alp_ovl.bmp.png
@@ -115,8 +108,6 @@ ibox_all3.bmp.png
 ibox_all4.bmp.png
 ibox_tx_all_alp.bmp_791e610c4fcf41bf273b86f3bef405c7.png
 jam_alp_ovl.bmp.png
-jam_hi_tooth_d2_dt.bmp.png
-jam_hi_tooth_d3_dt.bmp.png
 k100.bmp_054638f0c3d9437b10ac3ca959481112.png
 k100.bmp_054638f0c3d9437b10ac3ca959481112.png
 k100_alp.bmp.png
@@ -125,7 +116,6 @@ ketchap_g.bmp.png
 kwtmst_hl_alp_ovl.bmp.png
 light05_msk.bmp.png
 light08_msk.bmp.png
-light10_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
 medicine_box.bmp.png
@@ -146,7 +136,6 @@ rabel_alp_ovl.bmp.png
 rai_all_ibox.bmp.png
 raiden_gogle_sev_alp.bmp.png
 ration_box.bmp.png
-rcm_l_msk.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
 rdr_noise3.bmp.png
@@ -342,9 +331,6 @@ w62a_tree_02_alp.bmp.png
 w62a_wbill1.bmp.png
 w_bonbori.bmp.png
 wave12_alp_ovl.bmp.png
-xlit04a_alp.bmp.png
-xlit04b_alp.bmp.png
-xlit05a_alp.bmp.png
 xlit05b_alp.bmp.png
 zoom_alp_ovl.bmp.png
 assets/evm/us/sol_def_face_mh_mt.cmdl
