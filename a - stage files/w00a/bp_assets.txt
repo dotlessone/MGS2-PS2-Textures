@@ -96,7 +96,6 @@ dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
 drop02_msk.bmp.png
@@ -114,7 +113,6 @@ env01a_msk.bmp.png
 env01b_msk.bmp.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
 gasmask_alp.bmp.png

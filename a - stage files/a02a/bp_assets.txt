@@ -247,7 +247,6 @@ mog_loc2_inner.bmp_1d16428e578cea9d01dde7a99915c874.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
-mog_loc2_slit_alp.bmp.png
 mog_loc2_top.bmp.png
 mog_loc2_top.bmp.png
 nametag_cube_def_add_alp.bmp.png

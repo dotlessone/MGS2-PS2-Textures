@@ -54,7 +54,6 @@ dnjv_f1.bmp.png
 drop01_msk.bmp.png
 drop02_msk.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png

@@ -61,7 +61,6 @@ crane_wire_tome_02a.bmp.png
 d_sky_hasira_alp.bmp.png
 dankon2_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
@@ -150,7 +149,6 @@ ema_waist2_ovl_mod1120_alp_emap.bmp.png
 entyou_oil_sea.bmp.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -547,11 +545,7 @@ w10c_sk00.bmp.png
 w10c_sk00.bmp.png
 w10c_sk00a.bmp.png
 w10c_sk00a.bmp.png
-w10c_sk00b.bmp.png
-w10c_sk00b.bmp.png
 w10c_sk00c.bmp.png
-w10c_sk00d.bmp.png
-w10c_sk00d.bmp.png
 w10c_sk00e.bmp.png
 w10c_sk00e.bmp.png
 w10c_sk01.bmp.png
@@ -587,7 +581,6 @@ w10c_w00a.bmp.png
 w10c_w00a.bmp.png
 w10c_w00b.bmp.png
 w10c_w00b.bmp.png
-w10c_w00c.bmp.png
 w10c_w00d.bmp.png
 w10c_w00e.bmp.png
 w10c_w00e.bmp.png

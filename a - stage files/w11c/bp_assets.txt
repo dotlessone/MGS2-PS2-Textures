@@ -47,9 +47,6 @@ dankon2_alp.bmp.png
 demo_lnr_body.bmp.png
 dog_tag2.bmp.png
 dogtag_sh_alp.bmp.png
-door_b00.bmp.png
-door_b00a.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
@@ -69,7 +66,6 @@ f_taiya.bmp.png
 fire1_alp.bmp.png
 fire4_msk.bmp.png
 fire5_msk.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -246,10 +242,6 @@ m92_pointer.bmp.png
 m92_pointer.bmp.png
 m92_sb_all.bmp.png
 mode_alp_ovl.bmp.png
-node_body_fs.bmp.png
-node_elebox.bmp.png
-node_pipe_alp_ovl.bmp.png
-node_plate_alp_ovl.bmp.png
 node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png

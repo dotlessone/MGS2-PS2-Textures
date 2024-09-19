@@ -147,8 +147,6 @@ co2_04.bmp.png
 co2_04.bmp.png
 co2_04a.bmp.png
 co2_04a.bmp.png
-co2_04b_msk.bmp.png
-co2_04b_msk.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -174,7 +172,6 @@ degital_camera.bmp.png
 digicame_tx_alp.bmp.png
 dmp_ibx_label_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
@@ -184,7 +181,6 @@ emt.bmp.png
 eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -207,8 +203,6 @@ gas_dai00.bmp.png
 gas_dai01.bmp.png
 gas_dai02.bmp.png
 gas_dai02.bmp.png
-gas_dai02a.bmp.png
-gas_dai02a.bmp.png
 gas_dai02b.bmp.png
 gas_dai02c.bmp.png
 gba_arm.bmp.png
@@ -332,7 +326,6 @@ moai02.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2_inner.bmp.png
 mog_loc2_inner.bmp.png
-mog_loc2_slit_alp.bmp.png
 mog_loc2_top1.bmp.png
 mosuquito_alp_ovl.bmp.png
 nametag_cube_def_add_alp.bmp.png
@@ -453,22 +446,10 @@ shl_lit_wire.bmp.png
 shl_s_alp.bmp.png
 shuukanshi_hyoushi3.bmp.png
 shuukanshi_ura2.bmp.png
-skk_00.bmp.png
-skk_00.bmp.png
 skk_01.bmp.png
 skk_01.bmp_fa1b59e1bada4a68d29cd558a067c3fe.png
 skk_02.bmp.png
 skk_02.bmp_434448523018e3bcd90f271906275d50.png
-skk_03.bmp.png
-skk_03.bmp.png
-skk_03a.bmp.png
-skk_03a.bmp.png
-skk_04.bmp.png
-skk_04.bmp.png
-skk_04a.bmp.png
-skk_04a.bmp.png
-skk_05.bmp.png
-skk_05a.bmp.png
 skk_u01.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -488,7 +469,6 @@ splash05_alp.bmp.png
 splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
-ssk_06.bmp.png
 sun_alp.bmp.png
 suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png

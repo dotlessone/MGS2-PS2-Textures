@@ -61,7 +61,6 @@ dankon2_alp.bmp.png
 dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
@@ -69,7 +68,6 @@ drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -190,7 +188,6 @@ mog_loc2_inner.bmp_1d16428e578cea9d01dde7a99915c874.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
-mog_loc2_slit_alp.bmp.png
 mog_loc2_top.bmp.png
 mog_loc2_top.bmp.png
 node_scr_awake_alp.bmp.png

@@ -163,8 +163,6 @@ co2_04.bmp.png
 co2_04.bmp.png
 co2_04a.bmp.png
 co2_04a.bmp.png
-co2_04b_msk.bmp.png
-co2_04b_msk.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -204,7 +202,6 @@ dish.bmp.png
 dish_tx_alp.bmp.png
 dmp_ibx_label_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
-door_lamp_alp.bmp.png
 doors.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
@@ -215,7 +212,6 @@ emt.bmp_92218c4eceae5cac3617475a1397d4b5.png
 eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -242,8 +238,6 @@ g95.bmp.png
 g_dankon_alp.bmp.png
 gas_dai02.bmp.png
 gas_dai02.bmp.png
-gas_dai02a.bmp.png
-gas_dai02a.bmp.png
 gba_arm.bmp.png
 gba_boot02.bmp.png
 gba_chest06.bmp.png
@@ -539,22 +533,10 @@ shl_lit_wire.bmp.png
 shl_s_alp.bmp.png
 shuukanshi_hyoushi3.bmp.png
 shuukanshi_ura2.bmp.png
-skk_00.bmp.png
-skk_00.bmp.png
 skk_01.bmp_8dd23f4fa615fc1e9e352f589c530f49.png
 skk_01.bmp_fa1b59e1bada4a68d29cd558a067c3fe.png
 skk_02.bmp_34cbc447933333d116d7bac586fa0b43.png
 skk_02.bmp_434448523018e3bcd90f271906275d50.png
-skk_03.bmp.png
-skk_03.bmp.png
-skk_03a.bmp.png
-skk_03a.bmp.png
-skk_04.bmp.png
-skk_04.bmp.png
-skk_04a.bmp.png
-skk_04a.bmp.png
-skk_05.bmp.png
-skk_05a.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -656,7 +638,6 @@ speaker02.bmp_60d9fe67157117c03c26035ec72537cd.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash05_alp.bmp.png
-ssk_06.bmp.png
 suppressor_mk_alp.bmp.png
 svc2_body.bmp.png
 svc2_body_brk1.bmp.png

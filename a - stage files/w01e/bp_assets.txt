@@ -55,7 +55,6 @@ dbg_gbox_t.bmp.png
 dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
-door_lamp_alp.bmp.png
 door_test_mogy.bmp.png
 dr_00.bmp.png
 dr_01.bmp.png
@@ -79,7 +78,6 @@ env01a_msk.bmp.png
 env01b_msk.bmp.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png

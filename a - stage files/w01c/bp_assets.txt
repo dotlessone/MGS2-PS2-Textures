@@ -60,7 +60,6 @@ clr_b_alp_ovl.bmp.png
 clr_font_alp_ovl.bmp.png
 co2_04.bmp.png
 co2_04a.bmp.png
-co2_04b_msk.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -95,7 +94,6 @@ dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
@@ -110,7 +108,6 @@ fire_03.bmp.png
 fire_04.bmp.png
 fire_05.bmp.png
 fire_06.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -124,7 +121,6 @@ font_mini_alp_ovl.bmp.png
 frost02_alp.bmp.png
 g_dankon_alp.bmp.png
 gas_dai02.bmp.png
-gas_dai02a.bmp.png
 gasmask_alp.bmp.png
 gba_arm.bmp.png
 gba_boot02.bmp.png
@@ -237,7 +233,6 @@ mark_06.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
-mog_loc2_slit_alp.bmp.png
 node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
@@ -295,15 +290,8 @@ shl_lit_wire.bmp.png
 shl_s_alp.bmp.png
 shuukanshi_hyoushi3.bmp.png
 shuukanshi_ura2.bmp.png
-skk_00.bmp.png
 skk_01.bmp_fa1b59e1bada4a68d29cd558a067c3fe.png
 skk_02.bmp_434448523018e3bcd90f271906275d50.png
-skk_03.bmp.png
-skk_03a.bmp.png
-skk_04.bmp.png
-skk_04a.bmp.png
-skk_05.bmp.png
-skk_05a.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -320,7 +308,6 @@ splash05_alp.bmp.png
 splash06_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
-ssk_06.bmp.png
 staiway.bmp.png
 staiway_in00.bmp.png
 staiway_in01.bmp.png

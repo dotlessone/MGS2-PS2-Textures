@@ -123,7 +123,6 @@ degital_camera.bmp.png
 digicame_tx_alp.bmp.png
 dmp_ibx_label_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
 drop02_msk.bmp.png
@@ -142,7 +141,6 @@ env01b_msk.bmp.png
 eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png

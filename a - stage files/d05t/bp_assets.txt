@@ -141,7 +141,6 @@ gas01.bmp.png
 gas_cap00.bmp.png
 gas_cap01.bmp.png
 gas_dai02.bmp.png
-gas_dai02a.bmp.png
 gas_dai02b.bmp.png
 gas_dai02c.bmp.png
 gbs_ak_sling2.bmp.png

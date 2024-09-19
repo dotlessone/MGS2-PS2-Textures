@@ -158,7 +158,6 @@ dog_tag.bmp.png
 dog_tag2.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
@@ -168,7 +167,6 @@ eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
 fede_01_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -316,7 +314,6 @@ medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2.bmp.png
 mog_loc2_inner.bmp_d7f08e98a624c2d19b0451eccba4fc48.png
-mog_loc2_slit_alp.bmp.png
 nametag_cube_def_add_alp.bmp.png
 nametag_hexa_def_add_alp.bmp.png
 nametag_octa_def_add_alp.bmp.png
@@ -326,9 +323,6 @@ nametag_triangle_def_add_alp.bmp.png
 nametag_wall_def_add_alp.bmp.png
 newyork_alp_ovl.bmp.png
 node_body_fs.bmp_ca94f387cf909222ecc07f2cf57c7437.png
-node_elebox.bmp.png
-node_pipe_alp_ovl.bmp.png
-node_plate_alp_ovl.bmp.png
 node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png
 nom_b_alp_ovl.bmp.png
@@ -376,17 +370,14 @@ splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
 suppressor_mk_alp.bmp.png
-svc_body01.bmp.png
 svc_bonbori.bmp.png
 svc_break_body.bmp.png
-svc_lens02.bmp.png
 svc_lens_break.bmp.png
 svc_s_parts.bmp.png
 svc_s_parts_break_mk.bmp.png
 svc_soko02.bmp.png
 svc_soko02_brk_mk.bmp.png
 svc_wall04.bmp.png
-svc_wall04_brk_mk.bmp.png
 test_rabel_alp_ovl.bmp.png
 tng_arm.bmp.png
 tng_arm_ovl_sub_alp.bmp.png
@@ -458,9 +449,7 @@ w01b1_loc05.bmp.png
 w01c_loc01.bmp_c506748fccdeb04c487950b0d8ecfb7a.png
 w01c_loc02.bmp.png
 w24a0_wlit00_alp_add_ovl.bmp_35387b1938172caa52bc5e2b88d0929a.png
-w24a0_wlit01.bmp.png
 w24a0_wlit01a.bmp_33e5140197b5a69816cb0dc781e3c2fd.png
-w24a0_wlit02_alp_add_ovl.bmp.png
 w24a0_wlit03.bmp_f87fc2792f36b022785b64b591d68fac.png
 w31a_pipe_05.bmp_dda00f5e2b5bd6fb22e1834c5768afda.png
 w41_kp_add_alp_ovl.bmp.png

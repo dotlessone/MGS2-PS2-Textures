@@ -55,7 +55,6 @@ fade_out_alp.bmp.png
 fade_out_floor_sub.bmp.png
 fade_out_sub.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 glass.bmp.png
 h_grenade_alp.bmp.png
 hosi_msk.bmp.png

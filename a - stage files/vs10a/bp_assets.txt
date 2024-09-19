@@ -127,7 +127,6 @@ dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
@@ -136,7 +135,6 @@ dzp2_tx_alp.bmp.png
 eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -299,7 +297,6 @@ medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
 mkrv_all.bmp.png
 mode_alp_ovl.bmp.png
-mog_loc2_slit_alp.bmp.png
 nametag_cube_def_add_alp.bmp.png
 nametag_gbs1_def_add_alp.bmp.png
 nametag_hexa_def_add_alp.bmp.png
@@ -376,17 +373,14 @@ sps_emb.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
 suppressor_mk_alp.bmp.png
-svc_body01.bmp.png
 svc_bonbori.bmp.png
 svc_break_body.bmp.png
-svc_lens02.bmp.png
 svc_lens_break.bmp.png
 svc_s_parts.bmp.png
 svc_s_parts_break_mk.bmp.png
 svc_soko02.bmp.png
 svc_soko02_brk_mk.bmp.png
 svc_wall04.bmp.png
-svc_wall04_brk_mk.bmp.png
 test_rabel_alp_ovl.bmp.png
 usp_all.bmp.png
 usp_emb.bmp.png

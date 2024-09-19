@@ -102,7 +102,6 @@ dinLig_add_ovl.bmp.png
 dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
@@ -111,7 +110,6 @@ dzp2_tx_alp.bmp.png
 eki1_ovl_alp.bmp.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -237,7 +235,6 @@ mark_06.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2_inner.bmp.png
 mog_loc2_inner.bmp.png
-mog_loc2_slit_alp.bmp.png
 mosuquito_alp_ovl.bmp.png
 node_scr_awake_alp.bmp.png
 nom_alp_ovl.bmp.png

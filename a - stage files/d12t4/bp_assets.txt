@@ -81,14 +81,12 @@ crg_waistbelt.bmp.png
 crg_waistbelt_alp_ovl_sub.bmp.png
 dankon2_alp.bmp.png
 demo_usp_supressor.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
 drop02_msk.bmp.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png

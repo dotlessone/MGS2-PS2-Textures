@@ -137,7 +137,6 @@ dankon2_alp.bmp.png
 dgtg_base.bmp.png
 dgtg_bmap.bmp.png
 dogtag_chain03_alp_ovl.bmp.png
-door_lamp_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drop01_msk.bmp.png
@@ -146,7 +145,6 @@ ema_face_ovl_mod1120_alp_emap.bmp.png
 ema_leg_sub_alp_ovl.bmp_59cf833a559696b26388f9f9abed5184.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png

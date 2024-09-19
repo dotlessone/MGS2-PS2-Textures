@@ -51,7 +51,6 @@ drop02_msk.bmp.png
 dzp2_tx_alp.bmp.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
-flare0_msk.bmp.png
 gbs_eri.bmp.png
 glass.bmp.png
 h_grenade_alp.bmp.png
