@@ -16,7 +16,6 @@ bombgas6_alp.bmp.png
 bombpowder1_msk.bmp.png
 bombpowder2_msk.bmp.png
 bombpowder7_msk.bmp.png
-box_s_d_back.bmp.png
 c4_a_antena.bmp.png
 c4_a_beruto2_msk.bmp.png
 c4_a_beruto3_msk.bmp.png
@@ -83,7 +82,6 @@ d_oil_sea_alp_ovl_mod0222.bmp.png
 d_sky_top_01_alp.bmp.png
 dankon2_alp.bmp.png
 door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp_mod1201.bmp.png
 drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.png
 dtsw_tex01.bmp.png
@@ -255,7 +253,6 @@ kirari_msk.bmp.png
 l_alp_ovl.bmp.png
 lsight_msk.bmp.png
 m92_pointer.bmp.png
-mark_arrow_alp_ovl.bmp.png
 mark_arrow_u.bmp.png
 mark_hall_u.bmp.png
 mark_lounge_alp_ovl.bmp.png
@@ -699,7 +696,6 @@ w10c_obj00.bmp.png
 w10c_obj00a.bmp.png
 w10c_obj00c_alp_ovl.bmp.png
 w10c_obj02g_alp_ovl.bmp.png
-w10c_orange00.bmp.png
 w10c_orange01.bmp_1dfa5c622d3aa78ffdf1144c094bc2ca.png
 w10c_pp01.bmp.png
 w10c_pp01b.bmp.png
@@ -965,8 +961,6 @@ w24a0_fla04d2_alp_ovl.bmp.png
 w24a0_fla04d_alp_ovl.bmp.png
 w24a0_fla04e_alp_ovl.bmp.png
 w24a0_fla04g_alp_ovl.bmp.png
-w24a0_flu0_alp_ovl.bmp.png
-w24a0_rf03c.bmp.png
 w24a_ppb00a.bmp.png
 w24b0_box00.bmp.png
 w24b0_box00a.bmp.png

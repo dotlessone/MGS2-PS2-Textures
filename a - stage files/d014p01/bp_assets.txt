@@ -104,12 +104,9 @@ drill_02_test.bmp.png
 drill_02_test.bmp.png
 driver01.bmp.png
 driver01.bmp.png
-drlit_01_alp_add_ovl.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 elvt_g99.bmp.png
-elvt_tes3_alp_ovl.bmp.png
 eva_alp_ovl.bmp.png
 fire1_alp.bmp.png
 flare_b1_msk.bmp.png
@@ -972,14 +969,8 @@ w18a_wlshd2_alp_ovl.bmp.png
 w24a0_enta02.bmp.png
 w24a0_enta02.bmp.png
 w24a0_entb00_d.bmp.png
-w24a0_rflit04_alp_add.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
 w24a0_rflit06f_alp_add_ovl.bmp_4aa45f39aadbc1a3f3c8d0f76ae488f2.png
 w24a0_rflit06f_alp_add_ovl.bmp_4aa45f39aadbc1a3f3c8d0f76ae488f2.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
 watermelon01_alp.bmp.png
 wave12_alp_ovl.bmp.png
 wrain01_add_alp_ovl.bmp.png

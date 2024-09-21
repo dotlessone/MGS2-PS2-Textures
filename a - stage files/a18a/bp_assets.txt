@@ -138,7 +138,6 @@ dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
 door_c00a.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png

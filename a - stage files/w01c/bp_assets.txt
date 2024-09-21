@@ -55,7 +55,6 @@ clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
 clr_font_alp_ovl.bmp.png
 co2_04.bmp.png
-co2_04a.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png

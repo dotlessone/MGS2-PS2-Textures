@@ -12,10 +12,8 @@ blood_2bw_msk.bmp.png
 bombgas6_alp.bmp.png
 bombpowder1_msk.bmp.png
 bombpowder7_msk.bmp.png
-box_s_05_back.bmp.png
 box_s_07_side.bmp.png
 box_s_07_top.bmp.png
-box_s_d_back.bmp.png
 c4_a_antena.bmp.png
 c4_a_beruto2_msk.bmp.png
 c4_a_beruto3_msk.bmp.png

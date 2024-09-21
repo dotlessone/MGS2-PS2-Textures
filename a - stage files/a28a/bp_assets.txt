@@ -125,7 +125,6 @@ dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
 door_bfl00.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
@@ -522,9 +521,6 @@ w24a0_entb01a.bmp_e21d1ec58434d89777f9429ad05121c3.png
 w24a0_entb03.bmp.png
 w24a0_litbase00.bmp_13432dcbcd04b4edc36a0fd04233ee3e.png
 w24a0_litbase00a.bmp_6af71df6ae1e7fa9ce7c11006fa9de93.png
-w24a0_rflit00a_alp_add_ovl.bmp.png
-w24a0_rflit04_alp_add.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
 w24a0_wlit00_alp_add_ovl.bmp_adffa762b496e262c2579456137bfc5e.png
 w24a0_wlit01a.bmp_33e5140197b5a69816cb0dc781e3c2fd.png
 w24a0_wlit03.bmp_9e58018c2f35bc0413344d9da405d5a9.png

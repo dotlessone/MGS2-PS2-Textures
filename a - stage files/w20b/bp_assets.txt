@@ -25,7 +25,6 @@ bombgas6_alp.bmp.png
 bombpowder1_msk.bmp.png
 bombpowder2_msk.bmp.png
 bombpowder7_msk.bmp.png
-box_s_d_back.bmp.png
 brack_01_01_01.bmp.png
 c4_a_antena.bmp.png
 c4_a_beruto2_msk.bmp.png
@@ -109,7 +108,6 @@ dogtag_tx_alp.bmp.png
 door_c00.bmp.png
 door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
 door_c00a.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.png
@@ -376,7 +374,6 @@ w10c_obj00.bmp.png
 w10c_obj00a.bmp.png
 w10c_obj00c_alp_ovl.bmp.png
 w10c_obj02g_alp_ovl.bmp.png
-w10c_orange00.bmp.png
 w10c_orange01.bmp_1dfa5c622d3aa78ffdf1144c094bc2ca.png
 w10c_other_tank00.bmp.png
 w10c_pp01.bmp.png

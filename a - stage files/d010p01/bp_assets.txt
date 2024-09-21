@@ -16,7 +16,6 @@ bombgas6_alp.bmp.png
 bombpowder1_msk.bmp.png
 bombpowder2_msk.bmp.png
 bombpowder7_msk.bmp.png
-box_s_05_back.bmp.png
 box_s_07_side.bmp.png
 box_s_07_top.bmp.png
 call_alp_ovl.bmp.png
@@ -50,8 +49,6 @@ clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
 co2_04.bmp.png
 co2_04.bmp.png
-co2_04a.bmp.png
-co2_04a.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -64,7 +61,6 @@ dankon2_alp.bmp.png
 door_bfl00.bmp.png
 door_bfl00.bmp.png
 door_bfl00.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 eva_alp_ovl.bmp.png
@@ -861,21 +857,6 @@ w14a_wall_d03.bmp.png
 w14a_wall_d03.bmp.png
 w14a_wall_d04.bmp.png
 w14a_wall_d04.bmp.png
-w24a0_rf03a.bmp.png
-w24a0_rf03b.bmp.png
-w24a0_rflit00a_alp_add_ovl.bmp.png
-w24a0_rflit00a_alp_add_ovl.bmp.png
-w24a0_rflit00a_alp_add_ovl.bmp.png
-w24a0_rflit04_alp_add.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
-w24a1_rf00c.bmp.png
-w24a1_rf01b2.bmp.png
-w24a1_rflit00a_alp_add_ovl.bmp.png
-w24a1_rflitbase00.bmp.png
-w24a1_rflitbase00a.bmp.png
 w24a_pp03c.bmp.png
 w24a_pp03c.bmp.png
 w24a_pp03c.bmp.png

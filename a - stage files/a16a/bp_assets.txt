@@ -170,12 +170,10 @@ door_bfl00.bmp.png
 drill_02.bmp.png
 drill_02_test.bmp.png
 driver01.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 elvt_g99.bmp.png
-elvt_tes3_alp_ovl.bmp.png
 ema_arm00.bmp.png
 ema_arm00.bmp.png
 ema_arm_sub_alp_ovl.bmp.png
@@ -550,7 +548,6 @@ w10c_entfl01.bmp.png
 w10c_entw00.bmp_ebada4c5fb0cf21b95c03d700bd34525.png
 w10c_fl00a.bmp_f090db2c7d27de5ceaf7849bea3f7689.png
 w10c_fl00c.bmp_79d5f05b0c8f02fa5ea3d8344309a532.png
-w10c_orange00.bmp.png
 w10c_w00d.bmp.png
 w14a13a_ent00.bmp.png
 w15a_sdw00d_alp_ovl.bmp.png
@@ -809,14 +806,8 @@ w16an_wa_to04.bmp.png
 w16an_wa_to05a.bmp.png
 w24a0_enta02.bmp.png
 w24a0_entb00_d.bmp.png
-w24a0_rflit04_alp_add.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
 w24a0_rflit06f_alp_add_ovl.bmp_4aa45f39aadbc1a3f3c8d0f76ae488f2.png
 w24a0_rflit06f_alp_add_ovl.bmp_4aa45f39aadbc1a3f3c8d0f76ae488f2.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
 w25a_pp05.bmp.png
 w25a_tank00.bmp_607cd5e0bf0f5b379a6262cd93f54ffa.png
 w25a_tank00a.bmp.png

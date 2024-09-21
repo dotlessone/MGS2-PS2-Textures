@@ -27,7 +27,6 @@ bombgas6_alp.bmp.png
 bombpowder1_msk.bmp.png
 bombpowder2_msk.bmp.png
 bombpowder7_msk.bmp.png
-box_s_d_back.bmp.png
 brack_01_01_01.bmp.png
 c4_a_antena.bmp.png
 c4_a_beruto2_msk.bmp.png
@@ -373,9 +372,6 @@ w10c_obj00.bmp.png
 w10c_obj00a.bmp.png
 w10c_obj00c_alp_ovl.bmp.png
 w10c_obj02g_alp_ovl.bmp.png
-w10c_orange00.bmp.png
-w10c_orange00.bmp.png
-w10c_orange00.bmp.png
 w10c_orange01.bmp.png
 w10c_other_tank00.bmp.png
 w10c_pp00.bmp.png
@@ -882,9 +878,6 @@ w23a_stp00.bmp.png
 w23a_stp002.bmp.png
 w24a0_enta02.bmp.png
 w24a0_entb03.bmp.png
-w24a0_rflit00a_alp_add_ovl.bmp.png
-w24a0_rflit04_alp_add.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
 w25a_h01.bmp.png
 w25a_h01a.bmp.png
 w25a_pp05.bmp.png

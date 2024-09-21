@@ -70,8 +70,6 @@ co2_02.bmp.png
 co2_03.bmp.png
 co2_04.bmp.png
 co2_04.bmp.png
-co2_04a.bmp.png
-co2_04a.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png

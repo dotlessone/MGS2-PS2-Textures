@@ -159,7 +159,6 @@ door_bfl00.bmp.png
 door_bfl00.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
-elv2_rflig02_add_alp_ovl.bmp.png
 elv_2_ent.bmp.png
 elvt_g99.bmp.png
 elvt_nwall3pb1B_alp.bmp.png
@@ -169,7 +168,6 @@ elvt_pane_B2_alp.bmp.png
 elvt_pane_LR_alp.bmp.png
 elvt_pane_down_alp.bmp.png
 elvt_pane_up_alp.bmp.png
-elvt_tes3_alp_ovl.bmp.png
 eva_alp_ovl.bmp.png
 evdr_00.bmp_39b5f6478adda7cf5919f3e52b8bbb66.png
 evdr_01.bmp_e6cce9811b5c263315fd42e990d92d0e.png
@@ -291,7 +289,6 @@ lsight_msk.bmp.png
 m4_alp.bmp.png
 magazine_tx2.bmp.png
 magazine_tx_alp.bmp.png
-mark_arrow_alp_ovl.bmp.png
 mark_arrow_u.bmp.png
 mark_hall_alp_ovl.bmp.png
 mark_hall_u.bmp.png
@@ -453,18 +450,6 @@ w24a0_fla04d2_alp_ovl.bmp.png
 w24a0_fla04d_alp_ovl.bmp.png
 w24a0_fla04e_alp_ovl.bmp.png
 w24a0_fla04g_alp_ovl.bmp.png
-w24a0_flu0_alp_ovl.bmp.png
-w24a0_rf03c.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06f_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
-w24a1_rf00c.bmp.png
-w24a1_rflit00a_alp_add_ovl.bmp.png
 w24a_pp03c.bmp.png
 w24a_ppb00a.bmp.png
 w24b0_box00.bmp.png

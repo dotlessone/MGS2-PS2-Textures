@@ -69,7 +69,6 @@ dogtag_tx_alp.bmp.png
 door_bfl00.bmp.png
 door_rail.bmp.png
 dzp2_tx_alp.bmp.png
-elv2_rflig02_add_alp_ovl.bmp.png
 elv_2_ent.bmp.png
 elvt_g99.bmp.png
 elvt_nwall3pb1B_alp.bmp.png
@@ -79,7 +78,6 @@ elvt_pane_B2_alp.bmp.png
 elvt_pane_LR_alp.bmp.png
 elvt_pane_down_alp.bmp.png
 elvt_pane_up_alp.bmp.png
-elvt_tes3_alp_ovl.bmp.png
 ema_arm00.bmp.png
 ema_arm00.bmp.png
 ema_arm_sub_alp_ovl.bmp.png
@@ -384,13 +382,6 @@ w16a1_rf02.bmp.png
 w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888.png
 w24a0_entb01a_water.bmp.png
 w24a0_entb03.bmp.png
-w24a0_rf03c.bmp.png
-w24a0_rf03d.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06f_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
 w24a_ppb00a.bmp.png
 w28a_wall_rouka_01.bmp.png
 w31a_roof_01.bmp.png

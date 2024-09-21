@@ -106,7 +106,6 @@ chi05_msk.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
 co2_04.bmp.png
-co2_04a.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -122,8 +121,6 @@ dankon2_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
 door_bfl00.bmp.png
 door_bfl00.bmp.png
-drlit_01_alp_add_ovl.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 ef_renraku_alp_ovl.bmp.png

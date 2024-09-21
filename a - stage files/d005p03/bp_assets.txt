@@ -309,9 +309,6 @@ w10c_flu03.bmp_8c53753f36afb3cef63e6a663757b660.png
 w10c_obj00.bmp.png
 w10c_obj00a.bmp.png
 w10c_obj00c_alp_ovl.bmp.png
-w10c_orange00.bmp.png
-w10c_orange00.bmp.png
-w10c_orange00.bmp.png
 w10c_orange01.bmp.png
 w10c_orange01.bmp.png
 w10c_other_tank00.bmp.png

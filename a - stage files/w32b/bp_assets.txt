@@ -486,8 +486,6 @@ w10c_obj00.bmp.png
 w10c_obj00a.bmp.png
 w10c_obj00c_alp_ovl.bmp.png
 w10c_obj02g_alp_ovl.bmp.png
-w10c_orange00.bmp.png
-w10c_orange00.bmp.png
 w10c_orange01.bmp.png
 w10c_orange01.bmp.png
 w10c_other_tank00.bmp.png

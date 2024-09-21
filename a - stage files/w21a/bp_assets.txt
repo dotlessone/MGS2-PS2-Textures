@@ -28,7 +28,6 @@ bombgas6_alp.bmp.png
 bombpowder1_msk.bmp.png
 bombpowder2_msk.bmp.png
 bombpowder7_msk.bmp.png
-box_s_d_back.bmp.png
 brack_01_01_01.bmp.png
 call_alp_ovl.bmp.png
 case_dr.bmp.png
@@ -101,8 +100,6 @@ door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
 door_c0017.bmp.png
 door_c0017.bmp.png
 door_c00a.bmp.png
-drlit_01_alp_add_ovl.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drlit_02_brk.bmp.png
 drlit_02a_brk.bmp.png
 drop01_alp2_mod1021.bmp.png
@@ -324,7 +321,6 @@ m4a_sb_s1.bmp.png
 m4grn_bul_high.bmp.png
 magazine_tx2.bmp.png
 magazine_tx_alp.bmp.png
-mark_arrow_alp_ovl.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
 mkrv_all.bmp.png
@@ -490,8 +486,6 @@ w10c_obj00.bmp.png
 w10c_obj00a.bmp.png
 w10c_obj00c_alp_ovl.bmp.png
 w10c_obj02g_alp_ovl.bmp.png
-w10c_orange00.bmp.png
-w10c_orange00.bmp.png
 w10c_orange01.bmp.png
 w10c_other_tank00.bmp.png
 w10c_pp01.bmp.png

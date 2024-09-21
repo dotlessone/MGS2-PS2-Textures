@@ -144,10 +144,8 @@ dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
 door_bfl00.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
-elv2_rflig02_add_alp_ovl.bmp.png
 elv_2_ent.bmp.png
 elvt_g99.bmp.png
 elvt_nwall3pb1B_alp.bmp.png
@@ -157,7 +155,6 @@ elvt_pane_B2_alp.bmp.png
 elvt_pane_LR_alp.bmp.png
 elvt_pane_down_alp.bmp.png
 elvt_pane_up_alp.bmp.png
-elvt_tes3_alp_ovl.bmp.png
 eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
 fire1_alp.bmp.png
@@ -408,13 +405,10 @@ sps_all2_msk.bmp.png
 stg_rabel_alp_ovl.bmp.png
 suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
-svc_break_body.bmp.png
 svc_lens_break.bmp.png
-svc_s_parts.bmp.png
 svc_s_parts_break_mk.bmp.png
 svc_soko02.bmp.png
 svc_soko02_brk_mk.bmp.png
-svc_wall04.bmp.png
 test_fence_mini_alp.bmp.png
 test_rabel_alp_ovl.bmp.png
 usp_all.bmp.png
@@ -440,7 +434,6 @@ w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
 w10c_entfl00.bmp.png
 w10c_entw00.bmp_ebada4c5fb0cf21b95c03d700bd34525.png
-w10c_orange00.bmp.png
 w12b0_roof_03.bmp_5f88949592e3b5908837c0a14e1202c8.png
 w12b1_kage_03_ovl_alp.bmp.png
 w12b1_light_01_alp_ovl_ns.bmp.png
@@ -463,16 +456,6 @@ w22a_naka_kage_alp_ovl.bmp.png
 w22a_pipe_01.bmp.png
 w22a_pipe_02.bmp.png
 w24a0_entb03.bmp.png
-w24a0_rf03c.bmp.png
-w24a0_rf03d.bmp.png
-w24a0_rflit00a_alp_add_ovl.bmp.png
-w24a0_rflit04_alp_add.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06f_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
 w24a0_step04.bmp.png
 w24a0_step05.bmp.png
 w24a0_wh00.bmp.png

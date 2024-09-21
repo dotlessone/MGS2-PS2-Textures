@@ -474,14 +474,6 @@ w01b_lit01_add_alp.bmp.png
 w02a_door.bmp.png
 w13a14b_sdw00_alp_ovl.bmp_92008db54d9f3ebef3baaafa5c7a69d9.png
 w24a0_rf04.bmp_6c5dbbec6e875c24bc9ddf30b006085f.png
-w24a0_rflit04_alp_add.bmp.png
-w24a0_rflit05_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06f_alp_add_ovl.bmp.png
-w24a0_rflit06f_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
 w24a_flag_usa.bmp.png
 w24b0_box01c.bmp.png
 w24b0_box01d.bmp_4b06b86efcc4a2e842a9cadf27304e4a.png

@@ -326,10 +326,6 @@ w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888.png
 w22a_tekkotu.bmp.png
 w24a0_entb01a_water.bmp.png
 w24a0_entb03.bmp.png
-w24a0_rf03d.bmp.png
-w24a0_rflit06a_alp_add_ovl.bmp.png
-w24a0_rflit06f_alp_add_ovl.bmp.png
-w24a0_rflit06g_alp_add_ovl.bmp.png
 w28a_wall_rouka_01.bmp.png
 w31b_ami_alp.bmp.png
 w31b_door_02.bmp.png

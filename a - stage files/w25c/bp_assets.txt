@@ -79,8 +79,6 @@ door_c00.bmp.png
 door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
 door_c0017.bmp.png
 door_c00a.bmp.png
-drlit_01_alp_add_ovl.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp_mod1201.bmp.png
 drp_00b.bmp_b79ec594d4e58e0b4cf32b6925773e01.png
 e_alp_ovl.bmp_8e27cb0e71983c0e48ae8d1f53626f8d.png
@@ -355,8 +353,6 @@ w10c_obj00.bmp.png
 w10c_obj00a.bmp.png
 w10c_obj00c_alp_ovl.bmp.png
 w10c_obj02g_alp_ovl.bmp.png
-w10c_orange00.bmp.png
-w10c_orange00.bmp.png
 w10c_orange01.bmp.png
 w10c_other_tank00.bmp.png
 w10c_pp01.bmp.png

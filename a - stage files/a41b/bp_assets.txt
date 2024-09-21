@@ -405,13 +405,10 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
-svc_break_body.bmp.png
 svc_lens_break.bmp.png
-svc_s_parts.bmp.png
 svc_s_parts_break_mk.bmp.png
 svc_soko02.bmp.png
 svc_soko02_brk_mk.bmp.png
-svc_wall04.bmp.png
 vkf_big_03.bmp.png
 vkf_big_mt.bmp.png
 vmp_belt_weist.bmp.png

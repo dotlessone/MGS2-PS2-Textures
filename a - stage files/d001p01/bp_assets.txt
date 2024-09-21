@@ -419,7 +419,6 @@ w10c_oil_sea_128_alp_ovl.bmp.png
 w10c_oil_sea_256_alp_ovl.bmp.png
 w10c_oil_sea_32_alp_ovl.bmp.png
 w10c_oil_sea_64_alp_ovl.bmp.png
-w10c_orange00.bmp.png
 w10c_orange01.bmp.png
 w10c_other_tank00.bmp.png
 w10c_pp01.bmp.png

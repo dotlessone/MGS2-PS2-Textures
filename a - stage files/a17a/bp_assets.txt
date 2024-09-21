@@ -86,7 +86,6 @@ bombgas6_alp.bmp.png
 bombpowder1_msk.bmp.png
 bombpowder2_msk.bmp.png
 bombpowder7_msk.bmp.png
-box_s_d_back.bmp.png
 brack_01_01_01.bmp.png
 c4_a_antena.bmp.png
 c4_a_beruto2_msk.bmp.png
@@ -190,15 +189,12 @@ door_c00.bmp.png
 door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
 door_c0017.bmp.png
 door_c00a.bmp.png
-drlit_01_alp_add_ovl.bmp.png
-drlit_01_alp_add_ovl.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drp_00b.bmp_b79ec594d4e58e0b4cf32b6925773e01.png
 dzp2_tx_alp.bmp.png
 e_alp_ovl.bmp_8e27cb0e71983c0e48ae8d1f53626f8d.png
 elvt_g99.bmp.png
-elvt_tes3_alp_ovl.bmp.png
 entrance_alp_add_ovl.bmp.png
 eva_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
@@ -469,13 +465,10 @@ stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
 suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
-svc_break_body.bmp.png
 svc_lens_break.bmp.png
-svc_s_parts.bmp.png
 svc_s_parts_break_mk.bmp.png
 svc_soko02.bmp.png
 svc_soko02_brk_mk.bmp.png
-svc_wall04.bmp.png
 test_rabel_alp_ovl.bmp.png
 usp_all.bmp.png
 vr2_goal_add_alp.bmp.png
@@ -564,8 +557,6 @@ w10c_obj00.bmp.png
 w10c_obj00a.bmp.png
 w10c_obj00c_alp_ovl.bmp.png
 w10c_obj02g_alp_ovl.bmp.png
-w10c_orange00.bmp.png
-w10c_orange00.bmp.png
 w10c_orange01.bmp.png
 w10c_other_tank00.bmp.png
 w10c_pp00.bmp_02dc037bcffa836a8857ebf50bcc67a7.png
