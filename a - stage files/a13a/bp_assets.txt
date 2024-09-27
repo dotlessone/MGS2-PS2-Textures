@@ -306,7 +306,6 @@ htc_uc_ovl_mod1120_alp_emap.bmp.png
 htc_under_pad_uc.bmp.png
 htcdt_ovl_mod1120_alp_emap.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all2.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
@@ -478,8 +477,6 @@ w10c_cntw00a.bmp.png
 w10c_cntw00b.bmp.png
 w10c_cntw00c.bmp.png
 w10c_cntw01.bmp.png
-w10c_cntw01a.bmp.png
-w10c_cntw01b.bmp.png
 w10c_cntw02.bmp.png
 w10c_cntw02b.bmp.png
 w10c_cntw03.bmp.png
@@ -497,10 +494,8 @@ w10c_ent00.bmp.png
 w10c_ent01.bmp.png
 w10c_ent02.bmp.png
 w10c_ent03.bmp.png
-w10c_entfl00.bmp.png
 w10c_entfl01.bmp.png
 w10c_entw00.bmp.png
-w10c_entw00.bmp_ebada4c5fb0cf21b95c03d700bd34525.png
 w10c_fl00a.bmp_f090db2c7d27de5ceaf7849bea3f7689.png
 w10c_fl00b.bmp_4783af139eb8448160dc9fa885bd7451.png
 w10c_fl00c.bmp_79d5f05b0c8f02fa5ea3d8344309a532.png

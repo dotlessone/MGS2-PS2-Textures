@@ -199,7 +199,6 @@ hfbs3_sb.bmp.png
 hfbs3_sub_alp_ovl.bmp.png
 hosi_msk.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all2.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png

@@ -24,14 +24,7 @@ col256_bld100.bmp.png
 col_blk.bmp.png
 col_gray20.bmp.png
 col_gray50.bmp.png
-d00a_building1_high.bmp.png
 d00a_citylight_alp_ovl.bmp.png
-d00a_gaitou_head.bmp.png
-d00a_gaitou_s.bmp.png
-d00a_gaitou_s_msk.bmp.png
-d00a_hodou_t2.bmp.png
-d00a_irn_bridgeu_msk.bmp.png
-d00a_mht1_alp_ovl.bmp.png
 d00a_wire_alp_ovl.bmp.png
 drop01_alp_mod1201.bmp.png
 env00_bridge2.bmp.png
@@ -46,9 +39,6 @@ env00_mht3_alp_ovl.bmp.png
 eva_alp_ovl.bmp.png
 foot_shadow_alp.bmp.png
 gry075.bmp.png
-gwb_rope_lit.bmp.png
-gwb_top02.bmp.png
-gwb_tower_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 kck_gray1.bmp.png
 kck_mark504_sub_ovl_alp.bmp.png
@@ -96,7 +86,6 @@ skyline_light_alp_decal.bmp.png
 smoke_msk.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_foot01dt.bmp.png
 sna_hair3.bmp.png
@@ -115,11 +104,8 @@ sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
-sna_rope_ropebag_f.bmp.png
-sna_rope_ropebag_s.bmp.png
 sna_rope_stop_t.bmp.png
 sna_rope_stop_ura.bmp.png
 sna_shoul01dt.bmp.png
@@ -191,7 +177,6 @@ svc_bonbori_alp.bmp.png
 svc_bonbori_g.bmp.png
 svc_bonbori_r.bmp.png
 svc_bonbori_y.bmp.png
-v_scm_r.bmp.png
 w00_blc_u1.bmp_a248990b0be0a97361cdd3f07ff6fec9.png
 w00_blc_u2.bmp.png
 w00_blc_u3.bmp.png
@@ -263,7 +248,6 @@ w00ak_2fdeck_antisna.bmp.png
 w00ak_blc_s1.bmp.png
 w00ak_blc_s2.bmp.png
 w00ak_crps_saku_msk.bmp.png
-w00ak_discovery_msk.bmp.png
 w00ak_door_lit.bmp.png
 w00ak_door_panel.bmp.png
 w00ak_endwall_f1.bmp.png
@@ -288,7 +272,6 @@ w00ak_refcover.bmp.png
 w00ak_roll2.bmp.png
 w00ak_survial_ashi3.bmp.png
 w00ak_survial_f1.bmp.png
-w00ak_survial_rope_alp.bmp.png
 w00ak_survial_s1.bmp.png
 w00ak_ue1.bmp.png
 w00ak_ue1.bmp.png
@@ -306,7 +289,6 @@ w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
 w00b_fannel1.bmp.png
 w00b_fannel2.bmp.png
-w00b_fannel_text_msk.bmp.png
 w00b_huge_light_brk.bmp.png
 w00b_huge_light_f1.bmp.png
 w00b_huge_light_s.bmp.png
@@ -392,10 +374,6 @@ waterflow02_alp.bmp.png
 waterflow03_alp.bmp.png
 wave06.bmp.png
 wave09_alp_ovl.bmp.png
-window01_alp.bmp_7bbfecbc9a722557df5da7eed5410eb4.png
-window2_alp.bmp.png
-window_ode_01_alp.bmp.png
-window_ode_02_alp.bmp.png
 wrain01_add_alp_ovl.bmp.png
 wrain02_add_alp_ovl.bmp.png
 wrain03_add_alp_ovl.bmp.png

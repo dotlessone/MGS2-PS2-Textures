@@ -531,8 +531,6 @@ rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rdr_noise1.bmp.png

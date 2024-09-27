@@ -117,7 +117,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 smoke_msk.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_foot01dt.bmp.png
 sna_hair3.bmp.png
@@ -131,7 +130,6 @@ sna_hi_tang01dt.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_m9_glip.bmp.png
@@ -282,17 +280,8 @@ w04a3_bou_debug.bmp.png
 w04a3_bou_debug_alp.bmp.png
 w04a3_cam_base.bmp.png
 w04a3_cam_body.bmp.png
-w04a3_cam_body2.bmp.png
 w04a3_cam_body3.bmp.png
-w04a3_cam_body4.bmp.png
-w04a3_cam_body5.bmp.png
-w04a3_cam_body6.bmp.png
-w04a3_cam_finder1.bmp.png
-w04a3_cam_finder2.bmp.png
-w04a3_cam_handle.bmp.png
 w04a3_cam_jiku.bmp.png
-w04a3_cam_light.bmp.png
-w04a3_cam_light_bw.bmp.png
 w04a3_cam_renz.bmp.png
 w04a3_hashira_s3_sub.bmp.png
 w04a_b1_cnt_bs.bmp.png

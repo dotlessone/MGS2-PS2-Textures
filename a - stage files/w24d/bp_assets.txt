@@ -82,7 +82,6 @@ dogtag_tx_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
-elv_2_ent.bmp.png
 elvt_g99.bmp.png
 elvt_nwall3pb1B_alp.bmp.png
 elvt_nwall3pb_alp.bmp.png
@@ -176,7 +175,6 @@ h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
 hosi_msk.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all2.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
@@ -334,10 +332,6 @@ w024d_lit01.bmp.png
 w024dn_lit01_alp_ovl.bmp.png
 w02a_door.bmp.png
 w16a1_rf02.bmp.png
-w24a0_fla04d2_alp_ovl.bmp.png
-w24a0_fla04d_alp_ovl.bmp.png
-w24a0_fla04g_alp_ovl.bmp.png
-w24a0_fla05a_alp_ovl.bmp.png
 w24a0_wh00.bmp.png
 w24a_ppb00a.bmp.png
 w24b2_mizo2_alp_ovl.bmp.png

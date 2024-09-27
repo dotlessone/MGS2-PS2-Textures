@@ -68,7 +68,6 @@ d_oil_ref_add_alp_ovl_mod1120.bmp.png
 d_oil_sea_alp_ovl_mod0222.bmp.png
 d_sky_top_01_alp.bmp.png
 dankon2_alp.bmp.png
-demo_lnr_body.bmp.png
 door_c00.bmp.png
 door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
 door_c00a.bmp.png
@@ -248,7 +247,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
@@ -465,8 +463,6 @@ w10c_cntw00a.bmp.png
 w10c_cntw00b.bmp.png
 w10c_cntw00c.bmp.png
 w10c_cntw01.bmp.png
-w10c_cntw01a.bmp.png
-w10c_cntw01b.bmp.png
 w10c_cntw02.bmp.png
 w10c_cntw02b.bmp.png
 w10c_cntw03.bmp.png
@@ -483,9 +479,7 @@ w10c_crn00c.bmp.png
 w10c_ent01.bmp.png
 w10c_ent02.bmp.png
 w10c_ent03.bmp.png
-w10c_entfl00.bmp.png
 w10c_entw00.bmp.png
-w10c_entw00.bmp_ebada4c5fb0cf21b95c03d700bd34525.png
 w10c_fl00a.bmp_f090db2c7d27de5ceaf7849bea3f7689.png
 w10c_fl00b.bmp_4783af139eb8448160dc9fa885bd7451.png
 w10c_fl00c.bmp_79d5f05b0c8f02fa5ea3d8344309a532.png

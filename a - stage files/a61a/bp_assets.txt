@@ -62,13 +62,6 @@ a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
 alt_alp_ovl.bmp.png
 alt_b_alp_ovl.bmp.png
-amg_main1.bmp.png
-amg_memori_alp_ovl.bmp.png
-amg_mizo1.bmp.png
-amg_mizo1_bright.bmp.png
-amg_vau_slaster2.bmp.png
-amg_vau_slaster3.bmp.png
-amg_vau_slaster4.bmp.png
 ammo_case1_top.bmp.png
 angle_alp_ovl.bmp.png
 blood_1bw_msk.bmp.png
@@ -326,7 +319,6 @@ w61a_bill11_wall1.bmp.png
 w61a_crack_temp1.bmp.png
 w61a_crack_temp2.bmp.png
 w61a_crack_temp2.bmp.png
-w61a_door1.bmp.png
 w61a_douro.bmp.png
 w61a_douro_post.bmp.png
 w61a_douro_post_t1.bmp.png

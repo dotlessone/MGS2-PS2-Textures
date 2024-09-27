@@ -16,8 +16,6 @@ bombgas6_alp.bmp.png
 bombpowder1_msk.bmp.png
 bombpowder2_msk.bmp.png
 bombpowder7_msk.bmp.png
-box_s_07_side.bmp.png
-box_s_07_top.bmp.png
 call_alp_ovl.bmp.png
 cap_arm.bmp.png
 cap_arm_l_blood.bmp.png
@@ -73,8 +71,6 @@ flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 g_dankon_alp.bmp.png
-gas_dai02.bmp.png
-gas_dai02.bmp.png
 gbs_ak_sling2.bmp.png
 hamon09_add_alp.bmp.png
 hnm_def01.bmp.png
@@ -251,7 +247,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 ray_eye_bonbori_alp.bmp.png
 rdr_noise1.bmp.png
@@ -330,8 +325,6 @@ sel_sling1_alp_ovl.bmp.png
 sel_sling2_alp_ovl.bmp.png
 sel_sling3.bmp.png
 shv.bmp.png
-skk_01.bmp_fa1b59e1bada4a68d29cd558a067c3fe.png
-skk_01.bmp_fa1b59e1bada4a68d29cd558a067c3fe.png
 skk_02.bmp_434448523018e3bcd90f271906275d50.png
 skk_02.bmp_434448523018e3bcd90f271906275d50.png
 sky_1_alp.bmp.png
@@ -340,7 +333,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 smoke_msk.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
@@ -360,7 +352,6 @@ sna_hi_tang01dt.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_m9_glip.bmp.png
@@ -533,7 +524,6 @@ w14a_dankon3_alp_ovl.bmp_3cb748abd9b531fb5fa670969c20573b.png
 w14a_dankon4_alp_ovl.bmp.png
 w14a_dankon4_alp_ovl.bmp.png
 w14a_dankon4_alp_ovl.bmp.png
-w14a_fence_a01_alp.bmp.png
 w14a_fl_a04_alp_ovl.bmp.png
 w14a_fl_a04_alp_ovl.bmp.png
 w14a_fl_a07_alp_ovl.bmp.png
@@ -857,9 +847,6 @@ w14a_wall_d03.bmp.png
 w14a_wall_d03.bmp.png
 w14a_wall_d04.bmp.png
 w14a_wall_d04.bmp.png
-w24a_pp03c.bmp.png
-w24a_pp03c.bmp.png
-w24a_pp03c.bmp.png
 w24a_pp04d.bmp.png
 w24a_pp04d.bmp.png
 w24b1_d_box_back.bmp.png

@@ -562,7 +562,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
@@ -597,7 +596,6 @@ sky_d4_alp.bmp.png
 sky_sun_d_alp.bmp.png
 smoke_msk.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_bandana_msk.bmp.png
 sna_bandana_msk.bmp.png
 sna_face_ss_ovl_sub_alp.bmp.png
@@ -616,7 +614,6 @@ sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_m9_glip.bmp.png
@@ -639,16 +636,8 @@ w01_dr00a.bmp.png
 w02a_door.bmp.png
 w04a3_cam_base.bmp.png
 w04a3_cam_body.bmp.png
-w04a3_cam_body2.bmp.png
 w04a3_cam_body3.bmp.png
-w04a3_cam_body4.bmp.png
-w04a3_cam_body5.bmp.png
-w04a3_cam_body6.bmp.png
-w04a3_cam_finder1.bmp.png
-w04a3_cam_finder2.bmp.png
-w04a3_cam_handle.bmp.png
 w04a3_cam_jiku.bmp.png
-w04a3_cam_light.bmp.png
 w04a3_cam_renz.bmp.png
 w04a_door.bmp.png
 w10c_ashi00.bmp.png
@@ -671,8 +660,6 @@ w10c_cntw00.bmp.png
 w10c_cntw00a.bmp.png
 w10c_cntw00b.bmp.png
 w10c_cntw01.bmp.png
-w10c_cntw01a.bmp.png
-w10c_cntw01b.bmp.png
 w10c_cntw02.bmp.png
 w10c_cntw02b.bmp.png
 w10c_cntw03.bmp.png
@@ -957,10 +944,7 @@ w21a_fl04c.bmp.png
 w21a_fl04f.bmp.png
 w21a_tnk00f.bmp.png
 w23a_stp00.bmp.png
-w24a0_fla04d2_alp_ovl.bmp.png
-w24a0_fla04d_alp_ovl.bmp.png
 w24a0_fla04e_alp_ovl.bmp.png
-w24a0_fla04g_alp_ovl.bmp.png
 w24a_ppb00a.bmp.png
 w24b0_box00.bmp.png
 w24b0_box00a.bmp.png

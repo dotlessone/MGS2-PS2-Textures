@@ -305,7 +305,6 @@ htc_uc_ovl_mod1120_alp_emap.bmp.png
 htc_under_pad_uc.bmp.png
 htcdt_ovl_mod1120_alp_emap.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all2.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
@@ -432,9 +431,6 @@ sun_alp.bmp.png
 suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 svc_lens_break.bmp.png
-svc_s_parts_break_mk.bmp.png
-svc_soko02.bmp.png
-svc_soko02_brk_mk.bmp.png
 test_bgray.bmp.png
 test_lit1_add_alp.bmp.png
 test_lit3_add_alp.bmp.png
@@ -466,8 +462,6 @@ w01b_lit01_add_alp.bmp.png
 w03b_dr02.bmp_0927f14937b8bdb1753c5df0f485bfc7.png
 w03b_dr03.bmp_ec8e39c4fd79a206717a537ad8d13895.png
 w03b_dr03b.bmp_691886d350b578958d69b962e07bff9f.png
-w10c_entfl00.bmp.png
-w10c_entw00.bmp_ebada4c5fb0cf21b95c03d700bd34525.png
 w10c_fl00a.bmp_f090db2c7d27de5ceaf7849bea3f7689.png
 w10c_fl00c.bmp_79d5f05b0c8f02fa5ea3d8344309a532.png
 w10c_w00d.bmp.png

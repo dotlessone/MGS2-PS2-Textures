@@ -272,7 +272,6 @@ htc_uc_ovl_mod1120_alp_emap.bmp.png
 htc_under_pad_uc.bmp.png
 htcdt_ovl_mod1120_alp_emap.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all2.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
@@ -417,8 +416,6 @@ w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
 w01b_lit01_add_alp.bmp.png
 w10c_ent00.bmp.png
-w10c_entfl00.bmp.png
-w10c_entw00.bmp_ebada4c5fb0cf21b95c03d700bd34525.png
 w10c_fl00a.bmp_f090db2c7d27de5ceaf7849bea3f7689.png
 w10c_fl00b.bmp_4783af139eb8448160dc9fa885bd7451.png
 w10c_fl01.bmp_89b1600a0752b90e97de0d507585a5be.png
@@ -460,7 +457,6 @@ w18a_ceillit_stay1.bmp.png
 w18a_ceillit_stay2.bmp.png
 w18a_ceillit_stay3.bmp.png
 w18a_color_sky.bmp.png
-w18a_crps_kanban.bmp.png
 w18a_crps_saku1.bmp.png
 w18a_crps_saku2.bmp.png
 w18a_enta00.bmp.png

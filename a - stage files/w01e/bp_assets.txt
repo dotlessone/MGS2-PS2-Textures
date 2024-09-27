@@ -145,7 +145,6 @@ h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
 hosi_msk.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
 ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
@@ -297,7 +296,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 smoke_msk.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_foot01dt.bmp.png
 sna_hair3.bmp.png
@@ -314,7 +312,6 @@ sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_m9_glip.bmp.png

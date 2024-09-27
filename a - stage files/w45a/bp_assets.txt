@@ -121,7 +121,6 @@ htc_light_uc_ovl_sub_alp.bmp.png
 htcdt_ovl_mod1120_alp_emap.bmp.png
 htcdt_ovl_mod1120_alp_emap.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all2.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
@@ -198,7 +197,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 ration_box.bmp.png
 rdr_noise1.bmp.png
@@ -235,8 +233,6 @@ sky_1_alp.bmp.png
 smoke_msk.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_bandana_msk.bmp.png
 sna_bandana_msk.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
@@ -266,8 +262,6 @@ sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png

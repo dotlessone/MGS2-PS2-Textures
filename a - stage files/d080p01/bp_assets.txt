@@ -87,7 +87,6 @@ col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
 dankon2_alp.bmp.png
-demo_lnr_body.bmp.png
 drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 eva_alp_ovl.bmp.png
@@ -309,7 +308,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
@@ -332,8 +330,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_bandana_msk.bmp.png
 sna_bandana_msk.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
@@ -373,8 +369,6 @@ sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png

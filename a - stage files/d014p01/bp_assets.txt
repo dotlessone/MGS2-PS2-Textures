@@ -391,9 +391,6 @@ rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
@@ -898,7 +895,6 @@ w18a_ceilbox_u1.bmp.png
 w18a_ceillit_stay1.bmp.png
 w18a_ceillit_stay2.bmp.png
 w18a_ceillit_stay3.bmp.png
-w18a_crps_kanban.bmp.png
 w18a_crps_saku1.bmp.png
 w18a_crps_saku2.bmp.png
 w18a_enta00.bmp.png

@@ -69,7 +69,6 @@ dogtag_tx_alp.bmp.png
 door_bfl00.bmp.png
 door_rail.bmp.png
 dzp2_tx_alp.bmp.png
-elv_2_ent.bmp.png
 elvt_g99.bmp.png
 elvt_nwall3pb1B_alp.bmp.png
 elvt_nwall3pb_alp.bmp.png
@@ -170,7 +169,6 @@ hnm_def02_ovl_alp.bmp.png
 hnm_low_ovl_alp.bmp.png
 hosi_msk.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all2.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png

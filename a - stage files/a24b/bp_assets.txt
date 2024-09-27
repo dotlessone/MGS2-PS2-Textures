@@ -159,7 +159,6 @@ door_bfl00.bmp.png
 door_bfl00.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
-elv_2_ent.bmp.png
 elvt_g99.bmp.png
 elvt_nwall3pb1B_alp.bmp.png
 elvt_nwall3pb_alp.bmp.png
@@ -251,7 +250,6 @@ gun_light_s.bmp.png
 h_grenade_alp.bmp.png
 hosi_msk.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all2.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
@@ -351,7 +349,6 @@ shuukanshi_hyoushi3.bmp.png
 shuukanshi_ura2.bmp.png
 smoke_msk.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_bandana_msk.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_face_ss_ovl_sub_alp.bmp.png
@@ -375,7 +372,6 @@ sna_hi_tang01dt.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_m9_glip.bmp.png
@@ -446,11 +442,7 @@ w11_col4.bmp.png
 w16a1_rf02.bmp.png
 w16a_gy045.bmp.png
 w16a_rf01.bmp.png
-w24a0_fla04d2_alp_ovl.bmp.png
-w24a0_fla04d_alp_ovl.bmp.png
 w24a0_fla04e_alp_ovl.bmp.png
-w24a0_fla04g_alp_ovl.bmp.png
-w24a_pp03c.bmp.png
 w24a_ppb00a.bmp.png
 w24b0_box00.bmp.png
 w24b0_box00a.bmp.png

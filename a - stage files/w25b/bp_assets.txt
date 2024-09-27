@@ -221,7 +221,6 @@ h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
 hosi_msk.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all2.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
@@ -343,8 +342,6 @@ w10c_cntw00.bmp.png
 w10c_cntw00a.bmp.png
 w10c_cntw00b.bmp.png
 w10c_cntw01.bmp.png
-w10c_cntw01a.bmp.png
-w10c_cntw01b.bmp.png
 w10c_cntw02.bmp.png
 w10c_cntw02b.bmp.png
 w10c_cntw03.bmp.png
@@ -360,9 +357,7 @@ w10c_crn00c.bmp.png
 w10c_ent01.bmp.png
 w10c_ent02.bmp.png
 w10c_ent02_brk.bmp.png
-w10c_entfl00.bmp.png
 w10c_entw00.bmp.png
-w10c_entw00.bmp_ebada4c5fb0cf21b95c03d700bd34525.png
 w10c_fl01.bmp.png
 w10c_flu00.bmp.png
 w10c_flu00.bmp.png

@@ -304,7 +304,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rev_blk.bmp.png
 rev_blk.bmp.png
@@ -325,8 +324,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna_arm1.bmp.png
 sna_arm2.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_bandana_msk.bmp.png
 sna_boot.bmp.png
 sna_chest1.bmp.png
@@ -394,8 +391,6 @@ sna_leg1.bmp.png
 sna_leg2.bmp.png
 sna_leg3.bmp.png
 sna_leg4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png

@@ -78,9 +78,7 @@ flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 g_alp_ovl.bmp.png
 h6h_eff_mrot_alp.bmp.png
-h6h_front_window.bmp.png
 h6h_propera_blur_alp.bmp.png
-h6h_twing_t1.bmp.png
 h_alp_ovl.bmp_195755e5686e25eaa259a854a626b6f0.png
 hamon09_add_alp.bmp.png
 item_glass.bmp.png
@@ -170,7 +168,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rcm_l_alp.bmp.png
 rev_blk.bmp.png
@@ -248,8 +245,6 @@ w10c_cntw00.bmp.png
 w10c_cntw00a.bmp.png
 w10c_cntw00b.bmp.png
 w10c_cntw01.bmp.png
-w10c_cntw01a.bmp.png
-w10c_cntw01b.bmp.png
 w10c_cntw02.bmp.png
 w10c_cntw02b.bmp.png
 w10c_cntw03.bmp.png

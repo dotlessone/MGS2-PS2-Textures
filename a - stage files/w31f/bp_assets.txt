@@ -128,7 +128,6 @@ hamon09_add_alp.bmp.png
 hiyoko_karada_stamp01.bmp.png
 hiyoko_stamp01.bmp.png
 hosi_msk.bmp.png
-ibox_all1.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
 ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png

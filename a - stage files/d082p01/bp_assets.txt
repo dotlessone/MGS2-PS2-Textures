@@ -1,12 +1,5 @@
 alt_alp_ovl.bmp.png
 alt_b_alp_ovl.bmp.png
-amg_main1.bmp.png
-amg_memori_alp_ovl.bmp.png
-amg_mizo1.bmp.png
-amg_mizo1_bright.bmp.png
-amg_vau_slaster2.bmp.png
-amg_vau_slaster3.bmp.png
-amg_vau_slaster4.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 at_normal_alp.bmp.png
@@ -289,7 +282,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 raiden_gogle_sev_alp.bmp.png
 rdr_noise1.bmp.png
@@ -335,8 +327,6 @@ smoke_msk.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_bandana_msk.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
@@ -373,8 +363,6 @@ sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
@@ -464,7 +452,6 @@ w61a_bill10_wall1.bmp.png
 w61a_bill11_wall1.bmp.png
 w61a_crack_temp1.bmp.png
 w61a_crack_temp2.bmp.png
-w61a_door1.bmp.png
 w61a_douro.bmp.png
 w61a_douro_post.bmp.png
 w61a_douro_post_t1.bmp.png

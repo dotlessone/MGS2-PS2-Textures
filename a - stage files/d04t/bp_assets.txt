@@ -72,7 +72,6 @@ g_dankon_alp.bmp.png
 gas01.bmp.png
 gas_cap00.bmp.png
 gas_cap01.bmp.png
-gas_dai02.bmp.png
 gas_dai02b.bmp.png
 gas_dai02c.bmp.png
 gbs_ak_sling.bmp.png
@@ -195,7 +194,6 @@ rdr_yaji_alp_ovl.bmp.png
 shdw.bmp.png
 smoke_msk.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_foot01dt.bmp.png
 sna_hair3.bmp.png
@@ -209,7 +207,6 @@ sna_hi_tang01dt.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_m9_glip.bmp.png
@@ -404,7 +401,6 @@ w00ak_blc_s2.bmp.png
 w00ak_crps_saku_msk.bmp.png
 w00ak_dbx_tank_f1.bmp.png
 w00ak_dbx_tank_s1.bmp.png
-w00ak_discovery_msk.bmp.png
 w00ak_door_lit.bmp.png
 w00ak_door_panel.bmp.png
 w00ak_endwall_f1.bmp.png
@@ -439,7 +435,6 @@ w00ak_refcover.bmp.png
 w00ak_roll2.bmp.png
 w00ak_survial_ashi3.bmp.png
 w00ak_survial_f1.bmp.png
-w00ak_survial_rope_alp.bmp.png
 w00ak_survial_s1.bmp.png
 w00ak_ue1.bmp.png
 w00ak_ue1.bmp.png
@@ -474,7 +469,6 @@ w00b_duct_boxt.bmp.png
 w00b_fade1.bmp.png
 w00b_fannel1.bmp.png
 w00b_fannel2.bmp.png
-w00b_fannel_text_msk.bmp.png
 w00b_firehose.bmp.png
 w00b_firehose_box.bmp.png
 w00b_firehose_post1.bmp.png

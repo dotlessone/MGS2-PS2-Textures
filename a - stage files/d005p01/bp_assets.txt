@@ -224,7 +224,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
@@ -309,10 +308,6 @@ w10c_cntw00b.bmp.png
 w10c_cntw00b.bmp.png
 w10c_cntw01.bmp.png
 w10c_cntw01.bmp.png
-w10c_cntw01a.bmp.png
-w10c_cntw01a.bmp.png
-w10c_cntw01b.bmp.png
-w10c_cntw01b.bmp.png
 w10c_cntw02.bmp.png
 w10c_cntw02.bmp.png
 w10c_cntw02b.bmp.png
@@ -337,7 +332,6 @@ w10c_crn00b.bmp.png
 w10c_crn00b.bmp.png
 w10c_crn00c.bmp.png
 w10c_crn00c.bmp.png
-w10c_entfl00.bmp.png
 w10c_entfl00.bmp_41079b5b76f61fb1621b76f73c73ce8b.png
 w10c_entw00.bmp.png
 w10c_entw00.bmp_6b398af0556d5020d5131657e1fd0489.png
@@ -598,9 +592,6 @@ w12a_ironbox_sf.bmp.png
 w12a_ironbox_sf.bmp_debb664cc3a392cbbde1f52d4bb316ed.png
 w12a_ironbox_t.bmp.png
 w12a_ironbox_t.bmp_baf38295f7ed64f4c915f5892b2e4f20.png
-w12a_label00.bmp.png
-w12a_label01.bmp.png
-w12a_label02.bmp.png
 w12a_label02_alp_ovl.bmp.png
 w12a_line00_add_alp_ovl.bmp.png
 w12a_line00a_add_alp_ovl.bmp.png

@@ -8,15 +8,6 @@
 009720e7.png
 00b7b270.png
 00f520eb.png
-amg_main1.bmp.png
-amg_memori_alp_ovl.bmp.png
-amg_mizo1.bmp.png
-amg_mizo1_bright.bmp.png
-amg_vau_slaster1.bmp.png
-amg_vau_slaster2.bmp.png
-amg_vau_slaster3.bmp.png
-amg_vau_slaster4.bmp.png
-amg_yogoshi_sub_alp_ovl.bmp.png
 blk_msk_alp.bmp.png
 blood_1bw_msk.bmp.png
 blood_2_msk.bmp.png
@@ -45,7 +36,6 @@ col256_bld100.bmp.png
 col_blk.bmp.png
 d_sky_top_01_alp.bmp.png
 dankon2_alp.bmp.png
-demo_lnr_body.bmp.png
 dnjv_f1.bmp.png
 fire1_alp.bmp.png
 flare_b1_msk.bmp.png
@@ -175,7 +165,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 ray_bm_01.bmp.png
 ray_bm_01.bmp.png
@@ -282,8 +271,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_bandana_msk.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
@@ -323,8 +310,6 @@ sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png

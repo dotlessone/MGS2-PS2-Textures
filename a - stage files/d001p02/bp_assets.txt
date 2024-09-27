@@ -12,8 +12,6 @@ blood_2bw_msk.bmp.png
 bombgas6_alp.bmp.png
 bombpowder1_msk.bmp.png
 bombpowder7_msk.bmp.png
-box_s_07_side.bmp.png
-box_s_07_top.bmp.png
 c4_a_antena.bmp.png
 c4_a_beruto2_msk.bmp.png
 c4_a_beruto3_msk.bmp.png
@@ -74,7 +72,6 @@ forklift_winker_01.bmp.png
 forklift_winker_front_01.bmp.png
 gas_cap00.bmp.png
 gas_cap01.bmp.png
-gas_dai02.bmp.png
 gas_dai02b.bmp.png
 gas_dai02c.bmp.png
 gbs_boot_bot1.bmp.png
@@ -156,7 +153,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 ripple02_alp.bmp.png
 sbm_back_01.bmp.png
@@ -181,7 +177,6 @@ sky_d4_alp.bmp.png
 sky_sun_d_alp.bmp.png
 smoke_msk.bmp.png
 sna2h_mouin.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_bandana_msk.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_foot01dt.bmp.png
@@ -196,7 +191,6 @@ sna_hi_tang01dt.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_m9_glip.bmp.png

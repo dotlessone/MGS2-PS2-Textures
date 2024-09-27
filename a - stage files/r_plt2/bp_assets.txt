@@ -229,8 +229,6 @@ obj_mog_book_ovl_alp.bmp.png
 over_menu_alp_ovl.bmp.png
 psg2_alp_ovl.bmp.png
 psg_alp_ovl.bmp.png
-psg_s.bmp.png
-psg_sight.bmp.png
 pump02_alp.bmp.png
 rah_hi_finger.bmp.png
 rah_hi_finger2.bmp.png
@@ -333,7 +331,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 raiden_gbssub_alp_ovl.bmp.png
 ration_alp_ovl.bmp.png

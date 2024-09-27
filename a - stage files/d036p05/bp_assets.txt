@@ -19,8 +19,6 @@ bombgas6_alp.bmp.png
 bombpowder1_msk.bmp.png
 bombpowder2_msk.bmp.png
 bombpowder7_msk.bmp.png
-box_s_07_side.bmp.png
-box_s_07_top.bmp.png
 c_alp_ovl.bmp_c3c45df5eff774d767719a74e507012e.png
 call_alp_ovl.bmp.png
 cau_alp_ovl.bmp.png
@@ -83,7 +81,6 @@ dankon2_alp.bmp.png
 door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
 drop01_alp_mod1201.bmp.png
 drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.png
-elv_2_ent.bmp.png
 elvt_g99.bmp.png
 elvt_nwall3pb1B_alp.bmp.png
 elvt_nwall3pb_alp.bmp.png
@@ -104,7 +101,6 @@ flare_g2_msk.bmp.png
 flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 g_alp_ovl.bmp.png
-gas_dai02.bmp.png
 gbs_ak_sling.bmp.png
 gbs_ak_sling.bmp.png
 gbs_ak_sling.bmp.png
@@ -287,7 +283,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 ray_eye_bonbori_alp.bmp.png
 rdr_noise1.bmp.png
@@ -297,7 +292,6 @@ rdr_yaji_alp_ovl.bmp.png
 ripple02_alp.bmp.png
 scm_sb_hammer.bmp.png
 scm_sb_temp.bmp.png
-skk_01.bmp_fa1b59e1bada4a68d29cd558a067c3fe.png
 skk_02.bmp_434448523018e3bcd90f271906275d50.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -318,9 +312,6 @@ socom_f_msk.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 svc_lens_break.bmp.png
-svc_s_parts_break_mk.bmp.png
-svc_soko02.bmp.png
-svc_soko02_brk_mk.bmp.png
 svc_totte01.bmp.png
 usp_sb_all.bmp.png
 usp_sb_all2.bmp.png
@@ -353,8 +344,6 @@ w10c_cntw00.bmp.png
 w10c_cntw00a.bmp.png
 w10c_cntw00b.bmp.png
 w10c_cntw01.bmp.png
-w10c_cntw01a.bmp.png
-w10c_cntw01b.bmp.png
 w10c_cntw02.bmp.png
 w10c_cntw02b.bmp.png
 w10c_cntw03.bmp.png
@@ -639,21 +628,14 @@ w21a_fl04c.bmp.png
 w21a_fl04f.bmp.png
 w21a_tnk00f.bmp.png
 w23a_stp00.bmp.png
-w24a0_fla04d2_alp_ovl.bmp.png
-w24a0_fla04d_alp_ovl.bmp.png
 w24a0_fla04e_alp_ovl.bmp.png
-w24a0_fla04g_alp_ovl.bmp.png
-w24a0_fla05a_alp_ovl.bmp.png
 w24a0_fla06c_alp_ovl.bmp.png
 w24a0_sdw00a_alp_ovl.bmp.png
 w24a0_wh00.bmp.png
 w24a0_wh01.bmp.png
 w24a1_boxsdw00_alp_ovl.bmp.png
-w24a1_fl03a.bmp.png
 w24a1_sdw03_alp_ovl.bmp.png
 w24a1_sdw03a_alp_ovl.bmp.png
-w24a_pp03c.bmp.png
-w24a_pp03c.bmp.png
 w24a_ppb00a.bmp.png
 w24c0_gate_head.bmp.png
 w25B_h08.bmp.png

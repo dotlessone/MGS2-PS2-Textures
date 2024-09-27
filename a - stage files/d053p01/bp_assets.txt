@@ -149,7 +149,6 @@ ema_shueside.bmp.png
 ema_shueside.bmp.png
 ema_shuesunder.bmp.png
 ema_shuesunder.bmp.png
-ema_tag.bmp.png
 ema_tag2.bmp.png
 ema_tag2_alp_ovl.bmp.png
 ema_tag3.bmp.png
@@ -302,7 +301,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rdr_noise1.bmp.png
 rdr_noise2.bmp.png
@@ -378,10 +376,6 @@ w16a1_rf02.bmp.png
 w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888.png
 w24a0_entb01a_water.bmp.png
 w24a0_entb03.bmp.png
-w24a0_fla04d2_alp_ovl.bmp.png
-w24a0_fla04d_alp_ovl.bmp.png
-w24a0_fla04g_alp_ovl.bmp.png
-w24a0_fla05a_alp_ovl.bmp.png
 w24a0_wh00.bmp.png
 w24a_ppb00a.bmp.png
 w24a_ppb00a.bmp.png

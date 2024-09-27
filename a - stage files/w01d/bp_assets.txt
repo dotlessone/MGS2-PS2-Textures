@@ -165,8 +165,6 @@ g95.bmp.png
 g95.bmp.png
 g95.bmp.png
 g_dankon_alp.bmp.png
-gas_dai02.bmp.png
-gas_dai02.bmp.png
 gasmask_alp.bmp.png
 gba_arm.bmp.png
 gba_boot02.bmp.png
@@ -243,7 +241,6 @@ hakoS1sh.bmp.png
 hakoT1.bmp.png
 hosi_msk.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all2.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
@@ -468,7 +465,6 @@ shl_s_alp.bmp.png
 shuukanshi_hyoushi3.bmp.png
 shuukanshi_ura2.bmp.png
 skk_01.bmp_8dd23f4fa615fc1e9e352f589c530f49.png
-skk_01.bmp_fa1b59e1bada4a68d29cd558a067c3fe.png
 skk_02.bmp_34cbc447933333d116d7bac586fa0b43.png
 skk_02.bmp_434448523018e3bcd90f271906275d50.png
 sky_1_alp.bmp.png

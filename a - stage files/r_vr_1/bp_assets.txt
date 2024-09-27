@@ -231,8 +231,6 @@ obj_mog_book_inner.bmp.png
 obj_mog_book_ovl_alp.bmp.png
 psg2_alp_ovl.bmp.png
 psg_alp_ovl.bmp.png
-psg_s.bmp.png
-psg_sight.bmp.png
 pump02_alp.bmp.png
 rah_hi_finger.bmp.png
 rah_hi_finger2.bmp.png

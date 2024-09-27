@@ -173,8 +173,6 @@ scp.bmp.png
 sgr_sb_body_s.bmp.png
 shv_alp_ovl.bmp.png
 smoke_alp_ovl.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
-sna_arm_ovl_sub_alp.bmp.png
 sna_bandana_msk.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_face_ss_ovl_sub_alp.bmp.png
@@ -190,7 +188,6 @@ sna_hi_finger2.bmp.png
 sna_hi_hand1.bmp.png
 sna_hi_hand2.bmp.png
 sna_hi_meziri.bmp.png
-sna_leg_ovl_sub_alp.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_m9_glip.bmp.png

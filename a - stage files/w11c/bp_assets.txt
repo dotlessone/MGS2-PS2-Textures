@@ -40,7 +40,6 @@ col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
 dankon2_alp.bmp.png
-demo_lnr_body.bmp.png
 dog_tag2.bmp.png
 dogtag_sh_alp.bmp.png
 drop01_alp2_mod1021.bmp.png
@@ -198,7 +197,6 @@ hnm_def02_ovl_alp.bmp.png
 hnm_low_ovl_alp.bmp.png
 hosi_msk.bmp.png
 ibox2_tx_all_alp.bmp.png
-ibox_all1.bmp.png
 ibox_all3.bmp.png
 ibox_all4.bmp.png
 ibox_tx_all_alp.bmp_791e610c4fcf41bf273b86f3bef405c7.png
@@ -259,7 +257,6 @@ rai_rist_fix_ovl_sub_alp.bmp.png
 rai_toe01_fix.bmp.png
 rai_toe_01_fix_ovl_sub_alp.bmp.png
 rai_toe_02_fix_ovl_sub_alp.bmp.png
-rai_watch_dt01_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 ray_eye_bonbori_alp.bmp.png
 rdr_noise1.bmp.png
