@@ -239,7 +239,6 @@ w00b_crane_post_s.bmp.png
 w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
-w00b_fannel1.bmp.png
 w00b_fannel2.bmp.png
 w00b_rader1.bmp.png
 w00b_raderdome.bmp.png

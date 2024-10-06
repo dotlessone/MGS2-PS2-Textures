@@ -324,7 +324,6 @@ w00b_duct_boxs.bmp.png
 w00b_duct_boxt.bmp.png
 w00b_duct_boxt.bmp.png
 w00b_fade1.bmp.png
-w00b_fannel1.bmp.png
 w00b_fannel2.bmp.png
 w00b_firehose.bmp.png
 w00b_firehose_box.bmp.png
