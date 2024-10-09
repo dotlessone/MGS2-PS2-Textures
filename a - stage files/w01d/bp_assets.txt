@@ -28,7 +28,6 @@ a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 bell_00.bmp.png
@@ -71,8 +70,6 @@ cigarette_tx_alp.bmp.png
 ckbo.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
-co2_04.bmp.png
-co2_04.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -134,11 +131,6 @@ g70.bmp.png
 g70.bmp.png
 g80.bmp.png
 g80.bmp.png
-g90.bmp.png
-g90.bmp.png
-g95.bmp.png
-g95.bmp.png
-g95.bmp.png
 gasmask_alp.bmp.png
 gbs_bp1.bmp.png
 gbs_bp2.bmp.png
@@ -350,7 +342,6 @@ shl_lit1_f_msk_decal.bmp.png
 shl_lit_wire.bmp.png
 skk_01.bmp_8dd23f4fa615fc1e9e352f589c530f49.png
 skk_02.bmp_34cbc447933333d116d7bac586fa0b43.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png

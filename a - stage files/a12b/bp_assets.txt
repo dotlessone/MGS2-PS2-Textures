@@ -68,7 +68,6 @@ abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 atop_alp_ovl.bmp.png
@@ -80,12 +79,6 @@ bombpowder2_msk.bmp.png
 books_01.bmp.png
 brack_01_01_01.bmp.png
 button_alp.bmp.png
-c4_a_antena.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_4.bmp.png
-c4_a_sen1_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -140,11 +133,6 @@ exit_alp_ovl.bmp.png
 eyes_kyoro.bmp.png
 fa_alp_ovl.bmp.png
 fa_renraku_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
@@ -253,7 +241,6 @@ medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2_top.bmp.png
-mosuquito_alp_ovl.bmp.png
 nametag_cube_def_add_alp.bmp.png
 nametag_hexa_def_add_alp.bmp.png
 nametag_octa_def_add_alp.bmp.png
@@ -299,7 +286,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
-sna_m9_glip.bmp.png
 socom_alp_ovl.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
@@ -309,7 +295,6 @@ splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
-svc_lens_break.bmp.png
 test_rabel_alp_ovl.bmp.png
 vr2_goal_add_alp.bmp.png
 vr2_goal_post_add_alp.bmp.png

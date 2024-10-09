@@ -107,15 +107,9 @@ blood_2bw_alp.bmp.png
 blood_2bw_msk.bmp.png
 bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
-c4_a_antena.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_4.bmp.png
 c4_a_hontai_9.bmp.png
-c4_a_sen1_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -144,11 +138,6 @@ dogtag_tx_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
@@ -211,8 +200,6 @@ rai_all_ibox.bmp.png
 rai_dtg_chain_msk.bmp.png
 rai_dtg_plate.bmp.png
 rai_face_dt01_naked.bmp.png
-rai_hi_eye2.bmp.png
-rai_hi_face_ss2.bmp.png
 rai_na_ovl_mod1102_alp_emap.bmp.png
 rai_na_ovl_mod1102_alp_emap.bmp.png
 rai_naked_arm_ovl_sub_alp.bmp.png

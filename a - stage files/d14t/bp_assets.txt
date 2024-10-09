@@ -29,11 +29,6 @@ fade_out_alp.bmp.png
 fade_out_floor2_sub.bmp.png
 fade_out_floor_sub.bmp.png
 fade_out_sub.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 glass.bmp.png
@@ -203,9 +198,6 @@ ptr_tooth_u2.bmp.png
 ptr_tooth_u3.bmp.png
 ptr_tooth_u4.bmp.png
 qt_break_alp.bmp.png
-rai_gun_top.bmp.png
-rai_gun_top.bmp.png
-rai_gun_top.bmp.png
 ray_armpit_meca2_new.bmp.png
 ray_canopy.bmp_69536e0cc16b5504c7afe3237c9f388a.png
 ray_canopy.bmp_69536e0cc16b5504c7afe3237c9f388a.png
@@ -270,9 +262,6 @@ sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_face_ovl_sub_alp.bmp.png
 sna_hi_meziri.bmp.png
-sna_hi_tang01dt.bmp.png
-sna_hi_tang01dt.bmp.png
-sna_hi_tang01dt.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_u3.bmp.png
@@ -283,8 +272,6 @@ sna_leg_r01dt.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
-sna_m9_glip.bmp.png
-sna_m9_glip.bmp.png
 sna_shoul01dt.bmp.png
 sna_shoul01dt.bmp.png
 sna_shoul01dt_ovl_sub_alp.bmp.png

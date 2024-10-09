@@ -27,7 +27,6 @@ env00_mht3_alp_ovl.bmp.png
 gry075.bmp.png
 jam_alp_ovl.bmp.png
 kck_gray1.bmp.png
-kck_mark504_sub_ovl_alp.bmp.png
 lifeboat_body_front_01.bmp.png
 lifeboat_lift_09.bmp.png
 lifeboat_lift_arm_01.bmp.png
@@ -50,7 +49,6 @@ mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 odessey_light_alp_decal.bmp.png
 plasma_msk.bmp.png
-rai_gun_top.bmp.png
 rai_rist_ovl_sub_alp.bmp.png
 rcm_l.bmp.png
 rcm_l_alp.bmp.png
@@ -77,7 +75,6 @@ sna_hi_face_ovl_sub_alp.bmp.png
 sna_hi_finger.bmp.png
 sna_hi_hand2.bmp.png
 sna_hi_meziri.bmp.png
-sna_hi_tang01dt.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_u3.bmp.png

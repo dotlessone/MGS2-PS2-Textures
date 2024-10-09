@@ -15,7 +15,6 @@ abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 apple_alp.bmp.png
 at_break_alp.bmp.png

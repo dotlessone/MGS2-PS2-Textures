@@ -57,8 +57,6 @@
 00f4b0a9.png
 00f995ec.png
 aks_sb_s.bmp_73f39fdb33d46a0ad4126ed3d411da41.png
-aks_selecter.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -70,15 +68,9 @@ blood_2bw_alp.bmp.png
 blood_2bw_msk.bmp.png
 bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
-c4_a_antena.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_4.bmp.png
 c4_a_hontai_9.bmp.png
-c4_a_sen1_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -97,11 +89,6 @@ dogtag_chain_black_msk.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 flash_mog.bmp.png
 gbs_bp1.bmp.png

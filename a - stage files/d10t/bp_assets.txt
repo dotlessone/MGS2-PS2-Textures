@@ -31,11 +31,6 @@ drop01_alp_mod1201.bmp.png
 fade_out_floor2_sub.bmp.png
 fade_out_floor_sub.bmp.png
 fade_out_sub.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 glass.bmp.png
@@ -67,8 +62,6 @@ powder03_alp.bmp.png
 powder04_alp.bmp.png
 powfog03_add.bmp.png
 qt_break_alp.bmp.png
-rai_gun_top.bmp.png
-rai_gun_top.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rimo3.bmp.png
 ripple02_alp.bmp.png
@@ -89,13 +82,11 @@ sna_hi_eye01dt.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_face_ovl_sub_alp.bmp.png
 sna_hi_meziri.bmp.png
-sna_hi_tang01dt.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_u3.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
-sna_m9_glip.bmp.png
 sna_shoul01dt.bmp.png
 sna_shoul01dt_ovl_sub_alp.bmp.png
 sonic02_alp.bmp.png

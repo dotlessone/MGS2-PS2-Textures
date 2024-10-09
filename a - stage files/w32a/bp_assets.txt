@@ -2,7 +2,6 @@ abk_barel_s1.bmp.png
 abk_body_s1.bmp.png
 abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 b_alp_ovl.bmp.png
@@ -117,11 +116,6 @@ ema_tag2_alp_ovl.bmp.png
 ema_tag3.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 gbs_bp1.bmp.png
@@ -196,7 +190,6 @@ iro_bag4.bmp.png
 iro_bag5.bmp.png
 iro_bag6.bmp.png
 iro_body.bmp.png
-iro_boots.bmp.png
 iro_face.bmp_c2887b3a82812f39ba6df6e2295dab8a.png
 iro_face_ovl_sub_alp.bmp.png
 iro_hair01_alp_ovl.bmp.png
@@ -273,7 +266,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_sun_e_alp.bmp.png
-sna_hi_tang01dt.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png

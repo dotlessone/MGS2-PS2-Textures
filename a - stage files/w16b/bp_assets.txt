@@ -9,7 +9,6 @@ abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 apple_alp.bmp.png
 at_break_alp.bmp.png
@@ -21,15 +20,6 @@ bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
 btl_piece00_add_ovl.bmp.png
 btl_piece01_add_ovl.bmp.png
-c4_a_antena.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_4.bmp.png
-c4_a_sen1_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 c_shokudou_alp_ovl.bmp.png
@@ -89,16 +79,10 @@ driver01.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 elvt_g99.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
 frost02_alp.bmp.png
-g95.bmp.png
 gasmask_alp.bmp.png
 gbs_bp1.bmp.png
 gbs_bp2.bmp.png
@@ -206,7 +190,6 @@ m4grn_bul_high.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
-mosuquito_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 pench_bar01.bmp.png
 pench_head01.bmp.png
@@ -252,7 +235,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 smallbox_01.bmp.png
-sna_m9_glip.bmp.png
 soHakoFr.bmp.png
 soHakoFrU.bmp.png
 soHakoFrU2.bmp.png

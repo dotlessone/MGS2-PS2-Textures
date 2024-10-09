@@ -83,7 +83,6 @@ YukaKi.bmp.png
 YukaKi.bmp_029438fec87469e686f9c59d2b157441.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 bell_00.bmp.png
@@ -108,15 +107,9 @@ btl_06.bmp.png
 btl_07.bmp.png
 btl_piece00_add_ovl.bmp.png
 btl_piece01_add_ovl.bmp.png
-c4_a_antena.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_4.bmp.png
 c4_a_hontai_9.bmp.png
-c4_a_sen1_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 cabageD.bmp.png
@@ -134,8 +127,6 @@ chaff_alp.bmp.png
 ckbo.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
-co2_04.bmp.png
-co2_04.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -179,11 +170,6 @@ dzp2_tx_alp.bmp.png
 eki1_ovl_alp.bmp.png
 emt.bmp_92218c4eceae5cac3617475a1397d4b5.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 g10.bmp.png
@@ -197,11 +183,6 @@ g70.bmp.png
 g70.bmp.png
 g80.bmp.png
 g80.bmp.png
-g90.bmp.png
-g90.bmp.png
-g95.bmp.png
-g95.bmp.png
-g95.bmp.png
 gbs_bp1.bmp.png
 gbs_bp2.bmp.png
 gbs_nvg_box.bmp.png
@@ -406,7 +387,6 @@ shl_lit1_f_msk_decal.bmp.png
 shl_lit_wire.bmp.png
 skk_01.bmp_8dd23f4fa615fc1e9e352f589c530f49.png
 skk_02.bmp_34cbc447933333d116d7bac586fa0b43.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png

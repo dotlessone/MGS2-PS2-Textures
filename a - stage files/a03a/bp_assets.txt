@@ -58,7 +58,6 @@
 00f995ec.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -72,9 +71,6 @@ case_lan.bmp.png
 chaff_alp.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
-co2_04.bmp.png
-co2_04.bmp.png
-co2_04.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -163,11 +159,6 @@ dogtag_chain_black_msk.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 gbs_bp1.bmp.png
 gbs_bp2.bmp.png
@@ -198,7 +189,6 @@ litA3_add_alp.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
 mode_alp_ovl.bmp.png
-mosuquito_alp_ovl.bmp.png
 nametag_cube_def_add_alp.bmp.png
 nametag_hexa_def_add_alp.bmp.png
 nametag_octa_def_add_alp.bmp.png
@@ -227,9 +217,6 @@ shl_lit1_f.bmp.png
 shl_lit1_f2.bmp.png
 shl_lit1_f_msk_decal.bmp.png
 shl_lit_wire.bmp.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
 splash03_alp.bmp.png
 svc_bonbori.bmp.png
 tnc_boot_bt1.bmp.png

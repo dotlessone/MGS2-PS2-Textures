@@ -108,11 +108,6 @@ flare1_msk.bmp.png
 flare2_msk.bmp.png
 flare3_msk.bmp.png
 flare4_msk.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 flare_ri_msk.bmp.png
 gas01.bmp.png

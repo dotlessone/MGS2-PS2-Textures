@@ -60,7 +60,6 @@ abk_barel_s1.bmp.png
 abk_body_s1.bmp.png
 abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blood_2_msk.bmp.png
@@ -134,11 +133,6 @@ ema_tag2_alp_ovl.bmp.png
 ema_tag3.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 floor_marker1_add_alp.bmp.png
 floor_marker2_add_alp.bmp.png

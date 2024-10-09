@@ -90,11 +90,6 @@ drop01_alp_mod1201.bmp.png
 dse_side1.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 flash_mog.bmp.png
 frost02_alp.bmp.png

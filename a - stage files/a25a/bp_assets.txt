@@ -144,11 +144,6 @@ entrance_alp_add_ovl.bmp.png
 entyou_oil_sea.bmp.png
 exit_alp_ovl.bmp.png
 flag_sons_of_liberty.bmp_7e2566178b199d687cf71dab30a04d87.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
@@ -186,7 +181,6 @@ iro_bag4.bmp.png
 iro_bag5.bmp.png
 iro_bag6.bmp.png
 iro_body.bmp.png
-iro_boots.bmp.png
 iro_face.bmp_c2887b3a82812f39ba6df6e2295dab8a.png
 iro_face_ovl_sub_alp.bmp.png
 iro_hair01_alp_ovl.bmp.png

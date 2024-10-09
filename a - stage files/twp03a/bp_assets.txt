@@ -65,7 +65,6 @@ abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -100,11 +99,6 @@ dogtag_tx_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 floor_marker1_add_alp.bmp.png
 floor_marker2_add_alp.bmp.png
@@ -246,7 +240,6 @@ sky_m1_alp.bmp.png
 sky_m2_alp.bmp.png
 sky_m4_alp.bmp.png
 sky_sun_d_alp.bmp.png
-sna_m9_glip.bmp.png
 socom_alp_ovl.bmp.png
 sp25a_sdw25_alp_ovl.bmp.png
 sp25a_sdw_dan03_alp_ovl.bmp.png

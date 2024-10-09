@@ -9,7 +9,6 @@ abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -18,12 +17,6 @@ blood_2bw_alp.bmp.png
 blood_2bw_msk.bmp.png
 bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
-c4_a_antena.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_4.bmp.png
-c4_a_sen1_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -57,11 +50,6 @@ dogtag_tx_alp.bmp.png
 door_c00a.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
@@ -165,7 +153,6 @@ m4grn_bul_high.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
-mosuquito_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 plant_bomb2_alp_ovl.bmp.png
 plasma_msk.bmp.png
@@ -205,7 +192,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
-sna_m9_glip.bmp.png
 socom_alp_ovl.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
@@ -244,7 +230,6 @@ w10c_sku00c.bmp.png
 w10c_sku00d.bmp.png
 w10c_sku01a.bmp.png
 w10c_w00c.bmp_1a2ec7dfc72a4bdfc203becd5d5bccf6.png
-w13a_sdw01e_alp_ovl.bmp.png
 w13a_sku01a.bmp.png
 w18a_2f_flor1.bmp.png
 w18a_2f_flor1_edge.bmp.png

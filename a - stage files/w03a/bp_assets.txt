@@ -3,7 +3,6 @@ a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -20,9 +19,6 @@ cigarette_tx.bmp.png
 cigarette_tx_alp.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
-co2_04.bmp.png
-co2_04.bmp.png
-co2_04.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -155,7 +151,6 @@ litA3_add_alp.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
-mosuquito_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 plasma_msk.bmp.png
 powder01_alp.bmp.png
@@ -182,9 +177,6 @@ shl_lit1_f.bmp.png
 shl_lit1_f2.bmp.png
 shl_lit1_f_msk_decal.bmp.png
 shl_lit_wire.bmp.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
 socom_alp_ovl.bmp.png
 splash03_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png

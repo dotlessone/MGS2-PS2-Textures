@@ -5,7 +5,6 @@ abk_barel_s1.bmp.png
 abk_body_s1.bmp.png
 abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 apple_alp.bmp.png
 at_break_alp.bmp.png
@@ -256,7 +255,6 @@ sna2h_mouin.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
-sna_hi_tang01dt.bmp.png
 sol_arm_dt01.bmp.png
 sol_arm_dt01_ovl_sub_alp.bmp.png
 sol_arm_dt02.bmp.png

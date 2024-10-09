@@ -233,8 +233,6 @@ rifle_ibox.bmp_94bca08db682d231ae1d48d2b6385598.png
 ripple02_alp.bmp.png
 shadow_alp.bmp.png
 shadow_rev_alp.bmp.png
-sna_hi_tang01dt.bmp.png
-sna_hi_tang01dt.bmp.png
 socom_alp_ovl.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png

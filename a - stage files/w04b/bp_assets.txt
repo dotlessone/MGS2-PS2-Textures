@@ -41,7 +41,6 @@ mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 nypo_ovl_mod1120_alp_emap.bmp.png
 qt_break_alp.bmp.png
-rai_gun_top.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rifle_ibox.bmp.png
 rimo3.bmp.png

@@ -61,7 +61,6 @@ abk_barel_s1.bmp.png
 abk_body_s1.bmp.png
 abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 b_alp_ovl.bmp_29d4c42def820463fd8423fe64aaf73e.png
@@ -125,11 +124,6 @@ entrance_alp_add_ovl.bmp.png
 exit_alp_ovl.bmp.png
 f_alp_ovl.bmp_dacca138520a09db2f382cd802c85ce1.png
 flag_sons_of_liberty.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 g_alp_ovl.bmp.png

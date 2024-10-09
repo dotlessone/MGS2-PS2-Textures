@@ -63,7 +63,6 @@ abk_barel_s1.bmp.png
 abk_body_s1.bmp.png
 abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 b_alp_ovl.bmp.png
@@ -131,11 +130,6 @@ drp_01a.bmp.png
 entrance_alp_add_ovl.bmp.png
 exit_alp_ovl.bmp.png
 f_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 gbs_bp1.bmp.png
@@ -309,7 +303,6 @@ sky_d1_alp.bmp.png
 sky_d2_alp.bmp.png
 sky_d4_alp.bmp.png
 sky_sun_d_alp.bmp.png
-sna_hi_tang01dt.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png

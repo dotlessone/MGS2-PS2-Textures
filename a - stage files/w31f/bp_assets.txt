@@ -139,7 +139,6 @@ rdr_yaji_alp_ovl.bmp.png
 rev_blk.bmp.png
 ripple02_alp.bmp.png
 shadow_alp.bmp.png
-sna_hi_tang01dt.bmp.png
 splash03_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png

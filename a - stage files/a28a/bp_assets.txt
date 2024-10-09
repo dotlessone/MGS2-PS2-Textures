@@ -65,7 +65,6 @@ abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -178,11 +177,6 @@ ema_tag3.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
@@ -297,7 +291,6 @@ mark_warning_alp_ovl.bmp_b02569d9d2fe228c695d6e54a1f86d70.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
-mosuquito_alp_ovl.bmp.png
 nametag_cube_def_add_alp.bmp.png
 nametag_hexa_def_add_alp.bmp.png
 nametag_octa_def_add_alp.bmp.png
@@ -353,8 +346,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_sun_e_alp.bmp.png
-sna_hi_tang01dt.bmp.png
-sna_m9_glip.bmp.png
 socom_alp_ovl.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png

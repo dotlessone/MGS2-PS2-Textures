@@ -73,8 +73,6 @@ abk_body_s1.bmp.png
 abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -98,11 +96,6 @@ dogtag_chain_black_msk.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 floor_marker1_add_alp.bmp.png
 floor_marker2_add_alp.bmp.png
@@ -251,11 +244,6 @@ powder04_alp.bmp.png
 powfog03_add.bmp.png
 psg1-T_tx_alp.bmp.png
 qt_break_alp.bmp.png
-rai_finger_fix.bmp.png
-rai_finger_fix_ovl_sub_alp.bmp.png
-rai_fx_ovl_mod1120_alp_emap.bmp.png
-rai_gun_top.bmp.png
-rai_hand_02_fix_ovl_sub_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rifle_ibox.bmp.png
 sel_sling1_alp_ovl.bmp.png
@@ -276,7 +264,6 @@ sky_m1_alp.bmp.png
 sky_m2_alp.bmp.png
 sky_m4_alp.bmp.png
 sky_sun_d_alp.bmp.png
-sna_m9_glip.bmp.png
 sp03a4_shd02_alp_ovl.bmp.png
 sp03a4_shd03_alp_ovl.bmp.png
 sp03a4_shd1_alp_ovl.bmp.png

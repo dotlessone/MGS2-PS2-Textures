@@ -330,9 +330,6 @@
 00ceeba7.png
 00cf1e6a.png
 00cfb0a6.png
-00cfe11e.png
-00cfe11e.png
-00cfe11e.png
 00cfeba7.png
 00d0b0a6.png
 00d0eba7.png

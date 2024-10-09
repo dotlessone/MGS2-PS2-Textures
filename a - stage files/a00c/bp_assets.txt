@@ -59,7 +59,6 @@
 5f_souda_alp_ovl.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -101,11 +100,6 @@ env00_mht1_alp_ovl.bmp.png
 env00_mht2_alp_ovl.bmp.png
 env00_mht3_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 gas01.bmp.png

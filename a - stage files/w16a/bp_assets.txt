@@ -16,15 +16,6 @@ bombpowder2_msk.bmp.png
 bsn_a.bmp.png
 btl_piece00_add_ovl.bmp.png
 btl_piece01_add_ovl.bmp.png
-c4_a_antena.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_4.bmp.png
-c4_a_sen1_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 c_shokudou_alp_ovl.bmp.png
@@ -81,16 +72,10 @@ driver01.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 elvt_g99.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
 frost02_alp.bmp.png
-g95.bmp.png
 gasmask_alp.bmp.png
 glass01_add.bmp.png
 gogle_ibox.bmp.png
@@ -109,7 +94,6 @@ iro_bag4.bmp.png
 iro_bag5.bmp.png
 iro_bag6.bmp.png
 iro_body.bmp.png
-iro_boots.bmp.png
 iro_hair01_alp_ovl.bmp.png
 iro_hair02_alp_ovl.bmp.png
 iro_hair_base.bmp.png
@@ -147,7 +131,6 @@ lv1_alp_ovl.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
-mosuquito_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 otc_f_ovl_mod1120_alp_emap.bmp.png
 pench_bar01.bmp.png
@@ -252,7 +235,6 @@ smallbox_01.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_hi_eye01dt.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
-sna_hi_tang01dt.bmp.png
 soHakoFr.bmp.png
 soHakoFrU.bmp.png
 soHakoFrU2.bmp.png

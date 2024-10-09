@@ -8,7 +8,6 @@ a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -27,9 +26,6 @@ cigarette_tx.bmp.png
 cigarette_tx_alp.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
-co2_04.bmp.png
-co2_04.bmp.png
-co2_04.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -156,7 +152,6 @@ litA3_add_alp.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
-mosuquito_alp_ovl.bmp.png
 noIcon.bmp.png
 nom_alp_ovl.bmp.png
 plasma_msk.bmp.png
@@ -167,7 +162,6 @@ psg1-T_tx_alp.bmp.png
 qt_break_alp.bmp.png
 rabel_alp_ovl.bmp.png
 rai_all_ibox.bmp.png
-rai_gun_top.bmp.png
 ration_box.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rev_blk.bmp.png
@@ -203,9 +197,6 @@ shl_lit1_f.bmp.png
 shl_lit1_f2.bmp.png
 shl_lit1_f_msk_decal.bmp.png
 shl_lit_wire.bmp.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
@@ -217,7 +208,6 @@ sna_hi_eye01dt.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_face_ovl_sub_alp.bmp.png
 sna_hi_meziri.bmp.png
-sna_hi_tang01dt.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_d3.bmp.png
 sna_hi_teeth_u3.bmp.png
@@ -226,7 +216,6 @@ sna_hi_teeth_u4.bmp.png
 sna_hi_teeth_u4.bmp.png
 sna_leg_r01dt.bmp.png
 sna_leg_r01dt_ovl_sub_alp.bmp.png
-sna_m9_glip.bmp.png
 sna_shoul01dt.bmp.png
 sna_shoul01dt_ovl_sub_alp.bmp.png
 socom_alp_ovl.bmp.png

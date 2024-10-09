@@ -8,7 +8,6 @@ abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 b_alp_ovl.bmp_29d4c42def820463fd8423fe64aaf73e.png
@@ -92,11 +91,6 @@ e_alp_ovl.bmp_8e27cb0e71983c0e48ae8d1f53626f8d.png
 elvt_g99.bmp.png
 entrance_alp_add_ovl.bmp.png
 flag_sons_of_liberty.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
@@ -195,7 +189,6 @@ iro_bag4.bmp.png
 iro_bag5.bmp.png
 iro_bag6.bmp.png
 iro_body.bmp.png
-iro_boots.bmp.png
 iro_face.bmp_c2887b3a82812f39ba6df6e2295dab8a.png
 iro_face_ovl_sub_alp.bmp.png
 iro_hair01_alp_ovl.bmp.png
@@ -281,7 +274,6 @@ sky_d1_alp.bmp.png
 sky_d2_alp.bmp.png
 sky_d4_alp.bmp.png
 sky_sun_d_alp.bmp.png
-sna_m9_glip.bmp.png
 socom_alp_ovl.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
@@ -291,7 +283,6 @@ splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
-svc_lens_break.bmp.png
 test_rabel_alp_ovl.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png

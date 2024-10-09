@@ -9,7 +9,6 @@ abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 b_alp_ovl.bmp_29d4c42def820463fd8423fe64aaf73e.png
@@ -104,11 +103,6 @@ f_alp_ovl.bmp_dacca138520a09db2f382cd802c85ce1.png
 f_souko_1f_alp_ovl.bmp.png
 f_souko_b1_alp_ovl.bmp.png
 fa_renraku_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
@@ -286,7 +280,6 @@ sky_m1_alp.bmp.png
 sky_m2_alp.bmp.png
 sky_m4_alp.bmp.png
 sky_sun_d_alp.bmp.png
-sna_m9_glip.bmp.png
 socom_alp_ovl.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
@@ -488,7 +481,6 @@ w13a_obj00b.bmp.png
 w13a_obj00c.bmp.png
 w13a_obj00d2.bmp.png
 w13a_pp02.bmp.png
-w13a_sdw01e_alp_ovl.bmp.png
 w13a_t_hako_d.bmp.png
 w13a_w03.bmp.png
 w13a_w03.bmp.png

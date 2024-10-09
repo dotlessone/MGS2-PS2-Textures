@@ -70,11 +70,6 @@ drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.png
 e_alp_ovl.bmp.png
 f_alp_ovl.bmp.png
 fat_hand_sub_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 hamon09_add_alp.bmp.png

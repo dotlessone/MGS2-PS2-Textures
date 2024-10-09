@@ -65,7 +65,6 @@ S_cap03.bmp.png
 TestshakeT.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 baketu_04.bmp.png
@@ -85,15 +84,9 @@ btl_06.bmp.png
 btl_07.bmp.png
 btl_piece00_add_ovl.bmp.png
 btl_piece01_add_ovl.bmp.png
-c4_a_antena.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_4.bmp.png
 c4_a_hontai_9.bmp.png
-c4_a_sen1_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -152,11 +145,6 @@ drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 eki1_ovl_alp.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 fur_g00_add.bmp.png
@@ -210,7 +198,6 @@ mark_06.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2_inner.bmp.png
 mog_loc2_inner.bmp.png
-mosuquito_alp_ovl.bmp.png
 nametag_cube_def_add_alp.bmp.png
 nametag_hexa_def_add_alp.bmp.png
 nametag_octa_def_add_alp.bmp.png

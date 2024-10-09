@@ -20,7 +20,6 @@ WallLchoso_sh.bmp.png
 YukaMoto_alp_ovl.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -47,8 +46,6 @@ co2_00.bmp.png
 co2_01.bmp.png
 co2_02.bmp.png
 co2_03.bmp.png
-co2_04.bmp.png
-co2_04.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -74,19 +71,10 @@ dogtag_sh_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 emt.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
-g50.bmp.png
 g50g2.bmp.png
 g50g22.bmp.png
-g88.bmp.png
-g90.bmp.png
-g95.bmp.png
 gas00.bmp.png
 gas01.bmp.png
 gas_cap00.bmp.png
@@ -142,7 +130,6 @@ mark_06.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2_inner.bmp.png
 mog_loc2_top1.bmp.png
-mosuquito_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 plasma_msk.bmp.png
 powder01_alp.bmp.png
@@ -213,7 +200,6 @@ shl_lit1_f_msk_decal.bmp.png
 shl_lit_wire.bmp.png
 skk_01.bmp.png
 skk_02.bmp.png
-skk_02.bmp_434448523018e3bcd90f271906275d50.png
 skk_u01.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png

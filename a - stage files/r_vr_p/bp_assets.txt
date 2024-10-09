@@ -54,7 +54,6 @@
 00a891e2.png
 00dcd5c6.png
 00efa150.png
-aks_selecter.bmp.png
 aks_sp2_alp_ovl.bmp.png
 aks_sp_alp_ovl.bmp.png
 bam_alp_ovl.bmp.png
@@ -146,7 +145,6 @@ iro_bag4.bmp.png
 iro_bag5.bmp.png
 iro_bag6.bmp.png
 iro_body.bmp.png
-iro_boots.bmp.png
 iro_face.bmp_c2887b3a82812f39ba6df6e2295dab8a.png
 iro_face_ovl_sub_alp.bmp.png
 iro_glass_frame.bmp.png
@@ -203,19 +201,7 @@ rai_ba_ami_ovl_alp.bmp.png
 rai_ba_belt.bmp.png
 rai_ba_ovl_mod1120_alp_emap.bmp.png
 rai_ba_ovl_sub_alp.bmp.png
-rai_body_01_fix_ovl_sub_alp.bmp.png
 rai_bodyarmor_ss2.bmp.png
-rai_da_ovl_mod1120_alp_emap.bmp.png
-rai_da_ovl_mod1120_alp_emap.bmp.png
-rai_finger_fix.bmp.png
-rai_finger_fix_ovl_sub_alp.bmp.png
-rai_fx_ovl_mod1120_alp_emap.bmp.png
-rai_g2_ovl_mod1120_alp_emap.bmp.png
-rai_g2_ovl_mod1120_alp_emap.bmp.png
-rai_gun_top.bmp.png
-rai_hand_02_fix_ovl_sub_alp.bmp.png
-rai_hi_eye2.bmp.png
-rai_hi_face_ss2.bmp.png
 rgb_alp_ovl.bmp.png
 rgb_amo.bmp.png
 rgb_amo_cartridge2.bmp.png

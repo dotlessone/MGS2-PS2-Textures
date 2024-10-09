@@ -28,11 +28,6 @@ dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
 dzp2_tx_alp.bmp.png
 federal_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 gasmask_alp.bmp.png
 gogle_ibox.bmp.png
@@ -111,7 +106,6 @@ sna2h_mouin.bmp.png
 sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
-sna_hi_tang01dt.bmp.png
 sol_arm_dt01.bmp.png
 sol_arm_dt01_ovl_sub_alp.bmp.png
 sol_arm_dt02.bmp.png

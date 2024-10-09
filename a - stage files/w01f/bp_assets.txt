@@ -7,7 +7,6 @@ S_cap03.bmp.png
 TestshakeT.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 baketu_04.bmp.png
@@ -79,11 +78,6 @@ dogtag_sh_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 eki1_ovl_alp.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 fur_g00_add.bmp.png
@@ -134,7 +128,6 @@ mark_06.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2_inner.bmp.png
 mog_loc2_inner.bmp.png
-mosuquito_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 obj_mog_book_all.bmp.png
 obj_mog_book_inner.bmp.png

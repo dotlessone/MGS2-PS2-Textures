@@ -66,7 +66,6 @@ abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blk_msk_alp.bmp.png
@@ -78,12 +77,6 @@ brack_01_01_01.bmp.png
 btl_piece00_add_ovl.bmp.png
 btl_piece01_add_ovl.bmp.png
 button_alp.bmp.png
-c4_a_antena.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_4.bmp.png
-c4_a_sen1_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -121,11 +114,6 @@ elvt_pane_LR_alp.bmp.png
 elvt_pane_down_alp.bmp.png
 elvt_pane_up_alp.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 gbs_bp1.bmp.png
@@ -221,7 +209,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
-sna_m9_glip.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png

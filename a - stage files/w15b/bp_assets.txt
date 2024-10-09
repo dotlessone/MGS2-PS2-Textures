@@ -8,7 +8,6 @@ abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 b_alp_ovl.bmp_29d4c42def820463fd8423fe64aaf73e.png
@@ -94,11 +93,6 @@ dzp2_tx_alp.bmp.png
 elvt_fi_alarm_alp_ovl.bmp.png
 elvt_g99.bmp.png
 entrance_alp_add_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
@@ -250,7 +244,6 @@ sky_d1_alp.bmp.png
 sky_d2_alp.bmp.png
 sky_d4_alp.bmp.png
 sky_sun_d_alp.bmp.png
-sna_m9_glip.bmp.png
 socom_alp_ovl.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png

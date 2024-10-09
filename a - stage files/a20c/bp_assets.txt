@@ -70,12 +70,6 @@ blood_2bw_alp.bmp.png
 blood_2bw_msk.bmp.png
 bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
-c4_a_antena.bmp.png
-c4_a_beruto2_msk.bmp.png
-c4_a_beruto3_msk.bmp.png
-c4_a_hontai_10.bmp.png
-c4_a_hontai_4.bmp.png
-c4_a_sen1_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 c_alp_ovl.bmp_c3c45df5eff774d767719a74e507012e.png
@@ -241,11 +235,6 @@ fat_suits_kat_sub_alp_ovl.bmp.png
 fat_waist.bmp.png
 fat_waist.bmp.png
 flag_sons_of_liberty.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
@@ -345,8 +334,6 @@ sky_d1_alp.bmp.png
 sky_d2_alp.bmp.png
 sky_d4_alp.bmp.png
 sky_sun_d_alp.bmp.png
-sna_hi_tang01dt.bmp.png
-sna_hi_tang01dt.bmp.png
 socom_alp_ovl.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png

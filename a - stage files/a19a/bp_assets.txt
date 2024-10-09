@@ -60,7 +60,6 @@ abk_barel_s1.bmp.png
 abk_body_s1.bmp.png
 abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 bel_lig02_alp_add_ovl.bmp.png
@@ -128,11 +127,6 @@ entrance_alp_add_ovl.bmp.png
 exit_alp_ovl.bmp.png
 f_alp_ovl.bmp_dacca138520a09db2f382cd802c85ce1.png
 flag_sons_of_liberty.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 g_alp_ovl.bmp.png
@@ -297,7 +291,6 @@ sky_d1_alp.bmp.png
 sky_d2_alp.bmp.png
 sky_d4_alp.bmp.png
 sky_sun_d_alp.bmp.png
-sna_m9_glip.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
@@ -456,7 +449,6 @@ w12a_ste_wall2.bmp_7cdc755ca4902e424ba648159c2411f7.png
 w12a_tnk00.bmp.png
 w12a_w02.bmp.png
 w13a_pp04d.bmp.png
-w13a_sdw01e_alp_ovl.bmp.png
 w13a_sdwtagl_alp_ovl.bmp.png
 w13a_sk02b.bmp.png
 w13a_sku00.bmp.png

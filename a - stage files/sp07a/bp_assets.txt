@@ -56,7 +56,6 @@
 00f0b18b.png
 00f4b0a9.png
 00f995ec.png
-aks_selecter.bmp.png
 angle_alp_ovl.bmp.png
 at_break_alp.bmp.png
 blood_2_msk.bmp.png
@@ -74,11 +73,6 @@ col256_bld100.bmp.png
 d_sky_top_01_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 exit_alp_ovl.bmp.png
-flare_b1_msk.bmp.png
-flare_b2_msk.bmp.png
-flare_g1_msk.bmp.png
-flare_g2_msk.bmp.png
-flare_r1_msk.bmp.png
 flare_r2_msk.bmp.png
 floor_marker1_add_alp.bmp.png
 floor_marker2_add_alp.bmp.png
