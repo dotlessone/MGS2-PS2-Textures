@@ -120,7 +120,6 @@ drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 eki1_ovl_alp.bmp.png
 emt.bmp_92218c4eceae5cac3617475a1397d4b5.png
-fire1_alp.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
 frost02_alp.bmp.png
@@ -165,7 +164,6 @@ hakoS1.bmp.png
 hakoS1sh.bmp.png
 hakoT1.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 irs_box_all.bmp.png
 irs_box_back.bmp.png
@@ -453,7 +451,6 @@ speaker02.bmp_60d9fe67157117c03c26035ec72537cd.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
-suppressor_mk_alp.bmp.png
 svc2_body.bmp.png
 svc2_body_brk1.bmp.png
 svc2_lens_brk.bmp.png

@@ -80,10 +80,6 @@ c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 c_alp_ovl.bmp_c3c45df5eff774d767719a74e507012e.png
 call_alp_ovl.bmp.png
-cam_f_ovl_mod1120_alp_emap.bmp.png
-cam_f_ovl_mod1120_alp_emap.bmp.png
-cam_mouin.bmp.png
-cam_mouin.bmp.png
 case_lan.bmp.png
 case_test_top.bmp.png
 chaff_alp.bmp.png
@@ -244,7 +240,6 @@ fat_suits_kat_sub_alp_ovl.bmp.png
 fat_suits_kat_sub_alp_ovl.bmp.png
 fat_waist.bmp.png
 fat_waist.bmp.png
-fire1_alp.bmp.png
 flag_sons_of_liberty.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
@@ -266,7 +261,6 @@ h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
 i_alp_ovl.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
@@ -358,7 +352,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_rabel_alp_ovl.bmp.png
 vr2_goal_add_alp.bmp.png
@@ -413,7 +406,6 @@ w10c_entfl00.bmp_41079b5b76f61fb1621b76f73c73ce8b.png
 w10c_entw00.bmp.png
 w10c_entw01.bmp_c35dffba325db101d2f51a75807ed0bf.png
 w10c_fl00c.bmp.png
-w10c_fl01.bmp.png
 w10c_flu03.bmp_8c53753f36afb3cef63e6a663757b660.png
 w10c_ladder00_alp_ovl.bmp.png
 w10c_obj00.bmp.png
@@ -429,7 +421,6 @@ w10c_pp04a.bmp.png
 w10c_pp05.bmp.png
 w10c_pp05a_alp_ovl.bmp.png
 w10c_rf00.bmp.png
-w10c_sk00.bmp.png
 w10c_sk00a.bmp.png
 w10c_sk00c.bmp.png
 w10c_sk00e.bmp.png

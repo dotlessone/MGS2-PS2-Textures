@@ -88,7 +88,6 @@ cre_ric_alp_ovl.bmp.png
 cre_sup.bmp.png
 d_sky_top_01_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 ema_arm00.bmp.png
 ema_arm_sub_alp_ovl.bmp.png
@@ -135,7 +134,6 @@ ema_tag2_alp_ovl.bmp.png
 ema_tag3.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png

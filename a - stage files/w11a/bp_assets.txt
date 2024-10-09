@@ -47,7 +47,6 @@ dekisi_alp_ovl.bmp.png
 dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 elv1_flr1.bmp.png
 elv1_u1.bmp.png
@@ -57,7 +56,6 @@ evt1_seal1_alp_ovl.bmp.png
 f_searing.bmp.png
 f_syaft.bmp.png
 f_taiya.bmp.png
-fire1_alp.bmp.png
 forklift_body_01.bmp.png
 forklift_body__back_01.bmp.png
 forklift_body_floor_01.bmp.png
@@ -129,8 +127,6 @@ grs_black.bmp.png
 grs_black.bmp.png
 hamon09_add_alp.bmp.png
 hnm_death_00_ovl_alp.bmp.png
-hnm_def01.bmp.png
-hnm_def02_ovl_alp.bmp.png
 hnm_low_ovl_alp.bmp.png
 ibox_tx_all_alp.bmp_791e610c4fcf41bf273b86f3bef405c7.png
 jam_alp_ovl.bmp.png

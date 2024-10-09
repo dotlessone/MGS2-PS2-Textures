@@ -108,7 +108,6 @@ env00_mht1_alp_ovl.bmp.png
 env00_mht2_alp_ovl.bmp.png
 env00_mht3_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -189,7 +188,6 @@ sky_1_alp.bmp.png
 splash03_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 vr2_goal_add_alp.bmp.png
 vr2_goal_post_add_alp.bmp.png

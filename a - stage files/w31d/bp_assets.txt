@@ -126,7 +126,6 @@ ema_tag2_alp_ovl.bmp.png
 ema_tag3.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
-fire1_alp.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
 frost02_alp.bmp.png
@@ -190,7 +189,6 @@ h_grenade_alp.bmp.png
 hahen02_alp_ovl.bmp.png
 hi_alp_ovl.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 k100.bmp.png
@@ -211,7 +209,6 @@ mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
-otc_mouin.bmp.png
 plasma_msk.bmp.png
 psg1-T_tx_alp.bmp.png
 ptr_tooth_d1.bmp.png
@@ -247,7 +244,6 @@ shl_lit_wire.bmp.png
 sna_hi_tang01dt.bmp.png
 socom_alp_ovl.bmp.png
 stg_rabel_alp_ovl.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_fence_mini_alp.bmp.png
 test_rabel_alp_ovl.bmp.png

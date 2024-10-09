@@ -55,7 +55,6 @@ door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
 drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.png
 e_alp_ovl.bmp.png
 f_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flag_sons_of_liberty.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
@@ -324,7 +323,6 @@ w10c_crn00c.bmp.png
 w10c_entfl00.bmp_41079b5b76f61fb1621b76f73c73ce8b.png
 w10c_entw00.bmp_6b398af0556d5020d5131657e1fd0489.png
 w10c_fl00c.bmp.png
-w10c_fl01.bmp.png
 w10c_flu00.bmp.png
 w10c_flu01.bmp.png
 w10c_flu03.bmp_8c53753f36afb3cef63e6a663757b660.png
@@ -343,7 +341,6 @@ w10c_pp04.bmp.png
 w10c_pp04a.bmp.png
 w10c_pp05.bmp.png
 w10c_rf01.bmp.png
-w10c_sk00.bmp.png
 w10c_sk00a.bmp.png
 w10c_sk00c.bmp.png
 w10c_sk00e.bmp.png
@@ -370,7 +367,6 @@ w10c_tnk000.bmp.png
 w10c_w00.bmp.png
 w10c_w00a.bmp.png
 w10c_w00b.bmp.png
-w10c_w00d.bmp.png
 w10c_w00e.bmp.png
 w10c_w00f2.bmp.png
 w10c_w02.bmp.png

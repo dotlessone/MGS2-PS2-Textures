@@ -143,7 +143,6 @@ entrance_alp_add_ovl.bmp.png
 entrance_alp_add_ovl.bmp.png
 entyou_oil_sea.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flag_sons_of_liberty.bmp_7e2566178b199d687cf71dab30a04d87.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
@@ -177,7 +176,6 @@ hri_clst_warhead_alp_ovl.bmp.png
 hri_ef_alp_add_ovl.bmp.png
 hri_mspod_warhead_alp_ovl.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 iro_arm_l.bmp.png
 iro_arm_r.bmp.png
@@ -225,10 +223,8 @@ launcher_ibox.bmp.png
 light05_msk.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
-m4a_all.bmp.png
 m4a_gl_unit.bmp.png
 m4a_light.bmp.png
-m4a_s2.bmp.png
 m4grn_bul_high.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
@@ -290,7 +286,6 @@ splash07_alp.bmp.png
 stg00_alp_ovl.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 svc_bonbori_r.bmp.png
 test_rabel_alp_ovl.bmp.png
@@ -362,7 +357,6 @@ w10c_ent02_brk.bmp.png
 w10c_ent03.bmp.png
 w10c_ent03.bmp.png
 w10c_entw00.bmp.png
-w10c_fl01.bmp.png
 w10c_flu00.bmp.png
 w10c_flu00.bmp.png
 w10c_flu00.bmp.png
@@ -389,7 +383,6 @@ w10c_pp04.bmp.png
 w10c_pp04a.bmp.png
 w10c_pp05.bmp.png
 w10c_pp05a_alp_ovl.bmp.png
-w10c_sk00.bmp.png
 w10c_sk00.bmp_080bd3d56c6e4437c207d0839cc27828.png
 w10c_sk00.bmp_080bd3d56c6e4437c207d0839cc27828.png
 w10c_sk00a.bmp.png
@@ -463,8 +456,6 @@ w10c_w00.bmp.png
 w10c_w00a.bmp.png
 w10c_w00b.bmp.png
 w10c_w00c.bmp_1a2ec7dfc72a4bdfc203becd5d5bccf6.png
-w10c_w00d.bmp.png
-w10c_w00d.bmp.png
 w10c_w00e.bmp.png
 w10c_w00f2.bmp.png
 w10c_w02.bmp.png

@@ -13,8 +13,6 @@ bombpowder2_msk.bmp.png
 call_alp_ovl.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
-cam_f_ovl_mod1120_alp_emap.bmp.png
-cam_f_ovl_mod1120_alp_emap.bmp.png
 cam_hi_tang.bmp.png
 case_lan.bmp.png
 case_test_top.bmp.png
@@ -56,7 +54,6 @@ env00_factory1.bmp.png
 env00_mht1_alp_ovl.bmp.png
 env00_mht2_alp_ovl.bmp.png
 env00_mht3_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare1_msk.bmp.png
 flare2_msk.bmp.png
 flare3_msk.bmp.png
@@ -83,7 +80,6 @@ gun_ibox.bmp.png
 h_grenade_alp.bmp.png
 hamon06_add_msk.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 irs_box_all.bmp.png
 irs_box_back.bmp.png
@@ -226,7 +222,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 ssk_all.bmp.png
 stg_rabel_alp_ovl.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_rabel_alp_ovl.bmp.png
 tnc_boot_bt1.bmp.png

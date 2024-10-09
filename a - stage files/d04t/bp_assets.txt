@@ -44,7 +44,6 @@ env00_factory1.bmp.png
 env00_mht1_alp_ovl.bmp.png
 env00_mht2_alp_ovl.bmp.png
 env00_mht3_alp_ovl.bmp.png
-fire1_alp.bmp.png
 fire3_alp.bmp.png
 fstamp03_alp.bmp.png
 gas01.bmp.png

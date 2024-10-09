@@ -115,7 +115,6 @@ dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
-fire1_alp.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
 gasmask_alp.bmp.png
@@ -134,7 +133,6 @@ grs_black.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 kanpan_02_left_alp_ovl.bmp.png
@@ -190,7 +188,6 @@ skk_02.bmp_434448523018e3bcd90f271906275d50.png
 socom_alp_ovl.bmp.png
 splash03_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_rabel_alp_ovl.bmp.png
 tnc_boot_bt1.bmp.png

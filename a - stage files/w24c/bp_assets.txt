@@ -66,7 +66,6 @@ door_bfl00.bmp.png
 door_bfl00.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
-fire1_alp.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
 frost02_alp.bmp.png
@@ -170,7 +169,6 @@ hos_shoe01.bmp.png
 hos_tie_brown.bmp.png
 hos_tie_green.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 isu_back_01.bmp.png
 isu_face_01.bmp.png
@@ -244,7 +242,6 @@ socom_alp_ovl.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_lit.bmp.png
 test_lit1_add_alp.bmp_318341ad48ae8cf5060d706dfcae454f.png

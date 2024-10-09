@@ -238,7 +238,6 @@ otc_hand00.bmp.png
 otc_hi_face_sub_ovl_alp.bmp.png
 otc_jeans55.bmp.png
 otc_megane_sub_alp_ovl.bmp.png
-otc_mouin.bmp.png
 otc_mtg_alp_ovl.bmp.png
 otc_neck.bmp.png
 otc_neck_sub_ovl_alp.bmp.png
@@ -337,12 +336,6 @@ rai_toe_02_fix_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rev_blk.bmp.png
-ros_hi_tang01dt.bmp.png
-ros_hi_tang01dt.bmp.png
-ros_hi_teeth_d.bmp.png
-ros_hi_teeth_d.bmp.png
-ros_hi_teeth_u.bmp.png
-ros_hi_teeth_u.bmp.png
 scm_sb_hammer.bmp.png
 scm_sb_temp.bmp.png
 sna2h_mouin.bmp.png

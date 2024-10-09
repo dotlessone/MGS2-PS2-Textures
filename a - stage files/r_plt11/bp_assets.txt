@@ -241,7 +241,6 @@ otc_hand00.bmp.png
 otc_hi_face_sub_ovl_alp.bmp.png
 otc_jeans55.bmp.png
 otc_megane_sub_alp_ovl.bmp.png
-otc_mouin.bmp.png
 otc_mtg_alp_ovl.bmp.png
 otc_neck.bmp.png
 otc_neck_sub_ovl_alp.bmp.png

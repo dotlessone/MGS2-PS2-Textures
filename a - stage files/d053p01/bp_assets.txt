@@ -10,7 +10,6 @@ blood_2bw_alp.bmp.png
 blood_2bw_msk.bmp.png
 bombpowder2_msk.bmp.png
 call_alp_ovl.bmp.png
-cam_mouin.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
 code_box.bmp.png
@@ -28,7 +27,6 @@ col_gry096.bmp.png
 col_w01agry1.bmp.png
 door_bfl00.bmp.png
 door_rail.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 elevt_floor7_alp_ovl.bmp.png
 elv1_flr1.bmp.png
@@ -138,7 +136,6 @@ ema_waist2_ovl_mod1120_alp_emap.bmp.png
 evt1_foot.bmp.png
 evt1_seal1_alp_ovl.bmp.png
 fat_hand_alp_ovl_emap_mod1120.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -163,8 +160,6 @@ mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
-otc_mouin.bmp.png
-otc_mouin.bmp.png
 pipe.bmp.png
 pipe_hold.bmp.png
 pit_arm004.bmp.png

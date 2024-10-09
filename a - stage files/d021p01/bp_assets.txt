@@ -17,10 +17,7 @@ c4_a_sen1_alp.bmp.png
 c_alp_ovl.bmp_c3c45df5eff774d767719a74e507012e.png
 call_alp_ovl.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
-cam_f_ovl_mod1120_alp_emap.bmp.png
-cam_f_ovl_mod1120_alp_emap.bmp.png
 cam_hi_tang.bmp.png
-cam_mouin.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
@@ -135,7 +132,6 @@ fat_suitstes.bmp.png
 fat_tang.bmp.png
 fat_teeth_u3.bmp.png
 fat_waist.bmp.png
-fire1_alp.bmp.png
 flag_sons_of_liberty.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
@@ -402,8 +398,6 @@ orp_pamtsu2_meisai_re.bmp.png
 orp_pamtsu_meisai_re.bmp.png
 orp_rarm_j_meisai_re.bmp.png
 orp_waist.bmp.png
-otc_mouin.bmp.png
-otc_mouin.bmp.png
 pl_box_d.bmp.png
 ptr_tooth_d1.bmp.png
 ptr_tooth_d1.bmp.png
@@ -456,19 +450,11 @@ ripple02_alp.bmp.png
 scm_sb_hammer.bmp.png
 scm_sb_temp.bmp.png
 seculitycard_lv2_alp.bmp.png
-sel_arm_l.bmp.png
-sel_arm_r.bmp.png
-sel_bag2.bmp.png
 sel_bag3.bmp.png
-sel_bag4.bmp.png
 sel_belt.bmp.png
-sel_body.bmp.png
 sel_boots.bmp.png
-sel_eyelittle0.bmp.png
 sel_folder.bmp.png
-sel_hand.bmp.png
 sel_leg.bmp.png
-sel_mask.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -557,7 +543,6 @@ w10c_entfl00.bmp_41079b5b76f61fb1621b76f73c73ce8b.png
 w10c_entw00.bmp.png
 w10c_entw01.bmp_c35dffba325db101d2f51a75807ed0bf.png
 w10c_fl00c.bmp.png
-w10c_fl01.bmp.png
 w10c_flu03.bmp_8c53753f36afb3cef63e6a663757b660.png
 w10c_ladder00_alp_ovl.bmp.png
 w10c_obj00.bmp.png
@@ -572,7 +557,6 @@ w10c_pp04a.bmp.png
 w10c_pp05.bmp.png
 w10c_pp05a_alp_ovl.bmp.png
 w10c_rf00.bmp.png
-w10c_sk00.bmp.png
 w10c_sk00a.bmp.png
 w10c_sk00c.bmp.png
 w10c_sk00e.bmp.png

@@ -124,11 +124,9 @@ debug_font_alp_ovl.bmp.png
 degital_camera.bmp.png
 digicame_tx_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 fire_00.bmp.png
 fire_01.bmp.png
 fire_02.bmp.png
@@ -225,7 +223,6 @@ staiway.bmp.png
 staiway_in00.bmp.png
 staiway_in01.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc2_body.bmp.png
 svc2_body_brk1.bmp.png
 svc2_lens_brk.bmp.png

@@ -39,12 +39,8 @@
 006897ed_b5a6bb72c760a236a2c84a220920037b.png
 006997ed.png
 006997ed_b20d65f1089467ce6fec4d3a8c8134c8.png
-006a97ed.png
-006a97ed.png
 006af2ba.png
 006af2bb.png
-006b97ed.png
-006b97ed.png
 006bcf85_3bbce8b6d10a47883f9038737995145a.png
 006c97ed.png
 006cc7ed.png
@@ -143,7 +139,6 @@ hfb_tuba.bmp.png
 iro_arm_l.bmp.png
 iro_arm_l.bmp.png
 iro_arm_r.bmp.png
-iro_arm_ss.bmp.png
 iro_bag1.bmp.png
 iro_bag2.bmp.png
 iro_bag3.bmp.png
@@ -163,10 +158,6 @@ iro_hand.bmp.png
 iro_hi_ela_alp_ovl.bmp.png
 iro_hi_face.bmp.png
 iro_hi_face_ovl_sub_alp.bmp.png
-iro_hi_finger.bmp.png
-iro_hi_finger2.bmp.png
-iro_hi_hand1.bmp.png
-iro_hi_hand2.bmp.png
 iro_nail.bmp.png
 iro_phones01.bmp.png
 iro_phones02_ovl_alp.bmp.png
@@ -179,8 +170,6 @@ iro_snawear_ovl_sub_alp.bmp.png
 lez.bmp.png
 lez2.bmp.png
 m4a_nm_alp_ovl.bmp.png
-m4a_sb_s1.bmp.png
-m4a_sb_sight_msk.bmp.png
 m4grn_bul.bmp.png
 m92_magazine.bmp.png
 m9_alp_ovl.bmp.png

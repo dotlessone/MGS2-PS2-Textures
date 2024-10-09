@@ -86,11 +86,9 @@ door_bfl00.bmp.png
 drill_02.bmp.png
 drill_02_test.bmp.png
 driver01.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 elvt_g99.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -183,7 +181,6 @@ htc_uc_ovl_mod1120_alp_emap.bmp.png
 htc_under_pad_uc.bmp.png
 htcdt_ovl_mod1120_alp_emap.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 k100.bmp_054638f0c3d9437b10ac3ca959481112.png
@@ -204,9 +201,7 @@ light12_msk.bmp.png
 light13_msk.bmp.png
 litb_01_add_ovl.bmp.png
 lv1_alp_ovl.bmp.png
-m4a_all.bmp.png
 m4a_gl_unit.bmp.png
-m4a_sb_s1.bmp.png
 m4grn_bul_high.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
@@ -291,7 +286,6 @@ suika_02.bmp.png
 suika_04.bmp.png
 suika_04.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_bld020.bmp.png
 test_rabel_alp_ovl.bmp.png
@@ -324,12 +318,7 @@ w01a_bardr03.bmp.png
 w01d_bucu.bmp.png
 w01d_soko_flour_2.bmp.png
 w01d_soko_flour_new.bmp.png
-w10c_entfl01.bmp.png
-w10c_fl00a.bmp_f090db2c7d27de5ceaf7849bea3f7689.png
 w10c_fl00c.bmp_79d5f05b0c8f02fa5ea3d8344309a532.png
-w10c_w00d.bmp.png
-w14a13a_ent00.bmp.png
-w15a_sdw00d_alp_ovl.bmp.png
 w16a0_bardr00.bmp.png
 w16a0_buc.bmp.png
 w16a0_dr00b.bmp.png

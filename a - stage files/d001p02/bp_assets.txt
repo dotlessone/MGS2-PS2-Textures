@@ -20,7 +20,6 @@ col128_add.bmp.png
 col256_bld100.bmp.png
 col_blk.bmp.png
 d_sky_top_01_alp.bmp.png
-drop01_alp2_mod1021.bmp.png
 elv1_flr1.bmp.png
 elv1_u1.bmp.png
 elv1_wall1.bmp.png
@@ -29,7 +28,6 @@ evt1_seal1_alp_ovl.bmp.png
 f_searing.bmp.png
 f_syaft.bmp.png
 f_taiya.bmp.png
-fire1_alp.bmp.png
 forklift_body_01.bmp.png
 forklift_body__back_01.bmp.png
 forklift_body_floor_01.bmp.png
@@ -75,8 +73,6 @@ gps_wrist.bmp.png
 grs_black.bmp.png
 hamon09_add_alp.bmp.png
 hnm_death_00_ovl_alp.bmp.png
-hnm_def01.bmp.png
-hnm_def02_ovl_alp.bmp.png
 hnm_low_ovl_alp.bmp.png
 jim_botan_01.bmp.png
 jim_hand_01.bmp.png

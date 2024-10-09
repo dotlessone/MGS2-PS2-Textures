@@ -73,10 +73,8 @@ dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -110,7 +108,6 @@ hfbs3_sb.bmp.png
 hfbs3_sb.bmp.png
 hfbs3_sub_alp_ovl.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
@@ -124,11 +121,9 @@ light05_msk.bmp.png
 light08_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
-m4a_all.bmp.png
 m4a_all_t.bmp.png
 m4a_gl_unit_2_01.bmp.png
 m4a_light.bmp_5758ef839d43e13183cf3678664d0e6e.png
-m4a_sb_s1.bmp.png
 m4a_t_msk.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
@@ -298,7 +293,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_rabel_alp_ovl.bmp.png
 totte_alp_ovl.bmp.png

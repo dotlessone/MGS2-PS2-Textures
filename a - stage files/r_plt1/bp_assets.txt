@@ -1,10 +1,5 @@
-002d83df.png
-002d83e0.png
-002d83e1.png
-002d83e2.png
 002d83e3.png
 002d83e4.png
-002d83e5.png
 002e7dde.png
 002e7ddf.png
 002e7de0.png
@@ -29,13 +24,9 @@
 0068a618.png
 006997ed.png
 006997ed_b20d65f1089467ce6fec4d3a8c8134c8.png
-006a97ed.png
-006a97ed.png
 006aa618.png
 006af2ba.png
 006af2bb.png
-006b97ed.png
-006b97ed.png
 006ba618.png
 006bcf85.png
 006c97ed.png
@@ -130,8 +121,6 @@ hfb_tuba.bmp.png
 lez.bmp.png
 lez2.bmp.png
 m4a_nm_alp_ovl.bmp.png
-m4a_sb_s1.bmp.png
-m4a_sb_sight_msk.bmp.png
 m4grn_bul.bmp.png
 m92_magazine.bmp.png
 m9_alp_ovl.bmp.png

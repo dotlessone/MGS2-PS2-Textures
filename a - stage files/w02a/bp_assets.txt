@@ -35,10 +35,8 @@ cyp_temp_tx.bmp.png
 dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -59,7 +57,6 @@ grs_black.bmp.png
 grs_black.bmp.png
 h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 irs_box_all.bmp.png
 irs_box_back.bmp.png
 irs_box_break.bmp.png
@@ -116,7 +113,6 @@ splash04_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 tnc_boot_bt1.bmp.png
 tnc_eri2.bmp.png

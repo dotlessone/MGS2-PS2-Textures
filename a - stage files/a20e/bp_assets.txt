@@ -110,7 +110,6 @@ door_bfl00.bmp.png
 door_c00a.bmp.png
 drlit_00r.bmp.png
 drlit_02_alp_add_ovl.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 e_heliport_alp_ovl.bmp.png
 e_shuhai_1f_alp_ovl.bmp.png
@@ -196,7 +195,6 @@ ema_waist2_ovl_mod1120_alp_emap.bmp.png
 etop_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
 f_souko_b1_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -272,7 +270,6 @@ nametag_wall_def_add_alp.bmp.png
 nom_alp_ovl.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
-otc_mouin.bmp.png
 pl_box_d.bmp.png
 plant_bomb2_alp_ovl.bmp.png
 plasma_msk.bmp.png
@@ -348,12 +345,9 @@ w01a1_clit01.bmp.png
 w03b_dr02.bmp_0927f14937b8bdb1753c5df0f485bfc7.png
 w03b_dr03.bmp_ec8e39c4fd79a206717a537ad8d13895.png
 w03b_dr03b.bmp_691886d350b578958d69b962e07bff9f.png
-w10c_fl00a.bmp_f090db2c7d27de5ceaf7849bea3f7689.png
 w10c_fl00c.bmp_79d5f05b0c8f02fa5ea3d8344309a532.png
-w10c_w00d.bmp.png
 w11a_gas2_01_t.bmp.png
 w11a_gas2_02_t.bmp.png
-w14a13a_ent00.bmp.png
 w18a_color_sky.bmp.png
 w18a_tsr_bar1.bmp_ac7a53edf3f5e3a63de0dcb94389fe91.png
 w18a_tsr_jiku1.bmp.png

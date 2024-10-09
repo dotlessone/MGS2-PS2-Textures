@@ -163,7 +163,6 @@ dogtag_chain_black_msk.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -232,7 +231,6 @@ skk_02.bmp_434448523018e3bcd90f271906275d50.png
 skk_02.bmp_434448523018e3bcd90f271906275d50.png
 skk_02.bmp_434448523018e3bcd90f271906275d50.png
 splash03_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 tnc_boot_bt1.bmp.png
 tnc_boot_bt1.bmp.png

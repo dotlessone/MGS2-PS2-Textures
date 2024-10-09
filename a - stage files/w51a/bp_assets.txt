@@ -27,9 +27,7 @@ col_blk.bmp.png
 col_blk.bmp.png
 d_sky_top_01_alp.bmp.png
 dnjv_f1.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -268,15 +266,6 @@ rev_plant_shirt.bmp.png
 rev_plant_shirt.bmp.png
 rev_spur_01dt_ovl_alp.bmp.png
 ripple02_alp.bmp.png
-ros_hi_tang01dt.bmp.png
-ros_hi_tang01dt.bmp.png
-ros_hi_tang01dt.bmp.png
-ros_hi_teeth_d.bmp.png
-ros_hi_teeth_d.bmp.png
-ros_hi_teeth_d.bmp.png
-ros_hi_teeth_u.bmp.png
-ros_hi_teeth_u.bmp.png
-ros_hi_teeth_u.bmp.png
 saa_01dt.bmp.png
 saa_01dt.bmp.png
 saa_all.bmp.png

@@ -39,7 +39,6 @@ dzp2_tx_alp.bmp.png
 fade_out_floor2_sub.bmp.png
 fade_out_floor_sub.bmp.png
 fade_out_sub.bmp.png
-fire1_alp.bmp.png
 glass.bmp.png
 h_grenade_alp.bmp.png
 ibox_tx_all_alp.bmp_791e610c4fcf41bf273b86f3bef405c7.png
@@ -53,11 +52,8 @@ litA0b_add_alp.bmp.png
 litA1_add_alp.bmp_4d053ed55a7b98b83c4ecba8517bdedb.png
 litA2_add_alp.bmp.png
 litA3_add_alp.bmp.png
-m4a_all.bmp.png
 m4a_gl_unit.bmp.png
 m4a_light.bmp.png
-m4a_s2.bmp.png
-m4a_sb_s1.bmp.png
 m4a_scope.bmp.png
 met_ovl_mod1120_alp_emap.bmp.png
 metdt_ovl_mod1120_alp_emap.bmp.png
@@ -96,7 +92,6 @@ sna_m9_glip.bmp.png
 sna_shoul01dt.bmp.png
 sna_shoul01dt_ovl_sub_alp.bmp.png
 splash03_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 usa_arm01dt.bmp.png
 usa_arm01dt.bmp.png

@@ -143,7 +143,6 @@ elvt_pane_LR_alp.bmp.png
 elvt_pane_down_alp.bmp.png
 elvt_pane_up_alp.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -167,7 +166,6 @@ grs_black.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 k100.bmp.png
@@ -266,7 +264,6 @@ socom_alp_ovl.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_lit0_alp_add.bmp.png
 test_lit1_add_alp.bmp_318341ad48ae8cf5060d706dfcae454f.png
@@ -391,8 +388,6 @@ w24b1_ana01a.bmp.png
 w24b1_box00.bmp.png
 w24b1_box00a.bmp.png
 w24b1_box00b.bmp.png
-w24b1_d_box_back.bmp.png
-w24b1_d_box_side.bmp.png
 w24b1_d_box_top.bmp.png
 w24b1_fl00.bmp.png
 w24b1_fl00a.bmp.png

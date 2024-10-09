@@ -111,7 +111,6 @@ dbx_dust_alp_ovl.bmp.png
 degital_camera.bmp.png
 digicame_tx_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 elvt_g99.bmp.png
@@ -122,7 +121,6 @@ elvt_pane_LR_alp.bmp.png
 elvt_pane_down_alp.bmp.png
 elvt_pane_up_alp.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -182,9 +180,7 @@ light12_msk.bmp.png
 light13_msk.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
-m4a_all.bmp.png
 m4a_gl_unit.bmp.png
-m4a_sb_s1.bmp.png
 m4grn_bul_high.bmp.png
 mode_alp_ovl.bmp.png
 nametag_cube_def_add_alp.bmp.png
@@ -230,7 +226,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_bld020.bmp.png
 test_bld020.bmp.png

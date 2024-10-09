@@ -57,9 +57,7 @@ crg_teeth_u00.bmp.png
 crg_teeth_u01.bmp.png
 crg_waistbelt_alp_ovl_sub.bmp.png
 demo_usp_supressor.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -85,14 +83,11 @@ light05_msk.bmp.png
 light08_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
-m4a_all.bmp.png
 m4a_all_t.bmp.png
 m4a_gl_unit.bmp.png
 m4a_gl_unit_2_01.bmp.png
 m4a_gl_unit_2_01.bmp.png
 m4a_light.bmp.png
-m4a_s2.bmp.png
-m4a_sb_s1.bmp.png
 m4a_t_msk.bmp.png
 m4grn_bul.bmp.png
 m4grn_bul.bmp.png

@@ -36,10 +36,8 @@ col_blk.bmp.png
 col_blk.bmp.png
 col_gry016.bmp.png
 col_gry040.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 fede_01_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -181,7 +179,6 @@ orp_pamtsu2_meisai_re.bmp.png
 orp_pamtsu_meisai_re.bmp.png
 orp_rarm_j_meisai_re.bmp.png
 orp_waist.bmp.png
-otc_mouin.bmp.png
 plasma_msk.bmp.png
 powder01_alp.bmp.png
 powder03_alp.bmp.png

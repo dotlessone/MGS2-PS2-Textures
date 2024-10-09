@@ -34,9 +34,7 @@ demo_teng_blood_04_alp_ovl.bmp.png
 demo_teng_blood_05_alp_ovl.bmp.png
 demo_teng_blood_06_alp_ovl.bmp.png
 demo_teng_blood_07_alp_ovl.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -180,11 +178,9 @@ lnr_body2.bmp.png
 lnr_body2_kim.bmp.png
 lnr_mag_kim.bmp.png
 lnr_rail1.bmp.png
-m4a_all.bmp.png
 m4a_all_t.bmp.png
 m4a_gl_unit_2_01.bmp.png
 m4a_light.bmp_5758ef839d43e13183cf3678664d0e6e.png
-m4a_sb_s1.bmp.png
 m4a_t_msk.bmp.png
 mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
@@ -225,15 +221,6 @@ rai_toe_02_fix_ovl_sub_alp.bmp.png
 rai_watch_dt02_ovl_sub_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 ripple02_alp.bmp.png
-ros_hi_tang01dt.bmp.png
-ros_hi_tang01dt.bmp.png
-ros_hi_tang01dt.bmp.png
-ros_hi_teeth_d.bmp.png
-ros_hi_teeth_d.bmp.png
-ros_hi_teeth_d.bmp.png
-ros_hi_teeth_u.bmp.png
-ros_hi_teeth_u.bmp.png
-ros_hi_teeth_u.bmp.png
 scm_sb_hammer.bmp.png
 scm_sb_temp.bmp.png
 sky_1_alp.bmp.png

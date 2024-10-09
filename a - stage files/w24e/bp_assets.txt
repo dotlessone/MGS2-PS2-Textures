@@ -42,7 +42,6 @@ dogtag_chain_black_msk.bmp.png
 door_bfl00.bmp.png
 door_bfl00.bmp.png
 drop01_alp_mod1201.bmp.png
-fire1_alp.bmp.png
 frost02_alp.bmp.png
 g40.bmp.png
 gbs_bp1.bmp.png

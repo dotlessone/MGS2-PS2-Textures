@@ -36,7 +36,6 @@ crane_wire_tome_02.bmp.png
 crane_wire_tome_02a.bmp.png
 d_sky_hasira_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 e_sky_cld_sun_01_alp.bmp.png
 e_sky_cld_sun_02_alp.bmp.png
@@ -115,7 +114,6 @@ ema_tag3.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 entyou_oil_sea.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -219,7 +217,6 @@ motor_wire_01.bmp.png
 nom_alp_ovl.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
-otc_mouin.bmp.png
 plasma_msk.bmp.png
 powder01_alp.bmp.png
 powder03_alp.bmp.png
@@ -333,7 +330,6 @@ w10c_pp01b.bmp.png
 w10c_pp04.bmp.png
 w10c_pp04a.bmp.png
 w10c_pp05a_alp_ovl.bmp.png
-w10c_sk00.bmp.png
 w10c_sk00a.bmp.png
 w10c_sk00c.bmp.png
 w10c_sk00e.bmp.png
@@ -355,7 +351,6 @@ w10c_stp00a.bmp_c0ec4d54104b1ab4bb95767e8a3796dc.png
 w10c_w00.bmp.png
 w10c_w00a.bmp.png
 w10c_w00b.bmp.png
-w10c_w00d.bmp.png
 w10c_w00e.bmp.png
 w10c_w00f2.bmp.png
 w10c_w02.bmp.png

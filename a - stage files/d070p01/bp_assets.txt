@@ -95,7 +95,6 @@ ema_waist2_ovl_mod1120_alp_emap.bmp.png
 fat_hand_alp_ovl_emap_mod1120.bmp.png
 fat_hand_sub_alp_ovl.bmp.png
 fat_hand_sub_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -118,7 +117,6 @@ iro_arm_l.bmp.png
 iro_arm_l.bmp.png
 iro_arm_r.bmp.png
 iro_arm_r.bmp.png
-iro_arm_ss.bmp.png
 iro_bag1.bmp.png
 iro_bag1.bmp.png
 iro_bag2.bmp.png
@@ -149,10 +147,6 @@ iro_hi_face.bmp.png
 iro_hi_face.bmp.png
 iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_face_ovl_sub_alp.bmp.png
-iro_hi_finger.bmp.png
-iro_hi_finger2.bmp.png
-iro_hi_hand1.bmp.png
-iro_hi_hand2.bmp.png
 iro_hi_tang.bmp.png
 iro_hi_teeth.bmp.png
 iro_nail.bmp.png
@@ -304,9 +298,6 @@ otc_jeans55.bmp.png
 otc_jeans55.bmp_5576421e45ef97ae397b7bb3223a7b5e.png
 otc_megane_sub_alp_ovl.bmp.png
 otc_megane_sub_alp_ovl.bmp.png
-otc_mouin.bmp.png
-otc_mouin.bmp.png
-otc_mouin.bmp.png
 otc_mtg_alp_ovl.bmp.png
 otc_neck.bmp.png
 otc_neck.bmp_dbd9c02462c7c351550b6d6507fe747d.png
@@ -467,7 +458,6 @@ w10c_pp01b.bmp.png
 w10c_pp04.bmp.png
 w10c_pp04a.bmp.png
 w10c_pp05a_alp_ovl.bmp.png
-w10c_sk00.bmp.png
 w10c_sk00a.bmp.png
 w10c_sk00c.bmp.png
 w10c_sk00e.bmp.png
@@ -489,7 +479,6 @@ w10c_stp00a.bmp_c0ec4d54104b1ab4bb95767e8a3796dc.png
 w10c_w00.bmp.png
 w10c_w00a.bmp.png
 w10c_w00b.bmp.png
-w10c_w00d.bmp.png
 w10c_w00e.bmp.png
 w10c_w00f2.bmp.png
 w10c_w02.bmp.png

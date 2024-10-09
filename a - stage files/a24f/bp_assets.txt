@@ -101,7 +101,6 @@ door_bfl00.bmp.png
 drop01_alp_mod1201.bmp.png
 exit_alp_ovl.bmp.png
 fat_hand_alp_ovl_emap_mod1120.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png

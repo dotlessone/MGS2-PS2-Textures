@@ -70,7 +70,6 @@ bombpowder2_msk.bmp.png
 call_alp_ovl.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
-cam_f_ovl_mod1120_alp_emap.bmp.png
 cam_hi_tang.bmp.png
 case_lan.bmp.png
 cfr_antena.bmp.png
@@ -87,12 +86,10 @@ col_blk.bmp.png
 coldmedicine_tx_alp.bmp.png
 degital_camera.bmp.png
 digicame_tx_alp.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dse_side1.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -270,7 +267,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 ssk_all.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 tnc_boot_bt1.bmp.png
 tnc_eri2.bmp.png

@@ -87,7 +87,6 @@ door_b00.bmp_d4551b6ea28812aeacc1ce89ad889e10.png
 door_c00.bmp.png
 door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
 door_c00a.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.png
 drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.png
@@ -95,7 +94,6 @@ dzp2_tx_alp.bmp.png
 elvt_fi_alarm_alp_ovl.bmp.png
 elvt_g99.bmp.png
 entrance_alp_add_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -187,7 +185,6 @@ htc_uc_ovl_mod1120_alp_emap.bmp.png
 htc_under_pad_uc.bmp.png
 htcdt_ovl_mod1120_alp_emap.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
@@ -202,9 +199,7 @@ light05_msk.bmp.png
 light08_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
-m4a_all.bmp.png
 m4a_gl_unit.bmp.png
-m4a_sb_s1.bmp.png
 m4grn_bul_high.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
@@ -264,7 +259,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_rabel_alp_ovl.bmp.png
 tree_leaf00.bmp.png
@@ -318,10 +312,7 @@ w10c_ent01.bmp.png
 w10c_ent02.bmp.png
 w10c_ent03.bmp.png
 w10c_entw00.bmp.png
-w10c_fl00a.bmp_f090db2c7d27de5ceaf7849bea3f7689.png
-w10c_fl00b.bmp_4783af139eb8448160dc9fa885bd7451.png
 w10c_fl00c.bmp_79d5f05b0c8f02fa5ea3d8344309a532.png
-w10c_fl01.bmp.png
 w10c_fl01.bmp_89b1600a0752b90e97de0d507585a5be.png
 w10c_flu00.bmp.png
 w10c_obj00.bmp.png
@@ -344,7 +335,6 @@ w10c_pp04a.bmp.png
 w10c_pp04b.bmp.png
 w10c_pp05.bmp.png
 w10c_rf01.bmp.png
-w10c_sk00.bmp.png
 w10c_sk00.bmp_080bd3d56c6e4437c207d0839cc27828.png
 w10c_sk00a.bmp.png
 w10c_sk00a.bmp_c23abf4bb26aa9b385f505c9436c87e3.png
@@ -386,7 +376,6 @@ w10c_w00.bmp.png
 w10c_w00a.bmp.png
 w10c_w00b.bmp.png
 w10c_w00c.bmp_1a2ec7dfc72a4bdfc203becd5d5bccf6.png
-w10c_w00d.bmp.png
 w10c_w00e.bmp.png
 w10c_w00f2.bmp.png
 w10c_w02.bmp.png
@@ -457,8 +446,6 @@ w14a0_fl_b01.bmp_98e0a40375c857cb61f1742930181da3.png
 w14a0_fl_b03.bmp.png
 w14a0_fl_r01_6.bmp_03efc95e9e21099c6c14c614a41576df.png
 w14a0_fl_r02.bmp_751aa71d7cb1f98626e3ed6f1a7d1278.png
-w14a0_floor_line_01_alp_ovl.bmp.png
-w14a0_floor_moji_01_alp_ovl.bmp.png
 w14a0_gate_p01.bmp_e8d3842cc42ddc769fa3bd25c32587c0.png
 w14a0_gate_p02.bmp_1b65861b8ffd0b026918a226523b8276.png
 w14a0_gate_p03.bmp_903ef6c6020bd7ef8667c33bbe0109e6.png

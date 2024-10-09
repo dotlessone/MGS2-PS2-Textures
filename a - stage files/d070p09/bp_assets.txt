@@ -65,13 +65,11 @@ d_oil_sea_alp_ovl_mod0222.bmp.png
 d_sky_top_01_alp.bmp.png
 demo_chain02_alp_ovl.bmp.png
 door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.png
 e_alp_ovl.bmp.png
 f_alp_ovl.bmp.png
 fat_hand_sub_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -113,7 +111,6 @@ otc_hand00.bmp.png
 otc_hi_face_sub_ovl_alp.bmp.png
 otc_jeans55.bmp.png
 otc_megane_sub_alp_ovl.bmp.png
-otc_mouin.bmp.png
 otc_mtg_alp_ovl.bmp.png
 otc_neck.bmp.png
 otc_neck_sub_ovl_alp.bmp.png
@@ -214,8 +211,6 @@ w10c_entw00.bmp_6b398af0556d5020d5131657e1fd0489.png
 w10c_entw00.bmp_6b398af0556d5020d5131657e1fd0489.png
 w10c_fl00c.bmp.png
 w10c_fl00c.bmp.png
-w10c_fl01.bmp.png
-w10c_fl01.bmp.png
 w10c_flu00.bmp.png
 w10c_flu00.bmp.png
 w10c_obj00.bmp.png
@@ -238,8 +233,6 @@ w10c_pp01.bmp.png
 w10c_pp04.bmp.png
 w10c_pp04.bmp.png
 w10c_pp05.bmp.png
-w10c_sk00.bmp.png
-w10c_sk00.bmp.png
 w10c_sk00a.bmp.png
 w10c_sk00a.bmp.png
 w10c_sk00c.bmp.png
@@ -285,8 +278,6 @@ w10c_w00.bmp.png
 w10c_w00a.bmp.png
 w10c_w00b.bmp.png
 w10c_w00b.bmp.png
-w10c_w00d.bmp.png
-w10c_w00d.bmp.png
 w10c_w00e.bmp.png
 w10c_w00f2.bmp.png
 w10c_w02.bmp.png

@@ -91,12 +91,6 @@ c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
 cap_arm.bmp.png
-cap_body.bmp.png
-cap_face.bmp.png
-cap_hair.bmp.png
-cap_insignia.bmp.png
-cap_leg.bmp.png
-cap_shoe.bmp.png
 case_lan.bmp.png
 case_test_top.bmp.png
 chaff_alp.bmp.png
@@ -131,7 +125,6 @@ elvt_pane_LR_alp.bmp.png
 elvt_pane_down_alp.bmp.png
 elvt_pane_up_alp.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -235,7 +228,6 @@ htc_uc_ovl_mod1120_alp_emap.bmp.png
 htc_under_pad_uc.bmp.png
 htcdt_ovl_mod1120_alp_emap.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 k100.bmp.png
@@ -253,9 +245,7 @@ light12_msk.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
 logo02_alp_ovl.bmp.png
-m4a_all.bmp.png
 m4a_gl_unit.bmp.png
-m4a_sb_s1.bmp.png
 m4grn_bul_high.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
@@ -297,7 +287,6 @@ shl_lit_wire.bmp.png
 sna_m9_glip.bmp.png
 socom_alp_ovl.bmp.png
 stg_rabel_alp_ovl.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 svc_lens_break.bmp.png
 test_fence_mini_alp.bmp.png
@@ -329,8 +318,6 @@ w12b1_light_01_ns.bmp.png
 w12b1_light_01_ns_alp_add_ovl.bmp.png
 w12b1_roof_01.bmp.png
 w13a_sdw01e_alp_ovl.bmp.png
-w14a_blood_01_alp_ovl.bmp.png
-w14a_blood_03_alp_ovl.bmp.png
 w16a1_rf02.bmp.png
 w21a_sdw05f_alp_ovl.bmp.png
 w22a1g_box01_02.bmp.png

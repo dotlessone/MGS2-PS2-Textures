@@ -24,13 +24,11 @@ crd_pp06.bmp.png
 crd_pp09.bmp.png
 crd_pp09a.bmp.png
 crd_ppb00.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 fade_out_alp.bmp.png
 fade_out_floor2_sub.bmp.png
 fade_out_floor_sub.bmp.png
 fade_out_sub.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -50,10 +48,7 @@ light05_msk.bmp.png
 light08_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
-m4a_all.bmp.png
 m4a_light.bmp.png
-m4a_s2.bmp.png
-m4a_sb_s1.bmp.png
 m92_all.bmp.png
 m92_sb_all.bmp_934c22e984e448da6c9f91fc36e0c08e.png
 m92_snk_all.bmp.png
@@ -194,7 +189,6 @@ orp_face2_sub_alp_ovl.bmp.png
 orp_face_retach.bmp_52c9c67e50e94dbb4dab8c0eb4360a13.png
 orp_hi_eye.bmp.png
 orp_matg_alp_ovl.bmp_ccb972f6475085ff31652b14cdabffa0.png
-otc_mouin.bmp.png
 plasma_msk.bmp.png
 powder01_alp.bmp.png
 powder03_alp.bmp.png

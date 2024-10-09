@@ -36,9 +36,7 @@ dish.bmp.png
 dish.bmp.png
 door_bfl00.bmp.png
 door_bfl00.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -311,7 +309,6 @@ orp_face2_sub_alp_ovl.bmp.png
 orp_face_retach.bmp_52c9c67e50e94dbb4dab8c0eb4360a13.png
 orp_hi_eye.bmp.png
 orp_matg_alp_ovl.bmp_ccb972f6475085ff31652b14cdabffa0.png
-otc_mouin.bmp.png
 paSbr_alp_ovl.bmp.png
 paperFbro_alp.bmp.png
 paperS.bmp.png

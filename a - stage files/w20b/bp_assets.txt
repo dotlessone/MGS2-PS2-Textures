@@ -85,7 +85,6 @@ dogtag_tx_alp.bmp.png
 door_c00.bmp.png
 door_c00.bmp_17566e06db4ba4c1a6a196a6cd650101.png
 door_c00a.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 drp_00.bmp_4caada4d15a64a1c4b047e6e8227e4aa.png
 dzp2_tx_alp.bmp.png
@@ -94,7 +93,6 @@ e_heliport_alp_ovl.bmp.png
 e_shuhai_2f_alp_ovl.bmp.png
 entrance_alp_add_ovl.bmp.png
 f_alp_ovl.bmp_dacca138520a09db2f382cd802c85ce1.png
-fire1_alp.bmp.png
 flag_sons_of_liberty.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
@@ -155,7 +153,6 @@ hri2_cockpit_console_t1.bmp.png
 hri2_seat.bmp.png
 i_alp_ovl.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
@@ -211,7 +208,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_rabel_alp_ovl.bmp.png
 w00_fog_fader_alp.bmp.png
@@ -255,7 +251,6 @@ w10c_entfl00.bmp_41079b5b76f61fb1621b76f73c73ce8b.png
 w10c_entw00.bmp.png
 w10c_entw01.bmp_c35dffba325db101d2f51a75807ed0bf.png
 w10c_fl00c.bmp.png
-w10c_fl01.bmp.png
 w10c_flu03.bmp_8c53753f36afb3cef63e6a663757b660.png
 w10c_ladder00_alp_ovl.bmp.png
 w10c_obj00.bmp.png
@@ -271,7 +266,6 @@ w10c_pp04a.bmp.png
 w10c_pp05.bmp.png
 w10c_pp05a_alp_ovl.bmp.png
 w10c_rf00.bmp.png
-w10c_sk00.bmp.png
 w10c_sk00a.bmp.png
 w10c_sk00c.bmp.png
 w10c_sk00e.bmp.png

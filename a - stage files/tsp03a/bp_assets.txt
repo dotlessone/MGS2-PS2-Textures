@@ -95,11 +95,9 @@ col128_add.bmp.png
 col256_bld100.bmp.png
 d_sky_top_01_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -230,9 +228,7 @@ light05_msk.bmp.png
 light08_msk.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
-m4a_all.bmp.png
 m4a_gl_unit.bmp.png
-m4a_sb_s1.bmp.png
 m4grn_bul_high.bmp.png
 mecgeno1_alp_ovl.bmp.png
 mecgeno1_e_alp_ovl.bmp.png

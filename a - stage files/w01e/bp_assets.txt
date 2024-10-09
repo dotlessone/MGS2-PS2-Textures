@@ -13,7 +13,6 @@ bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
 call_alp_ovl.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
-cam_f_ovl_mod1120_alp_emap.bmp.png
 cam_hi_tang.bmp.png
 chaff_alp.bmp.png
 clr_alp_ovl.bmp.png
@@ -34,7 +33,6 @@ dr_00.bmp.png
 dr_01.bmp.png
 dr_02.bmp.png
 dr_03.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 env00_bridge2.bmp.png
@@ -46,7 +44,6 @@ env00_factory1.bmp.png
 env00_mht1_alp_ovl.bmp.png
 env00_mht2_alp_ovl.bmp.png
 env00_mht3_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -67,7 +64,6 @@ grs_black.bmp.png
 gry075.bmp.png
 h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 irs_box_all.bmp.png
 irs_box_all.bmp.png
 irs_box_back.bmp.png
@@ -206,7 +202,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 ssk_all.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 tnc_boot_bt1.bmp.png
 tnc_eri.bmp.png

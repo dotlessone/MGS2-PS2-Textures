@@ -83,7 +83,6 @@ drp_01_brk.bmp.png
 dzp2_tx_alp.bmp.png
 e_alp_ovl.bmp_8e27cb0e71983c0e48ae8d1f53626f8d.png
 entrance_alp_add_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -163,7 +162,6 @@ h_alp_ovl.bmp.png
 h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 k_alp_ovl.bmp.png
@@ -227,7 +225,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_rabel_alp_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
@@ -269,7 +266,6 @@ w10c_ent01.bmp.png
 w10c_ent02.bmp.png
 w10c_ent02_brk.bmp.png
 w10c_entw00.bmp.png
-w10c_fl01.bmp.png
 w10c_flu00.bmp.png
 w10c_flu00.bmp.png
 w10c_flu01.bmp.png
@@ -295,7 +291,6 @@ w10c_pp04a.bmp.png
 w10c_pp04b.bmp_0a7ad793e15254b6c3ee6097dde8bb08.png
 w10c_pp05.bmp.png
 w10c_pp05a_alp_ovl.bmp.png
-w10c_sk00.bmp.png
 w10c_sk00.bmp_080bd3d56c6e4437c207d0839cc27828.png
 w10c_sk00a.bmp.png
 w10c_sk00a.bmp_c23abf4bb26aa9b385f505c9436c87e3.png
@@ -346,8 +341,6 @@ w10c_w00.bmp.png
 w10c_w00a.bmp.png
 w10c_w00b.bmp.png
 w10c_w00c.bmp_1a2ec7dfc72a4bdfc203becd5d5bccf6.png
-w10c_w00d.bmp.png
-w10c_w00d.bmp.png
 w10c_w00e.bmp.png
 w10c_w00f2.bmp.png
 w10c_w02.bmp.png

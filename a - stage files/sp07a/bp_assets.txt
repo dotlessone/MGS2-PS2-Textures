@@ -72,10 +72,8 @@ col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
 d_sky_top_01_alp.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png

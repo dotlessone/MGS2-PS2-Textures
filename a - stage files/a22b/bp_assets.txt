@@ -100,7 +100,6 @@ col_gry024.bmp.png
 dogtag_chain_black_msk.bmp.png
 door_bfl00.bmp.png
 door_bfl00.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 ef_renraku_alp_ovl.bmp.png
 ema_arm00.bmp.png
@@ -183,7 +182,6 @@ f_souko_b1_alp_ovl.bmp.png
 fa_alp_ovl.bmp.png
 fa_renraku_alp_ovl.bmp.png
 fade.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -269,7 +267,6 @@ nametag_wall_def_add_alp.bmp.png
 nom_alp_ovl.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
-otc_mouin.bmp.png
 pipe_03.bmp.png
 pipe_hold_03.bmp.png
 plasma_msk.bmp.png
@@ -318,7 +315,6 @@ splash04_alp.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_bgray.bmp.png
 test_cloth.bmp.png
@@ -352,9 +348,6 @@ w00b_dammy_sub_ovl.bmp.png
 w04a1_pipe.bmp.png
 w10c_ent00.bmp.png
 w10c_ent01.bmp.png
-w10c_entfl01.bmp.png
-w10c_fl00a.bmp_f090db2c7d27de5ceaf7849bea3f7689.png
-w10c_fl00b.bmp_4783af139eb8448160dc9fa885bd7451.png
 w10c_fl00c.bmp_79d5f05b0c8f02fa5ea3d8344309a532.png
 w10c_sk00b.bmp_d9e12dccb9bcc4cf71139977cbfbc3e7.png
 w10c_sk00c.bmp_4081fb1cac8896c709c768596117ba88.png

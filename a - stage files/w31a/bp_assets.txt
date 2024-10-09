@@ -51,7 +51,6 @@ elvt_pane_B1_alp.bmp.png
 elvt_pane_LR_alp.bmp.png
 elvt_pane_down_alp.bmp.png
 elvt_pane_up_alp.bmp.png
-fire1_alp.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
 frost02_alp.bmp.png
@@ -84,7 +83,6 @@ hos_red.bmp.png
 hos_shoes.bmp.png
 hos_white.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 jam_blood_dt_alp_ovl.bmp.png
@@ -181,7 +179,6 @@ orp_rarm_j_meisai_re.bmp.png
 orp_rarm_j_meisai_re.bmp.png
 orp_waist.bmp.png
 orp_waist.bmp.png
-otc_mouin.bmp.png
 plasma_msk.bmp.png
 psg1-T_tx_alp.bmp.png
 ptr_tooth_d1.bmp.png
@@ -313,7 +310,6 @@ sr14j_alp_ovl.bmp_104b15f9971860fa4c6923382baf1463.png
 sr14j_bg_alp_ovl.bmp.png
 ssk_all.bmp.png
 stg_rabel_alp_ovl.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_fence_mini_alp.bmp.png
 test_rabel_alp_ovl.bmp.png

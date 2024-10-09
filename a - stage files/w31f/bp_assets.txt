@@ -98,13 +98,11 @@ ema_tag2_alp_ovl.bmp.png
 ema_tag3.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
-fire1_alp.bmp.png
 frost02_alp.bmp.png
 h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
 hiyoko_karada_stamp01.bmp.png
 hiyoko_stamp01.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 jam_alp_ovl.bmp.png
 kan.bmp.png
 kan_down.bmp.png
@@ -117,7 +115,6 @@ mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
-otc_mouin.bmp.png
 paper_a.bmp.png
 paper_b.bmp.png
 pipe.bmp.png

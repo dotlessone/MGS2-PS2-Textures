@@ -83,7 +83,6 @@ c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
-cam_f_ovl_mod1120_alp_emap.bmp.png
 cam_hi_tang.bmp.png
 cam_hi_tang.bmp.png
 case_lan.bmp.png
@@ -107,7 +106,6 @@ dr_00.bmp.png
 dr_01.bmp.png
 dr_02.bmp.png
 dr_03.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
 dse_side1.bmp.png
 dse_side1.bmp.png
@@ -122,7 +120,6 @@ env00_mht1_alp_ovl.bmp.png
 env00_mht2_alp_ovl.bmp.png
 env00_mht3_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -347,7 +344,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 ssk_all.bmp.png
 sun_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 tnc_boot_bt1.bmp.png
 tnc_eri.bmp.png

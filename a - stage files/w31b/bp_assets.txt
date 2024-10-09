@@ -22,7 +22,6 @@ blood_2bw_alp.bmp.png
 blood_2bw_msk.bmp.png
 bombpowder2_msk.bmp.png
 call_alp_ovl.bmp.png
-cam_mouin.bmp.png
 case_lan.bmp.png
 case_test_top.bmp.png
 chaff_alp.bmp.png
@@ -129,7 +128,6 @@ ema_tag3.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 ema_waist2_ovl_mod1120_alp_emap.bmp.png
 fat_hand_alp_ovl_emap_mod1120.bmp.png
-fire1_alp.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
 gasmask_alp.bmp.png
@@ -141,11 +139,8 @@ hamon09_add_alp.bmp.png
 hiyoko_karada_stamp01.bmp.png
 hiyoko_stamp01.bmp.png
 hnm_death_00_ovl_alp.bmp.png
-hnm_def01.bmp.png
-hnm_def02_ovl_alp.bmp.png
 hnm_low_ovl_alp.bmp.png
 ibox_all2.bmp.png
-ibox_tx_all_alp.bmp_c9d3a3451227c3cc7e6447a2754c7b93.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 k100.bmp.png
@@ -168,8 +163,6 @@ node_areaname_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
 otc_e_ovl_mod1120_alp_emap.bmp.png
-otc_mouin.bmp.png
-otc_mouin.bmp.png
 paper_a.bmp.png
 paper_b.bmp.png
 pipe.bmp.png
@@ -246,7 +239,6 @@ socom_alp_ovl.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
-suppressor_mk_alp.bmp.png
 svc_bonbori.bmp.png
 test_bgray.bmp.png
 test_gray_yellow.bmp.png

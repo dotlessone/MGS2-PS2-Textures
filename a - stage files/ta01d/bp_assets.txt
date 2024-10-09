@@ -179,7 +179,6 @@ dzp2_tx_alp.bmp.png
 eki1_ovl_alp.bmp.png
 emt.bmp_92218c4eceae5cac3617475a1397d4b5.png
 exit_alp_ovl.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -506,7 +505,6 @@ speaker01.bmp_eca4c136e484651509b11b773d32f163.png
 speaker02.bmp_60d9fe67157117c03c26035ec72537cd.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
-suppressor_mk_alp.bmp.png
 svc2_body.bmp.png
 svc2_body_brk1.bmp.png
 svc2_lens_brk.bmp.png

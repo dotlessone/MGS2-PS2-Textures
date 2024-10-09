@@ -69,9 +69,7 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-drop01_alp2_mod1021.bmp.png
 drop01_alp_mod1201.bmp.png
-fire1_alp.bmp.png
 flare_b1_msk.bmp.png
 flare_b2_msk.bmp.png
 flare_g1_msk.bmp.png
@@ -203,8 +201,6 @@ orp_rarm_j_meisai_re.bmp.png
 orp_rarm_j_meisai_re.bmp.png
 orp_waist.bmp.png
 orp_waist.bmp.png
-otc_mouin.bmp.png
-otc_mouin.bmp.png
 p90_amo_natsu.bmp.png
 p90_main_natsu.bmp.png
 p90_main_s1.bmp.png
@@ -274,9 +270,6 @@ rai_watch_dt02_ovl_sub_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rev_blk.bmp.png
 ripple02_alp.bmp.png
-ros_hi_tang01dt.bmp.png
-ros_hi_teeth_d.bmp.png
-ros_hi_teeth_u.bmp.png
 scm_sb_hammer.bmp.png
 scm_sb_temp.bmp.png
 sky_1_alp.bmp.png
