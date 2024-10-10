@@ -354,9 +354,6 @@ orp_boot_bot00.bmp.png
 orp_chest_j_meisai_re.bmp.png
 orp_chest_re_s_alp_sub_ovl.bmp.png
 orp_chest_s_re.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_eri2_meisai_re.bmp.png
 orp_eri_meisai_re.bmp.png
 orp_eyes_ovl_sub_alp.bmp.png

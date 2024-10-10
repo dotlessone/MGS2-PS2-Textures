@@ -43,8 +43,6 @@ chr1_03a_alp_sub_ovl.bmp.png
 chr1_04.bmp.png
 chr1_05.bmp.png
 chr1_05_alp_sub_ovl.bmp.png
-chr2_ovl_mod1120_emap.bmp.png
-chr3_ovl_mod1120_emap.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
@@ -129,7 +127,6 @@ mode_alp_ovl.bmp.png
 mog_loc2_inner.bmp.png
 mog_loc2_inner.bmp.png
 nom_alp_ovl.bmp.png
-obj_mog_book_all.bmp.png
 obj_mog_book_inner.bmp.png
 obj_mog_book_ovl_alp.bmp.png
 plasma_msk.bmp.png

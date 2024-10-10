@@ -124,7 +124,6 @@ tnc_re_faceneck.bmp.png
 tnc_re_faceneck_dead.bmp.png
 tnc_re_shatsu.bmp.png
 tnc_shatsu_bd.bmp.png
-tnc_spe_ovl_mod1120_alp_emap.bmp.png
 tnr_shoese_re.bmp.png
 tnr_shoese_re_ovl_sub_alp.bmp.png
 val_amo1.bmp.png

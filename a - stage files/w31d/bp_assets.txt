@@ -257,7 +257,6 @@ w12b1_light_01_alp_ovl_ns.bmp.png
 w12b1_light_01_ns.bmp.png
 w12b1_light_01_ns_alp_add_ovl.bmp.png
 w12b1_roof_01.bmp.png
-w16a1_rf02.bmp.png
 w21a_sdw05f_alp_ovl.bmp.png
 w22a1g_box01_02.bmp.png
 w22a1h_box02.bmp.png

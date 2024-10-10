@@ -232,7 +232,6 @@ w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
-w16a1_rf02.bmp.png
 w21a_sdw05f_alp_ovl.bmp.png
 w24a0_fla04e_alp_ovl.bmp.png
 w24a0_fla06c_alp_ovl.bmp.png

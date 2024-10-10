@@ -142,7 +142,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna_bandana_msk.bmp.png
 sna_bandana_msk.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_face_shaved_ovl_sub_alp.bmp.png
 sna_face_shaved_ss.bmp.png
 sna_face_ss_ovl_sub_alp.bmp.png

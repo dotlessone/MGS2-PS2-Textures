@@ -216,7 +216,6 @@ orn_should_dt01_sub_alp_ovl.bmp.png
 orn_should_dt02.bmp.png
 orn_should_dt02_sub_alp_ovl.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_hand_sam.bmp.png
 orp_hf00_st.bmp.png
@@ -308,9 +307,6 @@ sna_chest3.bmp.png
 sna_chest4.bmp.png
 sna_collar1.bmp.png
 sna_collar2.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_ear1.bmp.png
 sna_ear2.bmp.png
 sna_face_ss_ovl_sub_alp.bmp.png

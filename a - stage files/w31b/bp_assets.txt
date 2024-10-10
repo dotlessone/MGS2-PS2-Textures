@@ -325,7 +325,6 @@ w04a1_spot_light_face.bmp.png
 w04a_light2_add_alp.bmp.png
 w11_sdr_f1.bmp.png
 w11a_drwl_b.bmp.png
-w16a1_rf02.bmp.png
 w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888.png
 w24a0_entb01a_water.bmp.png
 w24a0_entb03.bmp.png

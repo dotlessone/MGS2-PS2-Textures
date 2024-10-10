@@ -226,8 +226,6 @@ org_waist.bmp.png
 org_waist.bmp.png
 org_waist_ovl_sub_alp.bmp.png
 org_year.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
@@ -279,7 +277,6 @@ tnc_re_faceneck.bmp.png
 tnc_re_faceneck_dead.bmp.png
 tnc_re_shatsu.bmp.png
 tnc_shatsu_bd.bmp.png
-tnc_spe_ovl_mod1120_alp_emap.bmp.png
 tnr_shoese_re.bmp.png
 tnr_shoese_re_ovl_sub_alp.bmp.png
 usp_sb_all.bmp.png

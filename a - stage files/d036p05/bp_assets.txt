@@ -177,7 +177,6 @@ orn_should_dt02.bmp.png
 orn_should_dt02_sub_alp_ovl.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_eyes_ovl_sub_alp.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_face2_sub_alp_ovl.bmp.png
@@ -368,7 +367,6 @@ w15a_h09.bmp.png
 w15a_h09a.bmp.png
 w15a_h09b.bmp.png
 w15a_h09d.bmp.png
-w16a1_rf02.bmp.png
 w19a_ashi00.bmp_78891c5534e2962f7e4d81f15e1ca0f2.png
 w19a_ashi00a.bmp_c30b3b257a4979c9b0bc24c94d7611af.png
 w19a_ashi00b.bmp.png

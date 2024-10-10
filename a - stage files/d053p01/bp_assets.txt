@@ -270,8 +270,6 @@ w11a2_evt_pipe1_alp_ovl.bmp.png
 w11a2_evt_wall1.bmp.png
 w11a2_evt_wall2.bmp.png
 w11a2_evtlit1.bmp.png
-w16a1_rf02.bmp.png
-w16a1_rf02.bmp.png
 w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888.png
 w24a0_entb01a_water.bmp.png
 w24a0_entb03.bmp.png

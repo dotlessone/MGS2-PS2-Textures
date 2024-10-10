@@ -127,7 +127,6 @@ frost02_alp.bmp.png
 hamon09_add_alp.bmp.png
 iro_bag1.bmp.png
 jam_alp_ovl.bmp.png
-jam_e2_ovl_mod1120_alp_emap.bmp.png
 ketchap_g.bmp.png
 kmo_body.bmp.png
 kmo_droppings01_alp.bmp.png

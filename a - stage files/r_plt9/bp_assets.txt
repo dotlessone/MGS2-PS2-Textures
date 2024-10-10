@@ -277,8 +277,6 @@ sna_chest3.bmp.png
 sna_chest4.bmp.png
 sna_collar1.bmp.png
 sna_collar2.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_ear1.bmp.png
 sna_ear2.bmp.png
 sna_fin.bmp.png

@@ -199,7 +199,6 @@ shl_lit1_f2.bmp.png
 shl_lit1_f_msk_decal.bmp.png
 shl_lit_wire.bmp.png
 skk_01.bmp.png
-skk_02.bmp.png
 skk_u01.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png

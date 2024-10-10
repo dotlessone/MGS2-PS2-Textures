@@ -355,8 +355,6 @@ w15a_h08a.bmp.png
 w15a_h09.bmp.png
 w15a_h09a.bmp.png
 w15a_h09d.bmp.png
-w16a1_rf02.bmp.png
-w16a1_rf02.bmp.png
 w19a_ashi00.bmp_78891c5534e2962f7e4d81f15e1ca0f2.png
 w19a_ashi00a.bmp_c30b3b257a4979c9b0bc24c94d7611af.png
 w19a_ashi00b.bmp.png

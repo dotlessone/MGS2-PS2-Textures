@@ -103,7 +103,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
 sol_arm_dt01.bmp.png

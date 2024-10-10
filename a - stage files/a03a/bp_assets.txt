@@ -258,7 +258,6 @@ tnc_re_faceneck_dead.bmp.png
 tnc_re_shatsu.bmp.png
 tnc_shatsu.bmp.png
 tnc_shatsu_bd.bmp.png
-tnc_spe_ovl_mod1120_alp_emap.bmp.png
 tnr_shoese.bmp.png
 tnr_shoese_re.bmp.png
 tnr_shoese_re_ovl_sub_alp.bmp.png

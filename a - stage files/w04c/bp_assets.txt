@@ -115,8 +115,6 @@ seculitycard_lv1_alp.bmp_89c61a473bb530b5626fa49561bf2d2a.png
 sensou_02_alp_ovl.bmp.png
 sensou_03_alp_ovl.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_hi_eye01dt.bmp_c0784f99238a539837ac94a145e6ffbf.png
 sna_hi_eye01dt.bmp_c0784f99238a539837ac94a145e6ffbf.png
 sna_hi_eye_ovl_sub_alp.bmp.png

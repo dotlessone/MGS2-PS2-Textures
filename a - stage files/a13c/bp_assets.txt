@@ -231,8 +231,6 @@ orp_chest_re_s_alp_sub_ovl.bmp.png
 orp_chest_re_s_alp_sub_ovl.bmp_1783abdbe82c7d8bf4711a8eda1bf181.png
 orp_chest_s_re.bmp.png
 orp_chest_s_re.bmp_b6cbd75d2c45b5510f58574f6b202217.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_eri2_meisai_re.bmp.png
 orp_eri2_meisai_re.bmp_bc88fb1e44ae3c046de504850142dc06.png
 orp_eri_meisai_re.bmp.png

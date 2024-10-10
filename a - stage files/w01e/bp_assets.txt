@@ -136,7 +136,6 @@ org_waist.bmp.png
 org_waist.bmp.png
 org_waist_ovl_sub_alp.bmp.png
 org_year.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_matg_alp_ovl.bmp.png
@@ -167,7 +166,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_foot01dt.bmp.png
 sna_hair3.bmp.png
 sna_hand2.bmp.png

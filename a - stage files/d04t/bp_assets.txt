@@ -55,7 +55,6 @@ gbs_body_ovl_sub_alp.bmp.png
 gbs_boot_ovl_sub_alp.bmp.png
 gbs_bp1.bmp.png
 gbs_bp2.bmp.png
-gbs_e_ovl_mod1120_alp_emap.bmp.png
 gbs_leg_ovl_sub_alp.bmp.png
 gbs_nvg_box.bmp.png
 gbs_nvg_box.bmp.png
@@ -125,7 +124,6 @@ rcm_l_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 shdw.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_foot01dt.bmp.png
 sna_hair3.bmp.png
 sna_hand2.bmp.png
@@ -155,8 +153,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 ssk_all.bmp_0f6ded3c2295b9f13b65e8288502b515.png
 ssk_all.bmp_0f6ded3c2295b9f13b65e8288502b515.png
-ssk_ovl_mod1120_alp_emap.bmp.png
-ssk_ovl_mod1120_alp_emap.bmp.png
 ssk_ovl_sub_alp.bmp.png
 ssk_ovl_sub_alp.bmp.png
 svc_bonbori.bmp.png
@@ -191,7 +187,6 @@ tnc_re_faceneck_dead.bmp.png
 tnc_re_faceneck_dead.bmp.png
 tnc_shatsu_bd.bmp.png
 tnc_shatsu_bd.bmp.png
-tnc_spe_ovl_mod1120_alp_emap.bmp.png
 tnr_shoese_re.bmp.png
 tnr_shoese_re.bmp.png
 tnr_shoese_re_ovl_sub_alp.bmp.png

@@ -531,7 +531,6 @@ w16a1_floorSH_alp_ovl.bmp.png
 w16a1_obj04.bmp_edab50118c8057e28ddc820e0a0c0bff.png
 w16a1_obj06.bmp.png
 w16a1_obj07_2.bmp.png
-w16a1_rf02.bmp.png
 w16a1_rf03.bmp.png
 w16a1_rf04.bmp.png
 w16a1_rf05.bmp.png

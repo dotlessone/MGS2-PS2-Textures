@@ -43,7 +43,6 @@ gbs_body_ovl_sub_alp.bmp.png
 gbs_boot_ovl_sub_alp.bmp.png
 gbs_bp1.bmp.png
 gbs_bp2.bmp.png
-gbs_e_ovl_mod1120_alp_emap.bmp.png
 gbs_leg_ovl_sub_alp.bmp.png
 gbs_toe2_ovl_sub_alp.bmp.png
 glass01_add.bmp.png
@@ -295,7 +294,6 @@ orn_sld_text_R_alp.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_eyes_ovl_sub_alp.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_face2_sub_alp_ovl.bmp.png
@@ -365,8 +363,6 @@ rev_hi_face_ss_fix.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
 rev_holster_01dt.bmp.png
 rev_holster_01dt.bmp.png
-rev_p_ovl_mod1120_alp_emap.bmp.png
-rev_p_ovl_mod1120_alp_emap.bmp.png
 rev_pla_leg_ovl_sub_alp.bmp.png
 rev_pla_leg_ovl_sub_alp.bmp.png
 rev_plant_arm_ovl_sub_alp.bmp.png
@@ -418,7 +414,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_teeth_d3.bmp.png

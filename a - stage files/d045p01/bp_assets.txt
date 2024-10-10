@@ -174,9 +174,6 @@ sky_sun_d_alp.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_g4_ovl_mod1120_alp_emap.bmp.png
 sna_glass_bld080_ovl_alp.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png

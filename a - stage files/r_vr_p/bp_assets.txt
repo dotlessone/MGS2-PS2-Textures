@@ -219,7 +219,6 @@ sel_folder.bmp.png
 sel_leg.bmp.png
 shuukanshi_01.bmp.png
 shv_alp_ovl.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_g2_ovl_mod1120_alp_emap.bmp.png
 sna_g4_ovl_mod1120_alp_emap.bmp.png
 sna_glass_bld080_ovl_alp.bmp.png

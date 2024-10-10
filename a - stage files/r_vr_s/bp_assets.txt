@@ -187,7 +187,6 @@ scp.bmp.png
 shuukanshi_01.bmp.png
 shv_alp_ovl.bmp.png
 sna_bandana_msk.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_face_ss_ovl_sub_alp.bmp.png
 sna_foot01dt.bmp.png
 sna_g2_ovl_mod1120_alp_emap.bmp.png

@@ -254,8 +254,6 @@ org_ut01_mouin.bmp.png
 org_ut02_mouin.bmp.png
 org_waist.bmp.png
 org_year.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_hand_sam.bmp.png

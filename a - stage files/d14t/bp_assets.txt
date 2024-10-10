@@ -177,7 +177,6 @@ orn_should_dt02_sub_alp_ovl.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_eyes_ovl_sub_alp.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_face2_sub_alp_ovl.bmp.png
@@ -246,8 +245,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna_bandana_msk.bmp.png
 sna_bandana_msk.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_face_ss_ovl_sub_alp.bmp.png
 sna_foot01dt.bmp.png
 sna_foot01dt.bmp.png

@@ -14,7 +14,6 @@ call_alp_ovl.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
-cam_face_ovl_alp_mod1120_emap.bmp.png
 cam_hi_tang.bmp.png
 cam_hi_tang.bmp.png
 cam_hi_teeth_d1.bmp.png
@@ -36,7 +35,6 @@ crg_arm_re_sub_alp_ovl.bmp.png
 crg_belt_ovl_alp_emap_mod1120.bmp.png
 crg_body_down.bmp.png
 crg_body_down_sub_alp_ovl.bmp.png
-crg_body_ovl_alp_emap_mod1120.bmp.png
 crg_body_up.bmp.png
 crg_body_up_sub_alp_ovl.bmp.png
 crg_cap02.bmp.png
@@ -50,11 +48,8 @@ crg_eri3.bmp.png
 crg_eye.bmp.png
 crg_face_re.bmp.png
 crg_face_sub_ovl_alp.bmp.png
-crg_far_ovl_alp_emap_mod1120.bmp.png
-crg_far_ovl_alp_emap_mod1120.bmp.png
 crg_hair_l.bmp.png
 crg_hair_r.bmp.png
-crg_hand_ovl_mod1120_alp_emap.bmp.png
 crg_hand_re.bmp.png
 crg_hand_re_sub_alp_ovl.bmp.png
 crg_kata.bmp.png
@@ -111,7 +106,6 @@ gas_dai02c.bmp.png
 gbs_arm_ovl_sub_alp.bmp.png
 gbs_body_ovl_sub_alp.bmp.png
 gbs_boot_ovl_sub_alp.bmp.png
-gbs_e_ovl_mod1120_alp_emap.bmp.png
 gbs_leg_ovl_sub_alp.bmp.png
 gbs_toe2_ovl_sub_alp.bmp.png
 grs_black.bmp.png
@@ -248,9 +242,6 @@ org_waist.bmp.png
 org_waist_ovl_sub_alp.bmp.png
 org_waist_ovl_sub_alp.bmp.png
 org_year.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
@@ -274,7 +265,6 @@ scm_sb_hammer.bmp.png
 scm_sb_temp.bmp.png
 shdw.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_foot01dt.bmp.png
 sna_hair3.bmp.png
 sna_hand2.bmp.png
@@ -314,7 +304,6 @@ ssk_all.bmp.png
 ssk_all.bmp.png
 ssk_all.bmp_0f6ded3c2295b9f13b65e8288502b515.png
 ssk_bul.bmp.png
-ssk_ovl_mod1120_alp_emap.bmp.png
 ssk_ovl_sub_alp.bmp.png
 svc_bonbori.bmp.png
 svc_bonbori_alp.bmp.png

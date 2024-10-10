@@ -71,7 +71,6 @@ sco_boot_soko.bmp.png
 sensou_01_alp_ovl.bmp.png
 sensou_02_alp_ovl.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_foot01dt.bmp.png
 sna_hair3.bmp.png
 sna_hand2.bmp.png

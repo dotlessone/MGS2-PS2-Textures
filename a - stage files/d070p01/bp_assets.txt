@@ -237,7 +237,6 @@ orn_sld_text_L_alp.bmp.png
 orn_sld_text_R_alp.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
 orn_spec_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_eyes_ovl_sub_alp.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_face2_sub_alp_ovl.bmp.png
@@ -357,8 +356,6 @@ sky_m2_alp.bmp.png
 sky_m4_alp.bmp.png
 sky_sun_e_alp.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye01dt.bmp.png
 sna_hi_eye01dt.bmp.png
@@ -475,7 +472,6 @@ w15a_h09d.bmp.png
 w15a_hbrk08.bmp.png
 w15a_hbrk08a.bmp.png
 w15a_pp04a2.bmp.png
-w16a1_rf02.bmp.png
 w17a_flu00a.bmp.png
 w19a_ashi00.bmp.png
 w19a_ashi00a.bmp.png

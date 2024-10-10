@@ -199,7 +199,6 @@ nametag_straw_def_add_alp.bmp.png
 nametag_triangle_def_add_alp.bmp.png
 nametag_wall_def_add_alp.bmp.png
 nom_alp_ovl.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_f_ovl_mod1120_alp_emap.bmp.png
 orp_hand_sam.bmp.png
 orp_hf00_st.bmp.png

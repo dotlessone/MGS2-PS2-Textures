@@ -152,7 +152,6 @@ rifle_ibox.bmp_94bca08db682d231ae1d48d2b6385598.png
 saya.bmp.png
 sna2h_mouin.bmp.png
 sna_bandana_msk.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_face_ss_ovl_sub_alp.bmp.png
 sna_foot01dt.bmp.png
 sna_g2_ovl_mod1120_alp_emap.bmp.png
@@ -223,7 +222,6 @@ w01f_bk05b.bmp_7024cd196195b3300deab5a8a0b24b41.png
 w01f_bk06.bmp_864664f5ac3f77087c31b0de3ad9bbf3.png
 w02a_door.bmp.png
 w11_col4.bmp.png
-w16a1_rf02.bmp.png
 w16a_gy045.bmp.png
 w16a_rf01.bmp.png
 w24a0_fla04e_alp_ovl.bmp.png

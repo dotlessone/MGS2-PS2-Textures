@@ -316,7 +316,6 @@ rev_hand_01dt.bmp.png
 rev_hi_face_ss_fix.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
 rev_holster_01dt.bmp.png
-rev_p_ovl_mod1120_alp_emap.bmp.png
 rev_pla_leg_ovl_sub_alp.bmp.png
 rev_plant_arm_ovl_sub_alp.bmp.png
 rev_plant_arm_ss.bmp.png

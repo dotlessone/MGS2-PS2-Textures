@@ -218,8 +218,6 @@ orp_chest_re_s_alp_sub_ovl.bmp.png
 orp_chest_re_s_alp_sub_ovl.bmp_1783abdbe82c7d8bf4711a8eda1bf181.png
 orp_chest_s_re.bmp.png
 orp_chest_s_re.bmp_b6cbd75d2c45b5510f58574f6b202217.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 orp_eri2_meisai_re.bmp.png
 orp_eri2_meisai_re.bmp_bc88fb1e44ae3c046de504850142dc06.png
 orp_eri_meisai_re.bmp.png
@@ -312,8 +310,6 @@ rev_hi_face_ss_fix.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
 rev_holster_01dt.bmp.png
 rev_holster_01dt.bmp.png
-rev_p_ovl_mod1120_alp_emap.bmp.png
-rev_p_ovl_mod1120_alp_emap.bmp.png
 rev_pla_leg_ovl_sub_alp.bmp.png
 rev_pla_leg_ovl_sub_alp.bmp.png
 rev_plant_arm_ovl_sub_alp.bmp.png
@@ -352,8 +348,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png

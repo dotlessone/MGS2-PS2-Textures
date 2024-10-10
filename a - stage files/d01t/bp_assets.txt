@@ -15,7 +15,6 @@ box_side.bmp.png
 bw_mark.bmp.png
 call_alp_ovl.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
-cam_face_ovl_alp_mod1120_emap.bmp.png
 cam_hi_tang.bmp.png
 cam_hi_teeth_d1.bmp.png
 cam_hi_teeth_d2.bmp.png
@@ -32,7 +31,6 @@ crg_arm_re_sub_alp_ovl.bmp.png
 crg_belt_ovl_alp_emap_mod1120.bmp.png
 crg_body_down.bmp.png
 crg_body_down_sub_alp_ovl.bmp.png
-crg_body_ovl_alp_emap_mod1120.bmp.png
 crg_body_up.bmp.png
 crg_body_up_sub_alp_ovl.bmp.png
 crg_cap02.bmp.png
@@ -46,11 +44,8 @@ crg_eri3.bmp.png
 crg_eye.bmp.png
 crg_face_re.bmp.png
 crg_face_sub_ovl_alp.bmp.png
-crg_far_ovl_alp_emap_mod1120.bmp.png
-crg_far_ovl_alp_emap_mod1120.bmp.png
 crg_hair_l.bmp.png
 crg_hair_r.bmp.png
-crg_hand_ovl_mod1120_alp_emap.bmp.png
 crg_hand_re.bmp.png
 crg_hand_re_sub_alp_ovl.bmp.png
 crg_kata.bmp.png
@@ -94,7 +89,6 @@ gbs_body_ovl_sub_alp.bmp.png
 gbs_boot_ovl_sub_alp.bmp.png
 gbs_bp1.bmp.png
 gbs_bp2.bmp.png
-gbs_e_ovl_mod1120_alp_emap.bmp.png
 gbs_leg_ovl_sub_alp.bmp.png
 gbs_nvg_box.bmp.png
 gbs_nvg_box.bmp.png
@@ -145,7 +139,6 @@ mark_noise_alp.bmp.png
 mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 org_sknc_all.bmp.png
-orp_e_ovl_mod1120_alp_emap.bmp.png
 plasma_msk.bmp.png
 powder01_alp.bmp.png
 powder03_alp.bmp.png
@@ -161,7 +154,6 @@ rcm_l_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 shdw.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_foot01dt.bmp.png
 sna_hair3.bmp.png
 sna_hand2.bmp.png
@@ -188,8 +180,6 @@ splash07_alp.bmp.png
 ssk_all.bmp.png
 ssk_all.bmp_0f6ded3c2295b9f13b65e8288502b515.png
 ssk_all.bmp_0f6ded3c2295b9f13b65e8288502b515.png
-ssk_ovl_mod1120_alp_emap.bmp.png
-ssk_ovl_mod1120_alp_emap.bmp.png
 ssk_ovl_sub_alp.bmp.png
 ssk_ovl_sub_alp.bmp.png
 svc_bonbori.bmp.png
@@ -208,7 +198,6 @@ tnc_r_year01dt.bmp.png
 tnc_re_body.bmp.png
 tnc_re_faceneck.bmp.png
 tnc_re_shatsu.bmp.png
-tnc_spe_ovl_mod1120_alp_emap.bmp.png
 tnr_dark_arm.bmp.png
 tnr_dark_body.bmp.png
 tnr_dark_body.bmp.png
@@ -224,9 +213,6 @@ tnr_re_foodl_ovl_sub_alp.bmp.png
 tnr_re_foodr_ovl_sub_alp.bmp.png
 tnr_shoese_re.bmp.png
 tnr_shoese_re_ovl_sub_alp.bmp.png
-tnr_spe3_ovl_mod1120_alp_emap.bmp.png
-tnr_spe_s2_ovl_mod1120_alp_emap.bmp.png
-tnr_spe_s2_ovl_mod1120_alp_emap.bmp.png
 w00_blc_u1.bmp.png
 w00_blc_u2.bmp.png
 w00_blc_u3.bmp.png

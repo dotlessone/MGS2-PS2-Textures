@@ -126,7 +126,6 @@ hos_tie_green.bmp.png
 isu_back_01.bmp.png
 isu_face_01.bmp.png
 jam_alp_ovl.bmp.png
-jam_e2_ovl_mod1120_alp_emap.bmp.png
 ketchap_g.bmp.png
 leg.bmp.png
 leg.bmp.png
@@ -245,8 +244,6 @@ sco_watch.bmp.png
 scot_hiface3.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye01dt.bmp.png
 sna_hi_eye01dt.bmp_c0784f99238a539837ac94a145e6ffbf.png

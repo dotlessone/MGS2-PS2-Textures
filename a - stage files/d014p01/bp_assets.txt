@@ -323,9 +323,6 @@ smallbox_01.bmp.png
 smallbox_01.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
-sna_e_ovl_mod1120_alp_emap.bmp.png
 sna_g4_ovl_mod1120_alp_emap.bmp.png
 sna_glass_bld080_ovl_alp.bmp.png
 sna_hi_eye01dt.bmp.png
@@ -600,7 +597,6 @@ w16a0n_wa12_alp_ovl.bmp.png
 w16a0r_01.bmp.png
 w16a0r_01.bmp.png
 w16a1_floorSH_alp_ovl.bmp.png
-w16a1_rf02.bmp.png
 w16a1_rf03.bmp.png
 w16a1_rf04.bmp.png
 w16a1_rf_pi1.bmp_225c0bc9af0c89508642a768cdda4d49.png
