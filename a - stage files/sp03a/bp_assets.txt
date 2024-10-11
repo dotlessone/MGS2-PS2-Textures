@@ -169,11 +169,8 @@ hfb_sb_gr_mk.bmp.png
 hfb_sb_saya.bmp.png
 hfb_sb_saya2.bmp.png
 hfb_sori_gr2.bmp.png
-hfb_sub_gr2_alp_ovl.bmp.png
 hfb_tuba.bmp.png
 hfb_tuba.bmp.png
-hfbs3_sb.bmp.png
-hfbs3_sub_alp_ovl.bmp.png
 htc_arm_uc.bmp.png
 htc_arm_uc.bmp.png
 htc_belt_n2.bmp.png
@@ -236,7 +233,6 @@ nametag_triangle_def_add_alp.bmp.png
 nametag_wall_def_add_alp.bmp.png
 nom_alp_ovl.bmp.png
 p90_amo.bmp.png
-p90_main_s1.bmp.png
 plasma_msk.bmp.png
 powder01_alp.bmp.png
 powder03_alp.bmp.png

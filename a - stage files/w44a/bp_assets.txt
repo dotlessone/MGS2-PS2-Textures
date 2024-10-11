@@ -86,10 +86,7 @@ hfb_ovl_mod1120_alp_emap.bmp.png
 hfb_sb_gr2.bmp.png
 hfb_sb_gr_mk.bmp.png
 hfb_sori_gr2.bmp.png
-hfb_sub_gr2_alp_ovl.bmp.png
 hfb_tuba.bmp.png
-hfbs3_sb.bmp.png
-hfbs3_sub_alp_ovl.bmp.png
 htc_eye2_ovl_sub_alp.bmp.png
 htc_light_uc_ovl_sub_alp.bmp.png
 htcdt_ovl_mod1120_alp_emap.bmp.png
@@ -114,7 +111,6 @@ medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 p90_amo.bmp.png
-p90_main_s1.bmp.png
 pdray_number_w42_alp_ovl.bmp.png
 pdray_seal_mgrpdm_alp_ovl.bmp.png
 pdray_shoulder_f1.bmp.png

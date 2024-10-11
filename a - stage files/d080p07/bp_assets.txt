@@ -106,7 +106,6 @@ sol_leg_sune_n.bmp.png
 sol_leg_sune_n_ovl_sub_alp.bmp.png
 sol_leg_y_ovl_sub_alp.bmp.png
 sol_mayu_alp_ovl.bmp.png
-sol_ovl_mod1120_alp_emap.bmp.png
 sol_sa_ovl_mod1120_alp_emap.bmp.png
 sol_sarm_bane.bmp.png
 sol_sarm_chest.bmp.png

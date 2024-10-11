@@ -257,7 +257,6 @@ nametag_wall_def_add_alp.bmp.png
 newyork_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 p90_amo.bmp.png
-p90_main_s1.bmp.png
 plasma_msk.bmp.png
 powder01_alp.bmp.png
 powder03_alp.bmp.png

@@ -141,10 +141,7 @@ hfb_sb_gr2.bmp.png
 hfb_sb_saya.bmp.png
 hfb_sb_saya2.bmp.png
 hfb_sori_gr2.bmp.png
-hfb_sub_gr2_alp_ovl.bmp.png
 hfb_tuba.bmp.png
-hfbs3_sb.bmp.png
-hfbs3_sub_alp_ovl.bmp.png
 htl_test03.bmp.png
 i_alp_ovl.bmp.png
 iro_bag1.bmp.png

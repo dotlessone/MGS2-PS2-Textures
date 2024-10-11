@@ -140,15 +140,9 @@ hfb_sb_saya.bmp.png
 hfb_sb_saya2.bmp.png
 hfb_sori_gr2.bmp.png
 hfb_sori_gr2.bmp.png
-hfb_sub_gr2_alp_ovl.bmp.png
-hfb_sub_gr2_alp_ovl.bmp.png
 hfb_tuba.bmp.png
 hfb_tuba.bmp.png
 hfb_tuba.bmp.png
-hfbs3_sb.bmp.png
-hfbs3_sb.bmp.png
-hfbs3_sub_alp_ovl.bmp.png
-hfbs3_sub_alp_ovl.bmp.png
 lez.bmp.png
 lez2.bmp.png
 m4a_nm_alp_ovl.bmp.png

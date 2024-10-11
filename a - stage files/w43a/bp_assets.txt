@@ -95,13 +95,8 @@ hfb_sb_gr_mk.bmp.png
 hfb_sb_gr_mk.bmp.png
 hfb_sori_gr2.bmp.png
 hfb_sori_gr2.bmp.png
-hfb_sub_gr2_alp_ovl.bmp.png
-hfb_sub_gr2_alp_ovl.bmp.png
 hfb_tuba.bmp.png
 hfb_tuba.bmp.png
-hfbs3_sb.bmp.png
-hfbs3_sb.bmp.png
-hfbs3_sub_alp_ovl.bmp.png
 ibox_all2.bmp.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png

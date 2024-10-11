@@ -93,7 +93,6 @@ newyork_alp_ovl.bmp.png
 node_body_fs.bmp_2d232c1841622a956636280f693cb07c.png
 nom_alp_ovl.bmp.png
 p90_amo.bmp.png
-p90_main_s1.bmp.png
 pdray_number_w42_alp_ovl.bmp.png
 pdray_seal_mgrpdm_alp_ovl.bmp.png
 pdray_shoulder_f1.bmp.png
