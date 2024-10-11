@@ -141,7 +141,6 @@ iro_hi_face.bmp.png
 iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_tang.bmp.png
-iro_hi_teeth.bmp.png
 iro_nail.bmp.png
 iro_nail.bmp.png
 iro_phones01.bmp.png
@@ -304,11 +303,7 @@ otc_shues_under.bmp.png
 otc_tang.bmp.png
 otc_tear_l_sub_alp_ovl.bmp.png
 otc_tear_r_sub_alp_ovl.bmp.png
-otc_teeth_d3.bmp.png
 otc_teeth_d4.bmp.png
-otc_teeth_u2.bmp.png
-otc_teeth_u3.bmp.png
-otc_teeth_u4.bmp.png
 otc_tr_ovl_mod1120_alp_emap.bmp.png
 otc_tshatsu2.bmp.png
 otc_tshatsu2.bmp.png
@@ -361,9 +356,6 @@ sna_hi_eye01dt.bmp.png
 sna_hi_eye01dt.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u4.bmp.png
 splash06_msk.bmp.png
 splash07_alp.bmp.png
 sun_alp.bmp.png

@@ -184,7 +184,6 @@ iro_hi_face.bmp.png
 iro_hi_face_bandage.bmp.png
 iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_tang.bmp.png
-iro_hi_teeth.bmp.png
 iro_nail.bmp.png
 iro_phones01.bmp.png
 iro_phones01.bmp.png

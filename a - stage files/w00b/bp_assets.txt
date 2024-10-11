@@ -206,9 +206,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u4.bmp.png
 socom_alp_ovl.bmp.png
 splash03_alp.bmp.png
 splash06_msk.bmp.png

@@ -249,15 +249,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u4.bmp.png
-sna_hi_teeth_u4.bmp.png
-sna_hi_teeth_u4.bmp.png
 socom_alp_ovl.bmp.png
 sr14j_alp_ovl.bmp_104b15f9971860fa4c6923382baf1463.png
 sr14j_bg_alp_ovl.bmp.png

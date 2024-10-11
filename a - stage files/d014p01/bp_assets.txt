@@ -141,8 +141,6 @@ iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_tang.bmp.png
 iro_hi_tang.bmp.png
-iro_hi_teeth.bmp.png
-iro_hi_teeth.bmp.png
 iro_nail.bmp.png
 iro_nail.bmp.png
 iro_phones01.bmp.png
@@ -331,12 +329,6 @@ sna_hi_eye01dt.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u4.bmp.png
-sna_hi_teeth_u4.bmp.png
 soHakoFr.bmp.png
 soHakoFrU.bmp.png
 soHakoFrU2.bmp.png

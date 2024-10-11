@@ -65,7 +65,6 @@ iro_hi_ela_alp_ovl.bmp.png
 iro_hi_face.bmp.png
 iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_tang.bmp.png
-iro_hi_teeth.bmp.png
 iro_snawear_ovl_sub_alp.bmp.png
 m92_magazine.bmp.png
 noIcon.bmp.png
@@ -199,11 +198,7 @@ otc_phone_st.bmp.png
 otc_shues.bmp.png
 otc_shues_under.bmp.png
 otc_tang.bmp.png
-otc_teeth_d3.bmp.png
 otc_teeth_d4.bmp.png
-otc_teeth_u2.bmp.png
-otc_teeth_u3.bmp.png
-otc_teeth_u4.bmp.png
 otc_tshatsu2.bmp.png
 rai_arm.bmp.png
 rai_arm_fix_ovl_sub_alp.bmp_e9340309b4fea037783347dd3285b3c1.png
@@ -293,15 +288,6 @@ sna_hi_face_ovl_sub_alp.bmp.png
 sna_hi_face_ovl_sub_alp.bmp.png
 sna_hi_meziri.bmp.png
 sna_hi_meziri.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u4.bmp.png
-sna_hi_teeth_u4.bmp.png
-sna_hi_teeth_u4.bmp.png
 sna_hip1.bmp.png
 sna_hip2.bmp.png
 sna_leg1.bmp.png

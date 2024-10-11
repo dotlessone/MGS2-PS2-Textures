@@ -178,7 +178,6 @@ iro_hi_ela_alp_ovl.bmp.png
 iro_hi_face.bmp.png
 iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_tang.bmp.png
-iro_hi_teeth.bmp.png
 iro_nail.bmp.png
 iro_nail.bmp.png
 iro_phones01.bmp.png
@@ -270,9 +269,6 @@ sna_g4_ovl_mod1120_alp_emap.bmp.png
 sna_glass_bld080_ovl_alp.bmp.png
 sna_hi_eye01dt.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u4.bmp.png
 sna_shadow.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png

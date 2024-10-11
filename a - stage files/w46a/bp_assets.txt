@@ -139,9 +139,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye_ovl_sub_alp.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u4.bmp.png
 socom_alp_ovl.bmp.png
 sol_arm_dt01.bmp.png
 sol_arm_dt01_ovl_sub_alp.bmp.png

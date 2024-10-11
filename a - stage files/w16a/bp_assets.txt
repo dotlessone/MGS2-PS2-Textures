@@ -102,7 +102,6 @@ iro_hi_ela_alp_ovl.bmp.png
 iro_hi_face.bmp.png
 iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_tang.bmp.png
-iro_hi_teeth.bmp.png
 iro_nail.bmp.png
 iro_phones01.bmp.png
 iro_phones02_ovl_alp.bmp.png

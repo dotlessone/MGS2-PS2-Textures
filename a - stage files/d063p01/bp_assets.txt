@@ -257,9 +257,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_sun_e_alp.bmp.png
 sna2h_mouin.bmp.png
-sna_hi_teeth_d3.bmp.png
-sna_hi_teeth_u3.bmp.png
-sna_hi_teeth_u4.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png

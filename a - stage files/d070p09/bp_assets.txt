@@ -114,11 +114,7 @@ otc_phone_st.bmp.png
 otc_shues.bmp.png
 otc_shues_under.bmp.png
 otc_tang.bmp.png
-otc_teeth_d3.bmp.png
 otc_teeth_d4.bmp.png
-otc_teeth_u2.bmp.png
-otc_teeth_u3.bmp.png
-otc_teeth_u4.bmp.png
 otc_tshatsu2.bmp.png
 otc_tshatsu_bd.bmp.png
 p_br_seacolor_01_alp_ovl.bmp.png
