@@ -111,7 +111,6 @@ medicine_rabel_alp_ovl.bmp.png
 mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 p90_amo.bmp.png
-pdray_number_w42_alp_ovl.bmp.png
 pdray_seal_mgrpdm_alp_ovl.bmp.png
 pdray_shoulder_f1.bmp.png
 plasma_msk.bmp.png

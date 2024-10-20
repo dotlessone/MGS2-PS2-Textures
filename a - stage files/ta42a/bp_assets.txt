@@ -166,7 +166,6 @@ newyork_alp_ovl.bmp.png
 node_body_fs.bmp_2d232c1841622a956636280f693cb07c.png
 nom_alp_ovl.bmp.png
 p90_amo.bmp.png
-pdray_number_w42_alp_ovl.bmp.png
 pdray_seal_mgrpdm_alp_ovl.bmp.png
 pdray_shoulder_f1.bmp.png
 plasma_msk.bmp.png
@@ -314,7 +313,6 @@ w42a_2f_floor_back_02.bmp.png
 w42a_2f_floor_back_03.bmp.png
 w42a_2f_floor_back_04.bmp.png
 w42a_2f_floor_back_05.bmp.png
-w42a_2f_hanger_01.bmp.png
 w42a_2f_hanger_02.bmp.png
 w42a_2f_hanger_03.bmp.png
 w42a_2f_hanger_04.bmp.png

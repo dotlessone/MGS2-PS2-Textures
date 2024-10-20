@@ -84,7 +84,6 @@ m3l_flo_09_bld090_ovl.bmp.png
 m3l_flo_medibed_bld090_ovl.bmp.png
 m3l_flo_medienter2_bld097_ovl.bmp.png
 m3l_flo_shade.bmp.png
-m3l_gou_02msk.bmp.png
 m3l_gou_06.bmp.png
 m3l_gou_08.bmp.png
 m3l_gou_17.bmp.png
@@ -201,15 +200,6 @@ ptr_tooth_u4.bmp.png
 qt_break_alp.bmp.png
 rai_na_ovl_mod1102_alp_emap.bmp.png
 rai_naked_arm_ovl_sub_alp.bmp.png
-rai_naked_arm_ss.bmp.png
-rai_naked_body.bmp.png
-rai_naked_body_ovl_sub_alp.bmp.png
-rai_naked_foot1.bmp.png
-rai_naked_foot2.bmp.png
-rai_naked_hand1.bmp.png
-rai_naked_hand2.bmp.png
-rai_naked_leg.bmp.png
-rai_naked_leg_ovl_sub_alp.bmp.png
 rai_naked_toe.bmp.png
 ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
@@ -372,7 +362,6 @@ w42a_1f_hung_03.bmp.png
 w42a_2f_floor_back_03.bmp.png
 w42a_2f_floor_back_04.bmp.png
 w42a_2f_floor_back_05.bmp.png
-w42a_2f_hanger_01.bmp.png
 w42a_2f_hanger_02.bmp.png
 w42a_2f_hanger_03.bmp.png
 w42a_2f_hanger_04.bmp.png

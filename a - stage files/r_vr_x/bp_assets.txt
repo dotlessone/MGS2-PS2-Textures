@@ -174,17 +174,6 @@ rai_na_ovl_mod1102_alp_emap.bmp.png
 rai_na_ovl_mod1102_alp_emap.bmp.png
 rai_naked_arm_ovl_sub_alp.bmp.png
 rai_naked_arm_ovl_sub_alp.bmp.png
-rai_naked_arm_ss.bmp.png
-rai_naked_arm_ss.bmp.png
-rai_naked_body.bmp.png
-rai_naked_body.bmp.png
-rai_naked_body_ovl_sub_alp.bmp.png
-rai_naked_foot1.bmp.png
-rai_naked_foot2.bmp.png
-rai_naked_hand1.bmp.png
-rai_naked_hand2.bmp.png
-rai_naked_leg.bmp.png
-rai_naked_leg_ovl_sub_alp.bmp.png
 rai_naked_toe.bmp.png
 rev_blk.bmp.png
 rev_blk.bmp.png
