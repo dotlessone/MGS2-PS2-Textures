@@ -41,7 +41,6 @@
 00a628ba.png
 00b33503.png
 00b3cb78.png
-00b60372.png
 00c6e6ab.png
 00c7d5a7.png
 00d85d25.png
@@ -109,7 +108,6 @@ gogle_rabel_alp_ovl.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
-hfb_ovl_mod1120_alp_emap.bmp.png
 hfb_sb_gr2.bmp.png
 hfb_sb_gr_mk.bmp.png
 hfb_sori_gr2.bmp.png
@@ -203,10 +201,7 @@ smoke_lp4_alp.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
 socom_alp_ovl.bmp.png
-sol_f2_ovl_mod1120_alp_emap.bmp.png
-sol_f2_ovl_mod1120_alp_emap.bmp.png
 sol_leg_dt01.bmp.png
 sol_sa_us_dt_ovl_alp.bmp.png
 sonic02_alp.bmp.png

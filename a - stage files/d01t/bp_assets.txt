@@ -28,7 +28,6 @@ col256_bld100.bmp.png
 col_blk.bmp.png
 crg_arm_re_01.bmp.png
 crg_arm_re_sub_alp_ovl.bmp.png
-crg_belt_ovl_alp_emap_mod1120.bmp.png
 crg_body_down.bmp.png
 crg_body_down_sub_alp_ovl.bmp.png
 crg_body_up.bmp.png
@@ -57,7 +56,6 @@ crg_p3_fro.bmp.png
 crg_p3_side.bmp.png
 crg_rapelsate_8bit.bmp.png
 crg_shues.bmp.png
-crg_shues_sub_ovl_alp.bmp.png
 crg_waistbelt_alp_ovl_sub.bmp.png
 dbx_tnk3_msk.bmp.png
 dcm.bmp.png
@@ -156,13 +154,10 @@ sna_hair3.bmp.png
 sna_hand2.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye01dt.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_face_ovl_sub_alp.bmp.png
 sna_hi_meziri.bmp.png
 sna_leg_r01dt.bmp.png
-sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_shoul01dt.bmp.png
-sna_shoul01dt_ovl_sub_alp.bmp.png
 splash03.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png

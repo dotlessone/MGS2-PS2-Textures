@@ -19,16 +19,12 @@ d_sky_hasira_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 flare_r2_msk.bmp.png
 for_arm.bmp.png
-for_b_ovl_mod1120_alp_emap.bmp.png
 for_belt_shoulder.bmp.png
 for_belt_weist.bmp.png
-for_body_ovl_sub_alp.bmp.png
 for_body_ss.bmp.png
 for_boot_bot1.bmp.png
 for_boot_bot2.bmp.png
 for_coat_sling.bmp.png
-for_eye_ovl_sub_alp.bmp.png
-for_face_ovl_sub_alp.bmp.png
 for_foot.bmp.png
 for_hair_back.bmp.png
 for_hand.bmp.png
@@ -39,11 +35,8 @@ for_hi_mtg_alp_ovl.bmp.png
 for_hlst_back.bmp.png
 for_hlst_fro.bmp.png
 for_hlst_side.bmp.png
-for_leg_ovl_sub_alp.bmp.png
 for_leg_ss.bmp.png
 for_m9_glip.bmp.png
-for_s_ovl_mod1120_alp_emap.bmp.png
-for_sox_ovl_sub_alp.bmp.png
 for_toe.bmp.png
 frost02_alp.bmp.png
 hamon09_add_alp.bmp.png
@@ -74,7 +67,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye01dt.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
 sna_shadow.bmp.png
 sol_ami.bmp.png
 sol_ami_ovl_sub_alp.bmp.png
@@ -156,7 +148,6 @@ ved_saku.bmp.png
 ved_si.bmp.png
 ved_si2_msk.bmp.png
 ved_si_dosita.bmp.png
-vmp_naked_udewa.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png

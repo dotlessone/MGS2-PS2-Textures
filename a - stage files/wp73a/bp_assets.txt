@@ -33,7 +33,6 @@
 00a628ba.png
 00b33503.png
 00b3cb78.png
-00b60372.png
 00bf085a.png
 00c6e6ab.png
 00c7d5a7.png
@@ -104,7 +103,6 @@ gogle_rabel_alp_ovl.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
-hfb_ovl_mod1120_alp_emap.bmp.png
 hfb_sb_gr2.bmp.png
 hfb_sb_gr_mk.bmp.png
 hfb_sori_gr2.bmp.png

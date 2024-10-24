@@ -137,7 +137,6 @@ iro_radio.bmp.png
 iro_radio_band_alp_ovl.bmp.png
 iro_skin.bmp.png
 iro_snawear.bmp.png
-iro_snawear_ovl_sub_alp.bmp.png
 irs_box_all.bmp.png
 irs_box_back.bmp.png
 irs_box_break.bmp.png
@@ -152,10 +151,6 @@ kck_body2_large.bmp.png
 kck_gray1.bmp.png
 ketchap_g.bmp.png
 kirari_alp_ovl.bmp.png
-kmo_body.bmp.png
-kmo_foot_ovl_alp.bmp.png
-kmo_head.bmp.png
-kmo_legs.bmp.png
 kmo_low_body.bmp.png
 kmo_low_foot.bmp.png
 kmo_low_head.bmp.png
@@ -163,11 +158,8 @@ kmo_low_legs.bmp.png
 kmo_low_tail.bmp.png
 kmo_low_win.bmp.png
 kmo_low_winD.bmp.png
-kmo_tail.bmp.png
 kmo_winD_ori.bmp.png
-kmo_winD_ovl_alp.bmp.png
 kmo_win_ori.bmp.png
-kmo_win_ovl_alp.bmp.png
 kmo_wing_ovl__alp.bmp.png
 l_alp_ovl.bmp.png
 launch_box_top.bmp.png

@@ -34,7 +34,6 @@
 00a628ba.png
 00b33503.png
 00b3cb78.png
-00b60372.png
 00c6e6ab.png
 00c7d5a7.png
 00d85d25.png
@@ -194,7 +193,6 @@ iro_radio.bmp.png
 iro_radio_band_alp_ovl.bmp.png
 iro_skin.bmp.png
 iro_snawear.bmp.png
-iro_snawear_ovl_sub_alp.bmp.png
 irs_box_all.bmp.png
 irs_box_back.bmp.png
 irs_box_break.bmp.png

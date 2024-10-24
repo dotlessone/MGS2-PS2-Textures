@@ -84,7 +84,6 @@ iro_hair_base.bmp.png
 iro_hand.bmp.png
 iro_hi_ela_alp_ovl.bmp.png
 iro_hi_face.bmp.png
-iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_tang.bmp.png
 iro_nail.bmp.png
 iro_phones01.bmp.png
@@ -93,7 +92,6 @@ iro_radio.bmp.png
 iro_radio_band_alp_ovl.bmp.png
 iro_skin.bmp.png
 iro_snawear.bmp.png
-iro_snawear_ovl_sub_alp.bmp.png
 irs_box_all.bmp.png
 irs_box_back.bmp.png
 irs_box_break.bmp.png
@@ -178,11 +176,6 @@ sna_glass_bld080_ovl_alp.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye01dt.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
-sol_f2_ovl_mod1120_alp_emap.bmp.png
-sol_f2_ovl_mod1120_alp_emap.bmp.png
 sol_hri_arm01.bmp.png
 sol_hri_belt01.bmp.png
 sol_hri_body01.bmp.png

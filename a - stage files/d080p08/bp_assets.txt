@@ -39,7 +39,6 @@ gw_jacket_b.bmp.png
 gw_jacket_l.bmp.png
 gw_jacket_r.bmp.png
 gw_pole.bmp.png
-hfb_ovl_mod1120_alp_emap.bmp.png
 hfb_sb_gr2.bmp.png
 hfb_sb_gr_mk.bmp.png
 hfb_soli_saya.bmp.png
@@ -81,9 +80,6 @@ ptr_tooth_u2.bmp.png
 ptr_tooth_u3.bmp.png
 ptr_tooth_u4.bmp.png
 rah_hi_finger.bmp.png
-rah_hi_finger2.bmp.png
-rah_hi_hand1.bmp.png
-rah_hi_hand2.bmp.png
 raiden_gogle_sev_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 scm_sb_hammer.bmp.png
@@ -96,9 +92,6 @@ sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
-sol_f2_ovl_mod1120_alp_emap.bmp.png
-sol_f2_ovl_mod1120_alp_emap.bmp.png
 sol_leg_dt01.bmp.png
 sol_sa_us_dt_ovl_alp.bmp.png
 sun_alp.bmp.png

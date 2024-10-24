@@ -65,7 +65,6 @@ grn_sb_body.bmp.png
 hfb2_alp_ovl.bmp.png
 hfb_alp_ovl.bmp.png
 iro_glass_frame.bmp.png
-iro_glass_sub_ovl_alp.bmp.png
 lez.bmp.png
 lez2.bmp.png
 m4a_nm_alp_ovl.bmp.png
@@ -93,14 +92,11 @@ scm_sb_temp.bmp.png
 scp.bmp.png
 shv_alp_ovl.bmp.png
 sna_bandana_msk.bmp.png
-sna_face_ss_ovl_sub_alp.bmp.png
 sna_foot01dt.bmp.png
 sna_g2_ovl_mod1120_alp_emap.bmp.png
 sna_g2_ovl_mod1120_alp_emap.bmp.png
 sna_g4_ovl_mod1120_alp_emap.bmp.png
 sna_glass_bld080_ovl_alp.bmp.png
-sna_glass_bld095_ovl_alp.bmp.png
-sna_glass_bld095_ovl_alp.bmp.png
 sna_glass_flame2.bmp.png
 sna_glass_flame2.bmp.png
 sna_glass_sub_ovl_alp.bmp.png
@@ -109,7 +105,6 @@ sna_hair3.bmp.png
 sna_hand2.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye01dt.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_face_ovl_sub_alp.bmp.png
 sna_hi_finger.bmp.png
 sna_hi_finger2.bmp.png
@@ -117,10 +112,8 @@ sna_hi_hand1.bmp.png
 sna_hi_hand2.bmp.png
 sna_hi_meziri.bmp.png
 sna_leg_r01dt.bmp.png
-sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_shadow.bmp.png
 sna_shoul01dt.bmp.png
-sna_shoul01dt_ovl_sub_alp.bmp.png
 stin_alp_ovl.bmp.png
 styp_alp_ovl.bmp.png
 tgl.bmp.png

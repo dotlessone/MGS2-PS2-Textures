@@ -219,7 +219,6 @@ w11a0_raillit_u.bmp.png
 w11a0_ref_water_alp_ovl.bmp.png
 w11a0_sbmr_glas_sub_alp_ovl.bmp.png
 w11a0_sbmr_glass.bmp.png
-w11a0_sbmr_ovl_mod1120_emap.bmp.png
 w11a0_southwall1.bmp.png
 w11a0_southwall2.bmp.png
 w11a0_southwall_hari1.bmp.png

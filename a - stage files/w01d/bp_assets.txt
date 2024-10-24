@@ -165,8 +165,6 @@ irs_main.bmp.png
 irs_parts1.bmp.png
 irs_window_add.bmp.png
 jam_alp_ovl.bmp.png
-k100.bmp.png
-k100.bmp.png
 k100.bmp_3800de3fc70fc76fdb0911c786e7afb4.png
 k100.bmp_3800de3fc70fc76fdb0911c786e7afb4.png
 k100.bmp_3800de3fc70fc76fdb0911c786e7afb4.png
@@ -442,12 +440,10 @@ speaker02.bmp_60d9fe67157117c03c26035ec72537cd.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
-svc2_body.bmp.png
 svc2_body_brk1.bmp.png
 svc2_lens_brk.bmp.png
 svc2_lens_f.bmp.png
 svc_bonbori.bmp.png
-svc_wall.bmp.png
 svc_wall_brk.bmp.png
 tab2.bmp.png
 tab3.bmp.png

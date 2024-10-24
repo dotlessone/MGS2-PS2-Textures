@@ -3,8 +3,6 @@
 a_p_sensor_alp.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-abk_barel_s1.bmp.png
-abk_body_s1.bmp.png
 abk_temp_tex1.bmp.png
 abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
@@ -49,7 +47,6 @@ dogtag_tx_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 ef_renraku_alp_ovl.bmp.png
-elvt_g99.bmp.png
 elvt_nwall3pb1B_alp.bmp.png
 elvt_nwall3pb_alp.bmp.png
 elvt_pane_B1_alp.bmp.png
@@ -78,7 +75,6 @@ hnm_low_ovl_alp.bmp.png
 ibox_all2.bmp.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
-k100.bmp.png
 ketchap_g.bmp.png
 kirari_alp_ovl.bmp.png
 launch_box_top.bmp.png
@@ -145,14 +141,10 @@ w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png
-w21a_sdw05f_alp_ovl.bmp.png
 w24a0_fla04e_alp_ovl.bmp.png
-w24a0_fla06c_alp_ovl.bmp.png
 w24a0_sdw00a_alp_ovl.bmp.png
 w24a0_wh00.bmp.png
 w24a0_wh01.bmp.png
-w24a1_boxsdw00_alp_ovl.bmp.png
-w24a1_sdw03_alp_ovl.bmp.png
 w24a_21asdw00_alp_ovl.bmp.png
 w24a_ppb00a.bmp.png
 wave12_alp_ovl.bmp.png

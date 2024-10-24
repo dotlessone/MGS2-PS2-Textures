@@ -160,9 +160,6 @@ over_menu_alp_ovl.bmp.png
 psg_alp_ovl.bmp.png
 pump02_alp.bmp.png
 rah_hi_finger.bmp.png
-rah_hi_finger2.bmp.png
-rah_hi_hand1.bmp.png
-rah_hi_hand2.bmp.png
 rai_hair_b_edge2_ovl_alp.bmp.png
 rai_hair_b_front_ovl_alp.bmp.png
 rev_blk.bmp.png

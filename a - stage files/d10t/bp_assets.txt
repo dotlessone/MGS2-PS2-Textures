@@ -33,7 +33,6 @@ fade_out_floor_sub.bmp.png
 fade_out_sub.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
-glass.bmp.png
 hamon09_add_alp.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
@@ -51,11 +50,9 @@ m4a_gl_unit.bmp.png
 m4a_light.bmp.png
 m4a_scope.bmp.png
 met_ovl_mod1120_alp_emap.bmp.png
-metdt_ovl_mod1120_alp_emap.bmp.png
 mode_alp_ovl.bmp.png
 noIcon.bmp.png
 nom_alp_ovl.bmp.png
-nypo_ovl_mod1120_alp_emap.bmp.png
 plasma_msk.bmp.png
 powder01_alp.bmp.png
 powder03_alp.bmp.png
@@ -65,9 +62,6 @@ qt_break_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rimo3.bmp.png
 ripple02_alp.bmp.png
-sco_boot_soko.bmp.png
-sco_boot_soko.bmp.png
-sco_boot_soko.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -78,13 +72,10 @@ sna_hair3.bmp.png
 sna_hand2.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye01dt.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_face_ovl_sub_alp.bmp.png
 sna_hi_meziri.bmp.png
 sna_leg_r01dt.bmp.png
-sna_leg_r01dt_ovl_sub_alp.bmp.png
 sna_shoul01dt.bmp.png
-sna_shoul01dt_ovl_sub_alp.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
@@ -126,7 +117,6 @@ usa_helmet_inside.bmp.png
 usa_leg01dt.bmp.png
 usa_leg01dt.bmp.png
 usa_leg02dt.bmp.png
-usa_met01dt_ovl_sub_alp.bmp.png
 usa_met_belt01dt.bmp.png
 usa_met_ovl_sub_alp.bmp.png
 usa_pack01dt.bmp.png

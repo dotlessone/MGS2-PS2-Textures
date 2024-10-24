@@ -98,7 +98,6 @@ iro_hair_base.bmp.png
 iro_hand.bmp.png
 iro_hi_ela_alp_ovl.bmp.png
 iro_hi_face.bmp.png
-iro_hi_face_ovl_sub_alp.bmp.png
 iro_hi_tang.bmp.png
 iro_nail.bmp.png
 iro_phones01.bmp.png
@@ -107,7 +106,6 @@ iro_radio.bmp.png
 iro_radio_band_alp_ovl.bmp.png
 iro_skin.bmp.png
 iro_snawear.bmp.png
-iro_snawear_ovl_sub_alp.bmp.png
 jam_alp_ovl.bmp.png
 k_alp_ovl.bmp.png
 kck_body1_s_large.bmp.png
@@ -134,9 +132,6 @@ ptr_tooth_u2.bmp.png
 ptr_tooth_u3.bmp.png
 ptr_tooth_u4.bmp.png
 rah_hi_finger.bmp.png
-rah_hi_finger2.bmp.png
-rah_hi_hand1.bmp.png
-rah_hi_hand2.bmp.png
 ray_bm_01.bmp.png
 ray_bm_01.bmp.png
 ray_eye_blur_alp.bmp.png
@@ -167,10 +162,7 @@ sna_g4_ovl_mod1120_alp_emap.bmp.png
 sna_glass_bld080_ovl_alp.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye01dt.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
 sol_blood_dt_alp_ovl.bmp.png
-sol_f2_ovl_mod1120_alp_emap.bmp.png
 sol_leg_dt01.bmp.png
 splash03_alp.bmp.png
 splash06_msk.bmp.png
@@ -181,8 +173,6 @@ usp_sb_all.bmp.png
 usp_sb_all2.bmp.png
 vamp_col1.bmp.png
 vmp_hair_back.bmp.png
-vmp_kizu_body_p046_ovl_alp.bmp.png
-vmp_kizu_face_p046_ovl_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
 w00b_dammy_sub_ovl.bmp.png

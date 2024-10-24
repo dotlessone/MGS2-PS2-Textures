@@ -56,8 +56,6 @@ rdr_yaji_alp_ovl.bmp.png
 rev_blk.bmp.png
 rev_boot_03dt.bmp.png
 rev_bullet_02dt.bmp.png
-rev_face_ovl_sub_alp.bmp.png
-rev_hand_01dt.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
 rev_holster_01dt.bmp.png
 shdw.bmp.png
@@ -69,17 +67,12 @@ sna_hair3.bmp.png
 sna_hand2.bmp.png
 sna_hi_ela01_alp_ovl.bmp.png
 sna_hi_eye01dt.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
 sna_hi_face_ovl_sub_alp.bmp.png
 sna_hi_finger.bmp.png
 sna_hi_hand2.bmp.png
 sna_hi_meziri.bmp.png
 sna_leg_r01dt.bmp.png
-sna_leg_r01dt_ovl_sub_alp.bmp.png
-sna_rope_stop_t.bmp.png
-sna_rope_stop_ura.bmp.png
 sna_shoul01dt.bmp.png
-sna_shoul01dt_ovl_sub_alp.bmp.png
 sopelem_body_01.bmp.png
 sopelem_body_03.bmp.png
 sopelem_bord_01.bmp.png

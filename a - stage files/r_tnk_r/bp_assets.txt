@@ -108,7 +108,6 @@ hfb_sb_saya.bmp.png
 hfb_sb_saya2.bmp.png
 hfb_tuba.bmp.png
 iro_glass_frame.bmp.png
-iro_glass_sub_ovl_alp.bmp.png
 lez.bmp.png
 lez2.bmp.png
 m4a_nm_alp_ovl.bmp.png
@@ -140,12 +139,6 @@ psg_alp_ovl.bmp.png
 pump02_alp.bmp.png
 rah_hi_finger.bmp.png
 rah_hi_finger.bmp.png
-rah_hi_finger2.bmp.png
-rah_hi_finger2.bmp.png
-rah_hi_hand1.bmp.png
-rah_hi_hand1.bmp.png
-rah_hi_hand2.bmp.png
-rah_hi_hand2.bmp.png
 rai_ba_ami_ovl_alp.bmp.png
 rai_ba_belt.bmp.png
 rai_ba_ovl_mod1120_alp_emap.bmp.png
@@ -174,8 +167,6 @@ sna_g2_ovl_mod1120_alp_emap.bmp.png
 sna_g2_ovl_mod1120_alp_emap.bmp.png
 sna_g4_ovl_mod1120_alp_emap.bmp.png
 sna_glass_bld080_ovl_alp.bmp.png
-sna_glass_bld095_ovl_alp.bmp.png
-sna_glass_bld095_ovl_alp.bmp.png
 sna_glass_flame2.bmp.png
 sna_glass_flame2.bmp.png
 sna_glass_sub_ovl_alp.bmp.png

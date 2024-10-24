@@ -142,7 +142,6 @@ iro_hair02_alp_ovl.bmp.png
 iro_hair_base.bmp.png
 iro_hi_ela_alp_ovl.bmp.png
 iro_hi_face.bmp.png
-iro_hi_face_ovl_sub_alp.bmp.png
 lez.bmp.png
 lez2.bmp.png
 m4a_nm_alp_ovl.bmp.png
@@ -172,9 +171,6 @@ obj_mog_book_ovl_alp.bmp.png
 psg_alp_ovl.bmp.png
 pump02_alp.bmp.png
 rah_hi_finger.bmp.png
-rah_hi_finger2.bmp.png
-rah_hi_hand1.bmp.png
-rah_hi_hand2.bmp.png
 rai_ba_ami_ovl_alp.bmp.png
 rai_ba_belt.bmp.png
 rai_ba_ovl_mod1120_alp_emap.bmp.png
@@ -196,14 +192,11 @@ shuukanshi_01.bmp.png
 shv_alp_ovl.bmp.png
 sna_g2_ovl_mod1120_alp_emap.bmp.png
 sna_g2_ovl_mod1120_alp_emap.bmp.png
-sna_glass_bld095_ovl_alp.bmp.png
-sna_glass_bld095_ovl_alp.bmp.png
 sna_glass_flame2.bmp.png
 sna_glass_flame2.bmp.png
 sna_glass_sub_ovl_alp.bmp.png
 sna_glass_sub_ovl_alp.bmp.png
 sna_hi_eye01dt.bmp.png
-sna_hi_eye_ovl_sub_alp.bmp.png
 sna_txd_arm.bmp.png
 sna_txd_arm_fix.bmp.png
 sna_txd_arm_ovl_sub_alp.bmp.png

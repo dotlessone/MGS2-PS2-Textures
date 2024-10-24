@@ -99,7 +99,6 @@ h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
 iro_face.bmp.png
 jam_alp_ovl.bmp.png
-k100.bmp.png
 kage1_alp_ovl.bmp.png
 kage2_alp_ovl.bmp.png
 kageBel_alp_ovl.bmp.png
