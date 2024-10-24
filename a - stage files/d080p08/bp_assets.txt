@@ -39,8 +39,6 @@ gw_jacket_b.bmp.png
 gw_jacket_l.bmp.png
 gw_jacket_r.bmp.png
 gw_pole.bmp.png
-hfb_sb_gr2.bmp.png
-hfb_sb_gr_mk.bmp.png
 hfb_soli_saya.bmp.png
 hfb_soli_saya.bmp.png
 hfb_soli_saya.bmp.png
@@ -49,7 +47,6 @@ hfb_soli_saya2.bmp.png
 hfb_soli_saya2.bmp.png
 hfb_soli_saya2.bmp.png
 hfb_soli_saya2.bmp.png
-hfb_sori_gr2.bmp.png
 hfb_tuba.bmp.png
 jam_alp_ovl.bmp.png
 k100.bmp_054638f0c3d9437b10ac3ca959481112.png

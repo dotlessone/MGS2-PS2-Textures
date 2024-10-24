@@ -118,9 +118,6 @@ funa_alp_ovl.bmp.png
 gol1_alp_ovl.bmp.png
 gre_alp_ovl.bmp.png
 grn_sb_body.bmp.png
-hfb2_alp_ovl.bmp.png
-hfb_alp_ovl.bmp.png
-hfb_sb_gr_mk.bmp.png
 hfb_sb_saya.bmp.png
 hfb_sb_saya2.bmp.png
 hfb_tuba.bmp.png

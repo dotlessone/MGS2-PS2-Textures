@@ -108,9 +108,6 @@ gogle_rabel_alp_ovl.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
-hfb_sb_gr2.bmp.png
-hfb_sb_gr_mk.bmp.png
-hfb_sori_gr2.bmp.png
 hfb_tuba.bmp.png
 ibox_all2.bmp.png
 ibox_tx_all_alp_ovl.bmp.png
@@ -216,8 +213,6 @@ test_rabel_alp_ovl.bmp.png
 usp_sb_all.bmp.png
 usp_sb_all2.bmp.png
 vr2_goal_add_alp.bmp.png
-vr2_goal_post_add_alp.bmp.png
-vr2_goalpost_add_alp.bmp.png
 vr2_noise_a0_alp.bmp.png
 vr2_noise_a1_alp.bmp.png
 vr2_noise_a2_alp.bmp.png

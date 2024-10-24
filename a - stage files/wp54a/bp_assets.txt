@@ -152,20 +152,11 @@ tgt_color1_tab_add_alp.bmp.png
 tgt_color2.bmp_706ff9ab264467abb99d3cbb5425c22e.png
 tgt_color2_add_alp.bmp.png
 tgt_color3_tab2.bmp.png
-vr2_chi01_alp.bmp.png
-vr2_chi02_alp.bmp.png
-vr2_chi03_alp.bmp.png
-vr2_chi04_alp.bmp.png
-vr2_chi05_alp.bmp.png
 vr2_dankon1_add_alp.bmp.png
 vr2_dankon2_add_alp.bmp.png
 vr2_flr_ptn1.bmp.png
 vr2_footstamp1_add_alp.bmp.png
-vr2_frg_numbers_add_alp_ovl.bmp.png
 vr2_goal_add_alp.bmp.png
-vr2_goal_post_add_alp.bmp.png
-vr2_goalpost_add_alp.bmp.png
-vr2_ketchap00_alp.bmp.png
 vr2_no_elude1_add_alp.bmp.png
 vr2_no_elude2_add_alp.bmp.png
 vr2_noise_a0_alp.bmp.png
@@ -181,7 +172,6 @@ vr2_tgt_caution_alp_ovl.bmp.png
 vr2_tgt_torus_mark2_alp_ovl.bmp.png
 vr2_tgt_torus_mark2_alp_ovl.bmp.png
 vr2_tonbo_alp_add.bmp.png
-vr2_wall.bmp.png
 vr2_wall_textless.bmp.png
 vr2_wetpanel_alp.bmp.png
 vr_roof_00.bmp.png
@@ -190,8 +180,6 @@ vr_sphere_moji_alp_02.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
-wall_marker1_add_alp.bmp.png
-wall_marker2_add_alp.bmp.png
 ws41a_shw00_alp_ovl.bmp.png
 ws54a_shw00_alp_ovl.bmp.png
 ws54a_shw01_alp_ovl.bmp.png

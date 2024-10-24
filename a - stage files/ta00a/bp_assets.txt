@@ -176,8 +176,6 @@ splash06_msk.bmp.png
 splash07_alp.bmp.png
 svc_bonbori.bmp.png
 vr2_goal_add_alp.bmp.png
-vr2_goal_post_add_alp.bmp.png
-vr2_goalpost_add_alp.bmp.png
 vr2_noise_a0_alp.bmp.png
 vr2_noise_a1_alp.bmp.png
 vr2_noise_a2_alp.bmp.png

@@ -207,8 +207,6 @@ svc_bonbori.bmp.png
 svc_totte01.bmp.png
 test_rabel_alp_ovl.bmp.png
 vr2_goal_add_alp.bmp.png
-vr2_goal_post_add_alp.bmp.png
-vr2_goalpost_add_alp.bmp.png
 vr2_noise_a0_alp.bmp.png
 vr2_noise_a1_alp.bmp.png
 vr2_noise_a2_alp.bmp.png

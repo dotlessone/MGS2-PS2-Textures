@@ -52,11 +52,8 @@ gw_jacket_b.bmp.png
 gw_jacket_l.bmp.png
 gw_jacket_r.bmp.png
 gw_pole.bmp.png
-hfb_sb_gr2.bmp.png
-hfb_sb_gr_mk.bmp.png
 hfb_soli_saya.bmp.png
 hfb_soli_saya2.bmp.png
-hfb_sori_gr2.bmp.png
 hfb_tuba.bmp.png
 ibox_tx_all_alp.bmp_791e610c4fcf41bf273b86f3bef405c7.png
 jam_alp_ovl.bmp.png

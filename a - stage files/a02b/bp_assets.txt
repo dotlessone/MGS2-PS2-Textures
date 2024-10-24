@@ -304,8 +304,6 @@ val_thigh_f.bmp.png
 val_waist_f.bmp.png
 val_waist_r.bmp.png
 vr2_goal_add_alp.bmp.png
-vr2_goal_post_add_alp.bmp.png
-vr2_goalpost_add_alp.bmp.png
 vr2_noise_a0_alp.bmp.png
 vr2_noise_a1_alp.bmp.png
 vr2_noise_a2_alp.bmp.png

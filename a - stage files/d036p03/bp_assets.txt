@@ -65,10 +65,8 @@ grs_black.bmp.png
 grs_black.bmp.png
 hamon09_add_alp.bmp.png
 hfb_sb_gr.bmp.png
-hfb_sb_gr2.bmp.png
 hfb_sb_saya.bmp.png
 hfb_sb_saya2.bmp.png
-hfb_sori_gr2.bmp.png
 hfb_tuba.bmp.png
 hos_fa_foot01.bmp.png
 hos_fa_foot01.bmp.png

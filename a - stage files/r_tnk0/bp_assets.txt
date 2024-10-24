@@ -62,8 +62,6 @@ funa_alp_ovl.bmp.png
 gol1_alp_ovl.bmp.png
 gre_alp_ovl.bmp.png
 grn_sb_body.bmp.png
-hfb2_alp_ovl.bmp.png
-hfb_alp_ovl.bmp.png
 iro_glass_frame.bmp.png
 lez.bmp.png
 lez2.bmp.png

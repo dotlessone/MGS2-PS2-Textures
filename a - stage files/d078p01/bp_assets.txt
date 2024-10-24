@@ -107,12 +107,6 @@ for_toe.bmp.png
 for_toe.bmp.png
 frost02_alp.bmp.png
 hamon09_add_alp.bmp.png
-hfb_sb_gr2.bmp.png
-hfb_sb_gr2.bmp.png
-hfb_sb_gr_mk.bmp.png
-hfb_sb_gr_mk.bmp.png
-hfb_sori_gr2.bmp.png
-hfb_sori_gr2.bmp.png
 hfb_tuba.bmp.png
 hfb_tuba.bmp.png
 jam_alp_ovl.bmp.png

@@ -68,11 +68,8 @@ gw_jacket_r.bmp_ddbdc2ebb799174d0d4eae3bfa09f583.png
 gw_neck.bmp_ada708bd2c976e50cc2f36e472aa732b.png
 gw_pole.bmp_9a8b511ccd76bd33dc31cc0d3f59ad2e.png
 hamon09_add_alp.bmp.png
-hfb_sb_gr2.bmp.png
-hfb_sb_gr_mk.bmp.png
 hfb_soli_saya.bmp.png
 hfb_soli_saya2.bmp.png
-hfb_sori_gr2.bmp.png
 hfb_tuba.bmp.png
 jam_alp_ovl.bmp.png
 k100.bmp_054638f0c3d9437b10ac3ca959481112.png

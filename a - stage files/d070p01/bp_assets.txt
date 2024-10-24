@@ -63,10 +63,8 @@ ema_reback_hair_ovl_alp.bmp.png
 flare_r2_msk.bmp.png
 hamon09_add_alp.bmp.png
 hfb_sb_gr.bmp.png
-hfb_sb_gr2.bmp.png
 hfb_sb_saya.bmp.png
 hfb_sb_saya2.bmp.png
-hfb_sori_gr2.bmp.png
 hfb_tuba.bmp.png
 htl.bmp.png
 iro_arm_l.bmp.png
