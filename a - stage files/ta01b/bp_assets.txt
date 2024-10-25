@@ -104,9 +104,6 @@ col_gry008.bmp.png
 col_w01agry1.bmp.png
 col_w01agry1.bmp.png
 col_w01agry2.bmp.png
-col_w01agry3.bmp.png
-col_w01agry3.bmp.png
-col_w01agry3.bmp.png
 col_w01agry5.bmp.png
 col_w01awht1.bmp.png
 coldmedicine_tx_alp.bmp.png
@@ -426,7 +423,6 @@ w01b1_kage00_alp_ovl.bmp.png
 w01b1_loc00.bmp.png
 w01b1_loc01.bmp.png
 w01b1_loc02.bmp.png
-w01b1_loc03.bmp.png
 w01b1_loc06.bmp.png
 w01b1_loc07.bmp.png
 w01b1_wc16.bmp.png

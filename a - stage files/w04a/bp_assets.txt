@@ -18,7 +18,6 @@ col128_add.bmp.png
 col256_bld100.bmp.png
 col_blk.bmp.png
 col_gry008.bmp.png
-col_gry016.bmp.png
 col_w01agry1.bmp.png
 crd_lit02.bmp.png
 crd_lit03.bmp.png

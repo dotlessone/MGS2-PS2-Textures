@@ -64,8 +64,6 @@ col_gry034.bmp.png
 col_red01.bmp.png
 col_w01agry1.bmp.png
 col_w01agry2.bmp.png
-col_w01agry3.bmp.png
-col_w01agry3.bmp.png
 col_w01awht2.bmp.png
 dbx_dust_alp_ovl.bmp.png
 dinLig_add_ovl.bmp.png

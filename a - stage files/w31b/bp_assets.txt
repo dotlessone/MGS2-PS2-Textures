@@ -70,11 +70,8 @@ hnm_low_ovl_alp.bmp.png
 ibox_all2.bmp.png
 ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
-kan.bmp.png
-kan_down.bmp.png
 kan_top.bmp.png
 ketchap_g.bmp.png
-lamp_off_alp_add_ovl.bmp.png
 launch_box_top.bmp.png
 launch_rabel_alp_ovl.bmp.png
 launcher_ammo_side.bmp.png
@@ -298,7 +295,6 @@ w31c_node_areaname_alp_ovl.bmp.png
 w31c_rail_02.bmp.png
 w31c_wall_05.bmp.png
 w31c_wall_06.bmp.png
-w42a_gray.bmp.png
 wave12_alp_ovl.bmp.png
 wtd_kan_huta_mk.bmp.png
 wtd_kan_mk.bmp.png

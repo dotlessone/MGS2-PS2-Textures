@@ -82,17 +82,12 @@ col_gry008.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
-col_gry016.bmp.png
-col_gry016.bmp.png
-col_gry016.bmp.png
-col_gry016.bmp.png
 col_gry032.bmp.png
 col_gry032.bmp.png
 col_w01agry1.bmp.png
 col_w01agry1.bmp.png
 col_w01agry1.bmp.png
 col_w01agry1.bmp.png
-col_w01agry3.bmp.png
 coldmedicine_tx_alp.bmp.png
 crd_fa03.bmp.png
 crd_fa03.bmp.png

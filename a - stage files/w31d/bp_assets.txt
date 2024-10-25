@@ -26,7 +26,6 @@ col128_add.bmp.png
 col256_bld100.bmp.png
 col_blk.bmp.png
 col_blue00.bmp.png
-col_gry016.bmp.png
 col_gry024.bmp.png
 coldmedicine_tx_alp.bmp.png
 dammydoll_alp.bmp.png

@@ -86,8 +86,6 @@ col_gry008.bmp.png
 col_gry032.bmp.png
 col_w01agry2.bmp.png
 col_w01agry2.bmp.png
-col_w01agry3.bmp.png
-col_w01agry3.bmp.png
 col_w01agry5.bmp.png
 coldmedicine_tx_alp.bmp.png
 dammydoll_alp.bmp.png

@@ -22,7 +22,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_gry016.bmp.png
 col_gry024.bmp.png
 col_red00.bmp.png
 col_red00a.bmp.png
@@ -176,7 +175,6 @@ w24a0_entb01a.bmp_e21d1ec58434d89777f9429ad05121c3.png
 w24a0_litbase00.bmp_13432dcbcd04b4edc36a0fd04233ee3e.png
 w24a0_litbase00a.bmp_6af71df6ae1e7fa9ce7c11006fa9de93.png
 w24a0_wlit00_alp_add_ovl.bmp_adffa762b496e262c2579456137bfc5e.png
-w24a0_wlit01a.bmp_33e5140197b5a69816cb0dc781e3c2fd.png
 w24a0_wlit03.bmp_9e58018c2f35bc0413344d9da405d5a9.png
 w24c0n_label02_alp_ovl.bmp.png
 w24c0n_line00a_add_alp_ovl.bmp.png

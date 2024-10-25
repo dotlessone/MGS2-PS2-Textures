@@ -16,16 +16,11 @@ col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
 col_gry008.bmp_563deb777fff2f667a73a8acaa385975.png
-col_gry016.bmp.png
-col_gry016.bmp.png
-col_gry016.bmp.png
 col_gry024.bmp.png
 col_gry024.bmp.png
 col_gry032.bmp.png
-col_gry040.bmp.png
 col_gry048.bmp.png
 col_gry088.bmp.png
-col_gry096.bmp.png
 col_orange02.bmp_5fde76a56fc5faf65381a940fcb57771.png
 col_orange2.bmp.png
 crane_body_yoko_01.bmp.png

@@ -15,15 +15,10 @@ col128_add.bmp.png
 col256_bld100.bmp.png
 col_blk.bmp.png
 col_gry008.bmp_563deb777fff2f667a73a8acaa385975.png
-col_gry016.bmp.png
-col_gry016.bmp.png
-col_gry016.bmp.png
-col_gry016.bmp.png
 col_gry024.bmp.png
 col_gry024.bmp.png
 col_gry032.bmp.png
 col_gry032.bmp.png
-col_gry040.bmp.png
 col_gry048.bmp.png
 col_gry064.bmp.png
 col_gry072.bmp.png

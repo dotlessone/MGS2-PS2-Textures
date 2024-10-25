@@ -93,7 +93,6 @@ col_gry064.bmp.png
 col_gry064.bmp.png
 col_gry080.bmp.png
 col_gry080.bmp.png
-col_gry096.bmp.png
 coldmedicine_tx_alp.bmp.png
 dbx_dust_alp_ovl.bmp.png
 degital_camera.bmp.png

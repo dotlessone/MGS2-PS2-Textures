@@ -89,8 +89,6 @@ hamon09_add_alp.bmp.png
 hiyoko_karada_stamp01.bmp.png
 hiyoko_stamp01.bmp.png
 jam_alp_ovl.bmp.png
-kan.bmp.png
-kan_down.bmp.png
 kan_top.bmp.png
 ketchap_g.bmp.png
 light05_msk.bmp.png

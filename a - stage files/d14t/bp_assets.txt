@@ -17,7 +17,6 @@ col256_bld100.bmp.png
 col_blk.bmp.png
 col_blk.bmp.png
 col_gry008.bmp.png
-col_gry016.bmp.png
 crd_pp01a.bmp.png
 crd_pp02a.bmp.png
 crd_pp06.bmp.png

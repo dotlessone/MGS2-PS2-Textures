@@ -95,9 +95,7 @@ col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
 col_blk.bmp.png
-col_gry016.bmp.png
 col_gry024.bmp_13b642f4c31baae9642f984ba25725ad.png
-col_gry040.bmp.png
 col_gry064.bmp.png
 coldmedicine_tx_alp.bmp.png
 ctl_bar01.bmp.png

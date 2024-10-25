@@ -15,7 +15,6 @@ col_blk.bmp.png
 col_blk.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp_563deb777fff2f667a73a8acaa385975.png
-col_gry016.bmp.png
 col_gry024.bmp.png
 col_gry024.bmp.png
 col_gry024.bmp.png
@@ -23,7 +22,6 @@ col_gry064.bmp.png
 col_gry064.bmp.png
 col_gry080.bmp.png
 col_gry080.bmp.png
-col_gry096.bmp.png
 col_orange00.bmp.png
 col_orange00.bmp_49cd648f14710fb44aa6a15608f21391.png
 col_orange02.bmp_cbbe0e131713422ba903ae456fcbe8e2.png

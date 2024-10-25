@@ -37,7 +37,6 @@ col128_add.bmp.png
 col256_bld100.bmp.png
 col_blk.bmp.png
 col_gry008.bmp_563deb777fff2f667a73a8acaa385975.png
-col_gry016.bmp.png
 col_gry024.bmp.png
 col_gry024.bmp.png
 col_orange02.bmp.png

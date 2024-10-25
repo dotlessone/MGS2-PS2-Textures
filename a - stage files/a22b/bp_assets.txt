@@ -79,8 +79,6 @@ col_blk.bmp.png
 col_blue00.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
-col_gry016.bmp.png
-col_gry016.bmp.png
 col_gry024.bmp.png
 col_gry024.bmp.png
 dogtag_chain_black_msk.bmp.png
@@ -123,7 +121,6 @@ irs_window_add.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
 kirari_alp_ovl.bmp.png
-lamp_off_alp_add_ovl.bmp.png
 light03_msk.bmp.png
 light05_msk.bmp.png
 light08_msk.bmp.png

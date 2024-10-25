@@ -40,7 +40,6 @@ col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
 col_gry032.bmp.png
-col_gry040.bmp.png
 col_gry056.bmp.png
 col_gry064.bmp.png
 col_gry072.bmp.png

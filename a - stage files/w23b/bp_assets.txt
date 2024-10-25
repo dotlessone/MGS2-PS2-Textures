@@ -35,8 +35,6 @@ col256_bld100.bmp.png
 col_blk.bmp.png
 col_green1.bmp.png
 col_gry008.bmp_563deb777fff2f667a73a8acaa385975.png
-col_gry016.bmp.png
-col_gry016.bmp.png
 col_gry024.bmp.png
 coldmedicine_tx_alp.bmp.png
 crane_body_yoko_01.bmp.png
@@ -120,8 +118,6 @@ ibox_tx_all_alp_ovl.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
 kirari_alp_ovl.bmp.png
-lamp_off_alp_add_ovl.bmp.png
-lamp_off_alp_add_ovl.bmp.png
 launch_box_top.bmp.png
 launch_rabel_alp_ovl.bmp.png
 launcher_ammo_side.bmp.png

@@ -23,7 +23,6 @@ col_gry024.bmp.png
 col_gry064.bmp.png
 col_gry080.bmp.png
 col_gry080.bmp.png
-col_gry096.bmp.png
 col_w01agry1.bmp.png
 door_rail.bmp.png
 drop01_alp_mod1201.bmp.png
@@ -230,7 +229,6 @@ w31c_node_areaname_alp_ovl.bmp.png
 w31c_rail_02.bmp.png
 w31c_wall_05.bmp.png
 w31c_wall_06.bmp.png
-w42a_gray.bmp.png
 wave12_alp_ovl.bmp.png
 wrain01_add_alp_ovl.bmp.png
 wrain02_add_alp_ovl.bmp.png
