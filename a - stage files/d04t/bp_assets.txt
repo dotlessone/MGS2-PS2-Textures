@@ -124,15 +124,6 @@ rcm_l_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 shdw.bmp.png
 sna2h_mouin.bmp.png
-sna_foot01dt.bmp.png
-sna_hair3.bmp.png
-sna_hand2.bmp.png
-sna_hi_ela01_alp_ovl.bmp.png
-sna_hi_eye01dt.bmp.png
-sna_hi_face_ovl_sub_alp.bmp.png
-sna_hi_meziri.bmp.png
-sna_leg_r01dt.bmp.png
-sna_shoul01dt.bmp.png
 sopelem_body_01.bmp.png
 sopelem_body_03.bmp.png
 sopelem_bord_01.bmp.png

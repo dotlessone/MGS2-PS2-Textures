@@ -88,10 +88,6 @@ noIcon.bmp.png
 nom_alp_ovl.bmp.png
 otc_body_bd.bmp.png
 otc_eye_ovl_sub_alp.bmp.png
-otc_glass_f.bmp.png
-otc_glasses.bmp.png
-otc_tang.bmp.png
-otc_teeth_d4.bmp.png
 otc_tshatsu_bd.bmp.png
 p_br_seacolor_01_alp_ovl.bmp.png
 plasma_msk.bmp.png
@@ -382,7 +378,6 @@ w23a_stp00.bmp.png
 w23a_stp002.bmp.png
 w23a_stp002.bmp.png
 w23b_skedg00.bmp.png
-w24a0_fla04e_alp_ovl.bmp.png
 w24a0_sdw00a_alp_ovl.bmp.png
 w24a0_wh00.bmp.png
 w24a0_wh00.bmp.png

@@ -21,12 +21,9 @@ col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
 dekisi_alp_ovl.bmp.png
-door_bfl00.bmp.png
 door_rail.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
-for_belt_shoulder.bmp.png
-for_belt_shoulder.bmp.png
 frost02_alp.bmp.png
 h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
@@ -118,10 +115,6 @@ vamp_col1.bmp.png
 vkf_big.bmp.png
 vmp_face_kizu2_ovl_alp.bmp.png
 vmp_face_kizu2_ovl_alp.bmp.png
-vmp_hair_back.bmp.png
-vmp_hair_back.bmp.png
-vmp_hair_back.bmp.png
-vmp_naked_rarm_bmap.bmp.png
 w00b_dammy_sub_ovl.bmp.png
 w04a1_spot_light3.bmp.png
 w04a1_spot_light3_side.bmp.png
@@ -133,8 +126,6 @@ w12b_contorol_box_03.bmp.png
 w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888.png
 w22a_tekkotu.bmp.png
 w24a0_entb01a_water.bmp.png
-w24a0_entb03.bmp.png
-w28a_wall_rouka_01.bmp.png
 w31b_ami_alp.bmp.png
 w31b_door_02.bmp.png
 w31b_door_03.bmp.png

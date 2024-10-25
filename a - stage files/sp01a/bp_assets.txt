@@ -99,7 +99,6 @@ floor_marker1_add_alp.bmp.png
 floor_marker2_add_alp.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
-for_lnr_sling.bmp.png
 gasmask_alp.bmp.png
 gogle_ibox.bmp.png
 gogle_rabel_alp_ovl.bmp.png

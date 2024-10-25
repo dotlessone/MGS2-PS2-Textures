@@ -82,17 +82,13 @@ l_alp_ovl.bmp_3ec8086acbe2099214f0863735b9c8c4.png
 motor_body_01.bmp.png
 motor_body_05.bmp.png
 motor_wire_01.bmp.png
-nypo_hand.bmp.png
 nypo_ovl_mod1210_alp.bmp.png
 plant_uturikommi_01_alp_ovl.bmp.png
 plant_uturikommi_02_alp_ovl.bmp.png
 powder01_alp.bmp.png
 powder04_alp.bmp.png
 powfog03_add.bmp.png
-rai_fin_foot.bmp.png
-rai_fin_foot.bmp.png
 rcm_l_alp.bmp.png
-rev_blk.bmp.png
 ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png

@@ -110,8 +110,6 @@ gw_jacket_b.bmp.png
 gw_jacket_l.bmp.png
 gw_jacket_r.bmp.png
 gw_pole.bmp.png
-hfb_soli_saya.bmp.png
-hfb_soli_saya2.bmp.png
 hfb_tuba.bmp.png
 ibox_tx_all_alp.bmp_791e610c4fcf41bf273b86f3bef405c7.png
 jam_alp_ovl.bmp.png
@@ -139,11 +137,6 @@ nkt_msl_body.bmp.png
 nkt_msl_fb.bmp.png
 nom_alp_ovl.bmp.png
 plasma_msk.bmp.png
-ptr_tooth_d1.bmp.png
-ptr_tooth_d4.bmp.png
-ptr_tooth_u1.bmp.png
-ptr_tooth_u2.bmp.png
-ptr_tooth_u3.bmp.png
 ptr_tooth_u4.bmp.png
 rabel_alp_ovl.bmp.png
 rai_all_ibox.bmp.png
@@ -155,12 +148,8 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sna2h_mouin.bmp.png
-sna_hi_ela01_alp_ovl.bmp.png
-sol_leg_dt01.bmp.png
-sol_sa_us_dt_ovl_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
-tejyou.bmp.png
 vr2_goal_add_alp.bmp.png
 vr2_noise_a0_alp.bmp.png
 vr2_noise_a1_alp.bmp.png

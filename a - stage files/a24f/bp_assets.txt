@@ -95,8 +95,6 @@ dish.bmp.png
 dish.bmp.png
 dish.bmp.png
 dogtag_chain_black_msk.bmp.png
-door_bfl00.bmp.png
-door_bfl00.bmp.png
 drop01_alp_mod1201.bmp.png
 exit_alp_ovl.bmp.png
 flare_r2_msk.bmp.png
@@ -143,7 +141,6 @@ pit_arm_ovl_alp_sub.bmp.png
 pit_armark_l_alp_ovl_sub.bmp.png
 pit_armark_r_alp_ovl_sub.bmp.png
 pit_body3_ovl_alp_sub.bmp.png
-pit_eye.bmp.png
 pit_face2_ovl_sub_alp.bmp_6db9591385198a710491f1b539611f0b.png
 pit_face_ovl_alp_emap_mod1120.bmp_dbec3efa27e6d1b17c555db5e581bceb.png
 pit_food_c.bmp_34cbc68775c7cff51c1749b7d1398731.png
@@ -152,14 +149,9 @@ pit_food_s.bmp_c5532a65e21a91fcf9dcfee4619c7e9a.png
 pit_food_s_sub_ovl_alp.bmp_344b20080ef3f6e16f931b639532c245.png
 pit_jaket2_ovl_alp_emap_mod1120.bmp_48f8785725b7c608d1452433646e3b71.png
 pit_legl.bmp.png
-pit_neccktie.bmp.png
 pit_shatu00.bmp_2b313308c7c0d0897a0f4e678e04353a.png
-pit_shatu01.bmp.png
 pit_shoese.bmp.png
 pit_shoese_ovl_sub_alp.bmp.png
-pit_steki00.bmp.png
-pit_steki01.bmp.png
-pit_steki_alp_ovl_sub.bmp.png
 pl_box_d.bmp.png
 pl_box_d.bmp.png
 pl_box_d1_light.bmp.png
@@ -179,13 +171,11 @@ ptr_hand_sub_alp_ovl.bmp.png
 ptr_jaket_nypd.bmp.png
 ptr_mtg_alp_ovl.bmp_1dee7c33f8c04c57c9230facad52d73e.png
 qt_break_alp.bmp.png
-rah_hi_finger.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 ringo_02.bmp.png
 ringo_03.bmp.png
 ringo_04.bmp.png
 sco_body_kubi.bmp_70cbeeac4ae8ba4567a52a83c9b9926d.png
-sco_boots.bmp.png
 sco_boots.bmp_9abb99c14789bfd99879b434af4f2e1b.png
 sco_boots2.bmp_c25a19e9d29d7dec36db77d1571f0dfb.png
 sco_hand_i_ovl_sub_alp.bmp.png
@@ -197,8 +187,6 @@ sco_ude_under.bmp.png
 scot_hiface3.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_hi_ela01_alp_ovl.bmp.png
-sna_hi_eye01dt.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 svc_bonbori.bmp.png

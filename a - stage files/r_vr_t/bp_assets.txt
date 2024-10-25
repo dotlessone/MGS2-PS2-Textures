@@ -45,7 +45,6 @@
 006c97ed.png
 006cc7ed.png
 006d97ed.png
-0086a618.png
 0089a618.png
 008aa618.png
 008ba618.png
@@ -134,11 +133,6 @@ hfb_sb_saya2.bmp.png
 hfb_tuba.bmp.png
 iro_face.bmp_c2887b3a82812f39ba6df6e2295dab8a.png
 iro_face_ovl_sub_alp.bmp.png
-iro_hair01_alp_ovl.bmp.png
-iro_hair02_alp_ovl.bmp.png
-iro_hair_base.bmp.png
-iro_hi_ela_alp_ovl.bmp.png
-iro_hi_face.bmp.png
 lez.bmp.png
 lez2.bmp.png
 m4a_nm_alp_ovl.bmp.png
@@ -167,7 +161,6 @@ obj_mog_book_inner.bmp.png
 obj_mog_book_ovl_alp.bmp.png
 psg_alp_ovl.bmp.png
 pump02_alp.bmp.png
-rah_hi_finger.bmp.png
 rai_ba_ami_ovl_alp.bmp.png
 rai_ba_belt.bmp.png
 rai_ba_ovl_mod1120_alp_emap.bmp.png
@@ -180,10 +173,7 @@ rgb_sb_body.bmp_2f0d86d85ea774f8976cc6b4aac67670.png
 rgb_sb_muzzle.bmp_cd50a1055e9aaf1f63580648e71f4e0e.png
 sam_alp_ovl.bmp.png
 scm2_alp_ovl.bmp.png
-scm_sb_hammer.bmp.png
-scm_sb_s.bmp.png
 scm_sb_sp.bmp.png
-scm_sb_temp.bmp.png
 scp.bmp.png
 shuukanshi_01.bmp.png
 shv_alp_ovl.bmp.png
@@ -193,7 +183,6 @@ sna_glass_flame2.bmp.png
 sna_glass_flame2.bmp.png
 sna_glass_sub_ovl_alp.bmp.png
 sna_glass_sub_ovl_alp.bmp.png
-sna_hi_eye01dt.bmp.png
 sna_txd_arm.bmp.png
 sna_txd_arm_fix.bmp.png
 sna_txd_arm_ovl_sub_alp.bmp.png
@@ -232,7 +221,6 @@ styp_alp_ovl.bmp.png
 tgl.bmp.png
 tgl_alp_ovl.bmp.png
 usp_alp_ovl.bmp.png
-usp_magazine.bmp.png
 usp_sb_all.bmp.png
 usp_sb_all2.bmp.png
 usp_sp2_alp_ovl.bmp.png
@@ -240,7 +228,6 @@ usp_sp_alp_ovl.bmp.png
 vr2_dmm_sub_alp_ovl.bmp.png
 w22a_cbx_d_mk.bmp.png
 wep_dot_alp_ovl_decal.bmp.png
-wep_muzzle.bmp.png
 wig1_alp_ovl.bmp.png
 wig2_alp_ovl.bmp.png
 wpb_alp_ovl.bmp.png

@@ -68,17 +68,13 @@ l_alp_ovl.bmp_3ec8086acbe2099214f0863735b9c8c4.png
 motor_body_01.bmp.png
 motor_body_05.bmp.png
 motor_wire_01.bmp.png
-nypo_hand.bmp.png
 nypo_ovl_mod1210_alp.bmp.png
 plant_uturikommi_01_alp_ovl.bmp.png
 plant_uturikommi_02_alp_ovl.bmp.png
 powder01_alp.bmp.png
 powder04_alp.bmp.png
 powfog03_add.bmp.png
-rai_fin_foot.bmp.png
-rai_fin_foot.bmp.png
 rcm_l_alp.bmp.png
-rev_blk.bmp.png
 ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -169,7 +165,6 @@ svc_bonbori.bmp.png
 svc_bonbori_r.bmp.png
 svc_bonbori_y.bmp.png
 title_logo_blue_alp_ovl.bmp.png
-ved_douro2.bmp.png
 ved_g70.bmp.png
 ved_g80.bmp.png
 ved_h2.bmp.png
@@ -186,7 +181,6 @@ ved_lanr6.bmp.png
 ved_rope_lit.bmp.png
 ved_saku.bmp.png
 ved_si.bmp.png
-ved_si2_msk.bmp.png
 ved_si_dosita.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png

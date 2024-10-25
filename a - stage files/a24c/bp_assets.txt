@@ -66,8 +66,6 @@
 a_p_sensor_alp.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-abk_temp_tex1.bmp.png
-abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
 angle_alp_ovl.bmp.png
@@ -116,8 +114,6 @@ dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
-door_bfl00.bmp.png
-door_bfl00.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 exit_alp_ovl.bmp.png
@@ -133,15 +129,12 @@ glass01_add.bmp.png
 glass03_add.bmp.png
 gogle_ibox.bmp.png
 gogle_rabel_alp_ovl.bmp.png
-gps_knife.bmp.png
 gradation_alp_ovl.bmp.png
 grs_black.bmp.png
 grs_black.bmp.png
 grs_black.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
-hos_fa_foot01.bmp.png
-hos_fa_foot01.bmp.png
 hos_tie_brown.bmp.png
 hos_tie_green.bmp.png
 ibox_all2.bmp.png
@@ -199,7 +192,6 @@ ric_def_face.bmp.png
 ric_def_hair_alp_ovl.bmp.png
 ric_def_hair_alp_ovl.bmp.png
 ric_def_hair_alp_ovl.bmp.png
-ric_hair03_alp_ovl.bmp.png
 rifle_ammo_rabel_alp_ovl.bmp.png
 rifle_ammo_side.bmp.png
 rifle_ammo_top.bmp.png

@@ -58,8 +58,6 @@
 a_p_sensor_alp.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-abk_temp_tex1.bmp.png
-abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
 angle_alp_ovl.bmp.png
@@ -104,8 +102,6 @@ dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
-door_bfl00.bmp.png
-door_bfl00.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 ef_renraku_alp_ovl.bmp.png
@@ -125,30 +121,10 @@ gbs_bp1.bmp.png
 gbs_bp2.bmp.png
 gogle_ibox.bmp.png
 gogle_rabel_alp_ovl.bmp.png
-gpa_backbag.bmp.png
-gpa_magpack.bmp.png
-gps_arm_ss2.bmp.png
-gps_arm_ss2.bmp.png
-gps_body_ss.bmp.png
-gps_boot_ss.bmp.png
-gps_crest_l_ovl_alp.bmp.png
-gps_crest_r_ovl_alp.bmp.png
-gps_eri.bmp.png
 gps_eye_close.bmp.png
-gps_eye_def.bmp.png
-gps_eye_def.bmp.png
 gps_eye_open.bmp.png
 gps_eye_pain.bmp.png
 gps_eye_white.bmp.png
-gps_knife.bmp.png
-gps_knife.bmp.png
-gps_leg_ss.bmp.png
-gps_mask.bmp.png
-gps_poket.bmp.png
-gps_poket2.bmp.png
-gps_toe2.bmp.png
-gps_wrist.bmp.png
-gps_wrist.bmp.png
 gradation_alp_ovl.bmp.png
 gray.bmp.png
 grs_black.bmp.png
@@ -158,8 +134,6 @@ grs_black.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
 hamon09_add_alp.bmp.png
-htc_arm_uc.bmp.png
-htc_arm_uc.bmp.png
 htc_blood_alp_ovl.bmp.png
 ibox_all2.bmp.png
 ibox_tx_all_alp_ovl.bmp.png
@@ -190,7 +164,6 @@ lockon_tag1_add_alp.bmp.png
 lv1_alp_ovl.bmp.png
 lv3_alp_ovl.bmp.png
 lv3_alp_ovl.bmp.png
-m4a_gl_unit.bmp.png
 m4grn_bul_high.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
@@ -219,7 +192,6 @@ ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rgb_sb_body.bmp.png
 rgb_sb_muzzle.bmp.png
-ric_hair03_alp_ovl.bmp.png
 rifle_ammo_rabel_alp_ovl.bmp.png
 rifle_ammo_side.bmp.png
 rifle_ammo_top.bmp.png
@@ -369,7 +341,6 @@ w22a1box_alp_ovl_08.bmp.png
 w22a1box_alp_ovl_09.bmp.png
 w22a1box_alp_ovl_10.bmp.png
 w22a1g_box01.bmp.png
-w22a1g_box01_02.bmp.png
 w22a1g_box03.bmp.png
 w22a1g_box04.bmp.png
 w22a1g_box05.bmp.png
@@ -508,7 +479,6 @@ w22a_number_alp_ovl_1f.bmp.png
 w22a_number_alp_ovl_b1g.bmp.png
 w22a_number_alp_ovl_b1h.bmp.png
 w22a_number_alp_ovl_b1i.bmp.png
-w22a_pipe_01.bmp.png
 w22a_pipe_03.bmp.png
 w22a_pipe_kanagu.bmp.png
 w22a_pipe_kanagu.bmp.png
@@ -563,7 +533,6 @@ w23a_fl00.bmp.png
 w23a_fl00a.bmp.png
 w24a0_enta02.bmp.png
 w24a0_enta02.bmp.png
-w24a0_entb03.bmp.png
 w28a_ana_light.bmp.png
 w28a_ana_light_alp_add_ovl.bmp.png
 w28a_ana_light_alp_add_ovl.bmp.png

@@ -156,10 +156,6 @@ obj_mog_book_ovl_alp.bmp.png
 over_menu_alp_ovl.bmp.png
 psg_alp_ovl.bmp.png
 pump02_alp.bmp.png
-rah_hi_finger.bmp.png
-rai_hair_b_edge2_ovl_alp.bmp.png
-rai_hair_b_front_ovl_alp.bmp.png
-rev_blk.bmp.png
 rgb_alp_ovl.bmp.png
 rgb_amo.bmp.png
 rgb_amo_cartridge2.bmp.png
@@ -167,10 +163,7 @@ rgb_sb_body.bmp_2f0d86d85ea774f8976cc6b4aac67670.png
 rgb_sb_muzzle.bmp_cd50a1055e9aaf1f63580648e71f4e0e.png
 sam_alp_ovl.bmp.png
 scm2_alp_ovl.bmp.png
-scm_sb_hammer.bmp.png
-scm_sb_s.bmp.png
 scm_sb_sp.bmp.png
-scm_sb_temp.bmp.png
 scp.bmp.png
 shuukanshi_01.bmp.png
 shv_alp_ovl.bmp.png
@@ -184,7 +177,6 @@ styp_alp_ovl.bmp.png
 tgl.bmp.png
 tgl_alp_ovl.bmp.png
 usp_alp_ovl.bmp.png
-usp_magazine.bmp.png
 usp_sb_all.bmp_cdb943d53c81d48a3e26a8100d3c47be.png
 usp_sb_all2.bmp.png
 usp_sp2_alp_ovl.bmp.png

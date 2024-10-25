@@ -279,8 +279,6 @@ stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 test_rabel_alp_ovl.bmp.png
-tng_eye2_ovl_hlf.bmp.png
-tng_shoulder_p2.bmp.png
 vr2_goal_add_alp.bmp.png
 vr2_noise_a0_alp.bmp.png
 vr2_noise_a1_alp.bmp.png
@@ -407,7 +405,6 @@ w45a_door_fukuro_temae_under.bmp.png
 w45a_door_left.bmp.png
 w45a_door_right.bmp.png
 wave12_alp_ovl.bmp.png
-wep_muzzle.bmp.png
 window1_alp.bmp.png
 window3_hlf.bmp.png
 wrain01_add_alp_ovl.bmp.png

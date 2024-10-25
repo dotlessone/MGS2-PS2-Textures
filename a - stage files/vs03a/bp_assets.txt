@@ -58,8 +58,6 @@
 a_p_sensor_alp.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-abk_temp_tex1.bmp.png
-abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
 angle_alp_ovl.bmp.png
@@ -107,15 +105,12 @@ gbs_bp1.bmp.png
 gbs_bp2.bmp.png
 gogle_ibox.bmp.png
 gogle_rabel_alp_ovl.bmp.png
-gps_knife.bmp.png
 gradation_alp_ovl.bmp.png
 grs_black.bmp.png
 grs_black.bmp.png
 grs_black.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
-htc_arm_uc.bmp.png
-htc_arm_uc.bmp.png
 htc_blood_alp_ovl.bmp.png
 ibox_all2.bmp.png
 ibox_tx_all_alp_ovl.bmp.png
@@ -131,7 +126,6 @@ light05_msk.bmp.png
 light08_msk.bmp.png
 lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
-m4a_gl_unit.bmp.png
 m4grn_bul_high.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png

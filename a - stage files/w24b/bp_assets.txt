@@ -6,8 +6,6 @@ Hazard.bmp.png
 a_p_sensor_alp.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-abk_temp_tex1.bmp.png
-abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
 angle_alp_ovl.bmp.png
@@ -70,7 +68,6 @@ dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
-door_bfl00.bmp.png
 drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 elvt_nwall3pb1B_alp.bmp.png
@@ -89,7 +86,6 @@ glass01_add.bmp.png
 glass03_add.bmp.png
 gogle_ibox.bmp.png
 gogle_rabel_alp_ovl.bmp.png
-gps_knife.bmp.png
 gradation_alp_ovl.bmp.png
 grs_black.bmp.png
 grs_black.bmp.png
@@ -147,24 +143,12 @@ rifle_ammo_top.bmp.png
 rifle_ibox.bmp_94bca08db682d231ae1d48d2b6385598.png
 saya.bmp.png
 sna2h_mouin.bmp.png
-sna_bandana_msk.bmp.png
-sna_foot01dt.bmp.png
 sna_g2_ovl_mod1120_alp_emap.bmp.png
 sna_glass_flame2.bmp.png
 sna_glass_sub_ovl_alp.bmp.png
-sna_hair3.bmp.png
-sna_hand2.bmp.png
-sna_hi_ela01_alp_ovl.bmp.png
-sna_hi_eye01dt.bmp.png
-sna_hi_face_ovl_sub_alp.bmp.png
-sna_hi_finger.bmp.png
 sna_hi_finger2.bmp.png
 sna_hi_hand1.bmp.png
-sna_hi_hand2.bmp.png
-sna_hi_meziri.bmp.png
-sna_leg_r01dt.bmp.png
 sna_shadow.bmp.png
-sna_shoul01dt.bmp.png
 socom_alp_ovl.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
@@ -211,7 +195,6 @@ w02a_door.bmp.png
 w11_col4.bmp.png
 w16a_gy045.bmp.png
 w16a_rf01.bmp.png
-w24a0_fla04e_alp_ovl.bmp.png
 w24a_ppb00a.bmp.png
 w24b0_box00.bmp.png
 w24b0_box00a.bmp.png
@@ -277,7 +260,6 @@ w24b1_ana01a.bmp.png
 w24b1_box00.bmp.png
 w24b1_box00a.bmp.png
 w24b1_box00b.bmp.png
-w24b1_d_box_top.bmp.png
 w24b1_fl00.bmp.png
 w24b1_fl00a.bmp.png
 w24b1_fl01.bmp.png

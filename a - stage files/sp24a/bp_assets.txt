@@ -58,8 +58,6 @@
 a_p_sensor_alp.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-abk_temp_tex1.bmp.png
-abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
 angle_alp_ovl.bmp.png
@@ -104,7 +102,6 @@ floor_marker1_add_alp.bmp.png
 floor_marker2_add_alp.bmp.png
 fms_alp_ovl.bmp.png
 fms_ibox.bmp.png
-for_lnr_sling.bmp.png
 frost02_alp.bmp.png
 gasmask_alp.bmp.png
 gbs_bp1.bmp.png
@@ -114,15 +111,9 @@ gbs_nvg_goggle_f.bmp.png
 gbs_nvg_goggle_s.bmp.png
 gbs_nvg_temp_tex.bmp.png
 gbs_nvg_temp_tex2.bmp.png
-gcyp_amo_f1.bmp.png
-gcyp_amo_s1.bmp.png
-gcyp_bodykim.bmp.png
-gcyp_gun_s2.bmp.png
 gcyp_hahen_m_alp_ovl.bmp.png
-gcyp_sight_f1.bmp.png
 gogle_ibox.bmp.png
 gogle_rabel_alp_ovl.bmp.png
-gps_knife.bmp.png
 gradation_alp_ovl.bmp.png
 grs_black.bmp.png
 grs_black.bmp.png

@@ -23,14 +23,8 @@ col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
 col_blk.bmp.png
-cyp_body_hg.bmp.png
-cyp_face.bmp.png
-cyp_head.bmp.png
-cyp_lens_rgb_alp_ovl.bmp.png
 cyp_propera_alp.bmp.png
 cyp_roter01_alp.bmp.png
-cyp_tank.bmp.png
-cyp_temp_tx.bmp.png
 dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png

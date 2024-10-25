@@ -3,8 +3,6 @@
 a_p_sensor_alp.bmp.png
 a_p_sensor_case.bmp.png
 a_p_sensor_case2.bmp.png
-abk_temp_tex1.bmp.png
-abk_temp_tex1.bmp.png
 ak_sp_tx_mk_alp.bmp.png
 ak_tx_alp.bmp.png
 angle_alp_ovl.bmp.png
@@ -68,7 +66,6 @@ gbs_bp1.bmp.png
 gbs_bp2.bmp.png
 gogle_ibox.bmp.png
 gogle_rabel_alp_ovl.bmp.png
-gps_knife.bmp.png
 gradation_alp_ovl.bmp.png
 grs_black.bmp.png
 grs_black.bmp.png

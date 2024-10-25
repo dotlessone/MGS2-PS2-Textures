@@ -75,7 +75,6 @@ blood_2bw_msk.bmp.png
 bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
 call_alp_ovl.bmp.png
-cam_hi_tang.bmp.png
 case_lan.bmp.png
 case_test_top.bmp.png
 chaff_alp.bmp.png
@@ -232,11 +231,7 @@ rabel_alp_ovl.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_blk.bmp.png
-rev_blk.bmp.png
-rev_boot_03dt.bmp.png
 rev_bullet_02dt.bmp.png
-rev_coat_shoulder01dt.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
 rev_holster_01dt.bmp.png
 rifle_ammo_rabel_alp_ovl.bmp.png
@@ -256,15 +251,6 @@ shl_lit1_f_msk_decal.bmp.png
 shl_lit_wire.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
-sna_foot01dt.bmp.png
-sna_hair3.bmp.png
-sna_hand2.bmp.png
-sna_hi_ela01_alp_ovl.bmp.png
-sna_hi_eye01dt.bmp.png
-sna_hi_face_ovl_sub_alp.bmp.png
-sna_hi_meziri.bmp.png
-sna_leg_r01dt.bmp.png
-sna_shoul01dt.bmp.png
 socom_alp_ovl.bmp.png
 splash03_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png

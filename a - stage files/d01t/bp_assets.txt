@@ -15,9 +15,6 @@ box_side.bmp.png
 bw_mark.bmp.png
 call_alp_ovl.bmp.png
 cam_eyes_ovl_sub_alp.bmp.png
-cam_hi_tang.bmp.png
-cam_hi_teeth_d1.bmp.png
-cam_hi_teeth_d2.bmp.png
 cam_mtg_alp_ovl.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
@@ -149,15 +146,6 @@ rcm_l_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 shdw.bmp.png
 sna2h_mouin.bmp.png
-sna_foot01dt.bmp.png
-sna_hair3.bmp.png
-sna_hand2.bmp.png
-sna_hi_ela01_alp_ovl.bmp.png
-sna_hi_eye01dt.bmp.png
-sna_hi_face_ovl_sub_alp.bmp.png
-sna_hi_meziri.bmp.png
-sna_leg_r01dt.bmp.png
-sna_shoul01dt.bmp.png
 splash03.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png

@@ -136,16 +136,7 @@ powder03_alp.bmp.png
 powder04_alp.bmp.png
 powfog03_add.bmp.png
 qt_break_alp.bmp.png
-rai_diver_eyeline.bmp.png
-rai_diver_eyeline.bmp.png
-rai_diver_mask.bmp.png
-rai_diver_mask.bmp.png
-rai_diver_tube_in.bmp.png
-rai_diver_tube_in.bmp.png
-rai_diver_tube_red.bmp.png
-rai_diver_tube_red.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_blk.bmp.png
 ripple02_alp.bmp.png
 s1_a_rt_alp_ovl.bmp.png
 sky_1_alp.bmp.png
