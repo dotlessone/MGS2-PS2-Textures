@@ -224,7 +224,6 @@ w42a_1f_box_kage05_alp_sub_ovl.bmp.png
 w42a_1f_box_kage06_alp_ovl.bmp.png
 w42a_1f_box_kage07_alp_ovl.bmp.png
 w42a_1f_box_kage_alp_ovl.bmp.png
-w42a_1f_box_kage_ent_alp_sub_ovl.bmp.png
 w42a_1f_ent_01.bmp.png
 w42a_1f_ent_02.bmp.png
 w42a_1f_ent_floor_01.bmp.png
@@ -259,7 +258,6 @@ w42a_2f_hanger_02.bmp.png
 w42a_2f_hanger_03.bmp.png
 w42a_2f_hanger_04.bmp.png
 w42a_2f_hanger_back_01.bmp.png
-w42a_2f_kage_alp_sub_ovl.bmp.png
 w42a_2f_side_01.bmp.png
 w42a_2f_side_02.bmp.png
 w42a_2f_side_03.bmp.png
