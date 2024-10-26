@@ -109,7 +109,6 @@ ef_renraku_alp_ovl.bmp.png
 ema_died_alp_ovl.bmp.png
 ema_eye_dt.bmp.png
 ema_eye_dt_ovl_sub_alp.bmp.png
-ema_id_picture.bmp.png
 etop_alp_ovl.bmp.png
 exit_alp_ovl.bmp.png
 f_souko_b1_alp_ovl.bmp.png

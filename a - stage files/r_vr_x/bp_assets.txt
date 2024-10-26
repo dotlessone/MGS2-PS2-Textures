@@ -104,7 +104,6 @@ dmp_sb_grip.bmp.png
 dmp_sb_mc.bmp.png
 dmp_sb_mc2.bmp.png
 dmp_sb_pi.bmp.png
-ema_id_picture.bmp.png
 exit_alp_ovl.bmp_6caebe23bde6080a351ba6c3fd17f622.png
 fire3_alp.bmp.png
 fms_alp_ovl.bmp_afd64baad5879a54d69dceeb416e0963.png

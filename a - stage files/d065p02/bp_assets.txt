@@ -36,7 +36,6 @@ e_sky_cld_sun_02_alp.bmp.png
 e_sky_top_01_alp.bmp.png
 ema_eye_dt.bmp.png
 ema_eye_dt_ovl_sub_alp.bmp.png
-ema_id_picture.bmp.png
 entyou_oil_sea.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png

@@ -132,7 +132,6 @@ drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 ema_eye_dt.bmp.png
 ema_eye_dt_ovl_sub_alp.bmp.png
-ema_id_picture.bmp.png
 exit_alp_ovl.bmp.png
 flare_r2_msk.bmp.png
 fms_alp_ovl.bmp.png

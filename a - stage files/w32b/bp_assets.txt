@@ -42,7 +42,6 @@ e_sky_top_01_alp.bmp.png
 ema_back_blood_alp_ovl.bmp.png
 ema_eye_dt.bmp.png
 ema_eye_dt_ovl_sub_alp.bmp.png
-ema_id_picture.bmp.png
 ema_ooze_blood00_alp_ovl.bmp.png
 ema_ooze_blood00_alp_ovl.bmp.png
 entyou_oil_sea.bmp.png

@@ -57,7 +57,6 @@ elvt_wall_ligh2_alp_add.bmp.png
 ema_eye_dt.bmp.png
 ema_eye_dt_ovl_sub_alp.bmp.png
 ema_glassf_alp_ovl.bmp.png
-ema_id_picture.bmp.png
 ema_tag2.bmp.png
 evt1_foot.bmp.png
 evt1_seal1_alp_ovl.bmp.png
