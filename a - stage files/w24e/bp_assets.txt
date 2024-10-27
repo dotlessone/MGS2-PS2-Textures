@@ -85,11 +85,9 @@ powder03_alp.bmp.png
 ptr_tooth_u4.bmp.png
 qt_break_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_bullet_02dt.bmp.png
 rev_face_01dt.bmp.png
 rev_hair1.bmp.png
 rev_hair2.bmp.png
-rev_holster_01dt.bmp.png
 ric_def_face.bmp.png
 ric_def_face.bmp.png
 ric_def_face.bmp.png

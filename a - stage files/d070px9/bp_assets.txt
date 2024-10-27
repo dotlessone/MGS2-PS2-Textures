@@ -25,9 +25,6 @@ light05_msk.bmp.png
 light08_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
-mo_disk02_naka_alp.bmp.png
-mo_disk_naka_mt.bmp.png
-mo_steal_cov_mk.bmp.png
 mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 org_sknc_all.bmp.png
@@ -42,12 +39,9 @@ ptr_tooth_u4.bmp.png
 qt_break_alp.bmp.png
 ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_bullet_02dt.bmp.png
-rev_bullet_02dt.bmp.png
+rev_tama_top.bmp.png //not actually from here
 rev_hi_mtg_alp_ovl.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-rev_holster_01dt.bmp.png
-rev_holster_01dt.bmp.png
 ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png

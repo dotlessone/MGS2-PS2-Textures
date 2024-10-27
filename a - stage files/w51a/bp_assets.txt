@@ -81,15 +81,11 @@ raycp_scaler_r_alp.bmp.png
 raycp_text1_alp.bmp.png
 raycp_yajirushi1_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_bullet_02dt.bmp.png
-rev_bullet_02dt.bmp.png
 rev_face_01dt.bmp.png
 rev_hair1.bmp.png
 rev_hair2.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-rev_holster_01dt.bmp.png
-rev_holster_01dt.bmp.png
 ripple02_alp.bmp.png
 saa_all.bmp.png
 sky_m1_alp.bmp.png

@@ -105,14 +105,10 @@ rai_all_ibox.bmp.png
 ration_box.bmp.png
 ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_bullet_02dt.bmp.png
-rev_bullet_02dt.bmp.png
 rev_face_01dt.bmp.png
 rev_hair1.bmp.png
-rev_hair2.bmp.png
+rev_hair2.bmp.pngdemo_teng_blood_05_alp_ovl.bmp
 rev_hi_mtg_alp_ovl.bmp.png
-rev_holster_01dt.bmp.png
-rev_holster_01dt.bmp.png
 rifle_ammo_rabel_alp_ovl.bmp.png
 rifle_ammo_side.bmp.png
 rifle_ammo_top.bmp.png

@@ -127,9 +127,7 @@ ray_eye.bmp.png
 ray_lip_out.bmp_3029ef32c6c3dd8db20f9741d8a813e8.png
 rcm_l_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_bullet_02dt.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-rev_holster_01dt.bmp.png
 ripple02_alp.bmp.png
 s_01_sub_ovl.bmp.png
 sco_hand_in_new.bmp.png

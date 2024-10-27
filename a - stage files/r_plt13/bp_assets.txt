@@ -96,9 +96,7 @@ orp_hf00_st.bmp.png
 orp_hf01_st.bmp.png
 otc_eye_ovl_sub_alp.bmp.png
 rai_eye_hlf_ovl.bmp.png
-rev_bullet_02dt.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-rev_holster_01dt.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png
 sna2h_mouin.bmp.png

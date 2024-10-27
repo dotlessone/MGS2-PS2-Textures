@@ -204,8 +204,6 @@ vr2_noise_c2_alp.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
-
-
 wave12_alp_ovl.bmp.png
 wrain01_add_alp_ovl.bmp.png
 wrain02_add_alp_ovl.bmp.png

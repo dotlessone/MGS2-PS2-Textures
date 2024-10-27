@@ -71,9 +71,6 @@ light08_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
 lv4_alp_ovl.bmp.png
-mo_disk02_naka_alp.bmp.png
-mo_disk_naka_mt.bmp.png
-mo_steal_cov_mk.bmp.png
 mode_alp_ovl.bmp.png
 nom_alp_ovl.bmp.png
 pipe.bmp.png

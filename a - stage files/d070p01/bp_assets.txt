@@ -56,9 +56,6 @@ hfb_sb_saya2.bmp.png
 hfb_tuba.bmp.png
 htl.bmp.png
 ketchap_g.bmp.png
-mo_disk02_naka_alp.bmp.png
-mo_disk_naka_mt.bmp.png
-mo_steal_cov_mk.bmp.png
 motor_body_01.bmp.png
 motor_body_05.bmp.png
 motor_wire_01.bmp.png

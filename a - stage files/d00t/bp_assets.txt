@@ -52,9 +52,7 @@ rai_rist_ovl_sub_alp.bmp.png
 rcm_l.bmp.png
 rcm_l_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_bullet_02dt.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-rev_holster_01dt.bmp.png
 shdw.bmp.png
 skyline_light_alp_decal.bmp.png
 sna2h_mouin.bmp.png

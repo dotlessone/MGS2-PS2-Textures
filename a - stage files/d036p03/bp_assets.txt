@@ -102,14 +102,10 @@ qt_break_alp.bmp.png
 rai_gbs_face.bmp.png
 rai_gbs_face.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_bullet_02dt.bmp.png
-rev_bullet_02dt.bmp.png
 rev_face_01dt.bmp.png
 rev_hair1.bmp.png
 rev_hair2.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-rev_holster_01dt.bmp.png
-rev_holster_01dt.bmp.png
 ric_def_face.bmp.png
 ric_def_hair_alp_ovl.bmp.png
 ringo_02.bmp.png

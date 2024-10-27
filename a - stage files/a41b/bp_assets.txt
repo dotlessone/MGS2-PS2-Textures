@@ -122,9 +122,7 @@ ptr_tooth_u4.bmp.png
 qt_break_alp.bmp.png
 ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_bullet_02dt.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-rev_holster_01dt.bmp.png
 ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png

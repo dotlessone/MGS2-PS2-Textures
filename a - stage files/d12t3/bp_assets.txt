@@ -99,9 +99,7 @@ raycp_conpane1_off.bmp.png
 raycp_eyebox_cyl_enter.bmp.png
 rcm_l_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-rev_bullet_02dt.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-rev_holster_01dt.bmp.png
 ripple02_alp.bmp.png
 s_01_sub_ovl.bmp.png
 seculitycard_lv1_alp.bmp_89c61a473bb530b5626fa49561bf2d2a.png
