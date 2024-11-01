@@ -125,7 +125,6 @@ w24a0_wh01.bmp.png
 w24a_ppb00a.bmp.png
 w31a_cir_panel_01.bmp.png
 w31a_cir_panel_02.bmp.png
-w31a_cir_panel_033.bmp.png
 w31a_cir_panel_04.bmp.png
 w31a_cir_panel_05.bmp.png
 w31a_cir_panel_alp_ovl_03.bmp.png
