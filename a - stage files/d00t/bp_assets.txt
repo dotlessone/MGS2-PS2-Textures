@@ -8,7 +8,6 @@ col128_add.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
 col_gray20.bmp.png
 col_gray50.bmp.png
 d00a_citylight_alp_ovl.bmp.png
@@ -68,7 +67,6 @@ splash03.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sr00e_alp_ovl.bmp.png
 sr00j_alp_ovl.bmp.png
 sr01e_alp_ovl.bmp.png
@@ -230,10 +228,6 @@ w00ak_wnc_f1.bmp.png
 w00ak_wnc_s3.bmp.png
 w00b_crane_post_s.bmp.png
 w00b_crane_post_s.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w00b_fannel2.bmp.png
 w00b_huge_light_brk.bmp.png
 w00b_huge_light_f1.bmp.png

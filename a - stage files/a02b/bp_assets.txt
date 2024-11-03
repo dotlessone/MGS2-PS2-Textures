@@ -80,7 +80,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
 coldmedicine_tx_alp.bmp.png
 degital_camera.bmp.png
 digicame_tx_alp.bmp.png
@@ -92,7 +91,6 @@ flare_r2_msk.bmp.png
 flash_mog.bmp.png
 frost02_alp.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 ibox_tx_all_alp.bmp.png
 irs_box_all.bmp.png
 irs_box_back.bmp.png
@@ -118,8 +116,6 @@ lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2_inner.bmp_1d16428e578cea9d01dde7a99915c874.png
-mog_loc2_top.bmp.png
-mog_loc2_top.bmp.png
 mrk_hlst000.bmp.png
 mrl_arm_sub_ovl_alp.bmp.png
 mrl_arm_tes002.bmp.png
@@ -180,7 +176,6 @@ psg1-T_tx_alp.bmp.png
 qt_break_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rifle_ibox.bmp.png
-ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -189,7 +184,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 ssk_all.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
@@ -469,7 +463,6 @@ w02_yuka_rail.bmp.png
 w02_yuka_s.bmp.png
 w02_yukaf_s.bmp.png
 w02_yukaf_s2.bmp.png
-w02a_chain_alp.bmp.png
 w02a_door.bmp.png
 w02a_door.bmp.png
 w02a_suimitu_dr.bmp.png

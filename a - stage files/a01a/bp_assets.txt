@@ -94,7 +94,6 @@ bood_u.bmp.png
 brack_01_01_01.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_9.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -113,13 +112,6 @@ co2_03.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
@@ -162,7 +154,6 @@ grs_black.bmp.png
 grs_black.bmp.png
 gry075.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 ibox_tx_all_alp.bmp.png
 iro_face.bmp.png
 jam_alp_ovl.bmp.png
@@ -240,7 +231,6 @@ refre_right_alp_ovl.bmp.png
 rhos.bmp.png
 rhot.bmp.png
 rifle_ibox.bmp.png
-ripple02_alp.bmp.png
 roRfHoSi.bmp.png
 roWaBelCorB.bmp.png
 roWaBelEndB.bmp.png
@@ -306,7 +296,6 @@ speaker04.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 vr2_goal_add_alp.bmp.png

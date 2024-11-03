@@ -16,7 +16,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
 dog_tag2.bmp.png
 dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
@@ -53,7 +52,6 @@ usa_face_d01dt.bmp.png
 usa_face_d01dt.bmp.png
 usa_helmet.bmp.png
 usa_met_ovl_sub_alp.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w03_cat_sasae_ura.bmp.png
 w03_cat_sasae_ura2.bmp.png
 w03_kaidan_step_top_big.bmp.png

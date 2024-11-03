@@ -16,7 +16,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
 col_gry008.bmp.png
 col_w01agry1.bmp.png
 crd_lit02.bmp.png
@@ -82,15 +81,7 @@ w03b_dr00.bmp_055dfa2c29b900d1ca7a6c2116d1090c.png
 w03b_dr00a.bmp.png
 w03b_dr01.bmp.png
 w03b_dr01.bmp.png
-w03b_dr02.bmp.png
-w03b_dr02.bmp.png
-w03b_dr02.bmp.png
 w03b_dr02a.bmp.png
-w03b_dr03.bmp.png
-w03b_dr03.bmp.png
-w03b_dr03a.bmp.png
-w03b_dr03b.bmp.png
-w03b_dr03b.bmp.png
 w03b_w00a.bmp.png
 w03b_w00b.bmp.png
 w03b_w02c.bmp.png

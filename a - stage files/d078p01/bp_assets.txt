@@ -11,8 +11,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 demo_teng_blood_01_alp_ovl.bmp.png
 demo_teng_blood_02_alp_ovl.bmp.png
 demo_teng_blood_03_alp_ovl.bmp.png
@@ -31,7 +29,6 @@ for_hi_hand3.bmp.png
 for_t_l_ovl_sub_alp.bmp.png
 for_t_r_ovl_sub_alp.bmp.png
 frost02_alp.bmp.png
-hamon09_add_alp.bmp.png
 hfb_tuba.bmp.png
 hfb_tuba.bmp.png
 jam_alp_ovl.bmp.png
@@ -54,7 +51,6 @@ powder04_alp.bmp.png
 powfog03_add.bmp.png
 qt_break_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -77,7 +73,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 tng_arm_blood.bmp.png

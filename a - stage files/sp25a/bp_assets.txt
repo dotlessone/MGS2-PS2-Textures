@@ -70,7 +70,6 @@ bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_9.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -86,7 +85,6 @@ col128_add.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_gry064.bmp.png
 col_gry088.bmp.png
 coldmedicine_tx_alp.bmp.png
 d_sky_top_01_alp.bmp.png
@@ -121,7 +119,6 @@ gun_ibox.bmp.png
 guncamera_hahen01_alp_ovl.bmp.png
 guncamera_hahen02_alp_ovl.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 htc_blood_alp_ovl.bmp.png
 ibox_all2.bmp.png
 ibox_tx_all_alp_ovl.bmp.png
@@ -162,13 +159,11 @@ qt_break_alp.bmp.png
 rabel_alp_ovl.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
-ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rifle_ammo_rabel_alp_ovl.bmp.png
 rifle_ammo_side.bmp.png
 rifle_ammo_top.bmp.png
 rifle_ibox.bmp_94bca08db682d231ae1d48d2b6385598.png
-ripple02_alp.bmp.png
 sel_sling1_alp_ovl.bmp.png
 sel_sling2_alp_ovl.bmp.png
 sel_sling3.bmp.png
@@ -339,7 +334,6 @@ sp25a_sdw_rp_alp_ovl.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png

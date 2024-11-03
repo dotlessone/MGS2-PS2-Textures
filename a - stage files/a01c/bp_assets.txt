@@ -79,7 +79,6 @@ bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_9.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -91,10 +90,6 @@ clr_font_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
@@ -139,7 +134,6 @@ grs_black.bmp.png
 grs_black.bmp.png
 gry075.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 ibox_tx_all_alp.bmp.png
 jam_alp_ovl.bmp.png
 kanban_00.bmp.png
@@ -176,10 +170,8 @@ powder_ex_logo_alp.bmp.png
 powfog03_add.bmp.png
 psg1-T_tx_alp.bmp.png
 qt_break_alp.bmp.png
-ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rifle_ibox.bmp.png
-ripple02_alp.bmp.png
 shl_bul4_add.bmp.png
 shl_bul6_add.bmp.png
 shl_chi1_sub.bmp.png
@@ -201,7 +193,6 @@ speaker02.bmp_60d9fe67157117c03c26035ec72537cd.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 staiway.bmp.png
 staiway_in00.bmp.png
 staiway_in01.bmp.png

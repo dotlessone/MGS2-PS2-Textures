@@ -10,14 +10,10 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 drop01_alp_mod1201.bmp.png
 fede_01_alp_ovl.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
-hamon09_add_alp.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
 light03_msk.bmp.png
@@ -37,12 +33,10 @@ ptr_tooth_u4.bmp.png
 ptr_tooth_u4.bmp.png
 ptr_tooth_u4.bmp.png
 qt_break_alp.bmp.png
-ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rev_tama_top.bmp.png //not actually from here
 rev_hi_mtg_alp_ovl.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -57,7 +51,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 ssk_all.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png

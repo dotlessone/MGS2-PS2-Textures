@@ -108,7 +108,6 @@ btl_piece00_add_ovl.bmp.png
 btl_piece01_add_ovl.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_9.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 cabageD.bmp.png
@@ -129,13 +128,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
@@ -326,7 +318,6 @@ pumppowder_msk.bmp.png
 pumppowder_msk.bmp.png
 pumppowder_msk.bmp.png
 qt_break_alp.bmp.png
-ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 ren_f.bmp.png
 ren_s.bmp.png
@@ -530,7 +521,6 @@ vr2_noise_c2_alp.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w01_dr00a.bmp.png
 w01a0_box03.bmp.png
 w01a0_box07.bmp.png

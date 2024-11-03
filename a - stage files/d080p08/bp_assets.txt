@@ -79,7 +79,6 @@ usp_sb_all2.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w60a_antena_01.bmp.png
 w60a_bill_a01.bmp.png
 w60a_bill_a05_1.bmp.png

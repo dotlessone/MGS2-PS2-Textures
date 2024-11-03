@@ -45,8 +45,6 @@ cgr_sb_body_s.bmp.png
 chaff_alp_ovl.bmp.png
 cig_fire_bld100.bmp.png
 cig_side.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 cray_alp_ovl.bmp.png
 dbx_gls1.bmp.png
 dcm.bmp.png

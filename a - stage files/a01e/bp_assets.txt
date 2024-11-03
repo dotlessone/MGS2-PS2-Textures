@@ -69,7 +69,6 @@ bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_9.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -124,7 +123,6 @@ grs_black.bmp.png
 grs_black.bmp.png
 gry075.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 ibox_tx_all_alp.bmp.png
 irs_box_all.bmp.png
 irs_box_all.bmp.png
@@ -210,7 +208,6 @@ psg1-T_tx_alp.bmp.png
 qt_break_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rifle_ibox.bmp.png
-ripple02_alp.bmp.png
 shl_bul4_add.bmp.png
 shl_bul6_add.bmp.png
 shl_chi1_sub.bmp.png
@@ -231,7 +228,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 ssk_all.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
@@ -279,11 +275,6 @@ w00ak_pod_s1.bmp.png
 w00ak_pod_t1.bmp.png
 w00ak_ue1.bmp.png
 w00b_crane_post_s.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w00b_duct_boxs.bmp.png
 w00b_duct_boxt.bmp.png
 w00b_floor_edge.bmp.png
@@ -355,8 +346,6 @@ w01e_door_s.bmp.png
 w01e_door_u.bmp.png
 w01e_dor_wall.bmp.png
 w01e_dor_wall2.bmp.png
-w01e_drwl_b.bmp.png
-w01e_drwl_st.bmp.png
 w01e_fan_pipe.bmp.png
 w01e_fan_pipe_alp.bmp.png
 w01e_fan_s.bmp.png

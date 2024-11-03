@@ -30,8 +30,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 coldmedicine_tx_alp.bmp.png
 dammydoll_alp.bmp.png
 degital_camera.bmp.png
@@ -57,7 +55,6 @@ gogle_ibox.bmp.png
 gogle_rabel_alp_ovl.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 hfb_tuba.bmp.png
 ibox_all2.bmp.png
 ibox_tx_all_alp_ovl.bmp.png
@@ -93,7 +90,6 @@ rifle_ammo_rabel_alp_ovl.bmp.png
 rifle_ammo_side.bmp.png
 rifle_ammo_top.bmp.png
 rifle_ibox.bmp_94bca08db682d231ae1d48d2b6385598.png
-ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -112,7 +108,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png

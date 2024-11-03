@@ -69,7 +69,6 @@ bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_9.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -82,7 +81,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
 coldmedicine_tx_alp.bmp.png
 dogtag_chain_black_msk.bmp.png
 drop01_alp_mod1201.bmp.png
@@ -126,8 +124,6 @@ lockon_octa_add_alp.bmp.png
 lockon_tag1_add_alp.bmp.png
 mode_alp_ovl.bmp.png
 mog_loc2_inner.bmp_1d16428e578cea9d01dde7a99915c874.png
-mog_loc2_top.bmp.png
-mog_loc2_top.bmp.png
 nametag_cube_def_add_alp.bmp.png
 nametag_hexa_def_add_alp.bmp.png
 nametag_octa_def_add_alp.bmp.png
@@ -412,7 +408,6 @@ w02_yuka_rail.bmp.png
 w02_yuka_s.bmp.png
 w02_yukaf_s.bmp.png
 w02_yukaf_s2.bmp.png
-w02a_chain_alp.bmp.png
 w02a_door.bmp.png
 w02a_door.bmp.png
 w02a_suimitu_dr.bmp.png

@@ -24,9 +24,7 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
 col_blue00.bmp.png
-col_gry024.bmp.png
 coldmedicine_tx_alp.bmp.png
 dammydoll_alp.bmp.png
 degital_camera.bmp.png
@@ -93,7 +91,6 @@ qt_break_alp.bmp.png
 rabel_alp_ovl.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
-ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rifle_ammo_rabel_alp_ovl.bmp.png
 rifle_ammo_side.bmp.png
@@ -116,9 +113,6 @@ svc_bonbori.bmp.png
 test_fence_mini_alp.bmp.png
 test_rabel_alp_ovl.bmp.png
 w00_fog_fader_alp.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w22a_naka_kage_alp_ovl.bmp.png
 w24a0_wh00.bmp.png
 w24a0_wh01.bmp.png

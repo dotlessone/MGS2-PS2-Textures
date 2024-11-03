@@ -11,7 +11,6 @@ bombpowder2_msk.bmp.png
 btl_piece00_add_ovl.bmp.png
 btl_piece01_add_ovl.bmp.png
 call_alp_ovl.bmp.png
-chair02_back.bmp.png
 chair02_face_downkim.bmp.png
 chair02_pipe.bmp_0b475423fac278c1a2f428acbd23acc2.png
 chair02_pipekim.bmp.png
@@ -24,7 +23,6 @@ col128_add.bmp.png
 col256_bld100.bmp.png
 col_gry032.bmp.png
 col_gry056.bmp.png
-col_gry064.bmp.png
 col_gry072.bmp.png
 col_gry088.bmp.png
 dish.bmp.png
@@ -46,7 +44,6 @@ glass03_add.bmp.png
 grs_black.bmp.png
 grs_black.bmp.png
 grs_black.bmp.png
-hamon09_add_alp.bmp.png
 hfb_sb_gr.bmp.png
 hfb_sb_saya.bmp.png
 hfb_sb_saya2.bmp.png
@@ -111,7 +108,6 @@ ric_def_hair_alp_ovl.bmp.png
 ringo_02.bmp.png
 ringo_03.bmp.png
 ringo_04.bmp.png
-ripple02_alp.bmp.png
 seculitycard_lv3_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -126,7 +122,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sr08j_alp_ovl.bmp_501fe309963ffa2693e775abe15afe45.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
@@ -137,9 +132,6 @@ usp_sb_all2.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w01_dr00.bmp.png
 w01_dr00a.bmp.png
 w01a0_rflit00.bmp.png

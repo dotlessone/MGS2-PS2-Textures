@@ -26,8 +26,6 @@ co2_03.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 coldmedicine_tx_alp.bmp.png
 dammydoll_alp.bmp.png
 dbg_gbox_f.bmp.png
@@ -129,7 +127,6 @@ sky_1_alp.bmp.png
 socom_alp_ovl.bmp.png
 splash03_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 ssk_all.bmp.png
 stg_rabel_alp_ovl.bmp.png
 svc_bonbori.bmp.png
@@ -215,13 +212,6 @@ w00b_bridge_wall2.bmp.png
 w00b_cloth_new.bmp.png
 w00b_crane_post_s.bmp.png
 w00b_crane_post_s.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w00b_door_lit.bmp.png
 w00b_dr_lit_ref_add_ovl.bmp.png
 w00b_duct_boxs.bmp.png
@@ -252,8 +242,6 @@ w00b_flr_b2.bmp.png
 w00b_flr_b3.bmp.png
 w00b_flr_b5.bmp.png
 w00b_flr_b6.bmp.png
-w00b_hasigo.bmp.png
-w00b_hasigo2.bmp.png
 w00b_hglit_bridge_add_ovl.bmp.png
 w00b_himo.bmp.png
 w00b_huge_light_brk.bmp.png
@@ -349,7 +337,6 @@ w00c_drwl_f.bmp.png
 w00c_drwl_s.bmp.png
 w00c_drwl_st.bmp.png
 w00c_flag.bmp.png
-w00c_gas_dai00.bmp.png
 w00c_saku_out1.bmp.png
 w00c_saku_out2.bmp.png
 w00c_shd2_ustep_sub_ovl.bmp.png

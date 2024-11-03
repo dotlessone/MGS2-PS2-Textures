@@ -22,7 +22,6 @@ col128_add.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
 crg_arm_re_01.bmp.png
 crg_arm_re_sub_alp_ovl.bmp.png
 crg_body_down.bmp.png
@@ -150,7 +149,6 @@ splash03.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 ssk_all.bmp.png
 ssk_all.bmp_0f6ded3c2295b9f13b65e8288502b515.png
 ssk_all.bmp_0f6ded3c2295b9f13b65e8288502b515.png
@@ -314,10 +312,6 @@ w00ak_wnc_f1.bmp.png
 w00ak_wnc_s3.bmp.png
 w00b_crane_post_s.bmp.png
 w00b_crane_post_s.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w00b_fannel2.bmp.png
 w00b_huge_light_brk.bmp.png
 w00b_huge_light_f1.bmp.png

@@ -70,8 +70,6 @@ cls_sb_bt3.bmp.png
 cls_sb_dai.bmp.png
 cls_sb_grip.bmp.png
 cls_sb_pi.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 cray_alp_ovl.bmp.png
 dbx_gls1.bmp.png
 dbx_gls1.bmp.png

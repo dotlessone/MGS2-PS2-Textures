@@ -98,8 +98,6 @@ cls_sb_pi.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 cray_alp_ovl.bmp.png
 dbx_gls1.bmp.png
 dbx_gls1.bmp.png

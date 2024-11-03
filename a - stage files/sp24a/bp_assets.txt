@@ -82,7 +82,6 @@ col128_add.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_gry064.bmp.png
 col_gry088.bmp.png
 coldmedicine_tx_alp.bmp.png
 d_sky_top_01_alp.bmp.png
@@ -154,7 +153,6 @@ qt_break_alp.bmp.png
 rabel_alp_ovl.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
-ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rifle_ammo_rabel_alp_ovl.bmp.png
 rifle_ammo_side.bmp.png

@@ -71,7 +71,6 @@ bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
 btl_piece00_add_ovl.bmp.png
 btl_piece01_add_ovl.bmp.png
-button_alp.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -82,15 +81,7 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 col_gry008.bmp.png
-col_gry024.bmp.png
-col_gry024.bmp.png
-col_gry064.bmp.png
-col_gry064.bmp.png
 col_gry080.bmp.png
 col_gry080.bmp.png
 coldmedicine_tx_alp.bmp.png
@@ -185,11 +176,6 @@ vr2_noise_c1_alp.bmp.png
 vr2_noise_c2_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w02a_door.bmp.png
 w24a0_wh00.bmp.png
 w24a_ppb00a.bmp.png

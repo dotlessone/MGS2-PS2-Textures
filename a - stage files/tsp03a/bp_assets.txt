@@ -151,7 +151,6 @@ grs_black.bmp.png
 gur_alp_ovl.bmp.png
 gur_e_alp_ovl.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 heart.bmp.png
 heart_alp.bmp.png
 heart_msk.bmp.png
@@ -217,7 +216,6 @@ sp03a_sdw00_alp_ovl.bmp.png
 sp03a_wall_sdw00_alp_ovl.bmp.png
 splash03_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 tgt_col1_rgb_sol_add_alp.bmp.png

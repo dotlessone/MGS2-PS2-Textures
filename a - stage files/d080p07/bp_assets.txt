@@ -19,7 +19,6 @@ d_sky_hasira_alp.bmp.png
 drop01_alp_mod1201.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
-hamon09_add_alp.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
 light03_msk.bmp.png
@@ -36,7 +35,6 @@ powder04_alp.bmp.png
 powfog03_add.bmp.png
 qt_break_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -100,7 +98,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 usp_sb_all.bmp.png
@@ -125,8 +122,6 @@ ved_si_dosita.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w10a_brdg_03.bmp.png
 w10a_brdg_04.bmp.png
 w10a_brdg_obj_a01_alp.bmp.png

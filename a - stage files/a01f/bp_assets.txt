@@ -85,7 +85,6 @@ btl_piece00_add_ovl.bmp.png
 btl_piece01_add_ovl.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_9.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -111,14 +110,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
@@ -165,7 +156,6 @@ grs_black.bmp.png
 grs_black.bmp.png
 gry075.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 ibox_tx_all_alp.bmp.png
 ice01_alp_ovl.bmp.png
 ice01_alp_ovl.bmp.png
@@ -216,7 +206,6 @@ refre_alp_ovl.bmp.png
 refre_left_alp_ovl.bmp.png
 refre_right_alp_ovl.bmp.png
 rifle_ibox.bmp.png
-ripple02_alp.bmp.png
 shaker_cup.bmp.png
 shl_bul4_add.bmp.png
 shl_bul6_add.bmp.png
@@ -243,7 +232,6 @@ speaker02.bmp_60d9fe67157117c03c26035ec72537cd.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sun_alp.bmp.png
 sv_00.bmp.png
 sv_01.bmp.png

@@ -17,7 +17,6 @@ col256_bld100.bmp.png
 drop01_alp_mod1201.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
-hamon09_add_alp.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
 light03_msk.bmp.png
@@ -55,7 +54,6 @@ ray_lip_out.bmp_3029ef32c6c3dd8db20f9741d8a813e8.png
 raycp_conpane1_off.bmp.png
 raycp_eyebox_cyl_enter.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-ripple02_alp.bmp.png
 s_01_sub_ovl.bmp.png
 seculitycard_lv1_alp.bmp_89c61a473bb530b5626fa49561bf2d2a.png
 sky_1_alp.bmp.png
@@ -68,7 +66,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 usa_arm01dt.bmp.png
@@ -83,10 +80,7 @@ usa_met_ovl_sub_alp.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w02_eng_saku.bmp.png
-w02a_chain_alp.bmp.png
 w03_cat_pipe.bmp.png
 w03_cat_pipe_s_front.bmp.png
 w03_cat_pipe_sasae.bmp.png

@@ -27,12 +27,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
@@ -93,7 +87,6 @@ gry075.bmp.png
 gry075.bmp.png
 gry075.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 jam_alp_ovl.bmp.png
 kanban_00.bmp.png
 kanban_01.bmp.png
@@ -120,7 +113,6 @@ qt_break_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 refre_alp_ovl.bmp.png
 rifle_ibox.bmp.png
-ripple02_alp.bmp.png
 senbi_kanpan_left_alp_ovl.bmp.png
 senbi_kanpan_right_alp_ovl.bmp.png
 shl_bul4_add.bmp.png
@@ -145,7 +137,6 @@ speaker02.bmp_60d9fe67157117c03c26035ec72537cd.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 staiway.bmp.png
 staiway_in00.bmp.png
 staiway_in01.bmp.png
@@ -191,9 +182,6 @@ w00ak_wnc_s1.bmp_038f948cdc8410f4897f96400bd18b94.png
 w00ak_wnc_s3.bmp.png
 w00b_crane_post_s.bmp.png
 w00b_crane_post_s.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w00b_huge_light_brk.bmp.png
 w00b_huge_light_f1.bmp.png
 w00b_huge_light_s.bmp.png

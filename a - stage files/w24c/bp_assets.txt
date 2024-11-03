@@ -26,7 +26,6 @@ call_alp_ovl.bmp.png
 case_lan.bmp.png
 case_test_top.bmp.png
 chaff_alp.bmp.png
-chair02_back.bmp.png
 chair02_face_downkim.bmp.png
 chair02_pipe.bmp_0b475423fac278c1a2f428acbd23acc2.png
 chair02_pipekim.bmp.png
@@ -41,7 +40,6 @@ col128_add.bmp.png
 col256_bld100.bmp.png
 col_gry032.bmp.png
 col_gry056.bmp.png
-col_gry064.bmp.png
 col_gry072.bmp.png
 col_gry088.bmp.png
 coldmedicine_tx_alp.bmp.png
@@ -149,9 +147,6 @@ svc_bonbori.bmp.png
 test_lit.bmp.png
 test_lit1_add_alp.bmp_318341ad48ae8cf5060d706dfcae454f.png
 test_rabel_alp_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w01_dr00.bmp.png
 w01_dr00a.bmp.png
 w01a0_rflit00.bmp.png

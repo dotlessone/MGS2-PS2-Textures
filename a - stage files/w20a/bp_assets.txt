@@ -26,7 +26,6 @@ cbx_a.bmp.png
 cbx_all.bmp.png
 cbx_b.bmp.png
 cbx_b.bmp.png
-cbx_c.bmp.png
 cbx_t.bmp.png
 chaff_alp.bmp.png
 cigarette_tx.bmp.png
@@ -37,10 +36,6 @@ col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
 col_blue00.bmp.png
-col_gry024.bmp.png
-col_gry024.bmp.png
-col_gry024.bmp.png
-col_gry024.bmp.png
 col_gry056.bmp.png
 col_gry056.bmp.png
 col_red00.bmp.png
@@ -58,7 +53,6 @@ dogtag_chain_black_msk.bmp.png
 dogtag_sh_alp.bmp.png
 dogtag_tx_alp.bmp.png
 door_01.bmp.png
-door_c00a.bmp.png
 drlit_00r.bmp.png
 drlit_02_alp_add_ovl.bmp.png
 drop01_alp_mod1201.bmp.png
@@ -95,7 +89,6 @@ grs_black.bmp.png
 grs_black.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 htc_blood_alp_ovl.bmp.png
 ibox_all2.bmp.png
 ibox_tx_all_alp_ovl.bmp.png
@@ -130,13 +123,11 @@ qt_break_alp.bmp.png
 rabel_alp_ovl.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
-ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rifle_ammo_rabel_alp_ovl.bmp.png
 rifle_ammo_side.bmp.png
 rifle_ammo_top.bmp.png
 rifle_ibox.bmp_94bca08db682d231ae1d48d2b6385598.png
-ripple02_alp.bmp.png
 rlv5a_alp_ovl.bmp.png
 sel_sling1_alp_ovl.bmp.png
 sel_sling2_alp_ovl.bmp.png
@@ -161,7 +152,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
@@ -173,18 +163,12 @@ test_teppan2.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w01a0_rflit00.bmp.png
 w01a1_clit01.bmp.png
 w03b_dr02.bmp_0927f14937b8bdb1753c5df0f485bfc7.png
 w03b_dr03.bmp_ec8e39c4fd79a206717a537ad8d13895.png
 w03b_dr03b.bmp_691886d350b578958d69b962e07bff9f.png
 w10c_fl00c.bmp_79d5f05b0c8f02fa5ea3d8344309a532.png
-w11a_gas2_01_t.bmp.png
-w11a_gas2_02_t.bmp.png
 w18a_color_sky.bmp.png
 w18a_tsr_bar1.bmp_ac7a53edf3f5e3a63de0dcb94389fe91.png
 w18a_tsr_jiku1.bmp.png
@@ -200,7 +184,6 @@ w20a0_fl02_mk.bmp.png
 w20a0_fl03a_mk.bmp.png
 w20a0_flsh01_alp_ovl.bmp.png
 w20a0_flsh02_alp_ovl.bmp.png
-w20a0_gate_head.bmp.png
 w20a0_gry01.bmp.png
 w20a0_gry01.bmp.png
 w20a0_h_lig01.bmp.png
@@ -553,13 +536,7 @@ w20a_yuka01.bmp.png
 w20b_base_flor1.bmp.png
 w20b_
 w20b_edge_shad1.bmp.png
-w20b_edge_t1.bmp.png
-w20b_tsr1.bmp.png
 w20b_wall1.bmp_824fa85f78ac79be4297fd56e9f2bfcf.png
-w24a0_enta02.bmp.png
-w24a0_enta02.bmp.png
-w24a0_enta02.bmp.png
-w24a0_enta02.bmp.png
 w24a0_entb00.bmp_6c8a5532d241d23a8784f331456f0989.png
 w24a0_entb00.bmp_6c8a5532d241d23a8784f331456f0989.png
 w24a0_rflit06b_alp_add_ovl.bmp_b764ea0962ad1ceabb3574d4f2722858.png

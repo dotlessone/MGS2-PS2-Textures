@@ -21,8 +21,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 d_sky_top_01_alp.bmp.png
 dnjv_f1.bmp.png
 drop01_alp_mod1201.bmp.png
@@ -39,7 +37,6 @@ for_hi_hand2.bmp.png
 for_hi_hand3.bmp.png
 for_hi_hand3.bmp.png
 for_kizu_body_ovl_alp.bmp.png
-hamon09_add_alp.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
 light03_msk.bmp.png
@@ -63,7 +60,6 @@ ray_canopy_edge.bmp.png
 ray_canopy_sub_ovl_alp.bmp_262887ad5d1a24632bc26b95450cb515.png
 ray_cp_hatch1_t1.bmp.png
 ray_eye_blur_alp.bmp_517d03bda499e745cec9fdeb2a4a1f63.png
-ray_eye_bonbori_alp.bmp.png
 raycp_canopy_liner_alp.bmp.png
 raycp_circle1_alp.bmp.png
 raycp_circle2_alp.bmp.png
@@ -86,7 +82,6 @@ rev_hair1.bmp.png
 rev_hair2.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-ripple02_alp.bmp.png
 saa_all.bmp.png
 sky_m1_alp.bmp.png
 sky_m2_alp.bmp.png
@@ -109,12 +104,9 @@ sna_shaved_ss_ovl_sub_alp.bmp.png
 sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 w00_fog_fader_alp.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w51a_ray_shadow_alp_ovl.bmp.png
 w51a_seacolor_01.bmp.png
 w51a_seacolor_04_alp_ovl.bmp.png

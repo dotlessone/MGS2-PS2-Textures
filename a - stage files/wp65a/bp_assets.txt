@@ -79,7 +79,6 @@ col128_add.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_gry064.bmp.png
 col_gry088.bmp.png
 coldmedicine_tx_alp.bmp.png
 d_sky_top_01_alp.bmp.png

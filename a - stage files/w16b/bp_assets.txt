@@ -41,8 +41,6 @@ col128_add.bmp.png
 col256_bld100.bmp.png
 col_blue00.bmp.png
 col_brwn01.bmp.png
-col_gry024.bmp.png
-col_gry024.bmp.png
 col_gry032.bmp.png
 col_gry032.bmp.png
 col_gry048.bmp.png
@@ -91,7 +89,6 @@ grs_black.bmp.png
 grs_black.bmp.png
 gun_ibox.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 htc_blood_alp_ovl.bmp.png
 ibox_all2.bmp.png
 ibox_tx_all_alp_ovl.bmp.png
@@ -113,7 +110,6 @@ light08_msk.bmp.png
 light12_msk.bmp.png
 light13_msk.bmp.png
 litb_01_add_ovl.bmp.png
-lv1_alp_ovl.bmp.png
 m4grn_bul_high.bmp.png
 medicine_box.bmp.png
 medicine_rabel_alp_ovl.bmp.png
@@ -151,7 +147,6 @@ rifle_ibox.bmp_94bca08db682d231ae1d48d2b6385598.png
 ringo_02.bmp.png
 ringo_03.bmp.png
 ringo_04.bmp.png
-ripple02_alp.bmp.png
 rlv1_alp_ovl.bmp.png
 scope_bar.bmp.png
 scope_bar02.bmp.png
@@ -188,7 +183,6 @@ sourse_hlf_ovl.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 stg_rabel_alp_ovl.bmp.png
 suika_01.bmp.png
 suika_02.bmp.png
@@ -213,15 +207,6 @@ tree_stm00.bmp.png
 w00_fog_fader_alp.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w01a_bardr02.bmp.png
 w01a_bardr03.bmp.png
 w01d_bucu.bmp.png
@@ -420,7 +405,6 @@ w16a_pane1.bmp_83018cf49f71e8baff56fb3380bc8b10.png
 w16a_pi_moto.bmp_6665059fc73afe360bee1819d99aab1c.png
 w16a_pi_moto2.bmp_fb0f2f4392f335eb9db4e7ef0570986b.png
 w16a_rf01.bmp.png
-w16a_wa02.bmp.png
 w16a_wa02a.bmp_e21eeaf4b48b9d8b440e73bb57208047.png
 w16a_wa03.bmp.png
 w16a_wa03a.bmp.png
@@ -480,13 +464,10 @@ w16an_wa01.bmp_93be13c0c886d6d3da315313758be3d2.png
 w16an_wa_to03.bmp.png
 w16an_wa_to04.bmp.png
 w16an_wa_to05a.bmp.png
-w24a0_enta02.bmp.png
 w24a0_entb00_d.bmp.png
 w24a0_rflit06f_alp_add_ovl.bmp_4aa45f39aadbc1a3f3c8d0f76ae488f2.png
 w24a0_rflit06f_alp_add_ovl.bmp_4aa45f39aadbc1a3f3c8d0f76ae488f2.png
-w25a_pp05.bmp.png
 w25a_tank00.bmp_607cd5e0bf0f5b379a6262cd93f54ffa.png
-w25a_tank00a.bmp.png
 waterflow01_alp.bmp.png
 waterflow02_alp.bmp.png
 waterflow03_alp.bmp.png

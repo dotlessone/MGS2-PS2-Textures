@@ -73,13 +73,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
 col_gry008.bmp.png
@@ -279,7 +272,6 @@ qt_break_alp.bmp.png
 rabel_alp_ovl.bmp.png
 rai_all_ibox.bmp.png
 ration_box.bmp.png
-ray_eye_bonbori_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 ren_f.bmp.png
 ren_s.bmp.png
@@ -477,7 +469,6 @@ tnc_shatsu_bd.bmp.png
 tnr_shoese_re.bmp.png
 tomato_hlf_ovl.bmp.png
 w00_fog_fader_alp.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w01_dr00a.bmp.png
 w01a0_box03.bmp.png
 w01a0_box07.bmp.png

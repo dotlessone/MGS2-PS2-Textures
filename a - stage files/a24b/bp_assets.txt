@@ -93,16 +93,11 @@ col128_add.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 col_brwn00.bmp.png
 col_grn00.bmp.png
-col_gry024.bmp.png
 col_gry032.bmp.png
 col_gry048.bmp.png
 col_gry056.bmp.png
-col_gry064.bmp.png
 col_gry072.bmp.png
 col_gry080.bmp.png
 col_gry088.bmp.png
@@ -242,8 +237,6 @@ vr2_noise_b2_alp.bmp.png
 vr2_noise_c0_alp.bmp.png
 vr2_noise_c1_alp.bmp.png
 vr2_noise_c2_alp.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w01_dr00.bmp.png
 w01_dr00a.bmp.png
 w01a0_rf06.bmp_90fa0509b87ab68d3b12af560259157d.png
@@ -268,7 +261,6 @@ w01f_bk05a.bmp_cb1da9da53d36138e7ae6da7da26b56d.png
 w01f_bk05b.bmp_7024cd196195b3300deab5a8a0b24b41.png
 w01f_bk06.bmp_864664f5ac3f77087c31b0de3ad9bbf3.png
 w02a_door.bmp.png
-w11_col4.bmp.png
 w16a_gy045.bmp.png
 w16a_rf01.bmp.png
 w24a_ppb00a.bmp.png

@@ -62,13 +62,10 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 drop01_alp_mod1201.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
 grs_black.bmp.png
-hamon09_add_alp.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
 lifeboat_body_front_01.bmp.png
@@ -96,7 +93,6 @@ ray_canopy_sub_ovl_alp.bmp_262887ad5d1a24632bc26b95450cb515.png
 ray_cp_hatch1_t1.bmp.png
 ray_eye.bmp.png
 ray_eye_blur_alp.bmp.png
-ray_eye_bonbori_alp.bmp.png
 ray_lip_out.bmp_3029ef32c6c3dd8db20f9741d8a813e8.png
 raycp_canopy_liner_alp.bmp.png
 raycp_circle1_alp.bmp.png
@@ -114,7 +110,6 @@ raycp_text1_alp.bmp.png
 raycp_yajirushi1_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rev_hi_mtg_alp_ovl.bmp.png
-ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -125,7 +120,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 usa_arm01dt.bmp.png
@@ -162,9 +156,6 @@ w00ak_rabx_s1.bmp.png
 w00ak_rail1_t.bmp.png
 w00ak_ue1.bmp.png
 w00b_crane_post_s.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w00b_fannel2.bmp.png
 w00b_rader1.bmp.png
 w00b_raderdome.bmp.png

@@ -16,7 +16,6 @@ case_lan.bmp.png
 caust00_alp_add_ovl.bmp.png
 clr_alp_ovl.bmp.png
 clr_b_alp_ovl.bmp.png
-code_box_msk.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
@@ -26,7 +25,6 @@ drop01_alp_mod1201.bmp.png
 dzp2_tx_alp.bmp.png
 frost02_alp.bmp.png
 h_grenade_alp.bmp.png
-hamon09_add_alp.bmp.png
 hiyoko_karada_stamp01.bmp.png
 hiyoko_stamp01.bmp.png
 jam_alp_ovl.bmp.png
@@ -50,12 +48,10 @@ pipe_ovl_alp_02.bmp.png
 psg1-T_tx_alp.bmp.png
 qt_break_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-ripple02_alp.bmp.png
 shadow_alp.bmp.png
 sna_shadow.bmp.png
 splash03_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 svc_bonbori.bmp.png
 test_sea_add.bmp.png
 val_amo1.bmp.png
@@ -113,14 +109,11 @@ vamp_col1.bmp.png
 vkf_big.bmp.png
 vmp_face_kizu2_ovl_alp.bmp.png
 vmp_face_kizu2_ovl_alp.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w04a1_spot_light3.bmp.png
 w04a1_spot_light3_side.bmp.png
 w04a_light2_add_alp.bmp_8e76bbab3eb06b4e8dde3339ae136c9e.png
 w10c_sk02a.bmp_a6356259f914b001c00227d286892831.png
 w10c_sk02b.bmp_d7840351a2869c529b0d8da5f0388f53.png
-w12b_contorol_box_01.bmp.png
-w12b_contorol_box_03.bmp.png
 w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888.png
 w22a_tekkotu.bmp.png
 w24a0_entb01a_water.bmp.png
@@ -157,7 +150,6 @@ w31c_blind__alp_ovl_01.bmp.png
 w31c_box_01.bmp.png
 w31c_box_02.bmp.png
 w31c_box_03.bmp.png
-w31c_box_04.bmp.png
 w31c_code_box_01.bmp.png
 w31c_door_bfl00_alp_ovl.bmp.png
 w31c_floor_03.bmp.png

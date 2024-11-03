@@ -69,11 +69,7 @@ usa_face_d01dt.bmp.png
 usa_face_d01dt.bmp.png
 usa_helmet.bmp.png
 usa_met_ovl_sub_alp.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w02_eng_saku.bmp.png
-w02a_chain_alp.bmp.png
 w03_cat_pipe.bmp.png
 w03_cat_pipe_s_front.bmp.png
 w03_cat_pipe_sasae.bmp.png

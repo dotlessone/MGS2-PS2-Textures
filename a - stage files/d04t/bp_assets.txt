@@ -21,9 +21,6 @@ col128_add.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
-col_blk.bmp.png
 col_gray20.bmp.png
 col_gray20.bmp.png
 dbg_gbox_f.bmp.png
@@ -135,7 +132,6 @@ splash03.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 ssk_all.bmp_0f6ded3c2295b9f13b65e8288502b515.png
 ssk_all.bmp_0f6ded3c2295b9f13b65e8288502b515.png
 ssk_ovl_sub_alp.bmp.png
@@ -358,16 +354,6 @@ w00b_bridge_wall1_fade.bmp.png
 w00b_bridge_wall2.bmp.png
 w00b_crane_post_s.bmp.png
 w00b_crane_post_s.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w00b_door_lit.bmp.png
 w00b_dr_lit_ref_add_ovl.bmp.png
 w00b_duct_boxs.bmp.png
@@ -389,8 +375,6 @@ w00b_flr_b1.bmp.png
 w00b_flr_b2.bmp.png
 w00b_flr_b3.bmp.png
 w00b_flr_b6.bmp.png
-w00b_hasigo.bmp.png
-w00b_hasigo2.bmp.png
 w00b_huge_light_brk.bmp.png
 w00b_huge_light_f1.bmp.png
 w00b_huge_light_s.bmp.png
@@ -488,7 +472,6 @@ w00c_drwl_s.bmp.png
 w00c_drwl_st.bmp.png
 w00c_drwl_st.bmp.png
 w00c_flag.bmp.png
-w00c_gas_dai00.bmp.png
 w00c_saku_out1.bmp.png
 w00c_saku_out2.bmp.png
 w00c_shd2_ustep_sub_ovl.bmp.png
@@ -585,8 +568,6 @@ w01e_door_s.bmp.png
 w01e_door_u.bmp.png
 w01e_dor_wall.bmp.png
 w01e_dor_wall2.bmp.png
-w01e_drwl_b.bmp.png
-w01e_drwl_st.bmp.png
 w01e_fan_pipe.bmp.png
 w01e_fan_pipe_alp.bmp.png
 w01e_fan_s.bmp.png

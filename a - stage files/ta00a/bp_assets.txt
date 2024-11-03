@@ -71,7 +71,6 @@ bombpowder2_msk.bmp.png
 brack_01_01_01.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
 c4_a_frozen_ovl_alp.bmp.png
-c4_a_hontai_9.bmp.png
 c4_ovl_alp.bmp.png
 c4_ovl_alp.bmp.png
 call_alp_ovl.bmp.png
@@ -82,7 +81,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
 coldmedicine_tx_alp.bmp.png
 dbx_tnk3_msk.bmp.png
 degital_camera.bmp.png
@@ -173,7 +171,6 @@ sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 splash03_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 svc_bonbori.bmp.png
 vr2_goal_add_alp.bmp.png
 vr2_noise_a0_alp.bmp.png
@@ -310,10 +307,6 @@ w00ak_wnc_f1.bmp.png
 w00ak_wnc_s3.bmp.png
 w00b_crane_post_s.bmp.png
 w00b_crane_post_s.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
-w00b_dammy_sub_ovl.bmp.png
 w00b_fannel2.bmp.png
 w00b_huge_light_brk.bmp.png
 w00b_huge_light_f1.bmp.png

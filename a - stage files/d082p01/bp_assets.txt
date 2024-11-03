@@ -31,7 +31,6 @@ col1.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
 cti_1_skirt.bmp.png
 cti_3_shirts.bmp.png
 cti_3_shirts2.bmp.png
@@ -66,7 +65,6 @@ gw_jacket_l.bmp_ab71d351b0cbf4d74b1b9257bf45c396.png
 gw_jacket_r.bmp_ddbdc2ebb799174d0d4eae3bfa09f583.png
 gw_neck.bmp_ada708bd2c976e50cc2f36e472aa732b.png
 gw_pole.bmp_9a8b511ccd76bd33dc31cc0d3f59ad2e.png
-hamon09_add_alp.bmp.png
 hfb_tuba.bmp.png
 jam_alp_ovl.bmp.png
 k100.bmp_054638f0c3d9437b10ac3ca959481112.png
@@ -92,7 +90,6 @@ ptr_tooth_u4.bmp.png
 qt_break_alp.bmp.png
 raiden_gogle_sev_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
-ripple02_alp.bmp.png
 ros_id.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -114,7 +111,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 w00_fog_fader_alp.bmp.png

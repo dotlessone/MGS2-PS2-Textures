@@ -12,7 +12,6 @@ clr_b_alp_ovl.bmp.png
 col128_add.bmp.png
 col128_add.bmp.png
 col256_bld100.bmp.png
-col_blk.bmp.png
 col_gry008.bmp.png
 col_w01agry1.bmp.png
 crd_lit02.bmp.png
@@ -32,7 +31,6 @@ fade_out_floor_sub.bmp.png
 fade_out_sub.bmp.png
 flare_r2_msk.bmp.png
 frost02_alp.bmp.png
-hamon09_add_alp.bmp.png
 jam_alp_ovl.bmp.png
 ketchap_g.bmp.png
 light03_msk.bmp.png
@@ -59,7 +57,6 @@ powfog03_add.bmp.png
 qt_break_alp.bmp.png
 rdr_yaji_alp_ovl.bmp.png
 rimo3.bmp.png
-ripple02_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
 sky_1_alp.bmp.png
@@ -69,7 +66,6 @@ sonic02_alp.bmp.png
 splash03_alp.bmp.png
 splash04_alp.bmp.png
 splash06_msk.bmp.png
-splash07_alp.bmp.png
 sun_alp.bmp.png
 svc_bonbori.bmp.png
 usa_arm01dt.bmp.png
@@ -102,15 +98,7 @@ w03b_dr00.bmp_055dfa2c29b900d1ca7a6c2116d1090c.png
 w03b_dr00a.bmp.png
 w03b_dr01.bmp.png
 w03b_dr01.bmp.png
-w03b_dr02.bmp.png
-w03b_dr02.bmp.png
-w03b_dr02.bmp.png
 w03b_dr02a.bmp.png
-w03b_dr03.bmp.png
-w03b_dr03.bmp.png
-w03b_dr03a.bmp.png
-w03b_dr03b.bmp.png
-w03b_dr03b.bmp.png
 w03b_w00a.bmp.png
 w03b_w00b.bmp.png
 w03b_w02c.bmp.png
