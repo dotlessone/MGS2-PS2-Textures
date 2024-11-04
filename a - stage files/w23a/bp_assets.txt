@@ -240,7 +240,6 @@ w19a_obj01a.bmp.png
 w19a_sk00e3.bmp.png
 w19a_skedg00.bmp.png
 w19a_skedg002.bmp.png
-w20b_comp1_fs.bmp.png
 w20b_tana_parts.bmp.png
 w22a_box_04.bmp_ac63fab03316b47e700d68e849b25b2c.png
 w22a_box_05_mk.bmp.png

@@ -123,7 +123,6 @@ w19a_sk00e3.bmp.png
 w19a_sk00e3.bmp.png
 w19a_skedg00.bmp.png
 w19a_skedg004.bmp.png
-w20b_comp1_fs.bmp.png
 w20b_crn_body_s1.bmp_21130d25875f95398854ab1957bfc71a.png
 w20b_crn_body_s2.bmp.png
 w20b_crn_bodyobj1.bmp.png

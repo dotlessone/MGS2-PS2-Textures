@@ -274,7 +274,6 @@ w20b_box03_top.bmp.png
 w20b_box04_top.bmp.png
 w20b_bsflr_hl1_add_alp_ovl.bmp.png
 w20b_bsflr_hl2_add_alp_ovl.bmp.png
-w20b_comp1_fs.bmp.png
 w20b_comp_shd1_alp_ovl.bmp.png
 w20b_cont_shd_alp_ovl.bmp.png
 w20b_contena1_foot.bmp.png

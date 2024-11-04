@@ -336,7 +336,6 @@ w20a_hasira11.bmp.png
 w20a_pi02.bmp.png
 w20a_room_wall2.bmp.png
 w20a_room_wall3.bmp_59886dd37d992d80a7ff34c7c37ea3df.png
-w20b_comp1_fs.bmp.png
 w20b_crn_body_f1.bmp.png
 w21_mark_warning_alp_ovl.bmp.png
 w21a_fl01a.bmp_d7bf84b33185e358d469fb5fdd7394dd.png

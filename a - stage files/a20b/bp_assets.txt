@@ -240,7 +240,6 @@ w20b_carrier_body2_f.bmp.png
 w20b_carrier_body2_st1.bmp.png
 w20b_carrier_body_st1.bmp.png
 w20b_carrier_wheel.bmp.png
-w20b_comp1_fs.bmp.png
 w20b_comp_shd1_alp_ovl.bmp.png
 w20b_cont_shd_alp_ovl.bmp.png
 w20b_contena1_foot.bmp.png

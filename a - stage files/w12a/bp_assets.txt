@@ -174,7 +174,6 @@ w15a_hbrk08a.bmp.png
 w15a_pp01.bmp.png
 w15a_pp04a.bmp.png
 w15a_stpbrk00.bmp.png
-w20b_comp1_fs.bmp.png
 w20b_dammy_sea.bmp.png
 w25b_pp04.bmp.png
 w25b_pp04b.bmp.png
