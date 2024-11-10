@@ -566,7 +566,7 @@ w20a_walllit_fance1bro_alp_ovl.bmp.png
 w20a_walllit_fance1bro_alp_ovl.bmp.png
 w20a_yuka01.bmp.png
 w20b_base_flor1.bmp.png
-w20b_
+w20b_door_afl00c.bmp.png
 w20b_edge_shad1.bmp.png
 w20b_wall1.bmp_824fa85f78ac79be4297fd56e9f2bfcf.png
 w24a0_entb00.bmp_6c8a5532d241d23a8784f331456f0989.png

@@ -218,7 +218,7 @@ w20b_crnfoot_dai.bmp.png
 w20b_crnshd_alp_ovl.bmp.png
 w20b_deckflor1.bmp.png
 w20b_deckwall1.bmp.png
-w20b_
+w20b_door_afl00c.bmp.png
 w20b_edge_shad1.bmp.png
 w20b_edge_shad2.bmp.png
 w20b_edge_shad3.bmp.png
