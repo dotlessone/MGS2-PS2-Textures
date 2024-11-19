@@ -47,7 +47,6 @@ g_alp_ovl.bmp.png
 h_alp_ovl.bmp.png
 hri2_cockpit_console_f1.bmp.png
 hri2_cockpit_console_t1.bmp.png
-hri2_cockpit_sideplate_01.bmp.png
 hri2_mwing_t1_r_brk.bmp.png
 hri2_seat.bmp.png
 iro_glass_frame.bmp.png
