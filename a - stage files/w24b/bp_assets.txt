@@ -114,7 +114,6 @@ mode_alp_ovl.bmp.png
 mog_loc2_inner.bmp_1d16428e578cea9d01dde7a99915c874.png
 mog_loc2_inner.bmp_da1d6f25bb8a0aee2f6cf037de145b82.png
 nom_alp_ovl.bmp.png
-obj_hos_book.bmp.png
 obj_mog_book_inner.bmp.png
 obj_mog_book_ovl_alp.bmp.png
 pl_box_d.bmp.png

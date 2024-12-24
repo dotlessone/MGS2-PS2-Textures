@@ -183,7 +183,6 @@ nametag_straw_def_add_alp.bmp.png
 nametag_triangle_def_add_alp.bmp.png
 nametag_wall_def_add_alp.bmp.png
 nom_alp_ovl.bmp.png
-obj_hos_book.bmp.png
 obj_mog_book_inner.bmp.png
 obj_mog_book_ovl_alp.bmp.png
 pl_box_d.bmp.png
