@@ -211,7 +211,6 @@ w04a3_floor_f.bmp.png
 w04a3_floor_f2.bmp.png
 w04a3_floor_himitu.bmp.png
 w04a3_floor_lit.bmp.png
-w04a3_floor_ray_f2_alp.bmp.png
 w04a3_floor_ray_f_alp.bmp.png
 w04a3_floor_s2_sub.bmp.png
 w04a3_floor_teppan1.bmp.png

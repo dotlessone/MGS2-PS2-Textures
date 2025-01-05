@@ -258,7 +258,6 @@ w04b1_ug_floor2.bmp.png
 w04b1_ug_wall22_2.bmp.png
 w04b1_ug_wall22_2.bmp.png
 w04b3__lit.bmp.png
-w04b3_contena.bmp.png
 w04b3_contena_top.bmp.png
 w04b3_fade.bmp.png
 w04b3_floor1.bmp.png
