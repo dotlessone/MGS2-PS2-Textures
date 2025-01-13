@@ -126,8 +126,6 @@ crd_pp03.bmp.png
 crd_pp03.bmp.png
 crd_pp04.bmp.png
 crd_pp04.bmp.png
-crd_pp05.bmp_68d8cf100718b565e0eecf3ff7585eb5.png
-crd_pp05.bmp_c9e026756e1ac92120d9d6d7dc7f56f1.png
 crd_pp06.bmp.png
 crd_pp06.bmp.png
 crd_pp06.bmp.png
@@ -279,8 +277,6 @@ w01e_suimitu_handle.bmp.png
 w02a_suimitu_handle.bmp.png
 w03a2_flb00a.bmp.png
 w03a2_flb00b.bmp.png
-w03a_pp02.bmp_09b1a01b9996f568e8ca8e878bee4475.png
-w03a_pp02.bmp_09b1a01b9996f568e8ca8e878bee4475.png
 w03a_pp03.bmp_69a423e5b10450a2c155f5fad4368cdc.png
 w03a_pp03.bmp_69a423e5b10450a2c155f5fad4368cdc.png
 w03a_pp05.bmp.png

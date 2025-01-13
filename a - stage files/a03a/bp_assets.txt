@@ -118,8 +118,6 @@ crd_pp03.bmp.png
 crd_pp03.bmp.png
 crd_pp04.bmp.png
 crd_pp04.bmp.png
-crd_pp05.bmp.png
-crd_pp05.bmp_276e6284cf2e0055cf730766f998bbac.png
 crd_pp06.bmp.png
 crd_pp06.bmp.png
 crd_pp06.bmp.png
@@ -303,8 +301,6 @@ w03a_ha00.bmp.png
 w03a_ha01.bmp.png
 w03a_pp00.bmp.png
 w03a_pp01.bmp.png
-w03a_pp02.bmp.png
-w03a_pp02.bmp_09b1a01b9996f568e8ca8e878bee4475.png
 w03a_pp03.bmp.png
 w03a_pp03.bmp_69a423e5b10450a2c155f5fad4368cdc.png
 w03a_pp04.bmp.png
