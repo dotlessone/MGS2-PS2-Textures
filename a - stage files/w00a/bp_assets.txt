@@ -216,7 +216,6 @@ w00a_ltb4.bmp.png
 w00a_os1.bmp.png
 w00a_pl2_msk.bmp.png
 w00a_pl3.bmp.png
-w00a_pol1.bmp.png
 w00a_rb2a.bmp.png
 w00a_rtn1_msk.bmp.png
 w00a_rw1.bmp.png

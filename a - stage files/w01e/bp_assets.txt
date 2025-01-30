@@ -143,7 +143,6 @@ w00_front_woods_alp_ovl.bmp.png
 w00_sky_add_alp.bmp.png
 w00_sky_add_alp_ovl.bmp.png
 w00a_cod_alp.bmp.png
-w00a_pol1.bmp.png
 w00ak_pod_s1.bmp.png
 w00ak_pod_t1.bmp.png
 w00ak_ue1.bmp.png

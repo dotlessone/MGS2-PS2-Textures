@@ -199,8 +199,6 @@ w00a_ltb3.bmp.png
 w00a_ltb4.bmp.png
 w00a_os1.bmp.png
 w00a_pl3.bmp.png
-w00a_pol1.bmp.png
-w00a_pol1.bmp.png
 w00a_rail5.bmp.png
 w00a_rb2a.bmp.png
 w00a_rep1.bmp.png
