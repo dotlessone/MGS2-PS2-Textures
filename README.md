@@ -93,4 +93,4 @@ What tools are you using for this?
 - Other:
   - i2ocr's Japanese Optical Character Recognition
   - Self made tooling to automatically identify remade textures & images that area already ^2.
-  - Self made tooling to automatically resize needed images up to the next power of 2. https://github.com/dotlessone/MGS2-PS2-Textures
+  - [Self made tooling](https://github.com/ShizCalev/Resize_Images_To_Power_of_Two) to automatically resize needed images up to the next power of 2. 
