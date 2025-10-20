@@ -22,8 +22,6 @@ texture_name,stage,tri_strcode,texture_strcode
 004836bc,a43a,202085,4836bc
 0048373c,a43a,202085,48373c
 004cb10a,n_title,54bf18,4cb10a
-0051a133,n_title,37c94f,51a133
-0051b133,n_title,37c94f,51b133
 00750ccd,n_title,ac396b,750ccd
 00750d4d,n_title,ac396b,750d4d
 00750dcd,n_title,ac396b,750dcd

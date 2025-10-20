@@ -9,22 +9,18 @@ a00a/3c4661/9f4ebb.tga	(tri: w00a)	(texture: w00ak_shd_flor1_sub_alp_ovl.bmp)
 a00a/3c4661/de618a.tga	(tri: w00a)	(texture: w00ak_whiteline_alp_ovl.bmp)
 a00a/573de0/031ab0.tga	(tri: transcache)	(texture: ketchap00_alp.bmp)
 a00a/573de0/347693.tga	(tri: transcache)	(texture: k100_alp.bmp)
-a00a/573de0/3a9ef4.tga	(tri: transcache)	(texture: vr2_goal_post_add_alp.bmp)
 a00a/573de0/4af531.tga	(tri: transcache)	(texture: magazine_tx_alp.bmp)
 a00a/573de0/60cdbb.tga	(tri: transcache)	(texture: w00ak_windowfog_add_alp.bmp)
 a00a/573de0/65ffa1.tga	(tri: transcache)	(texture: splash05_alp.bmp)
 a00a/573de0/705476.tga	(tri: transcache)	(texture: w00_sky_add_alp.bmp)
 a00a/573de0/98909e.tga	(tri: transcache)	(texture: powder02_alp.bmp)
-a00a/573de0/9fbf5a.tga	(tri: transcache)	(texture: vr2_goalpost_add_alp.bmp)
 a00a/573de0/a76c93.tga	(tri: transcache)	(texture: chi01_alp.bmp)
 a00a/573de0/b76c93.tga	(tri: transcache)	(texture: chi02_alp.bmp)
-a00a/573de0/c17f0d.tga	(tri: transcache)	(texture: vr2_noise_b1_alp.bmp)
 a00a/573de0/c76c93.tga	(tri: transcache)	(texture: chi03_alp.bmp)
 a00a/573de0/cf27b2.tga	(tri: transcache)	(texture: blk_msk_alp.bmp)
 a00a/573de0/d76c93.tga	(tri: transcache)	(texture: chi04_alp.bmp)
 a00a/573de0/d76db5.tga	(tri: transcache)	(texture: shl_s_alp.bmp)
 a00a/573de0/e76c93.tga	(tri: transcache)	(texture: chi05_alp.bmp)
-a00a/573de0/ea4c13.tga	(tri: transcache)	(texture: vr2_goal_add_alp.bmp)
 a00a/573de0/ee6f05.tga	(tri: transcache)	(texture: blood_2bw_alp.bmp)
 a00a/715d80/1fa4f5.tga	(tri: 2d_tex)	(texture: angle_alp_ovl.bmp)
 a00a/715d80/208f5d.tga	(tri: 2d_tex)	(texture: call_alp_ovl.bmp)
@@ -33,17 +29,13 @@ a00a/715d80/285ddd.tga	(tri: 2d_tex)	(texture: alt_alp_ovl.bmp)
 a00a/715d80/37a283.tga	(tri: 2d_tex)	(texture: 1f_live_right_alp_ovl.bmp)
 a00a/715d80/37a293.tga	(tri: 2d_tex)	(texture: 2f_live_right_alp_ovl.bmp)
 a00a/715d80/555dee.tga	(tri: 2d_tex)	(texture: eva_alp_ovl.bmp)
-a00a/715d80/7cc41f.tga	(tri: 2d_tex)	(texture: clr_b_alp_ovl.bmp)
 a00a/715d80/815e11.tga	(tri: 2d_tex)	(texture: nom_alp_ovl.bmp)
 a00a/715d80/819b15.tga	(tri: 2d_tex)	(texture: zoom_alp_ovl.bmp)
 a00a/715d80/c15dff.tga	(tri: 2d_tex)	(texture: jam_alp_ovl.bmp)
 a00a/715d80/c78e06.tga	(tri: 2d_tex)	(texture: rdr_yaji_alp_ovl.bmp)
 a00a/715d80/c95de3.tga	(tri: 2d_tex)	(texture: cau_alp_ovl.bmp)
-a00a/9dcba3/b60372.tga	(tri: dcmframe)	(texture: 00b60372)
 a00b/019081/0371b2.tga	(tri: aaa)	(texture: w01e_rf01_bld80_ovl.bmp)
 a00b/019081/5ef02b.tga	(tri: aaa)	(texture: w00b_w01e_floor1_alp_ovl.bmp)
-a00b/01c2ac/8fb764.tga	(tri: mrl)	(texture: mrl_arm_wrist_sub_ovl_alp.bmp)
-a00b/01c2ac/abb008.tga	(tri: mrl)	(texture: mrl_belt_sub_alp_ovl.bmp)
 a00b/715d80/5ac76e.tga	(tri: 2d_tex_stage_a00b)	(texture: 5f_souda_alp_ovl.bmp)
 a00c/573de0/03c8fa.tga	(tri: transcache_stage_a00c)	(texture: frost02_alp.bmp)
 a00c/573de0/762c57.tga	(tri: transcache_stage_a00c)	(texture: hamon09_add_alp.bmp)
@@ -72,12 +64,6 @@ a01a/2339f1/c8fffb.tga	(tri: locker)	(texture: kageBel_alp_ovl.bmp)
 a01a/2339f1/d5545d.tga	(tri: locker)	(texture: w01alc_lc_sh2_alp_ovl.bmp)
 a01a/2339f1/f1a168.tga	(tri: locker)	(texture: kageDa_alp_ovl.bmp)
 a01a/715d80/6b840b.tga	(tri: 2d_tex_stage_a01a)	(texture: 1f_live_alp_ovl.bmp)
-a01a/94dac0/29dfec.tga	(tri: w01f_box)	(texture: w01f_sdwbox00_alp_ovl.bmp)
-a01a/94dac0/45d06a.tga	(tri: w01f_box)	(texture: w01f_sdwbox00a_alp_ovl.bmp)
-a01a/94dac0/46d06a.tga	(tri: w01f_box)	(texture: w01f_sdwbox00b_alp_ovl.bmp)
-a01a/94dac0/47d06a.tga	(tri: w01f_box)	(texture: w01f_sdwbox00c_alp_ovl.bmp)
-a01a/94dac0/48d06a.tga	(tri: w01f_box)	(texture: w01f_sdwbox00d_alp_ovl.bmp)
-a01a/94dac0/d4e02d.tga	(tri: w01f_box)	(texture: w01f_sdwbox00c2_alp_ovl.bmp)
 a01b/573de0/0a1c87.tga	(tri: transcache_stage_a01b)	(texture: waterflow02_alp.bmp)
 a01b/573de0/1a1c87.tga	(tri: transcache_stage_a01b)	(texture: waterflow03_alp.bmp)
 a01b/573de0/b4ee09.tga	(tri: transcache_stage_a01b)	(texture: litA0b_add_alp.bmp)
@@ -144,7 +130,6 @@ a01e/573de0/9b5056.tga	(tri: transcache_stage_a01e)	(texture: w01e_fan_s_alp.bmp
 a01e/573de0/b44a35.tga	(tri: transcache_stage_a01e)	(texture: w01e_fan_pipe_alp.bmp)
 a01f/349b50/7e8367.tga	(tri: comdlcache_stage_a01f)	(texture: dbx_dust_alp_ovl.bmp)
 a01f/573de0/0a1913.tga	(tri: transcache_stage_a01f)	(texture: w01a1_gw00_bld050.bmp)
-a01f/573de0/6382ef.tga	(tri: transcache_stage_a01f)	(texture: tv_black_sub_alp.bmp)
 a01f/715d80/98505d.tga	(tri: 2d_tex_stage_a01f)	(texture: kikan_left_alp_ovl.bmp)
 a01f/715d80/a7409a.tga	(tri: 2d_tex_stage_a01f)	(texture: kikan_right_alp_ovl.bmp)
 a01f/715d80/c94283.tga	(tri: 2d_tex_stage_a01f)	(texture: kikan_alp_ovl.bmp)
@@ -166,10 +151,6 @@ a03a/573de0/cc1956.tga	(tri: transcache_stage_a03a)	(texture: litA1_add_alp.bmp_
 a03a/573de0/cd1956.tga	(tri: transcache_stage_a03a)	(texture: litA2_add_alp.bmp)
 a03a/573de0/ce1956.tga	(tri: transcache_stage_a03a)	(texture: litA3_add_alp.bmp)
 a03a/715d80/9b5c1b.tga	(tri: 2d_tex_stage_a03a)	(texture: kanpan_02_right_alp_ovl.bmp)
-a03a/ee56b7/0983ad.tga	(tri: human_tnc_ghost)	(texture: tnc_gost_body_b_ovl_alp.bmp)
-a03a/ee56b7/0a83ad.tga	(tri: human_tnc_ghost)	(texture: tnc_gost_body_c_ovl_alp.bmp)
-a03a/ee56b7/10a2dd.tga	(tri: human_tnc_ghost)	(texture: tnc_gost_face_b_ovl_alp.bmp)
-a03a/ee56b7/cc9e42.tga	(tri: human_tnc_ghost)	(texture: tnc_gost_hair_ovl_alp.bmp)
 a12a/2a8998/2f9f09.tga	(tri: w12_bg)	(texture: w10c_line00_alp_add_ovl.bmp)
 a12a/2a8998/965c4b.tga	(tri: w12_bg)	(texture: b_alp_ovl.bmp)
 a12a/2a8998/975c4b.tga	(tri: w12_bg)	(texture: c_alp_ovl.bmp)
@@ -461,6 +442,7 @@ a15a/2bad19/06b90d.tga	(tri: other_stage_a15a)	(texture: w16a_women_alp_add_ovl.
 a15a/2bad19/33ecfd.tga	(tri: other_stage_a15a)	(texture: w16a_wclabelsdw00_alp_ovl.bmp)
 a15a/2bad19/35f06c.tga	(tri: other_stage_a15a)	(texture: elvt_tes3_alp_ovl.bmp)
 a15a/2bad19/39c5ec.tga	(tri: other_stage_a15a)	(texture: w16a4n_fl02_lig2a_alp_ovl.bmp)
+a15a/2bad19/51e611.tga	(tri: other_stage_a15a)	(texture: w16a4_wa_sh01_alp_ovl.bmp)
 a15a/2bad19/6efd03.tga	(tri: other_stage_a15a)	(texture: w16a_men2_alp_ovl.bmp)
 a15a/2bad19/ab4d6b.tga	(tri: other_stage_a15a)	(texture: w16a4n_p1_alp_ovl.bmp)
 a15a/2bad19/bddd8f.tga	(tri: other_stage_a15a)	(texture: w16a_women2_alp_ovl.bmp)
@@ -755,30 +737,18 @@ a20a/89cc57/ede2ea.tga	(tri: w20a0)	(texture: w20a0_nodosh_alp_ovl.bmp)
 a20a/89cc57/f045ba.tga	(tri: w20a0)	(texture: w20a0_rf10a_mk_add_alp_ovl.bmp)
 a20a/89cc57/ff4267.tga	(tri: w20a0)	(texture: w20a0_wallsh09a_alp_ovl.bmp)
 a20a/89cc58/8490a9.tga	(tri: w20a1)	(texture: etop_alp_ovl.bmp)
-a20a/89cc5b/0e37a4.tga	(tri: w20a4)	(texture: w20a4n_sdw00a_alp_ovl.bmp)
-a20a/89cc5b/0f37a4.tga	(tri: w20a4)	(texture: w20a4n_sdw00b_alp_ovl.bmp)
-a20a/89cc5b/1668fd.tga	(tri: w20a4)	(texture: w20a4_sdwpp00a_alp_ovl.bmp)
 a20a/89cc5b/295e0a.tga	(tri: w20a4)	(texture: lv5_alp_ovl.bmp)
 a20a/89cc5b/2cb09d.tga	(tri: w20a4)	(texture: label00_alp_ovl.bmp)
 a20a/89cc5b/3cb42a.tga	(tri: w20a4)	(texture: rlv5a_alp_ovl.bmp)
 a20a/89cc5b/509d14.tga	(tri: w20a4)	(texture: w28a_ana_pipe_kage_03_alp_ovl.bmp)
 a20a/89cc5b/519d14.tga	(tri: w20a4)	(texture: w28a_ana_pipe_kage_04_alp_ovl.bmp)
-a20a/89cc5b/7564b5.tga	(tri: w20a4)	(texture: w24c0n_line00a_add_alp_ovl.bmp)
 a20a/89cc5b/844f4c.tga	(tri: w20a4)	(texture: w20a3_ema_blood02_alp_ovl.bmp)
-a20a/89cc5b/8e3b53.tga	(tri: w20a4)	(texture: w28an_sdw02_alp_ovl.bmp)
-a20a/89cc5b/9a70c4.tga	(tri: w20a4)	(texture: w28an_emergency_alp_ovl.bmp)
 a20a/89cc5b/a55deb.tga	(tri: w20a4)	(texture: eb1_alp_ovl.bmp)
 a20a/89cc5b/a5fd31.tga	(tri: w20a4)	(texture: w20a_moji_alp_ovl.bmp)
 a20a/89cc5b/a88034.tga	(tri: w20a4)	(texture: EXIT_alp_ovl.bmp_2e80fcdf52d4e88c977557d852b3bb00)
-a20a/89cc5b/b23d56.tga	(tri: w20a4)	(texture: w28an_sdw01b_alp_ovl.bmp)
+a20a/89cc5b/aa459f.tga	(tri: w20a4)	(texture: w28a_light_kage_alp_sub_ovl.bmp)
 a20a/89cc5b/bfe68a.tga	(tri: w20a4)	(texture: label01a_alp_ovl.bmp)
-a20a/89cc5b/c064b0.tga	(tri: w20a4)	(texture: w20a4_sdwpp00_alp_ovl.bmp)
-a20a/89cc5b/c164b0.tga	(tri: w20a4)	(texture: w20a4_sdwpp01_alp_ovl.bmp)
-a20a/89cc5b/c212d0.tga	(tri: w20a4)	(texture: w24c0n_label02_alp_ovl.bmp)
 a20a/89cc5b/f323c7.tga	(tri: w20a4)	(texture: w20a3_ema_blood_alp_ovl.bmp)
-a20a/89cc5b/f82325.tga	(tri: w20a4)	(texture: w20a4n_sdw00_alp_ovl.bmp)
-a20a/89cc5b/f92325.tga	(tri: w20a4)	(texture: w20a4n_sdw01_alp_ovl.bmp)
-a20a/89cc5b/f99491.tga	(tri: w20a4)	(texture: w28an_exit_alp_ovl.bmp)
 a20b/2bad19/9d5c4b.tga	(tri: other_stage_a20b)	(texture: i_alp_ovl.bmp)
 a20b/3c4e62/08284f.tga	(tri: w20b)	(texture: w20b_crnshd_alp_ovl.bmp)
 a20b/3c4e62/087763.tga	(tri: w20b)	(texture: w20b_cont_shd_alp_ovl.bmp)
@@ -809,7 +779,6 @@ a20c/535eb5/c5bf10.tga	(tri: fat_def_mh_mt)	(texture: fat_arm_sub_ovl_alp.bmp)
 a20c/535eb5/e1edf6.tga	(tri: fat_def_mh_mt)	(texture: fat_eri_back_sub_alp_ovl.bmp)
 a20c/535eb5/e38e80.tga	(tri: fat_def_mh_mt)	(texture: fat_eri_side_sub_alp_ovl.bmp)
 a20c/535eb5/f44053.tga	(tri: fat_def_mh_mt)	(texture: fat_larm_sub_alp_ovl.bmp)
-a20c/535eb5/f58944.tga	(tri: fat_def_mh_mt)	(texture: fat_pias_alp_ovl.bmp)
 a21a/2bad19/0c3744.tga	(tri: other_stage_a21a)	(texture: w24a0_sdw00_alp_ovl.bmp)
 a21a/2bad19/1dabcd.tga	(tri: other_stage_a21a)	(texture: mark_arrow_alp_ovl.bmp)
 a21a/2bad19/53b370.tga	(tri: other_stage_a21a)	(texture: mark_ev_alp_ovl.bmp)
@@ -881,8 +850,6 @@ a22a/3c4ea1/150622.tga	(tri: w22a)	(texture: w22a0e_r_kage_alp_ovl_ns.bmp)
 a22a/3c4ea1/1708b5.tga	(tri: w22a)	(texture: w22a0bhashira_kage_alp_ovl_ns.bmp)
 a22a/3c4ea1/265e0a.tga	(tri: w22a)	(texture: lv2_alp_ovl.bmp)
 a22a/3c4ea1/275e0a.tga	(tri: w22a)	(texture: lv3_alp_ovl.bmp)
-a22a/3c4ea1/283570.tga	(tri: w22a)	(texture: w22a0a_yuka_kage_alp_ovl_mk.bmp)
-a22a/3c4ea1/283770.tga	(tri: w22a)	(texture: w22a0b_yuka_kage_alp_ovl_mk.bmp)
 a22a/3c4ea1/283998.tga	(tri: w22a)	(texture: w22a0c_yuka_kage_alp_ovl_ns.bmp)
 a22a/3c4ea1/283b98.tga	(tri: w22a)	(texture: w22a0d_yuka_kage_alp_ovl_ns.bmp)
 a22a/3c4ea1/283d98.tga	(tri: w22a)	(texture: w22a0e_yuka_kage_alp_ovl_ns.bmp)
@@ -907,9 +874,6 @@ a22a/3c4ea1/a25479.tga	(tri: w22a)	(texture: w22a0d_oku_kage_alp_ovl_ns.bmp)
 a22a/3c4ea1/a25489.tga	(tri: w22a)	(texture: w22a0e_oku_kage_alp_ovl_ns.bmp)
 a22a/3c4ea1/a29193.tga	(tri: w22a)	(texture: w22a0c_l_hashira_kage_alp_ovl_ns.bmp)
 a22a/3c4ea1/a6b149.tga	(tri: w22a)	(texture: w22a0a_r02_kage_alp_ovl_ns.bmp)
-a22a/3c4ea1/b14dc0.tga	(tri: w22a)	(texture: w22a0a_boxshd01_alp_ovl_mk.bmp)
-a22a/3c4ea1/b14ec0.tga	(tri: w22a)	(texture: w22a0a_boxshd03_alp_ovl_mk.bmp)
-a22a/3c4ea1/b14f40.tga	(tri: w22a)	(texture: w22a0a_boxshd04_alp_ovl_mk.bmp)
 a22a/3c4ea1/b45108.tga	(tri: w22a)	(texture: w22a0d_r_kage_r_alp_ovl_ns.bmp)
 a22a/3c4ea1/c28096.tga	(tri: w22a)	(texture: w22a0e_hako_l_kage_alp_ovl_ns.bmp)
 a22a/3c4ea1/cbc0b6.tga	(tri: w22a)	(texture: w22a0f_kage_oku_tana02_alp_ovl_ns.bmp)
@@ -919,7 +883,6 @@ a22a/3c4ea1/e802b5.tga	(tri: w22a)	(texture: w22a_room_wall_wire_kage_sub_alp_ov
 a22a/3c4ea1/ed1b61.tga	(tri: w22a)	(texture: w22a_wall_kage_01_sub_alp_ovl.bmp)
 a22a/3c4ea1/ed2b61.tga	(tri: w22a)	(texture: w22a_wall_kage_02_sub_alp_ovl.bmp)
 a22a/3c4ea1/ed3b61.tga	(tri: w22a)	(texture: w22a_wall_kage_03_sub_alp_ovl.bmp)
-a22a/573de0/0d23dd.tga	(tri: transcache_stage_a22a)	(texture: sky_alp_add.bmp)
 a22a/89d458/031688.tga	(tri: w22a1)	(texture: w22a_kage10_alp_ovl.bmp)
 a22a/89d458/041688.tga	(tri: w22a1)	(texture: w22a_kage11_alp_ovl.bmp)
 a22a/89d458/08ffe2.tga	(tri: w22a1)	(texture: w22a1g_wall_l_alp_ovl.bmp)
@@ -1029,11 +992,7 @@ a24a/89dc58/90bb6e.tga	(tri: w24a1)	(texture: w24a1_sdw00a_alp_ovl.bmp)
 a24a/89dc58/a73395.tga	(tri: w24a1)	(texture: w24a1_boxsdw00_alp_ovl.bmp)
 a24a/89dc58/a79425.tga	(tri: w24a1)	(texture: n523_alp_ovl.bmp)
 a24a/89dc58/b0bb6e.tga	(tri: w24a1)	(texture: w24a1_sdw01a_alp_ovl.bmp)
-a24b/413aa8/c4f843.tga	(tri: sna_def)	(texture: sna_glass_bld095_ovl_alp.bmp)
 a24b/83ecad/5b0c46.tga	(tri: a24b_a24c)	(texture: w24c0_pish01_alp_ovl.bmp)
-a24b/83ecad/e34396.tga	(tri: a24b_a24c)	(texture: w24c0n_line00_add_alp_ovl.bmp)
-a24b/83ecad/f7634b.tga	(tri: a24b_a24c)	(texture: mark_warning_alp_ovl.bmp_b02569d9d2fe228c695d6e54a1f86d70)
-a24b/83ecad/f9a505.tga	(tri: a24b_a24c)	(texture: w24c0n_sdw01_alp_ovl.bmp)
 a24b/89dc7a/106af4.tga	(tri: w24b3)	(texture: w24b0_fla05_alp_ovl.bmp)
 a24b/89dc7a/17110d.tga	(tri: w24b3)	(texture: w24b0_ms03_alp_add_ovl.bmp)
 a24b/89dc7a/4c374c.tga	(tri: w24b3)	(texture: w24b1_sdw00_alp_ovl.bmp)
@@ -1050,17 +1009,13 @@ a24b/89dc7a/d91e02.tga	(tri: w24b3)	(texture: mark_lounge_alp_ovl.bmp)
 a24b/89dc7a/f0bc6e.tga	(tri: w24b3)	(texture: w24b1_sdw03a_alp_ovl.bmp)
 a24b/89dc7a/fa7a2e.tga	(tri: w24b3)	(texture: w24b0_kage00a_alp_ovl.bmp)
 a24c/3c4ee3/116af4.tga	(tri: w24c)	(texture: w24c0_fl_06_alp_ovl.bmp)
-a24c/3c4ee3/17caff.tga	(tri: w24c)	(texture: w24c0_wlit00_alp_add_ovl.bmp)
-a24c/3c4ee3/17eaff.tga	(tri: w24c)	(texture: w24c0_wlit02_alp_add_ovl.bmp)
 a24c/3c4ee3/300642.tga	(tri: w24c)	(texture: w24c0_sh2_alp_ovl.bmp)
 a24c/3c4ee3/310642.tga	(tri: w24c)	(texture: w24c0_sh3_alp_ovl.bmp)
-a24c/3c4ee3/56e9bf.tga	(tri: w24c)	(texture: w24c0n_fl_sh01_alp_ovl.bmp)
 a24c/3c4ee3/775c5a.tga	(tri: w24c)	(texture: wc_alp_ovl.bmp)
 a24c/3c4ee3/9a9b8e.tga	(tri: w24c)	(texture: w24c0_ta01_alp_ovl.bmp)
 a24c/3c4ee3/9c9b5a.tga	(tri: w24c)	(texture: w24c0_st03_alp_ovl.bmp)
 a24c/3c4ee3/a094ba.tga	(tri: w24c)	(texture: w24c0_fl07_alp_ovl.bmp)
 a24c/3c4ee3/a194ba.tga	(tri: w24c)	(texture: w24c0_fl08_alp_ovl.bmp)
-a24c/3c4ee3/f8a505.tga	(tri: w24c)	(texture: w24c0n_sdw00_alp_ovl.bmp)
 a24c/573de0/77e090.tga	(tri: transcache_stage_a24c)	(texture: w24c0_number_alp.bmp)
 a24c/573de0/95e6eb.tga	(tri: transcache_stage_a24c)	(texture: w24c0_sh_alp.bmp)
 a24c/573de0/d4be97.tga	(tri: transcache_stage_a24c)	(texture: w24c0_kage_alp.bmp)
@@ -1071,11 +1026,8 @@ a24d/3b9783/38d3e7.tga	(tri: w24d1r)	(texture: w24d_sdw00_alp_ovl.bmp)
 a24d/573de0/1b14ee.tga	(tri: transcache_stage_a24d)	(texture: w24d_lamp_alp.bmp)
 a24d/573de0/cd905e.tga	(tri: transcache_stage_a24d)	(texture: w24dn_lig02_add_alp.bmp)
 a24d/573de0/fcb15f.tga	(tri: transcache_stage_a24d)	(texture: w24d1_sh1_alp.bmp)
-a24d/72ee68/38a1ff.tga	(tri: w24d1_a)	(texture: w24d1n_fr_lo10_bld095_ovl.bmp)
 a24d/72ee68/867be3.tga	(tri: w24d1_a)	(texture: w24d1bn_sdw00_alp_ovl.bmp)
 a24d/72ee68/8ebcc1.tga	(tri: w24d1_a)	(texture: label_rei_alp_ovl.bmp)
-a24d/72ee68/d8bd30.tga	(tri: w24d1_a)	(texture: w24d1n_fr_lo8_bld095_ovl.bmp)
-a24d/72ee68/d8bdb0.tga	(tri: w24d1_a)	(texture: w24d1n_fr_lo9_bld095_ovl.bmp)
 a24d/72ee68/f8a60d.tga	(tri: w24d1_a)	(texture: w24d1n_sdw00_alp_ovl.bmp)
 a24d/7d50bb/1cbc8e.tga	(tri: w24d2_tes_sita_v01)	(texture: w24d_fr_lo1_bld090_ovl.bmp)
 a24d/7d50bb/1cbd0e.tga	(tri: w24d2_tes_sita_v01)	(texture: w24d_fr_lo2_bld090_ovl.bmp)
@@ -1100,17 +1052,12 @@ a24d/7d50bb/984b40.tga	(tri: w24d2_tes_sita_v01)	(texture: w24dn_rflit04_alp_ovl
 a24d/89dcb9/23dbd5.tga	(tri: w24br)	(texture: w24d2_mo3sh_alp_ovl.bmp)
 a24d/89dcb9/2e3b25.tga	(tri: w24br)	(texture: w24d2_fr_all3_alp_ovl.bmp)
 a24d/89dcb9/2f3b25.tga	(tri: w24br)	(texture: w24d2_fr_all4_alp_ovl.bmp)
-a24d/89dcb9/b6090e.tga	(tri: w24br)	(texture: w24d2_wall_shd1_alp_ovl.bmp)
 a24f/09f9cb/5d8eb7.tga	(tri: ptr_stick_mt)	(texture: pit_steki_alp_ovl_sub.bmp)
 a24f/44cf01/0fa551.tga	(tri: sco_def_light)	(texture: sco_n3_ude_u_ovl_sub_alp.bmp)
 a24f/44cf01/635745.tga	(tri: sco_def_light)	(texture: sco_hand_in_ovl_sub_alp.bmp)
 a24f/44cf01/756429.tga	(tri: sco_def_light)	(texture: sco_hand_out_ovl_sub_alp.bmp)
-a24f/56a30a/4f39de.tga	(tri: sco_standing)	(texture: sco_hand_i_ovl_sub_alp.bmp)
-a24f/56a30a/4f99de.tga	(tri: sco_standing)	(texture: sco_hand_o_ovl_sub_alp.bmp)
-a24f/56a30a/677b03.tga	(tri: sco_standing)	(texture: sco_ude_ovl_sub_alp.bmp)
 a24f/82782f/35c82c.tga	(tri: rai_dead_crotch_for_subs)	(texture: rai_rist_fix_ovl_sub_alp.bmp)
 a24f/b39e99/4c5048.tga	(tri: jam_def_sh_mt)	(texture: jam_hand_dt01_ovl_sub_alp.bmp)
-a24f/b4082d/69c943.tga	(tri: ptr_def_sh_mt)	(texture: pit_face2_ovl_sub_alp.bmp_6db9591385198a710491f1b539611f0b)
 a25a/3c4f01/1ba169.tga	(tri: w25a)	(texture: w25a_sdw_alp_ovl.bmp)
 a25a/3c4f01/2450b5.tga	(tri: w25a)	(texture: w25a_sdw08a_alp_ovl.bmp)
 a25a/3c4f01/29d3f7.tga	(tri: w25a)	(texture: w25a_sdwta_alp_ovl.bmp)
@@ -1216,32 +1163,18 @@ a25d/2c4ffd/f4dd6e.tga	(tri: z_w25c)	(texture: w25c1_sdw03e_alp_ovl.bmp)
 a25d/2c4ffd/f5dd6e.tga	(tri: z_w25c)	(texture: w25c1_sdw03f_alp_ovl.bmp)
 a25d/2c4ffd/f8d3ee.tga	(tri: z_w25c)	(texture: w25c_sdw00_alp_ovl.bmp)
 a25d/715d80/6860f2.tga	(tri: 2d_tex_stage_a25d)	(texture: lg_renraku_alp_ovl.bmp)
-a25d/741451/fbade5.tga	(tri: w25d_28a)	(texture: w25d_28sdw_alp_ovl.bmp)
 a25d/e8e94d/9e5c4b.tga	(tri: w25cd_17a)	(texture: j_alp_ovl.bmp)
 a25d/e8f08e/5ab638.tga	(tri: w25cd_31b)	(texture: w31a_bld90_ovl_01.bmp)
 a25d/e8f08e/5ab639.tga	(tri: w25cd_31b)	(texture: w31a_bld90_ovl_02.bmp)
 a25d/e8f08e/5ab63a.tga	(tri: w25cd_31b)	(texture: w31a_bld90_ovl_03.bmp)
 a25d/e8f08e/5ab63b.tga	(tri: w25cd_31b)	(texture: w31a_bld90_ovl_04.bmp)
-a28a/3c4f61/113d57.tga	(tri: w28a)	(texture: w28an_sdw04a_alp_ovl.bmp)
-a28a/3c4f61/123d57.tga	(tri: w28a)	(texture: w28an_sdw04b_alp_ovl.bmp)
 a28a/3c4f61/403576.tga	(tri: w28a)	(texture: w28a_center_ent02_kage_alp_sub_ovl.bmp)
-a28a/3c4f61/8c3b53.tga	(tri: w28a)	(texture: w28an_sdw00_alp_ovl.bmp)
-a28a/3c4f61/8d3b53.tga	(tri: w28a)	(texture: w28an_sdw01_alp_ovl.bmp)
-a28a/3c4f61/903b53.tga	(tri: w28a)	(texture: w28an_sdw04_alp_ovl.bmp)
-a28a/3c4f61/913d56.tga	(tri: w28a)	(texture: w28an_sdw00a_alp_ovl.bmp)
-a28a/3c4f61/923d56.tga	(tri: w28a)	(texture: w28an_sdw00b_alp_ovl.bmp)
 a28a/3c4f61/9ecc8b.tga	(tri: w28a)	(texture: w28a_center_ent_kage_alp_sub_ovl.bmp)
-a28a/3c4f61/b6e746.tga	(tri: w28a)	(texture: label_28_alp_ovl.bmp)
-a28a/3c4f61/ecca82.tga	(tri: w28a)	(texture: w28an_sdwwl_02a_alp_ovl.bmp)
-a28a/3c4f61/edca82.tga	(tri: w28a)	(texture: w28an_sdwwl_02b_alp_ovl.bmp)
-a28a/3c4f61/ef17bc.tga	(tri: w28a)	(texture: w28an_sdwwl_02_alp_ovl.bmp)
-a28a/3c4f61/f13d56.tga	(tri: w28a)	(texture: w28an_sdw03a_alp_ovl.bmp)
 a28a/715d80/25d323.tga	(tri: 2d_tex_stage_a28a)	(texture: l_oilfence_alp_ovl.bmp)
 a28a/8d9f8b/005c59.tga	(tri: w28a_dr00x)	(texture: kl_alp_ovl.bmp)
 a28a/a3690e/1f2ad4.tga	(tri: w28a_roof)	(texture: w28a_roof_rouka_kage_alp_sub_ovl.bmp)
 a31a/404e26/9d5c58.tga	(tri: w31a_other)	(texture: hi_alp_ovl.bmp)
 a31a/715d80/05aa31.tga	(tri: 2d_tex_stage_a31a)	(texture: 2_chuou_b1_roka_01_alp_ovl.bmp)
-a31a/8a5057/02150b.tga	(tri: w31a0)	(texture: w31a_cir_panel_brk_alp_ovl_01.bmp)
 a31a/8a5057/02432f.tga	(tri: w31a0)	(texture: w31a_kage_alp_ovl_01.bmp)
 a31a/8a5057/024330.tga	(tri: w31a0)	(texture: w31a_kage_alp_ovl_02.bmp)
 a31a/8a5057/024332.tga	(tri: w31a0)	(texture: w31a_kage_alp_ovl_04.bmp)
@@ -1250,9 +1183,7 @@ a31a/8a5057/024350.tga	(tri: w31a0)	(texture: w31a_kage_alp_ovl_12.bmp)
 a31a/8a5057/024351.tga	(tri: w31a0)	(texture: w31a_kage_alp_ovl_13.bmp)
 a31a/8a5057/024352.tga	(tri: w31a0)	(texture: w31a_kage_alp_ovl_14.bmp)
 a31a/8a5057/073695.tga	(tri: w31a0)	(texture: w31a_duct_yogore_alp_ovl_sub_02.bmp)
-a31a/8a5057/22ee82.tga	(tri: w31a0)	(texture: w31a_cir_panel_alp_ovl_brk_011.bmp)
 a31a/8a5057/5ade3b.tga	(tri: w31a0)	(texture: w31a_bld95_ovl_04.bmp)
-a31a/8a5057/891773.tga	(tri: w31a0)	(texture: w31a_cir_panel_alp_ovl_brk_02.bmp)
 a31a/8a5057/b54c15.tga	(tri: w31a0)	(texture: w31a_mark_add_alp_ovl_02.bmp)
 a31a/8a5058/024334.tga	(tri: w31a1)	(texture: w31a_kage_alp_ovl_06.bmp)
 a31a/8a5058/02434e.tga	(tri: w31a1)	(texture: w31a_kage_alp_ovl_10.bmp)
@@ -1261,7 +1192,6 @@ a31b/23e900/285e0a.tga	(tri: wt_door)	(texture: lv4_alp_ovl.bmp)
 a31b/3c5282/05e4b8.tga	(tri: w31b)	(texture: w31b_light_add_alp_ovl_01.bmp)
 a31b/3c5282/2e2414.tga	(tri: w31b)	(texture: w31b_kage_ovl_alp_01.bmp)
 a31b/3c5282/2e2554.tga	(tri: w31b)	(texture: w31c_kage_ovl_alp_21.bmp)
-a31b/3c5282/741e55.tga	(tri: w31b)	(texture: w31b_wall_water_02_alp_ovl.bmp)
 a31b/6ba405/2f7438.tga	(tri: dust_mt)	(texture: wtd_mini_petbottle2_mt_alp_ovl_sub_.bmp)
 a31b/6ba405/cf6ac6.tga	(tri: dust_mt)	(texture: wtd_petbottle2_mt_ovl_alp_sub_01.bmp)
 a31b/715d80/06aa31.tga	(tri: 2d_tex_stage_a31b)	(texture: 2_chuou_b1_roka_02_alp_ovl.bmp)
@@ -1333,7 +1263,6 @@ a42a/3c56a1/2577c3.tga	(tri: w42a)	(texture: w42a_step_line02_alp_ovl.bmp)
 a42a/3c56a1/366498.tga	(tri: w42a)	(texture: w42a_1f_box_kage04_alp_ovl.bmp)
 a42a/3c56a1/386498.tga	(tri: w42a)	(texture: w42a_1f_box_kage06_alp_ovl.bmp)
 a42a/3c56a1/396498.tga	(tri: w42a)	(texture: w42a_1f_box_kage07_alp_ovl.bmp)
-a42a/3c56a1/3eff44.tga	(tri: w42a)	(texture: w42a_2f_comp_kage02_alp_ovl.bmp)
 a42a/573de0/1a20ff.tga	(tri: transcache_stage_a42a)	(texture: w42a_efct_disp_01_noiz_alp_add_ovl.bmp)
 a42a/573de0/1a40ff.tga	(tri: transcache_stage_a42a)	(texture: w42a_efct_disp_02_noiz_alp_add_ovl.bmp)
 a42a/573de0/1a60ff.tga	(tri: transcache_stage_a42a)	(texture: w42a_efct_disp_03_noiz_alp_add_ovl.bmp)
@@ -1469,7 +1398,6 @@ a46a/48565b/379498.tga	(tri: sol_snakearm_2_mh_mt)	(texture: sol_sa_us_dt_ovl_al
 a46a/48565b/bb363c.tga	(tri: sol_snakearm_2_mh_mt)	(texture: sol_sa_tu_dt02_ovl_sub_alp.bmp)
 a46a/48565b/bb463c.tga	(tri: sol_snakearm_2_mh_mt)	(texture: sol_sa_tu_dt03_ovl_sub_alp.bmp)
 a46a/543595/59cf15.tga	(tri: sol_def_mh_mt)	(texture: sol_hand_dt_ovl_sub_alp.bmp)
-a46a/573de0/408e1d.tga	(tri: transcache_stage_a46a)	(texture: smoke_lp4_alp.bmp)
 a46a/573de0/f7a429.tga	(tri: transcache_stage_a46a)	(texture: pdray_eye_hl_alp.bmp)
 a61a/349b50/8236aa.tga	(tri: comdlcache_stage_a61a)	(texture: kwtmst_hl_alp_ovl.bmp)
 a61a/3c5e81/aa21bd.tga	(tri: w61a)	(texture: w61a_tempshad_alp_ovl.bmp)
@@ -1551,7 +1479,6 @@ d005p01/3c4aa1/0f2e7b.tga	(tri: w12a)	(texture: w12a_sdwout02d_alp_ovl.bmp)
 d005p01/3c4aa1/102e7b.tga	(tri: w12a)	(texture: w12a_sdwout02e_alp_ovl.bmp)
 d005p01/3c4aa1/112e7b.tga	(tri: w12a)	(texture: w12a_sdwout02f_alp_ovl.bmp)
 d005p01/3c4aa1/11d07b.tga	(tri: w12a)	(texture: w12a_sdwbox03a_alp_ovl.bmp)
-d005p01/3c4aa1/152db4.tga	(tri: w12a)	(texture: w12a_sdw012_alp_ovl.bmp)
 d005p01/3c4aa1/242db4.tga	(tri: w12a)	(texture: w12a_sdw00a_alp_ovl.bmp)
 d005p01/3c4aa1/252db4.tga	(tri: w12a)	(texture: w12a_sdw00b_alp_ovl.bmp)
 d005p01/3c4aa1/2c2e7b.tga	(tri: w12a)	(texture: w12a_sdwout03a_alp_ovl.bmp)
@@ -1574,6 +1501,7 @@ d005p01/3c4aa1/60896d.tga	(tri: w12a)	(texture: w12a_sdw01a2_alp_ovl.bmp)
 d005p01/3c4aa1/662db4.tga	(tri: w12a)	(texture: w12a_sdw02c_alp_ovl.bmp)
 d005p01/3c4aa1/672db4.tga	(tri: w12a)	(texture: w12a_sdw02d_alp_ovl.bmp)
 d005p01/3c4aa1/78d2d6.tga	(tri: w12a)	(texture: w12a_sdw00_alp_ovl.bmp)
+d005p01/3c4aa1/79d2d6.tga	(tri: w12a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w12a)
 d005p01/3c4aa1/7bd2d6.tga	(tri: w12a)	(texture: w12a_sdw03_alp_ovl.bmp)
 d005p01/3c4aa1/7cd2d6.tga	(tri: w12a)	(texture: w12a_sdw04_alp_ovl.bmp)
 d005p01/3c4aa1/7dd2d6.tga	(tri: w12a)	(texture: w12a_sdw05_alp_ovl.bmp)
@@ -1660,7 +1588,6 @@ d00t/32c661/c5d890.tga	(tri: d00a)	(texture: d00a_sdw_hf04_sub_alp_ovl.bmp)
 d00t/32c661/c5d8f0.tga	(tri: d00a)	(texture: d00a_sdw_tf04_sub_alp_ovl.bmp)
 d00t/32c661/c5d8f8.tga	(tri: d00a)	(texture: d00a_sdw_uf04_sub_alp_ovl.bmp)
 d00t/573de0/02b854.tga	(tri: transcache_stage_d00t)	(texture: d00a_gaitou_bonbori_add_alp.bmp)
-d00t/573de0/68e545.tga	(tri: transcache_stage_d00t)	(texture: window01_alp.bmp_7bbfecbc9a722557df5da7eed5410eb4)
 d00t/573de0/8a6a52.tga	(tri: transcache_stage_d00t)	(texture: kckis_window_alp.bmp)
 d00t/74a4eb/23c473.tga	(tri: demo_kacatka)	(texture: kck_body2_sub_ovl_alp.bmp)
 d00t/74a4eb/2d5cb4.tga	(tri: demo_kacatka)	(texture: kck_body1_s_sub_ovl_alp.bmp)
@@ -1672,17 +1599,14 @@ d00t/74a4eb/cadd21.tga	(tri: demo_kacatka)	(texture: kck_propera_sub_alp_ovl.bmp
 d00t/74a4eb/cdb820.tga	(tri: demo_kacatka)	(texture: kck_ropebox_sub_ovl_alp.bmp)
 d00t/74a4eb/f5ba44.tga	(tri: demo_kacatka)	(texture: kck_mark504_sub_ovl_alp.bmp)
 d00t/74a4eb/f66169.tga	(tri: demo_kacatka)	(texture: kck_twing_s_sub_ovl_alp.bmp)
-d00t/ab5284/128f12.tga	(tri: ww_car_mdl)	(texture: car_kage_wagon_alp_ovl.bmp)
-d00t/ab5284/348049.tga	(tri: ww_car_mdl)	(texture: car_kage_sky_alp_ovl.bmp)
-d00t/ab5284/408038.tga	(tri: ww_car_mdl)	(texture: car_kage_ode_alp_ovl.bmp)
-d00t/ab5284/e98003.tga	(tri: ww_car_mdl)	(texture: car_kage_ban_alp_ovl.bmp)
 d00t/bced56/3263f4.tga	(tri: aaa_d00a2)	(texture: d00a_citylight_alp_ovl.bmp)
-d010p01/16f2c0/9ff843.tga	(tri: zzz_iro_mw)	(texture: sna_glass_bld080_ovl_alp.bmp)
 d010p01/d79f9c/616cdb.tga	(tri: vmp_knif_mt)	(texture: vkf_big_mt_sub_alp_ovl.bmp)
 d014p01/573de0/38c1a8.tga	(tri: transcache_stage_d014p01)	(texture: seculitycard_lv1_alp.bmp)
 d014p01/573de0/58c1a8.tga	(tri: transcache_stage_d014p01)	(texture: seculitycard_lv3_alp.bmp)
+d014p01/916a66/ad4d6b.tga	(tri: w16a0_1)	(texture: (unknown))
 d01t/573de0/45cb2e.tga	(tri: transcache_stage_d01t)	(texture: fstamp03_alp.bmp)
 d01t/573de0/dc531b.tga	(tri: transcache_stage_d01t)	(texture: heart_alp.bmp)
+d021p01/3c4e63/265e0a.tga	(tri: w20c_stage_d021p01)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in d036p05)
 d021p01/573de0/111c2e.tga	(tri: transcache_stage_d021p01)	(texture: orn_sld_square_alp.bmp)
 d021p01/573de0/48c1a8.tga	(tri: transcache_stage_d021p01)	(texture: seculitycard_lv2_alp.bmp)
 d021p01/573de0/9538c6.tga	(tri: transcache_stage_d021p01)	(texture: orn_sld_text_L_alp.bmp)
@@ -1696,7 +1620,24 @@ d021p01/643f41/8ad508.tga	(tri: org_tng_mh_mt)	(texture: orn_hand_dt02_sub_alp_o
 d021p01/643f41/90b4ef.tga	(tri: org_tng_mh_mt)	(texture: orn_foot_dt00_sub_alp_ovl.bmp)
 d021p01/643f41/90c4ef.tga	(tri: org_tng_mh_mt)	(texture: orn_foot_dt01_sub_alp_ovl.bmp)
 d021p01/643f41/d053a9.tga	(tri: org_tng_mh_mt)	(texture: orn_finger_dt00_sub_alp_ovl.bmp)
+d036p03/3c4ee3/a0220d.tga	(tri: w24c_stage_d036p03)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w24c, w24e)
 d036p03/9899e0/d02aa0.tga	(tri: sol_def_mant_2_mh_mt)	(texture: sol_mant_n_ovl_sub_alp.bmp)
+d036p03/9c6bfc/265e0a.tga	(tri: dr_free)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w24b, w24c, w24e)
+d045p01/9c6c38/27970a.tga	(tri: w25a_dr00)	(texture: (unknown))
+d045p01/9c6c38/e27fea.tga	(tri: w25a_dr00)	(texture: (unknown))
+d045p01/c8e8e9/1ba169.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/4450c4.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/4550c4.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/78d3ee.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/975c4b.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/995c4b.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/9be41e.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/9c5c4b.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/9ce41e.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/9f5c4b.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/a05c4b.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/dc5c9c.tga	(tri: w25ab_14a)	(texture: (unknown))
+d045p01/c8e8e9/f9d3ee.tga	(tri: w25ab_14a)	(texture: (unknown))
 d046p01/3c4f02/0c384c.tga	(tri: w25b)	(texture: w25b0_sdw00_alp_ovl.bmp)
 d046p01/3c4f02/6650bc.tga	(tri: w25b)	(texture: w25b_sdw02c_alp_ovl.bmp)
 d046p01/3c4f02/90dc66.tga	(tri: w25b)	(texture: w25b0_sdw00a_alp_ovl.bmp)
@@ -1716,8 +1657,13 @@ d046p01/faeab9/a796d8.tga	(tri: ray_hri_mt)	(texture: ray_canopy_sub_ovl_alp.bmp
 d046p01/faeab9/b4e98f.tga	(tri: ray_hri_mt)	(texture: ray_temptex1_sub_alp_ovl.bmp)
 d046p01/faeab9/eb1d74.tga	(tri: ray_hri_mt)	(texture: ray_arm_t1_sub_alp_ovl.bmp)
 d046p01/faeab9/f82a85.tga	(tri: ray_hri_mt)	(texture: ray_thigh_t1_sub_ovl_alp.bmp)
+d053p01/3c5282/731e55.tga	(tri: w31b_stage_d053p01)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w31b)
 d053p01/40dfad/9c5ec6.tga	(tri: ema_glasses_sh_mt)	(texture: ema_glassf_alp_ovl.bmp)
 d053p01/573de0/f5b232.tga	(tri: transcache_stage_d053p01)	(texture: elvt_ligs_alp_add.bmp)
+d053p01/726142/6df645.tga	(tri: w24d1_a)	(texture: (unknown))
+d053p01/726142/6df6c5.tga	(tri: w24d1_a)	(texture: (unknown))
+d053p01/726142/8fc49b.tga	(tri: w24d1_a)	(texture: (unknown))
+d053p01/9c6bff/265e0a.tga	(tri: dr_free)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in d070p01)
 d063p01/3c4f04/36a0b7.tga	(tri: w25d)	(texture: w25d1_sdw00c2_alp_ovl.bmp)
 d063p01/3c4f04/4c385c.tga	(tri: w25d)	(texture: w25d1_sdw00_alp_ovl.bmp)
 d063p01/3c4f04/4d385c.tga	(tri: w25d)	(texture: w25d1_sdw01_alp_ovl.bmp)
@@ -1754,6 +1700,9 @@ d065p02/3c52a1/cba062.tga	(tri: w32a)	(texture: w32a_30m_alp_ovl.bmp)
 d065p02/3c52a1/e5ba07.tga	(tri: w32a)	(texture: w32a_line00_alp_ovl.bmp)
 d065p02/3c52a1/f356e1.tga	(tri: w32a)	(texture: w32a_mark00c_alp_ovl.bmp)
 d065p02/3c52a1/f456e1.tga	(tri: w32a)	(texture: w32a_mark00d_alp_ovl.bmp)
+d070p01/72ee69/6df645.tga	(tri: w24d1_b)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in d070p09)
+d070p01/72ee69/6df6c5.tga	(tri: w24d1_b)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in d070p09)
+d070p01/72ee69/8fc49b.tga	(tri: w24d1_b)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in d070p09)
 d070p01/736556/5c7758.tga	(tri: demo_otc_def)	(texture: otc_hi_hand00_sub_alp_ovl.bmp)
 d070p01/736556/5c8758.tga	(tri: demo_otc_def)	(texture: otc_hi_hand01_sub_alp_ovl.bmp)
 d070p01/736556/8a5f59.tga	(tri: demo_otc_def)	(texture: otc_hi_finger_sub_alp_ovl.bmp)
@@ -1762,6 +1711,8 @@ d070p01/b3f7f1/5fcac1.tga	(tri: otc_def_sh_mt)	(texture: otc_neck_sub_ovl_alp.bm
 d070p01/b3f7f1/838eff.tga	(tri: otc_def_sh_mt)	(texture: otc_eye_ovl_sub_alp.bmp_9421d623f841d62c323b3ceb35b9e232)
 d070p01/b3f7f1/ed0dcd.tga	(tri: otc_def_sh_mt)	(texture: ema_glassf_sub_alp_ovl.bmp)
 d070p09/a13626/5888dd.tga	(tri: amg_def)	(texture: amg_yogoshi_sub_alp_ovl.bmp)
+d078p01/19a17d/41aab0.tga	(tri: hfb_mt)	(texture: (unknown))
+d078p01/19a17d/60169e.tga	(tri: hfb_mt)	(texture: (unknown))
 d080p01/4ddf93/9fbc16.tga	(tri: raytri)	(texture: 009fbc16)
 d080p01/4ddf93/a1bc16.tga	(tri: raytri)	(texture: 00a1bc16)
 d080p01/573de0/4a1a0d.tga	(tri: transcache_stage_d080p01)	(texture: bombsphere01_alp.bmp)
@@ -1770,12 +1721,35 @@ d080p06/573de0/03ebfe.tga	(tri: transcache_stage_d080p06)	(texture: raycp_circle
 d080p06/573de0/0da71b.tga	(tri: transcache_stage_d080p06)	(texture: raycp_display1_add_alp.bmp)
 d080p06/573de0/18a884.tga	(tri: transcache_stage_d080p06)	(texture: raycp_display1_dammy_alp.bmp)
 d080p06/573de0/35272f.tga	(tri: transcache_stage_d080p06)	(texture: raycp_scaler_l_alp.bmp)
+d080p06/573de0/88909e.tga	(tri: transcache_stage_d080p06)	(texture: (unknown))
 d080p06/573de0/95272f.tga	(tri: transcache_stage_d080p06)	(texture: raycp_scaler_r_alp.bmp)
+d080p06/573de0/98909e.tga	(tri: transcache_stage_d080p06)	(texture: (unknown))
+d080p06/573de0/c4c645.tga	(tri: transcache_stage_d080p06)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w01d)
 d080p06/573de0/dd263f.tga	(tri: transcache_stage_d080p06)	(texture: raycp_hanyoutex_alp.bmp)
 d080p06/573de0/e21c44.tga	(tri: transcache_stage_d080p06)	(texture: raycp_text1_alp.bmp)
 d080p06/573de0/e3ebfd.tga	(tri: transcache_stage_d080p06)	(texture: raycp_circle1_alp.bmp)
+d080p06/573de0/e641c1.tga	(tri: transcache_stage_d080p06)	(texture: (unknown))
+d080p06/573de0/e651c1.tga	(tri: transcache_stage_d080p06)	(texture: (unknown))
+d080p06/573de0/e661c1.tga	(tri: transcache_stage_d080p06)	(texture: (unknown))
+d080p06/573de0/e671c1.tga	(tri: transcache_stage_d080p06)	(texture: (unknown))
+d080p06/573de0/e681c1.tga	(tri: transcache_stage_d080p06)	(texture: (unknown))
+d080p06/573de0/e691c1.tga	(tri: transcache_stage_d080p06)	(texture: (unknown))
 d080p06/573de0/ebac83.tga	(tri: transcache_stage_d080p06)	(texture: raycp_rearview_alp.bmp)
 d080p06/573de0/f3ebfd.tga	(tri: transcache_stage_d080p06)	(texture: raycp_circle2_alp.bmp)
+d080p06/715d80/1fa4f5.tga	(tri: 2D_tex)	(texture: (unknown))
+d080p06/715d80/208f5d.tga	(tri: 2D_tex)	(texture: (unknown))
+d080p06/715d80/265de5.tga	(tri: 2D_tex)	(texture: (unknown))
+d080p06/715d80/285ddd.tga	(tri: 2D_tex)	(texture: (unknown))
+d080p06/715d80/555dee.tga	(tri: 2D_tex)	(texture: (unknown))
+d080p06/715d80/815e11.tga	(tri: 2D_tex)	(texture: (unknown))
+d080p06/715d80/819b15.tga	(tri: 2D_tex)	(texture: (unknown))
+d080p06/715d80/c15dff.tga	(tri: 2D_tex)	(texture: (unknown))
+d080p06/715d80/c78e06.tga	(tri: 2D_tex)	(texture: (unknown))
+d080p06/715d80/c95de3.tga	(tri: 2D_tex)	(texture: (unknown))
+d080p06/8c8af2/1f80b3.tga	(tri: rev_hair_fix)	(texture: (unknown))
+d080p06/8c8af2/83a5a9.tga	(tri: rev_hair_fix)	(texture: (unknown))
+d080p06/8c8af2/bbfe90.tga	(tri: rev_hair_fix)	(texture: (unknown))
+d080p06/8de5cf/050f1e.tga	(tri: sky_wall_w51a)	(texture: (unknown))
 d080p06/a38684/745eed.tga	(tri: demo_rev_liq)	(texture: rev_pl_liq_uarm_ovl_sub_alp.bmp)
 d080p06/ac8bdf/a796d8.tga	(tri: demo_ray_w04c1)	(texture: ray_canopy_sub_ovl_alp.bmp_262887ad5d1a24632bc26b95450cb515)
 d080p06/ea1ec9/050f1e.tga	(tri: w51a_sky_wall3)	(texture: w51a_sky_botom_01_alp_ovl.bmp)
@@ -1790,13 +1764,13 @@ d080p07/a3f5b0/e69a62.tga	(tri: sol_onemesh_mt)	(texture: sol_sarm_chest_ovl_sub
 d080p07/f6e03f/7250ed.tga	(tri: building)	(texture: w60a_gaitou_a01_alp_ovl.bmp)
 d080p07/f6e03f/afe2e6.tga	(tri: building)	(texture: w60a_kowareyogosi_01_alp_ovl.bmp)
 d080p07/f6e03f/bc6d11.tga	(tri: building)	(texture: w60a_madoakari_01_alp_ovl.bmp)
+d080p08/928aea/41aab0.tga	(tri: hfb_mt)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in d078p01, w43a, w44a, w45a, w46a, w61a)
+d080p08/928aea/60169e.tga	(tri: hfb_mt)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in d078p01, w43a, w44a, w45a, w46a, w61a)
 d082p01/573de0/6a6dff.tga	(tri: transcache_stage_d082p01)	(texture: w62a_kemuri_01_alp.bmp)
 d082p01/573de0/c38d40.tga	(tri: transcache_stage_d082p01)	(texture: w62a_sky_top_01_alp.bmp)
 d10t/3b570a/745d01.tga	(tri: hold_marine_mt)	(texture: usa_met_ovl_sub_alp.bmp)
 d10t/3b570a/eedab9.tga	(tri: hold_marine_mt)	(texture: usa_met01dt_ovl_sub_alp.bmp)
 d10t/573de0/8fa5fe.tga	(tri: transcache_stage_d10t)	(texture: w04a_shadow_alp.bmp)
-d12t/f6a61b/0fa551.tga	(tri: sco_def_addhand_mh_mt)	(texture: sco_n3_ude_u_ovl_sub_alp.bmp_160fc82beaf190aad4b9ed0deee98d37)
-d12t/f6a61b/4f99de.tga	(tri: sco_def_addhand_mh_mt)	(texture: sco_hand_o_ovl_sub_alp.bmp_7ae46165cf53cfc184eb18f1cbb93ce8)
 d12t4/573de0/efa5d0.tga	(tri: transcache_stage_d12t4)	(texture: ray_debug_alp.bmp)
 d13t/573de0/7ba8b5.tga	(tri: transcache_stage_d13t)	(texture: w00brk_pinlit_add_alp.bmp)
 d13t/a742c3/413256.tga	(tri: w00_chinbotsu)	(texture: w00brk_f1_shad1_sub_alp_ovl.bmp)
@@ -1820,11 +1794,6 @@ f03a/3a3a05/ede1c0.tga	(tri: org_tng_radio_mh_mt)	(texture: orn_should_dt01_sub_
 f04a/ad3007/66abb8.tga	(tri: ema_radio_mh_mt)	(texture: ema_glassf2_alp_ovl.bmp)
 f06a/d5f008/2130aa.tga	(tri: jam_radio_mh_mt)	(texture: jam_neck_dt01_ovl_sub_alp.bmp)
 n_title/2b2372/cfb0a6.tga	(tri: moses1)	(texture: 00cfb0a6)
-n_title/6bcbb0/36ea81.tga	(tri: casting)	(texture: 0036ea81)
-n_title/6bcbb0/b6eb2c.tga	(tri: casting)	(texture: 00b6eb2c)
-n_title/ac396b/4597dc.tga	(tri: aaa_sp_menu)	(texture: tag1_alp_ovl.bmp)
-n_title/ac396b/4697dc.tga	(tri: aaa_sp_menu)	(texture: tag2_alp_ovl.bmp)
-n_title/ac396b/4797dc.tga	(tri: aaa_sp_menu)	(texture: tag3_alp_ovl.bmp)
 node/74250b/72466d.tga	(tri: node_bg)	(texture: 0072466d)
 node/74250b/7246ed.tga	(tri: node_bg)	(texture: 007246ed)
 node/74250b/72476d.tga	(tri: node_bg)	(texture: 0072476d)
@@ -1832,14 +1801,10 @@ node/74250b/8db9df.tga	(tri: node_bg)	(texture: 008db9df)
 node/74250b/c6fef1.tga	(tri: node_bg)	(texture: 00c6fef1)
 node/74250b/ec73af.tga	(tri: node_bg)	(texture: 00ec73af)
 node/74250b/f94320.tga	(tri: node_bg)	(texture: 00f94320)
-node/9a23d5/024ad1.tga	(tri: node_name)	(texture: 00024ad1)
-node/9a23d5/2f8bd0.tga	(tri: node_name)	(texture: 002f8bd0)
-node/9a23d5/352bd0.tga	(tri: node_name)	(texture: 00352bd0)
 node/9a23d5/487b63.tga	(tri: node_name)	(texture: 00487b63)
 node/9a23d5/497b63.tga	(tri: node_name)	(texture: 00497b63)
 node/9a23d5/4a7b63.tga	(tri: node_name)	(texture: 004a7b63)
 node/9a23d5/4b7b63.tga	(tri: node_name)	(texture: 004b7b63)
-node/9a23d5/b64ad1.tga	(tri: node_name)	(texture: 00b64ad1)
 r_plt0/34de3f/66a618.tga	(tri: mapp_tex)	(texture: 0066a618_476d380161520ae923d8f74ede9a2e8d)
 r_plt0/34de3f/68a618.tga	(tri: mapp_tex)	(texture: 0068a618_ba9ef0a583a2d517886f9b6c53e96e92)
 r_plt0/34de3f/6aa618.tga	(tri: mapp_tex)	(texture: 006aa618_5e5881ab87a4498b100e3983cca31058)
@@ -1850,712 +1815,29 @@ r_plt0/5f2457/85a618.tga	(tri: mapbtex1)	(texture: 0085a618)
 r_plt0/5f2457/8ba618.tga	(tri: mapbtex1)	(texture: 008ba618)
 r_plt0/8491a6/2d83e3.tga	(tri: code_tex)	(texture: 002d83e3)
 r_plt0/8491a6/2d83e4.tga	(tri: code_tex)	(texture: 002d83e4)
-r_plt0/899c71/00c495.tga	(tri: menuicon)	(texture: smoke_alp_ovl.bmp)
-r_plt0/899c71/33e49a.tga	(tri: menuicon)	(texture: empty_alp_ovl.bmp)
-r_plt0/899c71/a1a46e.tga	(tri: menuicon)	(texture: camera_alp_ovl.bmp)
 r_plt0/899c71/a75ddd.tga	(tri: menuicon)	(texture: aps_alp_ovl.bmp)
 r_plt0/899c71/c25e34.tga	(tri: menuicon)	(texture: win_alp_ovl.bmp)
 r_plt0/899c71/dc7dae.tga	(tri: menuicon)	(texture: no_use_alp_ovl.bmp)
 r_plt0/e15f8b/6af2bb.tga	(tri: nk_tri)	(texture: 006af2bb)
-r_plt10/bd87ad/0f57e5.tga	(tri: for_nin_sh_mt)	(texture: rai_mask_a_ovl_sub_alp.bmp)
-r_plt10/bd87ad/621f4b.tga	(tri: for_nin_sh_mt)	(texture: rai_eye_hlf_ovl.bmp)
-r_plt10/bd87ad/96c0cb.tga	(tri: for_nin_sh_mt)	(texture: rai_foot_c_fix_ovl_sub_alp.bmp)
-r_vr_1/01c6f3/e86f82.tga	(tri: transresident_stage_r_vr_1_r)	(texture: gray_128_128_add_alp.bmp)
-r_vr_1/a7866b/82a8d0.tga	(tri: arsenal_map)	(texture: gray_128_192_alp_ovl.bmp)
-r_vr_1/a7866b/fdd2b9.tga	(tri: arsenal_map)	(texture: vr2_dmm_sub_alp_ovl.bmp)
-r_vr_b/31ead4/a5ede8.tga	(tri: rai_tex_mw_stage_r_vr_b_r)	(texture: rah_nin_hi_hand2_fix_ovl_sub_alp.bmp)
-sp01a/349b50/9f1e9c.tga	(tri: comdlcache_stage_sp01a)	(texture: vr2_frg_numbers_add_alp_ovl.bmp)
-sp01a/573de0/006972.tga	(tri: transcache_stage_sp01a)	(texture: wall_marker1_add_alp.bmp)
-sp01a/573de0/18d695.tga	(tri: transcache_stage_sp01a)	(texture: tgt_col1_rgb_sol_add_alp.bmp)
-sp01a/573de0/1cbb11.tga	(tri: transcache_stage_sp01a)	(texture: vr2_footstamp1_add_alp.bmp)
-sp01a/573de0/272583.tga	(tri: transcache_stage_sp01a)	(texture: tgt_color1_tab_add_alp.bmp)
-sp01a/573de0/2914e5.tga	(tri: transcache_stage_sp01a)	(texture: vr2_tonbo_alp_add.bmp)
-sp01a/573de0/303b44.tga	(tri: transcache_stage_sp01a)	(texture: tgt_tri_hlt_add_alp.bmp)
-sp01a/573de0/349988.tga	(tri: transcache_stage_sp01a)	(texture: vr2_pitfall_b0_all_add_alp.bmp)
-sp01a/573de0/41944d.tga	(tri: transcache_stage_sp01a)	(texture: vr2_ketchap00_alp.bmp)
-sp01a/573de0/813581.tga	(tri: transcache_stage_sp01a)	(texture: tgt_color1_add_alp.bmp)
-sp01a/573de0/823581.tga	(tri: transcache_stage_sp01a)	(texture: tgt_color2_add_alp.bmp)
-sp01a/573de0/8f0667.tga	(tri: transcache_stage_sp01a)	(texture: vr2_chi01_alp.bmp)
-sp01a/573de0/987a7b.tga	(tri: transcache_stage_sp01a)	(texture: vr2_pitfall_a0_add_alp.bmp)
-sp01a/573de0/9f0667.tga	(tri: transcache_stage_sp01a)	(texture: vr2_chi02_alp.bmp)
-sp01a/573de0/aa7845.tga	(tri: transcache_stage_sp01a)	(texture: vr2_no_elude1_add_alp.bmp)
-sp01a/573de0/ab7845.tga	(tri: transcache_stage_sp01a)	(texture: vr2_no_elude2_add_alp.bmp)
-sp01a/573de0/af0667.tga	(tri: transcache_stage_sp01a)	(texture: vr2_chi03_alp.bmp)
-sp01a/573de0/b8d5cc.tga	(tri: transcache_stage_sp01a)	(texture: floor_marker1_add_alp.bmp)
-sp01a/573de0/b9d5cc.tga	(tri: transcache_stage_sp01a)	(texture: floor_marker2_add_alp.bmp)
-sp01a/573de0/bf0667.tga	(tri: transcache_stage_sp01a)	(texture: vr2_chi04_alp.bmp)
-sp01a/573de0/ce6730.tga	(tri: transcache_stage_sp01a)	(texture: vr2_wetpanel_alp.bmp)
-sp01a/573de0/cf0667.tga	(tri: transcache_stage_sp01a)	(texture: vr2_chi05_alp.bmp)
-sp01a/68c688/080cee.tga	(tri: sp01a)	(texture: sp01a_sdw04a_alp_ovl.bmp)
-sp01a/68c688/090cee.tga	(tri: sp01a)	(texture: sp01a_sdw04b_alp_ovl.bmp)
-sp01a/68c688/0a0cee.tga	(tri: sp01a)	(texture: sp01a_sdw04c_alp_ovl.bmp)
-sp01a/68c688/0b0cee.tga	(tri: sp01a)	(texture: sp01a_sdw04d_alp_ovl.bmp)
-sp01a/68c688/0c0cee.tga	(tri: sp01a)	(texture: sp01a_sdw04e_alp_ovl.bmp)
-sp01a/68c688/0d0cee.tga	(tri: sp01a)	(texture: sp01a_sdw04f_alp_ovl.bmp)
-sp01a/68c688/0e0cee.tga	(tri: sp01a)	(texture: sp01a_sdw04g_alp_ovl.bmp)
-sp01a/68c688/280cee.tga	(tri: sp01a)	(texture: sp01a_sdw05a_alp_ovl.bmp)
-sp01a/68c688/43f1d0.tga	(tri: sp01a)	(texture: sp01a_sdw00_alp_ovl.bmp)
-sp01a/68c688/44f1d0.tga	(tri: sp01a)	(texture: sp01a_sdw01_alp_ovl.bmp)
-sp01a/68c688/45f1d0.tga	(tri: sp01a)	(texture: sp01a_sdw02_alp_ovl.bmp)
-sp01a/68c688/46f1d0.tga	(tri: sp01a)	(texture: sp01a_sdw03_alp_ovl.bmp)
-sp01a/68c688/47f1d0.tga	(tri: sp01a)	(texture: sp01a_sdw04_alp_ovl.bmp)
-sp01a/68c688/48f1d0.tga	(tri: sp01a)	(texture: sp01a_sdw05_alp_ovl.bmp)
-sp01a/68c688/880ced.tga	(tri: sp01a)	(texture: sp01a_sdw00a_alp_ovl.bmp)
-sp01a/68c688/890ced.tga	(tri: sp01a)	(texture: sp01a_sdw00b_alp_ovl.bmp)
-sp01a/68c688/8a0ced.tga	(tri: sp01a)	(texture: sp01a_sdw00c_alp_ovl.bmp)
-sp01a/68c688/8b0ced.tga	(tri: sp01a)	(texture: sp01a_sdw00d_alp_ovl.bmp)
-sp01a/68c688/8c0ced.tga	(tri: sp01a)	(texture: sp01a_sdw00e_alp_ovl.bmp)
-sp01a/68c688/8d0ced.tga	(tri: sp01a)	(texture: sp01a_sdw00f_alp_ovl.bmp)
-sp01a/68c688/a80ced.tga	(tri: sp01a)	(texture: sp01a_sdw01a_alp_ovl.bmp)
-sp01a/68c688/c80ced.tga	(tri: sp01a)	(texture: sp01a_sdw02a_alp_ovl.bmp)
-sp01a/68c688/c90ced.tga	(tri: sp01a)	(texture: sp01a_sdw02b_alp_ovl.bmp)
-sp01a/68c688/ca0ced.tga	(tri: sp01a)	(texture: sp01a_sdw02c_alp_ovl.bmp)
-sp01a/68c688/cb0ced.tga	(tri: sp01a)	(texture: sp01a_sdw02d_alp_ovl.bmp)
-sp01a/68c688/cc0ced.tga	(tri: sp01a)	(texture: sp01a_sdw02e_alp_ovl.bmp)
-sp01a/68c688/e80ced.tga	(tri: sp01a)	(texture: sp01a_sdw03a_alp_ovl.bmp)
-sp01a/68c688/e90ced.tga	(tri: sp01a)	(texture: sp01a_sdw03b_alp_ovl.bmp)
-sp01a/68c688/ea0ced.tga	(tri: sp01a)	(texture: sp01a_sdw03c_alp_ovl.bmp)
-sp01a/68c688/eb0ced.tga	(tri: sp01a)	(texture: sp01a_sdw03d_alp_ovl.bmp)
-sp01a/68c688/ec0ced.tga	(tri: sp01a)	(texture: sp01a_sdw03e_alp_ovl.bmp)
-sp01a/68c688/ed0ced.tga	(tri: sp01a)	(texture: sp01a_sdw03f_alp_ovl.bmp)
-sp01a/68c688/ee0ced.tga	(tri: sp01a)	(texture: sp01a_sdw03g_alp_ovl.bmp)
-sp01a/68c688/ef0ced.tga	(tri: sp01a)	(texture: sp01a_sdw03h_alp_ovl.bmp)
-sp01a/68c688/f00ced.tga	(tri: sp01a)	(texture: sp01a_sdw03i_alp_ovl.bmp)
-sp01a/68c688/f10ced.tga	(tri: sp01a)	(texture: sp01a_sdw03j_alp_ovl.bmp)
-sp01a/68c688/f20ced.tga	(tri: sp01a)	(texture: sp01a_sdw03k_alp_ovl.bmp)
-sp01a/68c688/f30ced.tga	(tri: sp01a)	(texture: sp01a_sdw03l_alp_ovl.bmp)
-sp01a/68c688/f40ced.tga	(tri: sp01a)	(texture: sp01a_sdw03m_alp_ovl.bmp)
-sp01a/68c688/f50ced.tga	(tri: sp01a)	(texture: sp01a_sdw03n_alp_ovl.bmp)
-sp01a/68c688/f60ced.tga	(tri: sp01a)	(texture: sp01a_sdw03o_alp_ovl.bmp)
-sp01a/68c688/f70ced.tga	(tri: sp01a)	(texture: sp01a_sdw03p_alp_ovl.bmp)
-sp02a/68c6a8/43f3d8.tga	(tri: sp02a)	(texture: sp02a_shw00_alp_ovl.bmp)
-sp02a/68c6a8/44f3d8.tga	(tri: sp02a)	(texture: sp02a_shw01_alp_ovl.bmp)
-sp02a/68c6a8/45f3d8.tga	(tri: sp02a)	(texture: sp02a_shw02_alp_ovl.bmp)
-sp02a/68c6a8/46f3d8.tga	(tri: sp02a)	(texture: sp02a_shw03_alp_ovl.bmp)
-sp02a/68c6a8/7a57e0.tga	(tri: sp02a)	(texture: ws43a_shw16_alp_ovl.bmp)
-sp03a/68c6c8/43f1e0.tga	(tri: sp03a)	(texture: sp03a_sdw00_alp_ovl.bmp)
-sp03a/68c6c8/6db92a.tga	(tri: sp03a)	(texture: sp03a4_shd1_alp_ovl.bmp)
-sp03a/68c6c8/71f832.tga	(tri: sp03a)	(texture: sp03a4_shd02_alp_ovl.bmp)
-sp03a/68c6c8/72f832.tga	(tri: sp03a)	(texture: sp03a4_shd03_alp_ovl.bmp)
-sp03a/68c6c8/e9680e.tga	(tri: sp03a)	(texture: sp03a_wall_sdw00_alp_ovl.bmp)
-sp03a/fb5768/13a623.tga	(tri: vrgll_mt)	(texture: gno_para_himo_ovl_alp.bmp)
-sp06a/68c728/43f1f8.tga	(tri: sp06a)	(texture: sp06a_sdw00_alp_ovl.bmp)
-sp06a/68c728/44f3f8.tga	(tri: sp06a)	(texture: sp06a_shw01_alp_ovl.bmp)
-sp06a/68c728/45f3f8.tga	(tri: sp06a)	(texture: sp06a_shw02_alp_ovl.bmp)
-sp06a/68c728/46f3f8.tga	(tri: sp06a)	(texture: sp06a_shw03_alp_ovl.bmp)
-sp06a/68c728/47f3f8.tga	(tri: sp06a)	(texture: sp06a_shw04_alp_ovl.bmp)
-sp06a/68c728/48f3f8.tga	(tri: sp06a)	(texture: sp06a_shw05_alp_ovl.bmp)
-sp06a/68c728/49f3f8.tga	(tri: sp06a)	(texture: sp06a_shw06_alp_ovl.bmp)
-sp06a/68c728/4af3f8.tga	(tri: sp06a)	(texture: sp06a_shw07_alp_ovl.bmp)
-sp06a/68c728/4bf3f8.tga	(tri: sp06a)	(texture: sp06a_shw08_alp_ovl.bmp)
-sp06a/68c728/63f3f8.tga	(tri: sp06a)	(texture: sp06a_shw10_alp_ovl.bmp)
-sp06a/68c728/64f3f8.tga	(tri: sp06a)	(texture: sp06a_shw11_alp_ovl.bmp)
-sp06a/68c728/65f3f8.tga	(tri: sp06a)	(texture: sp06a_shw12_alp_ovl.bmp)
-sp06a/68c728/66f3f8.tga	(tri: sp06a)	(texture: sp06a_shw13_alp_ovl.bmp)
-sp06a/68c728/67f3f8.tga	(tri: sp06a)	(texture: sp06a_shw14_alp_ovl.bmp)
-sp06a/68c728/68f3f8.tga	(tri: sp06a)	(texture: sp06a_shw15_alp_ovl.bmp)
-sp06a/68c728/69f3f8.tga	(tri: sp06a)	(texture: sp06a_shw16_alp_ovl.bmp)
-sp06a/68c728/6af3f8.tga	(tri: sp06a)	(texture: sp06a_shw17_alp_ovl.bmp)
-sp06a/68c728/6bf3f8.tga	(tri: sp06a)	(texture: sp06a_shw18_alp_ovl.bmp)
-sp06a/68c728/6cf3f8.tga	(tri: sp06a)	(texture: sp06a_shw19_alp_ovl.bmp)
-sp06a/68c728/83f3f8.tga	(tri: sp06a)	(texture: sp06a_shw20_alp_ovl.bmp)
-sp06a/68c728/84f3f8.tga	(tri: sp06a)	(texture: sp06a_shw21_alp_ovl.bmp)
-sp06a/68c728/85f3f8.tga	(tri: sp06a)	(texture: sp06a_shw22_alp_ovl.bmp)
-sp06a/68c728/86f3f8.tga	(tri: sp06a)	(texture: sp06a_shw23_alp_ovl.bmp)
-sp06a/68c728/8cf3f8.tga	(tri: sp06a)	(texture: sp06a_shw29_alp_ovl.bmp)
-sp06a/68c728/a45908.tga	(tri: sp06a)	(texture: sp06a_shw9_alp_ovl.bmp)
-sp07a/68c748/43f400.tga	(tri: sp07a)	(texture: sp07a_shw00_alp_ovl.bmp)
-sp07a/68c748/44f400.tga	(tri: sp07a)	(texture: sp07a_shw01_alp_ovl.bmp)
-sp07a/68c748/45f400.tga	(tri: sp07a)	(texture: sp07a_shw02_alp_ovl.bmp)
-sp07a/68c748/46f400.tga	(tri: sp07a)	(texture: sp07a_shw03_alp_ovl.bmp)
-sp07a/68c748/47f400.tga	(tri: sp07a)	(texture: sp07a_shw04_alp_ovl.bmp)
-sp07a/68c748/48f400.tga	(tri: sp07a)	(texture: sp07a_shw05_alp_ovl.bmp)
-sp07a/68c748/49f400.tga	(tri: sp07a)	(texture: sp07a_shw06_alp_ovl.bmp)
-sp07a/68c748/4af400.tga	(tri: sp07a)	(texture: sp07a_shw07_alp_ovl.bmp)
-sp07a/68c748/4bf400.tga	(tri: sp07a)	(texture: sp07a_shw08_alp_ovl.bmp)
-sp07a/68c748/4cf400.tga	(tri: sp07a)	(texture: sp07a_shw09_alp_ovl.bmp)
-sp07a/68c748/63f400.tga	(tri: sp07a)	(texture: sp07a_shw10_alp_ovl.bmp)
-sp07a/68c748/64f400.tga	(tri: sp07a)	(texture: sp07a_shw11_alp_ovl.bmp)
-sp07a/68c748/65f400.tga	(tri: sp07a)	(texture: sp07a_shw12_alp_ovl.bmp)
-sp07a/68c748/66f400.tga	(tri: sp07a)	(texture: sp07a_shw13_alp_ovl.bmp)
-sp07a/68c748/68f400.tga	(tri: sp07a)	(texture: sp07a_shw15_alp_ovl.bmp)
-sp07a/68c748/69f400.tga	(tri: sp07a)	(texture: sp07a_shw16_alp_ovl.bmp)
-sp07a/68c748/6af400.tga	(tri: sp07a)	(texture: sp07a_shw17_alp_ovl.bmp)
-sp07a/68c748/6bf400.tga	(tri: sp07a)	(texture: sp07a_shw18_alp_ovl.bmp)
-sp07a/68c748/6cf400.tga	(tri: sp07a)	(texture: sp07a_shw19_alp_ovl.bmp)
-sp07a/68c748/84f400.tga	(tri: sp07a)	(texture: sp07a_shw21_alp_ovl.bmp)
-sp07a/68c748/85f400.tga	(tri: sp07a)	(texture: sp07a_shw22_alp_ovl.bmp)
-sp07a/68c748/86f400.tga	(tri: sp07a)	(texture: sp07a_shw23_alp_ovl.bmp)
-sp07a/68c748/87f400.tga	(tri: sp07a)	(texture: sp07a_shw24_alp_ovl.bmp)
-sp07a/68c748/88f400.tga	(tri: sp07a)	(texture: sp07a_shw25_alp_ovl.bmp)
-sp07a/68c748/89f400.tga	(tri: sp07a)	(texture: sp07a_shw26_alp_ovl.bmp)
-sp07a/68c748/e96a4e.tga	(tri: sp07a)	(texture: sp07a_wall_shw00_alp_ovl.bmp)
-sp07a/68c748/ea6a4e.tga	(tri: sp07a)	(texture: sp07a_wall_shw01_alp_ovl.bmp)
-sp07a/68c748/eb6a4e.tga	(tri: sp07a)	(texture: sp07a_wall_shw02_alp_ovl.bmp)
-sp21a/aa46a8/1ec418.tga	(tri: ws02a)	(texture: sdw_alp_ovl_wall_01.bmp)
-sp21a/aa46a8/25cd41.tga	(tri: ws02a)	(texture: ws02a_sdw_alp_ovl_05.bmp)
-sp21a/aa46a8/25cd42.tga	(tri: ws02a)	(texture: ws02a_sdw_alp_ovl_06.bmp)
-sp21a/aa46a8/25cd43.tga	(tri: ws02a)	(texture: ws02a_sdw_alp_ovl_07.bmp)
-sp21a/aa46a8/25cd44.tga	(tri: ws02a)	(texture: ws02a_sdw_alp_ovl_08.bmp)
-sp21a/aa46a8/83ce3a.tga	(tri: ws02a)	(texture: sdw_alp_ovl_wall.bmp)
-sp21a/aa46a8/b5cd01.tga	(tri: ws02a)	(texture: w02a_sdw_alp_ovl_01.bmp)
-sp21a/aa46a8/b5cd02.tga	(tri: ws02a)	(texture: w02a_sdw_alp_ovl_02.bmp)
-sp22a/68cea8/084cee.tga	(tri: sp22a)	(texture: sp21a_sdw04a_alp_ovl.bmp)
-sp22a/68cea8/094cee.tga	(tri: sp22a)	(texture: sp21a_sdw04b_alp_ovl.bmp)
-sp22a/68cea8/0a4cee.tga	(tri: sp22a)	(texture: sp21a_sdw04c_alp_ovl.bmp)
-sp22a/68cea8/0b4cee.tga	(tri: sp22a)	(texture: sp21a_sdw04d_alp_ovl.bmp)
-sp22a/68cea8/0c4cee.tga	(tri: sp22a)	(texture: sp21a_sdw04e_alp_ovl.bmp)
-sp22a/68cea8/0d4cee.tga	(tri: sp22a)	(texture: sp21a_sdw04f_alp_ovl.bmp)
-sp22a/68cea8/0e4cee.tga	(tri: sp22a)	(texture: sp21a_sdw04g_alp_ovl.bmp)
-sp22a/68cea8/0f4cee.tga	(tri: sp22a)	(texture: sp21a_sdw04h_alp_ovl.bmp)
-sp22a/68cea8/104cee.tga	(tri: sp22a)	(texture: sp21a_sdw04i_alp_ovl.bmp)
-sp22a/68cea8/284cee.tga	(tri: sp22a)	(texture: sp21a_sdw05a_alp_ovl.bmp)
-sp22a/68cea8/294cee.tga	(tri: sp22a)	(texture: sp21a_sdw05b_alp_ovl.bmp)
-sp22a/68cea8/2a257d.tga	(tri: sp22a)	(texture: sp21a_sdwbox00_alp_ovl.bmp)
-sp22a/68cea8/2a4cee.tga	(tri: sp22a)	(texture: sp21a_sdw05c_alp_ovl.bmp)
-sp22a/68cea8/2b257d.tga	(tri: sp22a)	(texture: sp21a_sdwbox01_alp_ovl.bmp)
-sp22a/68cea8/2b4cee.tga	(tri: sp22a)	(texture: sp21a_sdw05d_alp_ovl.bmp)
-sp22a/68cea8/2c257d.tga	(tri: sp22a)	(texture: sp21a_sdwbox02_alp_ovl.bmp)
-sp22a/68cea8/2c4cee.tga	(tri: sp22a)	(texture: sp21a_sdw05e_alp_ovl.bmp)
-sp22a/68cea8/2d257d.tga	(tri: sp22a)	(texture: sp21a_sdwbox03_alp_ovl.bmp)
-sp22a/68cea8/2e257d.tga	(tri: sp22a)	(texture: sp21a_sdwbox04_alp_ovl.bmp)
-sp22a/68cea8/2f257d.tga	(tri: sp22a)	(texture: sp21a_sdwbox05_alp_ovl.bmp)
-sp22a/68cea8/43f3d0.tga	(tri: sp22a)	(texture: sp21a_sdw00_alp_ovl.bmp)
-sp22a/68cea8/44f3d0.tga	(tri: sp22a)	(texture: sp21a_sdw01_alp_ovl.bmp)
-sp22a/68cea8/45f3d0.tga	(tri: sp22a)	(texture: sp21a_sdw02_alp_ovl.bmp)
-sp22a/68cea8/46f3d0.tga	(tri: sp22a)	(texture: sp21a_sdw03_alp_ovl.bmp)
-sp22a/68cea8/47f3d0.tga	(tri: sp22a)	(texture: sp21a_sdw04_alp_ovl.bmp)
-sp22a/68cea8/484cee.tga	(tri: sp22a)	(texture: sp21a_sdw06a_alp_ovl.bmp)
-sp22a/68cea8/48f3d0.tga	(tri: sp22a)	(texture: sp21a_sdw05_alp_ovl.bmp)
-sp22a/68cea8/494cee.tga	(tri: sp22a)	(texture: sp21a_sdw06b_alp_ovl.bmp)
-sp22a/68cea8/49f3d0.tga	(tri: sp22a)	(texture: sp21a_sdw06_alp_ovl.bmp)
-sp22a/68cea8/4a4cee.tga	(tri: sp22a)	(texture: sp21a_sdw06c_alp_ovl.bmp)
-sp22a/68cea8/4af3d0.tga	(tri: sp22a)	(texture: sp21a_sdw07_alp_ovl.bmp)
-sp22a/68cea8/4b4cee.tga	(tri: sp22a)	(texture: sp21a_sdw06d_alp_ovl.bmp)
-sp22a/68cea8/4bf3d0.tga	(tri: sp22a)	(texture: sp21a_sdw08_alp_ovl.bmp)
-sp22a/68cea8/4cf3d0.tga	(tri: sp22a)	(texture: sp21a_sdw09_alp_ovl.bmp)
-sp22a/68cea8/4e828a.tga	(tri: sp22a)	(texture: sp21a_sdwbox00a_alp_ovl.bmp)
-sp22a/68cea8/63f3d0.tga	(tri: sp22a)	(texture: sp21a_sdw10_alp_ovl.bmp)
-sp22a/68cea8/64f3d0.tga	(tri: sp22a)	(texture: sp21a_sdw11_alp_ovl.bmp)
-sp22a/68cea8/684cee.tga	(tri: sp22a)	(texture: sp21a_sdw07a_alp_ovl.bmp)
-sp22a/68cea8/694cee.tga	(tri: sp22a)	(texture: sp21a_sdw07b_alp_ovl.bmp)
-sp22a/68cea8/6a4cee.tga	(tri: sp22a)	(texture: sp21a_sdw07c_alp_ovl.bmp)
-sp22a/68cea8/6e828a.tga	(tri: sp22a)	(texture: sp21a_sdwbox01a_alp_ovl.bmp_627c0aff71e2c0006ff00d92280ffb2c)
-sp22a/68cea8/884ced.tga	(tri: sp22a)	(texture: sp21a_sdw00a_alp_ovl.bmp)
-sp22a/68cea8/884cee.tga	(tri: sp22a)	(texture: sp21a_sdw08a_alp_ovl.bmp)
-sp22a/68cea8/884cf1.tga	(tri: sp22a)	(texture: sp21a_sdw10a_alp_ovl.bmp)
-sp22a/68cea8/894ced.tga	(tri: sp22a)	(texture: sp21a_sdw00b_alp_ovl.bmp)
-sp22a/68cea8/894cee.tga	(tri: sp22a)	(texture: sp21a_sdw08b_alp_ovl.bmp)
-sp22a/68cea8/8a4cee.tga	(tri: sp22a)	(texture: sp21a_sdw08c_alp_ovl.bmp)
-sp22a/68cea8/8b4cee.tga	(tri: sp22a)	(texture: sp21a_sdw08d_alp_ovl.bmp)
-sp22a/68cea8/8d4ced.tga	(tri: sp22a)	(texture: sp21a_sdw00f_alp_ovl.bmp)
-sp22a/68cea8/8e4ced.tga	(tri: sp22a)	(texture: sp21a_sdw00g_alp_ovl.bmp)
-sp22a/68cea8/8e828a.tga	(tri: sp22a)	(texture: sp21a_sdwbox02a_alp_ovl.bmp)
-sp22a/68cea8/8f4ced.tga	(tri: sp22a)	(texture: sp21a_sdw00h_alp_ovl.bmp)
-sp22a/68cea8/904ced.tga	(tri: sp22a)	(texture: sp21a_sdw00i_alp_ovl.bmp)
-sp22a/68cea8/914ced.tga	(tri: sp22a)	(texture: sp21a_sdw00j_alp_ovl.bmp)
-sp22a/68cea8/a84ced.tga	(tri: sp22a)	(texture: sp21a_sdw01a_alp_ovl.bmp)
-sp22a/68cea8/a94cee.tga	(tri: sp22a)	(texture: sp21a_sdw09b_alp_ovl.bmp)
-sp22a/68cea8/aa4cee.tga	(tri: sp22a)	(texture: sp21a_sdw09c_alp_ovl.bmp)
-sp22a/68cea8/ac4ced.tga	(tri: sp22a)	(texture: sp21a_sdw01e_alp_ovl.bmp)
-sp22a/68cea8/ae828a.tga	(tri: sp22a)	(texture: sp21a_sdwbox03a_alp_ovl.bmp)
-sp22a/68cea8/c294ff.tga	(tri: sp22a)	(texture: sp21a_sdwwl00_alp_ovl.bmp)
-sp22a/68cea8/c394ff.tga	(tri: sp22a)	(texture: sp21a_sdwwl01_alp_ovl.bmp)
-sp22a/68cea8/c494ff.tga	(tri: sp22a)	(texture: sp21a_sdwwl02_alp_ovl.bmp)
-sp22a/68cea8/c594ff.tga	(tri: sp22a)	(texture: sp21a_sdwwl03_alp_ovl.bmp)
-sp22a/68cea8/c694ff.tga	(tri: sp22a)	(texture: sp21a_sdwwl04_alp_ovl.bmp)
-sp22a/68cea8/c84ced.tga	(tri: sp22a)	(texture: sp21a_sdw02a_alp_ovl.bmp)
-sp22a/68cea8/c94ced.tga	(tri: sp22a)	(texture: sp21a_sdw02b_alp_ovl.bmp)
-sp22a/68cea8/ca4ced.tga	(tri: sp22a)	(texture: sp21a_sdw02c_alp_ovl.bmp)
-sp22a/68cea8/cb4ced.tga	(tri: sp22a)	(texture: sp21a_sdw02d_alp_ovl.bmp)
-sp22a/68cea8/cc4ced.tga	(tri: sp22a)	(texture: sp21a_sdw02e_alp_ovl.bmp)
-sp22a/68cea8/cd4ced.tga	(tri: sp22a)	(texture: sp21a_sdw02f_alp_ovl.bmp)
-sp22a/68cea8/ce4ced.tga	(tri: sp22a)	(texture: sp21a_sdw02g_alp_ovl.bmp)
-sp22a/68cea8/ce828a.tga	(tri: sp22a)	(texture: sp21a_sdwbox04a_alp_ovl.bmp)
-sp22a/68cea8/cf4ced.tga	(tri: sp22a)	(texture: sp21a_sdw02h_alp_ovl.bmp)
-sp22a/68cea8/e84ced.tga	(tri: sp22a)	(texture: sp21a_sdw03a_alp_ovl.bmp)
-sp22a/68cea8/e94ced.tga	(tri: sp22a)	(texture: sp21a_sdw03b_alp_ovl.bmp)
-sp22a/68cea8/ed4ced.tga	(tri: sp22a)	(texture: sp21a_sdw03f_alp_ovl.bmp)
-sp22a/68cea8/ee4ced.tga	(tri: sp22a)	(texture: sp21a_sdw03g_alp_ovl.bmp)
-sp22a/68cea8/ee828a.tga	(tri: sp22a)	(texture: sp21a_sdwbox05a_alp_ovl.bmp)
-sp22a/68cea8/ef4ced.tga	(tri: sp22a)	(texture: sp21a_sdw03h_alp_ovl.bmp)
-sp22a/68cea8/f04ced.tga	(tri: sp22a)	(texture: sp21a_sdw03i_alp_ovl.bmp)
-sp22a/68cea8/f14ced.tga	(tri: sp22a)	(texture: sp21a_sdw03j_alp_ovl.bmp)
-sp25a/68cf08/03f3f1.tga	(tri: sp25a)	(texture: sp25a_sdw60_alp_ovl.bmp)
-sp25a/68cf08/04f3f1.tga	(tri: sp25a)	(texture: sp25a_sdw61_alp_ovl.bmp)
-sp25a/68cf08/05f3f1.tga	(tri: sp25a)	(texture: sp25a_sdw62_alp_ovl.bmp)
-sp25a/68cf08/06f3f1.tga	(tri: sp25a)	(texture: sp25a_sdw63_alp_ovl.bmp)
-sp25a/68cf08/07f3f1.tga	(tri: sp25a)	(texture: sp25a_sdw64_alp_ovl.bmp)
-sp25a/68cf08/08f3f1.tga	(tri: sp25a)	(texture: sp25a_sdw65_alp_ovl.bmp)
-sp25a/68cf08/17c804.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_alp_ovl.bmp)
-sp25a/68cf08/19c804.tga	(tri: sp25a)	(texture: sp25a_sdw_dan03_alp_ovl.bmp)
-sp25a/68cf08/1ac804.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_alp_ovl.bmp)
-sp25a/68cf08/1dc804.tga	(tri: sp25a)	(texture: sp25a_sdw_dan07_alp_ovl.bmp)
-sp25a/68cf08/1dd1be.tga	(tri: sp25a)	(texture: sp25a_sdw_kaidan_alp_ovl.bmp)
-sp25a/68cf08/44f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw01_alp_ovl.bmp)
-sp25a/68cf08/45f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw02_alp_ovl.bmp)
-sp25a/68cf08/46f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw03_alp_ovl.bmp)
-sp25a/68cf08/47f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw04_alp_ovl.bmp)
-sp25a/68cf08/48f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw05_alp_ovl.bmp)
-sp25a/68cf08/49f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw06_alp_ovl.bmp)
-sp25a/68cf08/4af3f0.tga	(tri: sp25a)	(texture: sp25a_sdw07_alp_ovl.bmp)
-sp25a/68cf08/4bf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw08_alp_ovl.bmp)
-sp25a/68cf08/4cf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw09_alp_ovl.bmp)
-sp25a/68cf08/60cf83.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_10_alp_ovl.bmp)
-sp25a/68cf08/60d003.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_10_alp_ovl.bmp)
-sp25a/68cf08/60d103.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_10_alp_ovl.bmp)
-sp25a/68cf08/60d303.tga	(tri: sp25a)	(texture: sp25a_sdw_dan08_10_alp_ovl.bmp)
-sp25a/68cf08/60d383.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_10_alp_ovl.bmp)
-sp25a/68cf08/61cf83.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_11_alp_ovl.bmp)
-sp25a/68cf08/61d003.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_11_alp_ovl.bmp)
-sp25a/68cf08/61d103.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_11_alp_ovl.bmp)
-sp25a/68cf08/61d383.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_11_alp_ovl.bmp)
-sp25a/68cf08/62d103.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_12_alp_ovl.bmp)
-sp25a/68cf08/63d103.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_13_alp_ovl.bmp)
-sp25a/68cf08/63f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw10_alp_ovl.bmp)
-sp25a/68cf08/64d103.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_14_alp_ovl.bmp)
-sp25a/68cf08/64f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw11_alp_ovl.bmp)
-sp25a/68cf08/65d103.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_15_alp_ovl.bmp)
-sp25a/68cf08/65f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw12_alp_ovl.bmp)
-sp25a/68cf08/66d103.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_16_alp_ovl.bmp)
-sp25a/68cf08/66f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw13_alp_ovl.bmp)
-sp25a/68cf08/67d103.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_17_alp_ovl.bmp)
-sp25a/68cf08/67f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw14_alp_ovl.bmp)
-sp25a/68cf08/68d103.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_18_alp_ovl.bmp)
-sp25a/68cf08/68f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw15_alp_ovl.bmp)
-sp25a/68cf08/69d103.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_19_alp_ovl.bmp)
-sp25a/68cf08/69f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw16_alp_ovl.bmp)
-sp25a/68cf08/6af3f0.tga	(tri: sp25a)	(texture: sp25a_sdw17_alp_ovl.bmp)
-sp25a/68cf08/6bf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw18_alp_ovl.bmp)
-sp25a/68cf08/6cf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw19_alp_ovl.bmp)
-sp25a/68cf08/83f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw20_alp_ovl.bmp)
-sp25a/68cf08/84f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw21_alp_ovl.bmp)
-sp25a/68cf08/85f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw22_alp_ovl.bmp)
-sp25a/68cf08/86f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw23_alp_ovl.bmp)
-sp25a/68cf08/87f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw24_alp_ovl.bmp)
-sp25a/68cf08/88f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw25_alp_ovl.bmp)
-sp25a/68cf08/89f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw26_alp_ovl.bmp)
-sp25a/68cf08/8af3f0.tga	(tri: sp25a)	(texture: sp25a_sdw27_alp_ovl.bmp)
-sp25a/68cf08/8bf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw28_alp_ovl.bmp)
-sp25a/68cf08/8cf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw29_alp_ovl.bmp)
-sp25a/68cf08/a2f16b.tga	(tri: sp25a)	(texture: sp25a_sdw_gray_alp_ovl.bmp)
-sp25a/68cf08/a3f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw30_alp_ovl.bmp)
-sp25a/68cf08/a4f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw31_alp_ovl.bmp)
-sp25a/68cf08/a5f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw32_alp_ovl.bmp)
-sp25a/68cf08/a6f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw33_alp_ovl.bmp)
-sp25a/68cf08/a7f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw34_alp_ovl.bmp)
-sp25a/68cf08/a8f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw35_alp_ovl.bmp)
-sp25a/68cf08/a9f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw36_alp_ovl.bmp)
-sp25a/68cf08/aaf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw37_alp_ovl.bmp)
-sp25a/68cf08/abf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw38_alp_ovl.bmp)
-sp25a/68cf08/acf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw39_alp_ovl.bmp)
-sp25a/68cf08/c3f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw40_alp_ovl.bmp)
-sp25a/68cf08/c4f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw41_alp_ovl.bmp)
-sp25a/68cf08/c5f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw42_alp_ovl.bmp)
-sp25a/68cf08/c6f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw43_alp_ovl.bmp)
-sp25a/68cf08/c7f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw44_alp_ovl.bmp)
-sp25a/68cf08/c8f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw45_alp_ovl.bmp)
-sp25a/68cf08/c9f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw46_alp_ovl.bmp)
-sp25a/68cf08/cbf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw48_alp_ovl.bmp)
-sp25a/68cf08/ccf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw49_alp_ovl.bmp)
-sp25a/68cf08/d751b1.tga	(tri: sp25a)	(texture: sp25a_sdw_rp_alp_ovl.bmp)
-sp25a/68cf08/e3f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw50_alp_ovl.bmp)
-sp25a/68cf08/e4f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw51_alp_ovl.bmp)
-sp25a/68cf08/e5f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw52_alp_ovl.bmp)
-sp25a/68cf08/e6f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw53_alp_ovl.bmp)
-sp25a/68cf08/e7f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw54_alp_ovl.bmp)
-sp25a/68cf08/e8f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw55_alp_ovl.bmp)
-sp25a/68cf08/e9f3f0.tga	(tri: sp25a)	(texture: sp25a_sdw56_alp_ovl.bmp)
-sp25a/68cf08/eaf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw57_alp_ovl.bmp)
-sp25a/68cf08/ebf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw58_alp_ovl.bmp)
-sp25a/68cf08/ecf3f0.tga	(tri: sp25a)	(texture: sp25a_sdw59_alp_ovl.bmp)
-sp25a/68cf08/f43fe8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_1_alp_ovl.bmp)
-sp25a/68cf08/f43ff0.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_1_alp_ovl.bmp)
-sp25a/68cf08/f43ff4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan05_1_alp_ovl.bmp)
-sp25a/68cf08/f43ff8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan06_1_alp_ovl.bmp)
-sp25a/68cf08/f44000.tga	(tri: sp25a)	(texture: sp25a_sdw_dan08_1_alp_ovl.bmp)
-sp25a/68cf08/f44004.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_1_alp_ovl.bmp)
-sp25a/68cf08/f53fe4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_2_alp_ovl.bmp)
-sp25a/68cf08/f53fe8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_2_alp_ovl.bmp)
-sp25a/68cf08/f53ff0.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_2_alp_ovl.bmp)
-sp25a/68cf08/f53ff4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan05_2_alp_ovl.bmp)
-sp25a/68cf08/f53ff8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan06_2_alp_ovl.bmp)
-sp25a/68cf08/f54000.tga	(tri: sp25a)	(texture: sp25a_sdw_dan08_2_alp_ovl.bmp)
-sp25a/68cf08/f54004.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_2_alp_ovl.bmp)
-sp25a/68cf08/f63fe4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_3_alp_ovl.bmp)
-sp25a/68cf08/f63fe8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_3_alp_ovl.bmp)
-sp25a/68cf08/f63ff0.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_3_alp_ovl.bmp)
-sp25a/68cf08/f63ff4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan05_3_alp_ovl.bmp)
-sp25a/68cf08/f63ff8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan06_3_alp_ovl.bmp)
-sp25a/68cf08/f64000.tga	(tri: sp25a)	(texture: sp25a_sdw_dan08_3_alp_ovl.bmp)
-sp25a/68cf08/f64004.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_3_alp_ovl.bmp)
-sp25a/68cf08/f73fe4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_4_alp_ovl.bmp)
-sp25a/68cf08/f73fe8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_4_alp_ovl.bmp)
-sp25a/68cf08/f73ff0.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_4_alp_ovl.bmp)
-sp25a/68cf08/f73ff4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan05_4_alp_ovl.bmp)
-sp25a/68cf08/f73ff8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan06_4_alp_ovl.bmp)
-sp25a/68cf08/f74000.tga	(tri: sp25a)	(texture: sp25a_sdw_dan08_4_alp_ovl.bmp)
-sp25a/68cf08/f74004.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_4_alp_ovl.bmp)
-sp25a/68cf08/f83fe4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_5_alp_ovl.bmp)
-sp25a/68cf08/f83fe8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_5_alp_ovl.bmp)
-sp25a/68cf08/f83ff0.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_5_alp_ovl.bmp)
-sp25a/68cf08/f83ff4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan05_5_alp_ovl.bmp)
-sp25a/68cf08/f83ff8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan06_5_alp_ovl.bmp)
-sp25a/68cf08/f84000.tga	(tri: sp25a)	(texture: sp25a_sdw_dan08_5_alp_ovl.bmp)
-sp25a/68cf08/f84004.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_5_alp_ovl.bmp)
-sp25a/68cf08/f93fe4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_6_alp_ovl.bmp)
-sp25a/68cf08/f93fe8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_6_alp_ovl.bmp)
-sp25a/68cf08/f93ff0.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_6_alp_ovl.bmp)
-sp25a/68cf08/f94000.tga	(tri: sp25a)	(texture: sp25a_sdw_dan08_6_alp_ovl.bmp)
-sp25a/68cf08/f94004.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_6_alp_ovl.bmp)
-sp25a/68cf08/fa3fe4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_7_alp_ovl.bmp)
-sp25a/68cf08/fa3fe8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_7_alp_ovl.bmp)
-sp25a/68cf08/fa3ff0.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_7_alp_ovl.bmp)
-sp25a/68cf08/fa4000.tga	(tri: sp25a)	(texture: sp25a_sdw_dan08_7_alp_ovl.bmp)
-sp25a/68cf08/fa4004.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_7_alp_ovl.bmp)
-sp25a/68cf08/fb3fe4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_8_alp_ovl.bmp)
-sp25a/68cf08/fb3fe8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_8_alp_ovl.bmp)
-sp25a/68cf08/fb3ff0.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_8_alp_ovl.bmp)
-sp25a/68cf08/fb4000.tga	(tri: sp25a)	(texture: sp25a_sdw_dan08_8_alp_ovl.bmp)
-sp25a/68cf08/fb4004.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_8_alp_ovl.bmp)
-sp25a/68cf08/fc3fe4.tga	(tri: sp25a)	(texture: sp25a_sdw_dan01_9_alp_ovl.bmp)
-sp25a/68cf08/fc3fe8.tga	(tri: sp25a)	(texture: sp25a_sdw_dan02_9_alp_ovl.bmp)
-sp25a/68cf08/fc3ff0.tga	(tri: sp25a)	(texture: sp25a_sdw_dan04_9_alp_ovl.bmp)
-sp25a/68cf08/fc4000.tga	(tri: sp25a)	(texture: sp25a_sdw_dan08_9_alp_ovl.bmp)
-sp25a/68cf08/fc4004.tga	(tri: sp25a)	(texture: sp25a_sdw_dan09_9_alp_ovl.bmp)
-st01a/9a4688/5051d0.tga	(tri: vs01a)	(texture: vs01a_sdw00_alp_ovl.bmp)
-st01a/9a4688/5151d0.tga	(tri: vs01a)	(texture: vs01a_sdw01_alp_ovl.bmp)
-st01a/9a4688/5251d0.tga	(tri: vs01a)	(texture: vs01a_sdw02_alp_ovl.bmp)
-st01a/9a4688/5351d0.tga	(tri: vs01a)	(texture: vs01a_sdw03_alp_ovl.bmp)
-st01a/9a4688/5451d0.tga	(tri: vs01a)	(texture: vs01a_sdw04_alp_ovl.bmp)
-st01a/9a4688/5551d0.tga	(tri: vs01a)	(texture: vs01a_sdw05_alp_ovl.bmp)
-st01a/9a4688/5651d0.tga	(tri: vs01a)	(texture: vs01a_sdw06_alp_ovl.bmp)
-st01a/9a4688/b40cef.tga	(tri: vs01a)	(texture: vs01a_sdw05a_alp_ovl.bmp)
-st01a/9a4688/d40cef.tga	(tri: vs01a)	(texture: vs01a_sdw06a_alp_ovl.bmp)
-st02a/9a46a8/5151d8.tga	(tri: vs02a)	(texture: vs02a_sdw01_alp_ovl.bmp)
-st02a/9a46a8/5251d8.tga	(tri: vs02a)	(texture: vs02a_sdw02_alp_ovl.bmp)
-st02a/9a46a8/5351d8.tga	(tri: vs02a)	(texture: vs02a_sdw03_alp_ovl.bmp)
-st02a/9a46a8/5451d8.tga	(tri: vs02a)	(texture: vs02a_sdw04_alp_ovl.bmp)
-st02a/9a46a8/5551d8.tga	(tri: vs02a)	(texture: vs02a_sdw05_alp_ovl.bmp)
-st03a/9a46c8/340eef.tga	(tri: vs03a)	(texture: vs03a_sdw01a_alp_ovl.bmp)
-st03a/9a46c8/5051e0.tga	(tri: vs03a)	(texture: vs03a_sdw00_alp_ovl.bmp)
-st03a/9a46c8/5151e0.tga	(tri: vs03a)	(texture: vs03a_sdw01_alp_ovl.bmp)
-st03a/9a46c8/5251e0.tga	(tri: vs03a)	(texture: vs03a_sdw02_alp_ovl.bmp)
-st03a/9a46c8/5351e0.tga	(tri: vs03a)	(texture: vs03a_sdw03_alp_ovl.bmp)
-st03a/9a46c8/5451e0.tga	(tri: vs03a)	(texture: vs03a_sdw04_alp_ovl.bmp)
-st03a/9a46c8/5551e0.tga	(tri: vs03a)	(texture: vs03a_sdw05_alp_ovl.bmp)
-st03a/9a46c8/940eef.tga	(tri: vs03a)	(texture: vs03a_sdw04a_alp_ovl.bmp)
-st03a/9a46c8/b40eef.tga	(tri: vs03a)	(texture: vs03a_sdw05a_alp_ovl.bmp)
-st03a/9a46c8/b50eef.tga	(tri: vs03a)	(texture: vs03a_sdw05b_alp_ovl.bmp)
-st04a/9a46e8/5151e8.tga	(tri: vs04a)	(texture: vs04a_sdw01_alp_ovl.bmp)
-st04a/9a46e8/5251e8.tga	(tri: vs04a)	(texture: vs04a_sdw02_alp_ovl.bmp)
-st04a/9a46e8/5351e8.tga	(tri: vs04a)	(texture: vs04a_sdw03_alp_ovl.bmp)
-st04a/9a46e8/5451e8.tga	(tri: vs04a)	(texture: vs04a_sdw04_alp_ovl.bmp)
-st04a/9a46e8/5551e8.tga	(tri: vs04a)	(texture: vs04a_sdw05_alp_ovl.bmp)
-st04a/9a46e8/5651e8.tga	(tri: vs04a)	(texture: vs04a_sdw06_alp_ovl.bmp)
-st05a/9a4768/1413ef.tga	(tri: vs08a)	(texture: vs08a_sdw00a_alp_ovl.bmp)
-st05a/9a4768/1513ef.tga	(tri: vs08a)	(texture: vs08a_sdw00b_alp_ovl.bmp)
-st05a/9a4768/1613ef.tga	(tri: vs08a)	(texture: vs08a_sdw00c_alp_ovl.bmp)
-st05a/9a4768/1713ef.tga	(tri: vs08a)	(texture: vs08a_sdw00d_alp_ovl.bmp)
-st05a/9a4768/1813ef.tga	(tri: vs08a)	(texture: vs08a_sdw00e_alp_ovl.bmp)
-st05a/9a4768/1913ef.tga	(tri: vs08a)	(texture: vs08a_sdw00f_alp_ovl.bmp)
-st05a/9a4768/1a13ef.tga	(tri: vs08a)	(texture: vs08a_sdw00g_alp_ovl.bmp)
-st05a/9a4768/3413ef.tga	(tri: vs08a)	(texture: vs08a_sdw01a_alp_ovl.bmp)
-st05a/9a4768/3513ef.tga	(tri: vs08a)	(texture: vs08a_sdw01b_alp_ovl.bmp)
-st05a/9a4768/3613ef.tga	(tri: vs08a)	(texture: vs08a_sdw01c_alp_ovl.bmp)
-st05a/9a4768/3713ef.tga	(tri: vs08a)	(texture: vs08a_sdw01d_alp_ovl.bmp)
-st05a/9a4768/3913ef.tga	(tri: vs08a)	(texture: vs08a_sdw01f_alp_ovl.bmp)
-st05a/9a4768/3a13ef.tga	(tri: vs08a)	(texture: vs08a_sdw01g_alp_ovl.bmp)
-st05a/9a4768/3b13ef.tga	(tri: vs08a)	(texture: vs08a_sdw01h_alp_ovl.bmp)
-st05a/9a4768/3c13ef.tga	(tri: vs08a)	(texture: vs08a_sdw01i_alp_ovl.bmp)
-st05a/9a4768/3d13ef.tga	(tri: vs08a)	(texture: vs08a_sdw01j_alp_ovl.bmp)
-st05a/9a4768/4013ef.tga	(tri: vs08a)	(texture: vs08a_sdw01m_alp_ovl.bmp)
-st05a/9a4768/4113ef.tga	(tri: vs08a)	(texture: vs08a_sdw01n_alp_ovl.bmp)
-st05a/9a4768/4213ef.tga	(tri: vs08a)	(texture: vs08a_sdw01o_alp_ovl.bmp)
-st05a/9a4768/4313ef.tga	(tri: vs08a)	(texture: vs08a_sdw01p_alp_ovl.bmp)
-st05a/9a4768/4413ef.tga	(tri: vs08a)	(texture: vs08a_sdw01q_alp_ovl.bmp)
-st05a/9a4768/4513ef.tga	(tri: vs08a)	(texture: vs08a_sdw01r_alp_ovl.bmp)
-st05a/9a4768/505208.tga	(tri: vs08a)	(texture: vs08a_sdw00_alp_ovl.bmp)
-st05a/9a4768/515208.tga	(tri: vs08a)	(texture: vs08a_sdw01_alp_ovl.bmp)
-st05a/9a4768/525208.tga	(tri: vs08a)	(texture: vs08a_sdw02_alp_ovl.bmp)
-st05a/9a4768/535208.tga	(tri: vs08a)	(texture: vs08a_sdw03_alp_ovl.bmp)
-st05a/9a4768/5413ef.tga	(tri: vs08a)	(texture: vs08a_sdw02a_alp_ovl.bmp)
-st05a/9a4768/545208.tga	(tri: vs08a)	(texture: vs08a_sdw04_alp_ovl.bmp)
-st05a/9a4768/5513ef.tga	(tri: vs08a)	(texture: vs08a_sdw02b_alp_ovl.bmp)
-st05a/9a4768/555208.tga	(tri: vs08a)	(texture: vs08a_sdw05_alp_ovl.bmp)
-st05a/9a4768/5613ef.tga	(tri: vs08a)	(texture: vs08a_sdw02c_alp_ovl.bmp)
-st05a/9a4768/565208.tga	(tri: vs08a)	(texture: vs08a_sdw06_alp_ovl.bmp)
-st05a/9a4768/5713ef.tga	(tri: vs08a)	(texture: vs08a_sdw02d_alp_ovl.bmp)
-st05a/9a4768/5813ef.tga	(tri: vs08a)	(texture: vs08a_sdw02e_alp_ovl.bmp)
-st05a/9a4768/5913ef.tga	(tri: vs08a)	(texture: vs08a_sdw02f_alp_ovl.bmp)
-st05a/9a4768/7413ef.tga	(tri: vs08a)	(texture: vs08a_sdw03a_alp_ovl.bmp)
-st05a/9a4768/7513ef.tga	(tri: vs08a)	(texture: vs08a_sdw03b_alp_ovl.bmp)
-st05a/9a4768/7613ef.tga	(tri: vs08a)	(texture: vs08a_sdw03c_alp_ovl.bmp)
-st05a/9a4768/7713ef.tga	(tri: vs08a)	(texture: vs08a_sdw03d_alp_ovl.bmp)
-st05a/9a4768/7813ef.tga	(tri: vs08a)	(texture: vs08a_sdw03e_alp_ovl.bmp)
-st05a/9a4768/7913ef.tga	(tri: vs08a)	(texture: vs08a_sdw03f_alp_ovl.bmp)
-st05a/9a4768/7a13ef.tga	(tri: vs08a)	(texture: vs08a_sdw03g_alp_ovl.bmp)
-st05a/9a4768/7b13ef.tga	(tri: vs08a)	(texture: vs08a_sdw03h_alp_ovl.bmp)
-st05a/9a4768/7c13ef.tga	(tri: vs08a)	(texture: vs08a_sdw03i_alp_ovl.bmp)
-st05a/9a4768/7d13ef.tga	(tri: vs08a)	(texture: vs08a_sdw03j_alp_ovl.bmp)
-st05a/9a4768/7e13ef.tga	(tri: vs08a)	(texture: vs08a_sdw03k_alp_ovl.bmp)
-st05a/9a4768/7f13ef.tga	(tri: vs08a)	(texture: vs08a_sdw03l_alp_ovl.bmp)
-st05a/9a4768/8113ef.tga	(tri: vs08a)	(texture: vs08a_sdw03n_alp_ovl.bmp)
-st05a/9a4768/8213ef.tga	(tri: vs08a)	(texture: vs08a_sdw03o_alp_ovl.bmp)
-st05a/9a4768/9513ef.tga	(tri: vs08a)	(texture: vs08a_sdw04b_alp_ovl.bmp)
-st05a/9a4768/9613ef.tga	(tri: vs08a)	(texture: vs08a_sdw04c_alp_ovl.bmp)
-st05a/9a4768/9713ef.tga	(tri: vs08a)	(texture: vs08a_sdw04d_alp_ovl.bmp)
-st05a/9a4768/b413ef.tga	(tri: vs08a)	(texture: vs08a_sdw05a_alp_ovl.bmp)
-st05a/9a4768/b513ef.tga	(tri: vs08a)	(texture: vs08a_sdw05b_alp_ovl.bmp)
-st05a/9a4768/b613ef.tga	(tri: vs08a)	(texture: vs08a_sdw05c_alp_ovl.bmp)
-st05a/9a4768/b713ef.tga	(tri: vs08a)	(texture: vs08a_sdw05d_alp_ovl.bmp)
-st05a/9a4768/b813ef.tga	(tri: vs08a)	(texture: vs08a_sdw05e_alp_ovl.bmp)
-st05a/9a4768/b913ef.tga	(tri: vs08a)	(texture: vs08a_sdw05f_alp_ovl.bmp)
-st05a/9a4768/ba13ef.tga	(tri: vs08a)	(texture: vs08a_sdw05g_alp_ovl.bmp)
-st05a/9a4768/bb13ef.tga	(tri: vs08a)	(texture: vs08a_sdw05h_alp_ovl.bmp)
-st05a/9a4768/bc13ef.tga	(tri: vs08a)	(texture: vs08a_sdw05i_alp_ovl.bmp)
-st05a/9a4768/bd13ef.tga	(tri: vs08a)	(texture: vs08a_sdw05j_alp_ovl.bmp)
-st05a/9a4768/be13ef.tga	(tri: vs08a)	(texture: vs08a_sdw05k_alp_ovl.bmp)
-st05a/9a4768/bf13ef.tga	(tri: vs08a)	(texture: vs08a_sdw05l_alp_ovl.bmp)
-st05a/9a4768/d413ef.tga	(tri: vs08a)	(texture: vs08a_sdw06a_alp_ovl.bmp)
-st05a/9a4768/d513ef.tga	(tri: vs08a)	(texture: vs08a_sdw06b_alp_ovl.bmp)
-st05a/9a4768/d613ef.tga	(tri: vs08a)	(texture: vs08a_sdw06c_alp_ovl.bmp)
-st05a/9a4768/d713ef.tga	(tri: vs08a)	(texture: vs08a_sdw06d_alp_ovl.bmp)
-st05a/9a4768/d813ef.tga	(tri: vs08a)	(texture: vs08a_sdw06e_alp_ovl.bmp)
-tvs05a/9a4708/5151f0.tga	(tri: vs05a)	(texture: vs05a_sdw01_alp_ovl.bmp)
-tvs05a/9a4708/5251f0.tga	(tri: vs05a)	(texture: vs05a_sdw02_alp_ovl.bmp)
-tvs05a/9a4708/5351f0.tga	(tri: vs05a)	(texture: vs05a_sdw03_alp_ovl.bmp)
-tvs05a/9a4708/5410ef.tga	(tri: vs05a)	(texture: vs05a_sdw02a_alp_ovl.bmp)
-tvs05a/9a4708/5451f0.tga	(tri: vs05a)	(texture: vs05a_sdw04_alp_ovl.bmp)
-tvs05a/9a4708/5510ef.tga	(tri: vs05a)	(texture: vs05a_sdw02b_alp_ovl.bmp)
-tvs05a/9a4708/5551f0.tga	(tri: vs05a)	(texture: vs05a_sdw05_alp_ovl.bmp)
-tvs05a/9a4708/5651f0.tga	(tri: vs05a)	(texture: vs05a_sdw06_alp_ovl.bmp)
-tvs05a/9a4708/5710ef.tga	(tri: vs05a)	(texture: vs05a_sdw02d_alp_ovl.bmp)
-tvs05a/9a4708/7410ef.tga	(tri: vs05a)	(texture: vs05a_sdw03a_alp_ovl.bmp)
-tvs05a/9a4708/7510ef.tga	(tri: vs05a)	(texture: vs05a_sdw03b_alp_ovl.bmp)
-tvs05a/9a4708/7610ef.tga	(tri: vs05a)	(texture: vs05a_sdw03c_alp_ovl.bmp)
-tvs05a/9a4708/7710ef.tga	(tri: vs05a)	(texture: vs05a_sdw03d_alp_ovl.bmp)
-tvs05a/9a4708/7810ef.tga	(tri: vs05a)	(texture: vs05a_sdw03e_alp_ovl.bmp)
-tvs05a/9a4708/7910ef.tga	(tri: vs05a)	(texture: vs05a_sdw03f_alp_ovl.bmp)
-tvs05a/9a4708/7a10ef.tga	(tri: vs05a)	(texture: vs05a_sdw03g_alp_ovl.bmp)
-tvs05a/9a4708/7b10ef.tga	(tri: vs05a)	(texture: vs05a_sdw03h_alp_ovl.bmp)
-tvs05a/9a4708/7c10ef.tga	(tri: vs05a)	(texture: vs05a_sdw03i_alp_ovl.bmp)
-tvs05a/9a4708/7d10ef.tga	(tri: vs05a)	(texture: vs05a_sdw03j_alp_ovl.bmp)
-tvs05a/9a4708/7e10ef.tga	(tri: vs05a)	(texture: vs05a_sdw03k_alp_ovl.bmp)
-tvs05a/9a4708/7f10ef.tga	(tri: vs05a)	(texture: vs05a_sdw03l_alp_ovl.bmp)
-tvs05a/9a4708/8010ef.tga	(tri: vs05a)	(texture: vs05a_sdw03m_alp_ovl.bmp)
-tvs05a/9a4708/8110ef.tga	(tri: vs05a)	(texture: vs05a_sdw03n_alp_ovl.bmp)
-tvs05a/9a4708/8210ef.tga	(tri: vs05a)	(texture: vs05a_sdw03o_alp_ovl.bmp)
-tvs05a/9a4708/8310ef.tga	(tri: vs05a)	(texture: vs05a_sdw03p_alp_ovl.bmp)
-tvs05a/9a4708/8410ef.tga	(tri: vs05a)	(texture: vs05a_sdw03q_alp_ovl.bmp)
-tvs05a/9a4708/8510ef.tga	(tri: vs05a)	(texture: vs05a_sdw03r_alp_ovl.bmp)
-tvs05a/9a4708/8610ef.tga	(tri: vs05a)	(texture: vs05a_sdw03s_alp_ovl.bmp)
-tvs05a/9a4708/8710ef.tga	(tri: vs05a)	(texture: vs05a_sdw03t_alp_ovl.bmp)
-tvs05a/9a4708/8810ef.tga	(tri: vs05a)	(texture: vs05a_sdw03u_alp_ovl.bmp)
-tvs05a/9a4708/8910ef.tga	(tri: vs05a)	(texture: vs05a_sdw03v_alp_ovl.bmp)
-tvs05a/9a4708/8a10ef.tga	(tri: vs05a)	(texture: vs05a_sdw03w_alp_ovl.bmp)
-tvs05a/9a4708/b410ef.tga	(tri: vs05a)	(texture: vs05a_sdw05a_alp_ovl.bmp)
-tvs05a/9a4708/b510ef.tga	(tri: vs05a)	(texture: vs05a_sdw05b_alp_ovl.bmp)
-tvs05a/9a4708/b610ef.tga	(tri: vs05a)	(texture: vs05a_sdw05c_alp_ovl.bmp)
-tvs05a/9a4708/b710ef.tga	(tri: vs05a)	(texture: vs05a_sdw05d_alp_ovl.bmp)
-tvs05a/9a4708/b810ef.tga	(tri: vs05a)	(texture: vs05a_sdw05e_alp_ovl.bmp)
-tvs05a/9a4708/d410ef.tga	(tri: vs05a)	(texture: vs05a_sdw06a_alp_ovl.bmp)
-tvs05a/9a4708/d510ef.tga	(tri: vs05a)	(texture: vs05a_sdw06b_alp_ovl.bmp)
-tvs05a/9a4708/d610ef.tga	(tri: vs05a)	(texture: vs05a_sdw06c_alp_ovl.bmp)
-tvs06a/9a4728/105908.tga	(tri: vs06a)	(texture: n_vs06a_sdw20_alp_ovl.bmp)
-tvs06a/9a4728/115908.tga	(tri: vs06a)	(texture: n_vs06a_sdw21_alp_ovl.bmp)
-tvs06a/9a4728/125908.tga	(tri: vs06a)	(texture: n_vs06a_sdw22_alp_ovl.bmp)
-tvs06a/9a4728/135908.tga	(tri: vs06a)	(texture: n_vs06a_sdw23_alp_ovl.bmp)
-tvs06a/9a4728/145908.tga	(tri: vs06a)	(texture: n_vs06a_sdw24_alp_ovl.bmp)
-tvs06a/9a4728/155908.tga	(tri: vs06a)	(texture: n_vs06a_sdw25_alp_ovl.bmp)
-tvs06a/9a4728/165908.tga	(tri: vs06a)	(texture: n_vs06a_sdw26_alp_ovl.bmp)
-tvs06a/9a4728/175908.tga	(tri: vs06a)	(texture: n_vs06a_sdw27_alp_ovl.bmp)
-tvs06a/9a4728/185908.tga	(tri: vs06a)	(texture: n_vs06a_sdw28_alp_ovl.bmp)
-tvs06a/9a4728/195908.tga	(tri: vs06a)	(texture: n_vs06a_sdw29_alp_ovl.bmp)
-tvs06a/9a4728/305908.tga	(tri: vs06a)	(texture: n_vs06a_sdw30_alp_ovl.bmp)
-tvs06a/9a4728/315908.tga	(tri: vs06a)	(texture: n_vs06a_sdw31_alp_ovl.bmp)
-tvs06a/9a4728/325908.tga	(tri: vs06a)	(texture: n_vs06a_sdw32_alp_ovl.bmp)
-tvs06a/9a4728/335908.tga	(tri: vs06a)	(texture: n_vs06a_sdw33_alp_ovl.bmp)
-tvs06a/9a4728/345908.tga	(tri: vs06a)	(texture: n_vs06a_sdw34_alp_ovl.bmp)
-tvs06a/9a4728/355908.tga	(tri: vs06a)	(texture: n_vs06a_sdw35_alp_ovl.bmp)
-tvs06a/9a4728/d05907.tga	(tri: vs06a)	(texture: n_vs06a_sdw00_alp_ovl.bmp)
-tvs06a/9a4728/d15907.tga	(tri: vs06a)	(texture: n_vs06a_sdw01_alp_ovl.bmp)
-tvs06a/9a4728/d35907.tga	(tri: vs06a)	(texture: n_vs06a_sdw03_alp_ovl.bmp)
-tvs06a/9a4728/d45907.tga	(tri: vs06a)	(texture: n_vs06a_sdw04_alp_ovl.bmp)
-tvs06a/9a4728/d55907.tga	(tri: vs06a)	(texture: n_vs06a_sdw05_alp_ovl.bmp)
-tvs06a/9a4728/d65907.tga	(tri: vs06a)	(texture: n_vs06a_sdw06_alp_ovl.bmp)
-tvs06a/9a4728/d75907.tga	(tri: vs06a)	(texture: n_vs06a_sdw07_alp_ovl.bmp)
-tvs06a/9a4728/d85907.tga	(tri: vs06a)	(texture: n_vs06a_sdw08_alp_ovl.bmp)
-tvs06a/9a4728/d95907.tga	(tri: vs06a)	(texture: n_vs06a_sdw09_alp_ovl.bmp)
-tvs06a/9a4728/f05907.tga	(tri: vs06a)	(texture: n_vs06a_sdw10_alp_ovl.bmp)
-tvs06a/9a4728/f15907.tga	(tri: vs06a)	(texture: n_vs06a_sdw11_alp_ovl.bmp)
-tvs06a/9a4728/f25907.tga	(tri: vs06a)	(texture: n_vs06a_sdw12_alp_ovl.bmp)
-tvs06a/9a4728/f35907.tga	(tri: vs06a)	(texture: n_vs06a_sdw13_alp_ovl.bmp)
-tvs06a/9a4728/f45907.tga	(tri: vs06a)	(texture: n_vs06a_sdw14_alp_ovl.bmp)
-tvs06a/9a4728/f65907.tga	(tri: vs06a)	(texture: n_vs06a_sdw16_alp_ovl.bmp)
-tvs06a/9a4728/f75907.tga	(tri: vs06a)	(texture: n_vs06a_sdw17_alp_ovl.bmp)
-tvs06a/9a4728/f85907.tga	(tri: vs06a)	(texture: n_vs06a_sdw18_alp_ovl.bmp)
-tvs06a/9a4728/f95907.tga	(tri: vs06a)	(texture: n_vs06a_sdw19_alp_ovl.bmp)
-twp03a/aa46e8/5551e8.tga	(tri: ws04a)	(texture: vs04a_sdw05_alp_ovl.bmp_3f1603f4c53b27d35bd771aa02e3be6a)
-twp03a/aa46e8/5751e8.tga	(tri: ws04a)	(texture: ws04a_sdw03_alp_ovl.bmp)
-twp03a/aa46e8/5851e8.tga	(tri: ws04a)	(texture: ws04a_sdw04_alp_ovl.bmp)
-twp03a/aa46e8/5951e8.tga	(tri: ws04a)	(texture: ws04a_sdw05_alp_ovl.bmp)
-twp03a/aa46e8/5a51e8.tga	(tri: ws04a)	(texture: ws04a_sdw06_alp_ovl.bmp)
-twp03a/aa46e8/5b51e8.tga	(tri: ws04a)	(texture: ws04a_sdw07_alp_ovl.bmp)
-twp03a/aa46e8/5c51e8.tga	(tri: ws04a)	(texture: ws04a_sdw08_alp_ovl.bmp)
-twp03a/aa46e8/5d51e8.tga	(tri: ws04a)	(texture: ws04a_sdw09_alp_ovl.bmp)
-twp03a/aa46e8/7451e8.tga	(tri: ws04a)	(texture: ws04a_sdw10_alp_ovl.bmp)
-twp03a/aa46e8/7651e8.tga	(tri: ws04a)	(texture: ws04a_sdw12_alp_ovl.bmp)
-twp03a/aa46e8/7751e8.tga	(tri: ws04a)	(texture: ws04a_sdw13_alp_ovl.bmp)
-twp03a/aa46e8/7851e8.tga	(tri: ws04a)	(texture: ws04a_sdw14_alp_ovl.bmp)
-twp03a/aa46e8/7951e8.tga	(tri: ws04a)	(texture: ws04a_sdw15_alp_ovl.bmp)
-twp03a/aa46e8/7a51e8.tga	(tri: ws04a)	(texture: ws04a_sdw16_alp_ovl.bmp)
-twp03a/aa46e8/7b51e8.tga	(tri: ws04a)	(texture: ws04a_sdw17_alp_ovl.bmp)
-twp03a/aa46e8/7c51e8.tga	(tri: ws04a)	(texture: ws04a_sdw18_alp_ovl.bmp)
-twp34a/aa52e8/5a578b.tga	(tri: ws34a)	(texture: ws34a_nsdw00_alp_ovl.bmp)
-twp34a/aa52e8/5b578b.tga	(tri: ws34a)	(texture: ws34a_nsdw01_alp_ovl.bmp)
-twp34a/aa52e8/7454e8.tga	(tri: ws34a)	(texture: ws34a_sdw10_alp_ovl.bmp)
-twp34a/aa52e8/9654e8.tga	(tri: ws34a)	(texture: ws34a_sdw22_alp_ovl.bmp)
-twp34a/aa52e8/9754e8.tga	(tri: ws34a)	(texture: ws34a_sdw23_alp_ovl.bmp)
-twp34a/aa52e8/9a54e8.tga	(tri: ws34a)	(texture: ws34a_sdw26_alp_ovl.bmp)
-twp34a/aa52e8/9b54e8.tga	(tri: ws34a)	(texture: ws34a_sdw27_alp_ovl.bmp)
-twp34a/aa52e8/b554e8.tga	(tri: ws34a)	(texture: ws34a_sdw31_alp_ovl.bmp)
-twp34a/aa52e8/b654e8.tga	(tri: ws34a)	(texture: ws34a_sdw32_alp_ovl.bmp)
-twp43a/aa56c8/5657e0.tga	(tri: ws43a)	(texture: ws43a_shw02_alp_ovl.bmp)
-twp43a/aa56c8/5757e0.tga	(tri: ws43a)	(texture: ws43a_shw03_alp_ovl.bmp)
-twp43a/aa56c8/5857e0.tga	(tri: ws43a)	(texture: ws43a_shw04_alp_ovl.bmp)
-twp43a/aa56c8/5957e0.tga	(tri: ws43a)	(texture: ws43a_shw05_alp_ovl.bmp)
-twp43a/aa56c8/5a57e0.tga	(tri: ws43a)	(texture: ws43a_shw06_alp_ovl.bmp)
-twp43a/aa56c8/5b57e0.tga	(tri: ws43a)	(texture: ws43a_shw07_alp_ovl.bmp)
-twp43a/aa56c8/5c57e0.tga	(tri: ws43a)	(texture: ws43a_shw08_alp_ovl.bmp)
-twp43a/aa56c8/5d57e0.tga	(tri: ws43a)	(texture: ws43a_shw09_alp_ovl.bmp)
-twp43a/aa56c8/7457e0.tga	(tri: ws43a)	(texture: ws43a_shw10_alp_ovl.bmp)
-twp43a/aa56c8/7557e0.tga	(tri: ws43a)	(texture: ws43a_shw11_alp_ovl.bmp)
-twp43a/aa56c8/7657e0.tga	(tri: ws43a)	(texture: ws43a_shw12_alp_ovl.bmp)
-twp43a/aa56c8/7757e0.tga	(tri: ws43a)	(texture: ws43a_shw13_alp_ovl.bmp)
-twp43a/aa56c8/7857e0.tga	(tri: ws43a)	(texture: ws43a_shw14_alp_ovl.bmp)
-twp43a/aa56c8/7957e0.tga	(tri: ws43a)	(texture: ws43a_shw15_alp_ovl.bmp)
-twp43a/aa56c8/7b57e0.tga	(tri: ws43a)	(texture: ws43a_shw17_alp_ovl.bmp)
-twp43a/aa56c8/7c57e0.tga	(tri: ws43a)	(texture: ws43a_shw18_alp_ovl.bmp)
-twp43a/aa56c8/7d57e0.tga	(tri: ws43a)	(texture: ws43a_shw19_alp_ovl.bmp)
-twp43a/aa56c8/9457e0.tga	(tri: ws43a)	(texture: ws43a_shw20_alp_ovl.bmp)
-twp43a/aa56c8/9557e0.tga	(tri: ws43a)	(texture: ws43a_shw21_alp_ovl.bmp)
-twp43a/aa56c8/9657e0.tga	(tri: ws43a)	(texture: ws43a_shw22_alp_ovl.bmp)
-vs07a/9a4748/515200.tga	(tri: vs07a)	(texture: vs07a_sdw01_alp_ovl.bmp)
-vs07a/9a4748/525200.tga	(tri: vs07a)	(texture: vs07a_sdw02_alp_ovl.bmp)
-vs07a/9a4748/535200.tga	(tri: vs07a)	(texture: vs07a_sdw03_alp_ovl.bmp)
-vs07a/9a4748/545200.tga	(tri: vs07a)	(texture: vs07a_sdw04_alp_ovl.bmp)
-vs07a/9a4748/555200.tga	(tri: vs07a)	(texture: vs07a_sdw05_alp_ovl.bmp)
-vs07a/9a4748/565200.tga	(tri: vs07a)	(texture: vs07a_sdw06_alp_ovl.bmp)
-vs07a/9a4748/585200.tga	(tri: vs07a)	(texture: vs07a_sdw08_alp_ovl.bmp)
-vs07a/9a4748/595200.tga	(tri: vs07a)	(texture: vs07a_sdw09_alp_ovl.bmp)
-vs07a/9a4748/715200.tga	(tri: vs07a)	(texture: vs07a_sdw11_alp_ovl.bmp)
-vs07a/9a4748/725200.tga	(tri: vs07a)	(texture: vs07a_sdw12_alp_ovl.bmp)
-vs07a/9a4748/735200.tga	(tri: vs07a)	(texture: vs07a_sdw13_alp_ovl.bmp)
-vs09a/9a4788/515210.tga	(tri: vs09a)	(texture: vs09a_sdw01_alp_ovl.bmp)
-vs09a/9a4788/525210.tga	(tri: vs09a)	(texture: vs09a_sdw02_alp_ovl.bmp)
-vs09a/9a4788/535210.tga	(tri: vs09a)	(texture: vs09a_sdw03_alp_ovl.bmp)
-vs09a/9a4788/555210.tga	(tri: vs09a)	(texture: vs09a_sdw05_alp_ovl.bmp)
-vs09a/9a4788/575210.tga	(tri: vs09a)	(texture: vs09a_sdw07_alp_ovl.bmp)
-vs09a/9a4788/585210.tga	(tri: vs09a)	(texture: vs09a_sdw08_alp_ovl.bmp)
-vs09a/9a4788/595210.tga	(tri: vs09a)	(texture: vs09a_sdw09_alp_ovl.bmp)
-vs09a/9a4788/705210.tga	(tri: vs09a)	(texture: vs09a_sdw10_alp_ovl.bmp)
-vs09a/9a4788/715210.tga	(tri: vs09a)	(texture: vs09a_sdw11_alp_ovl.bmp)
-vs09a/9a4788/725210.tga	(tri: vs09a)	(texture: vs09a_sdw12_alp_ovl.bmp)
-vs09a/9a4788/735210.tga	(tri: vs09a)	(texture: vs09a_sdw13_alp_ovl.bmp)
-vs09a/9a4788/745210.tga	(tri: vs09a)	(texture: vs09a_sdw14_alp_ovl.bmp)
-vs09a/9a4788/765210.tga	(tri: vs09a)	(texture: vs09a_sdw16_alp_ovl.bmp)
-vs10a/573de0/3c6673.tga	(tri: transcache_stage_vs10a)	(texture: vr2_amiyuka_add_alp.bmp)
-vs10a/9a4a68/142bef.tga	(tri: vs10a)	(texture: vs10a_sdw00a_alp_ovl.bmp)
-vs10a/9a4a68/142bf0.tga	(tri: vs10a)	(texture: vs10a_sdw08a_alp_ovl.bmp)
-vs10a/9a4a68/142bf3.tga	(tri: vs10a)	(texture: vs10a_sdw10a_alp_ovl.bmp)
-vs10a/9a4a68/152bf0.tga	(tri: vs10a)	(texture: vs10a_sdw08b_alp_ovl.bmp)
-vs10a/9a4a68/152bf3.tga	(tri: vs10a)	(texture: vs10a_sdw10b_alp_ovl.bmp)
-vs10a/9a4a68/162bf0.tga	(tri: vs10a)	(texture: vs10a_sdw08c_alp_ovl.bmp)
-vs10a/9a4a68/172bef.tga	(tri: vs10a)	(texture: vs10a_sdw00d_alp_ovl.bmp)
-vs10a/9a4a68/172bf0.tga	(tri: vs10a)	(texture: vs10a_sdw08d_alp_ovl.bmp)
-vs10a/9a4a68/342bef.tga	(tri: vs10a)	(texture: vs10a_sdw01a_alp_ovl.bmp)
-vs10a/9a4a68/342bf0.tga	(tri: vs10a)	(texture: vs10a_sdw09a_alp_ovl.bmp)
-vs10a/9a4a68/352bef.tga	(tri: vs10a)	(texture: vs10a_sdw01b_alp_ovl.bmp)
-vs10a/9a4a68/352bf0.tga	(tri: vs10a)	(texture: vs10a_sdw09b_alp_ovl.bmp)
-vs10a/9a4a68/362bf0.tga	(tri: vs10a)	(texture: vs10a_sdw09c_alp_ovl.bmp)
-vs10a/9a4a68/372bf0.tga	(tri: vs10a)	(texture: vs10a_sdw09d_alp_ovl.bmp)
-vs10a/9a4a68/382bf0.tga	(tri: vs10a)	(texture: vs10a_sdw09e_alp_ovl.bmp)
-vs10a/9a4a68/392bf0.tga	(tri: vs10a)	(texture: vs10a_sdw09f_alp_ovl.bmp)
-vs10a/9a4a68/5152c8.tga	(tri: vs10a)	(texture: vs10a_sdw01_alp_ovl.bmp)
-vs10a/9a4a68/5252c8.tga	(tri: vs10a)	(texture: vs10a_sdw02_alp_ovl.bmp)
-vs10a/9a4a68/5352c8.tga	(tri: vs10a)	(texture: vs10a_sdw03_alp_ovl.bmp)
-vs10a/9a4a68/542bef.tga	(tri: vs10a)	(texture: vs10a_sdw02a_alp_ovl.bmp)
-vs10a/9a4a68/5452c8.tga	(tri: vs10a)	(texture: vs10a_sdw04_alp_ovl.bmp)
-vs10a/9a4a68/552bef.tga	(tri: vs10a)	(texture: vs10a_sdw02b_alp_ovl.bmp)
-vs10a/9a4a68/552bf3.tga	(tri: vs10a)	(texture: vs10a_sdw12b_alp_ovl.bmp)
-vs10a/9a4a68/5552c8.tga	(tri: vs10a)	(texture: vs10a_sdw05_alp_ovl.bmp)
-vs10a/9a4a68/5752c8.tga	(tri: vs10a)	(texture: vs10a_sdw07_alp_ovl.bmp)
-vs10a/9a4a68/5852c8.tga	(tri: vs10a)	(texture: vs10a_sdw08_alp_ovl.bmp)
-vs10a/9a4a68/5952c8.tga	(tri: vs10a)	(texture: vs10a_sdw09_alp_ovl.bmp)
-vs10a/9a4a68/5e50d7.tga	(tri: vs10a)	(texture: vs10a_sdw04a0_alp_ovl.bmp)
-vs10a/9a4a68/5f50d7.tga	(tri: vs10a)	(texture: vs10a_sdw04a1_alp_ovl.bmp)
-vs10a/9a4a68/6050d7.tga	(tri: vs10a)	(texture: vs10a_sdw04a2_alp_ovl.bmp)
-vs10a/9a4a68/6150d7.tga	(tri: vs10a)	(texture: vs10a_sdw04a3_alp_ovl.bmp)
-vs10a/9a4a68/6250d7.tga	(tri: vs10a)	(texture: vs10a_sdw04a4_alp_ovl.bmp)
-vs10a/9a4a68/6350d7.tga	(tri: vs10a)	(texture: vs10a_sdw04a5_alp_ovl.bmp)
-vs10a/9a4a68/6450d7.tga	(tri: vs10a)	(texture: vs10a_sdw04a6_alp_ovl.bmp)
-vs10a/9a4a68/6550d7.tga	(tri: vs10a)	(texture: vs10a_sdw04a7_alp_ovl.bmp)
-vs10a/9a4a68/7052c8.tga	(tri: vs10a)	(texture: vs10a_sdw10_alp_ovl.bmp)
-vs10a/9a4a68/7352c8.tga	(tri: vs10a)	(texture: vs10a_sdw13_alp_ovl.bmp)
-vs10a/9a4a68/742bef.tga	(tri: vs10a)	(texture: vs10a_sdw03a_alp_ovl.bmp)
-vs10a/9a4a68/742bf3.tga	(tri: vs10a)	(texture: vs10a_sdw13a_alp_ovl.bmp)
-vs10a/9a4a68/752bef.tga	(tri: vs10a)	(texture: vs10a_sdw03b_alp_ovl.bmp)
-vs10a/9a4a68/762bef.tga	(tri: vs10a)	(texture: vs10a_sdw03c_alp_ovl.bmp)
-vs10a/9a4a68/772bef.tga	(tri: vs10a)	(texture: vs10a_sdw03d_alp_ovl.bmp)
-vs10a/9a4a68/7e50c7.tga	(tri: vs10a)	(texture: vs10a_sdw00b0_alp_ovl.bmp)
-vs10a/9a4a68/7e50d7.tga	(tri: vs10a)	(texture: vs10a_sdw04b0_alp_ovl.bmp)
-vs10a/9a4a68/7f50c7.tga	(tri: vs10a)	(texture: vs10a_sdw00b1_alp_ovl.bmp)
-vs10a/9a4a68/7f50d7.tga	(tri: vs10a)	(texture: vs10a_sdw04b1_alp_ovl.bmp)
-vs10a/9a4a68/8050c7.tga	(tri: vs10a)	(texture: vs10a_sdw00b2_alp_ovl.bmp)
-vs10a/9a4a68/8050d7.tga	(tri: vs10a)	(texture: vs10a_sdw04b2_alp_ovl.bmp)
-vs10a/9a4a68/8150c7.tga	(tri: vs10a)	(texture: vs10a_sdw00b3_alp_ovl.bmp)
-vs10a/9a4a68/8250c7.tga	(tri: vs10a)	(texture: vs10a_sdw00b4_alp_ovl.bmp)
-vs10a/9a4a68/952bef.tga	(tri: vs10a)	(texture: vs10a_sdw04b_alp_ovl.bmp)
-vs10a/9a4a68/962bef.tga	(tri: vs10a)	(texture: vs10a_sdw04c_alp_ovl.bmp)
-vs10a/9a4a68/9e50c7.tga	(tri: vs10a)	(texture: vs10a_sdw00c0_alp_ovl.bmp)
-vs10a/9a4a68/9e50cb.tga	(tri: vs10a)	(texture: vs10a_sdw01c0_alp_ovl.bmp)
-vs10a/9a4a68/9e50d3.tga	(tri: vs10a)	(texture: vs10a_sdw03c0_alp_ovl.bmp)
-vs10a/9a4a68/9e50d7.tga	(tri: vs10a)	(texture: vs10a_sdw04c0_alp_ovl.bmp)
-vs10a/9a4a68/9f50c7.tga	(tri: vs10a)	(texture: vs10a_sdw00c1_alp_ovl.bmp)
-vs10a/9a4a68/9f50cb.tga	(tri: vs10a)	(texture: vs10a_sdw01c1_alp_ovl.bmp)
-vs10a/9a4a68/9f50d3.tga	(tri: vs10a)	(texture: vs10a_sdw03c1_alp_ovl.bmp)
-vs10a/9a4a68/9f50d7.tga	(tri: vs10a)	(texture: vs10a_sdw04c1_alp_ovl.bmp)
-vs10a/9a4a68/a050cb.tga	(tri: vs10a)	(texture: vs10a_sdw01c2_alp_ovl.bmp)
-vs10a/9a4a68/a050d3.tga	(tri: vs10a)	(texture: vs10a_sdw03c2_alp_ovl.bmp)
-vs10a/9a4a68/a050d7.tga	(tri: vs10a)	(texture: vs10a_sdw04c2_alp_ovl.bmp)
-vs10a/9a4a68/a150d3.tga	(tri: vs10a)	(texture: vs10a_sdw03c3_alp_ovl.bmp)
-vs10a/9a4a68/a250d3.tga	(tri: vs10a)	(texture: vs10a_sdw03c4_alp_ovl.bmp)
-vs10a/9a4a68/a350d3.tga	(tri: vs10a)	(texture: vs10a_sdw03c5_alp_ovl.bmp)
-vs10a/9a4a68/a450d3.tga	(tri: vs10a)	(texture: vs10a_sdw03c6_alp_ovl.bmp)
-vs10a/9a4a68/a550d3.tga	(tri: vs10a)	(texture: vs10a_sdw03c7_alp_ovl.bmp)
-vs10a/9a4a68/a650d3.tga	(tri: vs10a)	(texture: vs10a_sdw03c8_alp_ovl.bmp)
-vs10a/9a4a68/a750d3.tga	(tri: vs10a)	(texture: vs10a_sdw03c9_alp_ovl.bmp)
-vs10a/9a4a68/b42bef.tga	(tri: vs10a)	(texture: vs10a_sdw05a_alp_ovl.bmp)
-vs10a/9a4a68/b52bef.tga	(tri: vs10a)	(texture: vs10a_sdw05b_alp_ovl.bmp)
-vs10a/9a4a68/b62bef.tga	(tri: vs10a)	(texture: vs10a_sdw05c_alp_ovl.bmp)
-vs10a/9a4a68/be50d3.tga	(tri: vs10a)	(texture: vs10a_sdw03d0_alp_ovl.bmp)
-vs10a/9a4a68/bf50d3.tga	(tri: vs10a)	(texture: vs10a_sdw03d1_alp_ovl.bmp)
-vs10a/9a4a68/c050d3.tga	(tri: vs10a)	(texture: vs10a_sdw03d2_alp_ovl.bmp)
-vs10a/9a4a68/c150d3.tga	(tri: vs10a)	(texture: vs10a_sdw03d3_alp_ovl.bmp)
-vs10a/9a4a68/c250d3.tga	(tri: vs10a)	(texture: vs10a_sdw03d4_alp_ovl.bmp)
-vs10a/9a4a68/c350d3.tga	(tri: vs10a)	(texture: vs10a_sdw03d5_alp_ovl.bmp)
-vs10a/9a4a68/c450d3.tga	(tri: vs10a)	(texture: vs10a_sdw03d6_alp_ovl.bmp)
-vs10a/9a4a68/c550d3.tga	(tri: vs10a)	(texture: vs10a_sdw03d7_alp_ovl.bmp)
-vs10a/9a4a68/c650d3.tga	(tri: vs10a)	(texture: vs10a_sdw03d8_alp_ovl.bmp)
-vs10a/9a4a68/d42bef.tga	(tri: vs10a)	(texture: vs10a_sdw06a_alp_ovl.bmp)
-vs10a/9a4a68/f42bef.tga	(tri: vs10a)	(texture: vs10a_sdw07a_alp_ovl.bmp)
-vs10a/9a4a68/f52bef.tga	(tri: vs10a)	(texture: vs10a_sdw07b_alp_ovl.bmp)
-vs10a/9a4a68/f62bef.tga	(tri: vs10a)	(texture: vs10a_sdw07c_alp_ovl.bmp)
-vs10a/9a4a68/f72bef.tga	(tri: vs10a)	(texture: vs10a_sdw07d_alp_ovl.bmp)
-vs10a/9a4a68/f82bef.tga	(tri: vs10a)	(texture: vs10a_sdw07e_alp_ovl.bmp)
-vs10a/9a4a68/f92bef.tga	(tri: vs10a)	(texture: vs10a_sdw07f_alp_ovl.bmp)
-vs10a/9a4a68/fa2bef.tga	(tri: vs10a)	(texture: vs10a_sdw07g_alp_ovl.bmp)
+r_plt1/18d0ef/70ab9d.tga	(tri: golequip_mt)	(texture: (unknown))
+r_plt1/18d0ef/e38f6a.tga	(tri: golequip_mt)	(texture: (unknown))
+r_tnk0/34de3f/66a618.tga	(tri: mapp_tex)	(texture: (unknown))
+r_tnk0/34de3f/68a618.tga	(tri: mapp_tex)	(texture: (unknown))
+r_tnk0/34de3f/6aa618.tga	(tri: mapp_tex)	(texture: (unknown))
+r_tnk0/34de3f/a891e2.tga	(tri: mapp_tex)	(texture: (unknown))
+r_tnk0/5f2457/85a618.tga	(tri: mapbtex1)	(texture: (unknown))
+r_tnk0/5f2457/8ba618.tga	(tri: mapbtex1)	(texture: (unknown))
+r_tnk0/b5724d/6f6ff1.tga	(tri: mapbagpic)	(texture: (unknown))
+r_tnk0/b5724d/706ff1.tga	(tri: mapbagpic)	(texture: (unknown))
+r_tnk0/b5724d/716ff1.tga	(tri: mapbagpic)	(texture: (unknown))
+r_tnk0/b5724d/726ff1.tga	(tri: mapbagpic)	(texture: (unknown))
+r_tnk0/b5724d/736ff1.tga	(tri: mapbagpic)	(texture: (unknown))
+r_tnk0/b5724d/746ff1.tga	(tri: mapbagpic)	(texture: (unknown))
+w00a/01e230/985073.tga	(tri: w00)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w00b, w00c, w01b, w01e)
+w01d/573de0/705476.tga	(tri: transcache_stage_w01d)	(texture: (unknown))
+w01d/573de0/762c57.tga	(tri: transcache_stage_w01d)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in d080p06)
+w01d/573de0/7aa8e6.tga	(tri: transcache_stage_w01d)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in d080p06)
+w01d/573de0/a274ed.tga	(tri: transcache_stage_w01d)	(texture: (unknown))
 w04a/715d80/d2fe91.tga	(tri: 2d_tex_stage_w04a)	(texture: sensou_01_alp_ovl.bmp)
 w04a/715d80/d3fe91.tga	(tri: 2d_tex_stage_w04a)	(texture: sensou_02_alp_ovl.bmp)
 w11b/3ef7a1/31ac4d.tga	(tri: w23a_sk02g2)	(texture: w11b_box_backclip_alp_ovl.bmp)
@@ -2576,543 +1858,67 @@ w12a/56c038/808971.tga	(tri: zobject_stage_w12a)	(texture: w12a_sdw02b2_alp_ovl.
 w12a/56c038/808985.tga	(tri: zobject_stage_w12a)	(texture: w12a_sdw07b2_alp_ovl.bmp)
 w12a/56c038/818985.tga	(tri: zobject_stage_w12a)	(texture: w12a_sdw07b3_alp_ovl.bmp)
 w12a/56c038/b13fec.tga	(tri: zobject_stage_w12a)	(texture: w12a_sdwbox04_alp_ovl.bmp)
+w15a/2bad19/bcf89e.tga	(tri: other_stage_a15a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w15b)
+w15a/573de0/8cf439.tga	(tri: transcache_stage_w15a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w15b)
+w15b/2bad19/12d29c.tga	(tri: other_stage_a15a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w15a)
+w15b/2bad19/334742.tga	(tri: other_stage_a15a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w15a)
+w15b/2bad19/359f37.tga	(tri: other_stage_a15a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w15a)
+w15b/2bad19/3cf8a0.tga	(tri: other_stage_a15a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w15a)
+w15b/2bad19/68322a.tga	(tri: other_stage_a15a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w15a)
+w15b/2bad19/6ccc4f.tga	(tri: other_stage_a15a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w15a)
+w15b/3c4b02/a01bc9.tga	(tri: w15b)	(texture: (unknown))
+w16b/916a36/ad4d6b.tga	(tri: w16a0_1)	(texture: (unknown))
+w20a/89cc5b/32ad01.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/3dd093.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/4b367e.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/4b467e.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/4b567e.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/4b667e.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/72ea1d.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/85c4b5.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/85e4b5.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/9da54b.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/bb010b.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
+w20a/89cc5b/f53976.tga	(tri: w20a4_stage_w20a)	(texture: (unknown))
 w20c/349b50/9fd93c.tga	(tri: comdlcache_stage_w20c)	(texture: c4_c1_frost_alp_ovl.bmp)
+w21a/2bad19/3dd093.tga	(tri: other_stage_a21a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w21b)
+w22a/3c4ea1/283598.tga	(tri: w22a_stage_w22a)	(texture: (unknown))
+w22a/3c4ea1/283798.tga	(tri: w22a_stage_w22a)	(texture: (unknown))
+w22a/3c4ea1/9c6596.tga	(tri: w22a_stage_w22a)	(texture: (unknown))
+w22a/3c4ea1/9c6796.tga	(tri: w22a_stage_w22a)	(texture: (unknown))
+w22a/3c4ea1/9c6896.tga	(tri: w22a_stage_w22a)	(texture: (unknown))
+w23a/2bad19/14bd7c.tga	(tri: other_stage_a23a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w23b)
+w23a/2bad19/14bd7d.tga	(tri: other_stage_a23a)	(texture: (unknown))	(tri/strcode & crc32 matched corrupted duplicates in w23b)
+w24a/9c6bf9/265e0a.tga	(tri: w24a_dr01)	(texture: (unknown))
+w24b/9c6bfb/265e0a.tga	(tri: w24b_dr02)	(texture: (unknown))
+w24d/72ee68/6df645.tga	(tri: w24d1_a)	(texture: (unknown))
+w24d/72ee68/6df6c5.tga	(tri: w24d1_a)	(texture: (unknown))
+w24d/72ee68/8fc49b.tga	(tri: w24d1_a)	(texture: (unknown))
+w25d/741451/403576.tga	(tri: w25d_28a)	(texture: (unknown))
+w28a/3c4f61/0dea18.tga	(tri: w28a)	(texture: (unknown))
+w28a/3c4f61/0eea18.tga	(tri: w28a)	(texture: (unknown))
+w28a/3c4f61/288d00.tga	(tri: w28a)	(texture: (unknown))
+w28a/3c4f61/361b43.tga	(tri: w28a)	(texture: (unknown))
+w28a/3c4f61/4964df.tga	(tri: w28a)	(texture: (unknown))
+w28a/3c4f61/4f9d14.tga	(tri: w28a)	(texture: (unknown))
+w28a/3c4f61/a5fd33.tga	(tri: w28a)	(texture: (unknown))
+w28a/3c4f61/b2ea1d.tga	(tri: w28a)	(texture: (unknown))
+w28a/3c4f61/bb010b.tga	(tri: w28a)	(texture: (unknown))
+w28a/3c4f61/f38601.tga	(tri: w28a)	(texture: (unknown))
+w28a/3c4f61/f3a601.tga	(tri: w28a)	(texture: (unknown))
 w31a/573de0/68c1a8.tga	(tri: transcache_stage_w31a)	(texture: seculitycard_lv4_alp.bmp)
 w43a/21f5db/ed3f21.tga	(tri: demo_hfb_ref_rai_mt)	(texture: demo_hfb__ref_rai_01_mt_sub_alp_ovl.bmp)
 w44a/3c56e1/b94264.tga	(tri: w44a)	(texture: w42a_data_light_01_alp_add_ovl.bmp_7246e3bdca03aae1d4a9093e82663db5)
 w44a/c2b5b8/60bc24.tga	(tri: zribbon_stage_w44a)	(texture: w44a_efct_rbn_02_alp_add_ovl.bmp)
-wp01a/aa4688/008f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall08_alp_ovl.bmp)
-wp01a/aa4688/018f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall09_alp_ovl.bmp)
-wp01a/aa4688/198f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall11_alp_ovl.bmp)
-wp01a/aa4688/1a8f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall12_alp_ovl.bmp)
-wp01a/aa4688/1b8f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall13_alp_ovl.bmp)
-wp01a/aa4688/1c8f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall14_alp_ovl.bmp)
-wp01a/aa4688/1d8f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall15_alp_ovl.bmp)
-wp01a/aa4688/1e8f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall16_alp_ovl.bmp)
-wp01a/aa4688/1f8f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall17_alp_ovl.bmp)
-wp01a/aa4688/208f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall18_alp_ovl.bmp)
-wp01a/aa4688/218f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall19_alp_ovl.bmp)
-wp01a/aa4688/388f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall20_alp_ovl.bmp)
-wp01a/aa4688/398f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall21_alp_ovl.bmp)
-wp01a/aa4688/3a8f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall22_alp_ovl.bmp)
-wp01a/aa4688/3b8f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall23_alp_ovl.bmp)
-wp01a/aa4688/3c8f18.tga	(tri: ws01a)	(texture: ws01a_sdw_wall24_alp_ovl.bmp)
-wp01a/aa4688/5551d0.tga	(tri: ws01a)	(texture: vs01a_sdw05_alp_ovl.bmp_40b97c8de7e575d4104872b918f29e71)
-wp01a/aa4688/5651d0.tga	(tri: ws01a)	(texture: vs01a_sdw06_alp_ovl.bmp_9cf945d44ef4158476a20499bed16e15)
-wp01a/aa4688/5751d0.tga	(tri: ws01a)	(texture: ws01a_sdw03_alp_ovl.bmp)
-wp01a/aa4688/5851d0.tga	(tri: ws01a)	(texture: ws01a_sdw04_alp_ovl.bmp)
-wp01a/aa4688/5951d0.tga	(tri: ws01a)	(texture: ws01a_sdw05_alp_ovl.bmp)
-wp01a/aa4688/5a51d0.tga	(tri: ws01a)	(texture: ws01a_sdw06_alp_ovl.bmp)
-wp01a/aa4688/5b51d0.tga	(tri: ws01a)	(texture: ws01a_sdw07_alp_ovl.bmp)
-wp01a/aa4688/5c51d0.tga	(tri: ws01a)	(texture: ws01a_sdw08_alp_ovl.bmp)
-wp01a/aa4688/5d51d0.tga	(tri: ws01a)	(texture: ws01a_sdw09_alp_ovl.bmp)
-wp01a/aa4688/7451d0.tga	(tri: ws01a)	(texture: ws01a_sdw10_alp_ovl.bmp)
-wp01a/aa4688/7551d0.tga	(tri: ws01a)	(texture: ws01a_sdw11_alp_ovl.bmp)
-wp01a/aa4688/7651d0.tga	(tri: ws01a)	(texture: ws01a_sdw12_alp_ovl.bmp)
-wp01a/aa4688/7751d0.tga	(tri: ws01a)	(texture: ws01a_sdw13_alp_ovl.bmp)
-wp01a/aa4688/7851d0.tga	(tri: ws01a)	(texture: ws01a_sdw14_alp_ovl.bmp)
-wp01a/aa4688/7951d0.tga	(tri: ws01a)	(texture: ws01a_sdw15_alp_ovl.bmp)
-wp01a/aa4688/7a51d0.tga	(tri: ws01a)	(texture: ws01a_sdw16_alp_ovl.bmp)
-wp01a/aa4688/7b51d0.tga	(tri: ws01a)	(texture: ws01a_sdw17_alp_ovl.bmp)
-wp01a/aa4688/7c51d0.tga	(tri: ws01a)	(texture: ws01a_sdw18_alp_ovl.bmp)
-wp01a/aa4688/7d51d0.tga	(tri: ws01a)	(texture: ws01a_sdw19_alp_ovl.bmp)
-wp01a/aa4688/9451d0.tga	(tri: ws01a)	(texture: ws01a_sdw20_alp_ovl.bmp)
-wp01a/aa4688/9551d0.tga	(tri: ws01a)	(texture: ws01a_sdw21_alp_ovl.bmp)
-wp01a/aa4688/9651d0.tga	(tri: ws01a)	(texture: ws01a_sdw22_alp_ovl.bmp)
-wp01a/aa4688/9751d0.tga	(tri: ws01a)	(texture: ws01a_sdw23_alp_ovl.bmp)
-wp01a/aa4688/9851d0.tga	(tri: ws01a)	(texture: ws01a_sdw24_alp_ovl.bmp)
-wp01a/aa4688/f1707f.tga	(tri: ws01a)	(texture: ws01a_sdw_roof02_alp_ovl.bmp)
-wp01a/aa4688/f2707f.tga	(tri: ws01a)	(texture: ws01a_sdw_roof03_alp_ovl.bmp)
-wp01a/aa4688/f3707f.tga	(tri: ws01a)	(texture: ws01a_sdw_roof04_alp_ovl.bmp)
-wp01a/aa4688/f4707f.tga	(tri: ws01a)	(texture: ws01a_sdw_roof05_alp_ovl.bmp)
-wp01a/aa4688/f5707f.tga	(tri: ws01a)	(texture: ws01a_sdw_roof06_alp_ovl.bmp)
-wp01a/aa4688/f6707f.tga	(tri: ws01a)	(texture: ws01a_sdw_roof07_alp_ovl.bmp)
-wp01a/aa4688/f98f17.tga	(tri: ws01a)	(texture: ws01a_sdw_wall01_alp_ovl.bmp)
-wp01a/aa4688/fa8f17.tga	(tri: ws01a)	(texture: ws01a_sdw_wall02_alp_ovl.bmp)
-wp01a/aa4688/fb8f17.tga	(tri: ws01a)	(texture: ws01a_sdw_wall03_alp_ovl.bmp)
-wp01a/aa4688/fc8f17.tga	(tri: ws01a)	(texture: ws01a_sdw_wall04_alp_ovl.bmp)
-wp01a/aa4688/fd8f17.tga	(tri: ws01a)	(texture: ws01a_sdw_wall05_alp_ovl.bmp)
-wp01a/aa4688/ff8f17.tga	(tri: ws01a)	(texture: ws01a_sdw_wall07_alp_ovl.bmp)
-wp05a/aa46c8/340ef4.tga	(tri: ws03a)	(texture: ws03a_sdw15a_alp_ovl.bmp)
-wp05a/aa46c8/5551e0.tga	(tri: ws03a)	(texture: vs03a_sdw05_alp_ovl.bmp_f9a840517b1ca5676c659c9c4cb3da9a)
-wp05a/aa46c8/5651e0.tga	(tri: ws03a)	(texture: ws03a_sdw02_alp_ovl.bmp)
-wp05a/aa46c8/5751e0.tga	(tri: ws03a)	(texture: ws03a_sdw03_alp_ovl.bmp)
-wp05a/aa46c8/5851e0.tga	(tri: ws03a)	(texture: ws03a_sdw04_alp_ovl.bmp)
-wp05a/aa46c8/5951e0.tga	(tri: ws03a)	(texture: ws03a_sdw05_alp_ovl.bmp)
-wp05a/aa46c8/5a51e0.tga	(tri: ws03a)	(texture: ws03a_sdw06_alp_ovl.bmp)
-wp05a/aa46c8/5b51e0.tga	(tri: ws03a)	(texture: ws03a_sdw07_alp_ovl.bmp)
-wp05a/aa46c8/5c51e0.tga	(tri: ws03a)	(texture: ws03a_sdw08_alp_ovl.bmp)
-wp05a/aa46c8/5d51e0.tga	(tri: ws03a)	(texture: ws03a_sdw09_alp_ovl.bmp)
-wp05a/aa46c8/740ef8.tga	(tri: ws03a)	(texture: ws03a_sdw27a_alp_ovl.bmp)
-wp05a/aa46c8/7551e0.tga	(tri: ws03a)	(texture: ws03a_sdw11_alp_ovl.bmp)
-wp05a/aa46c8/7651e0.tga	(tri: ws03a)	(texture: ws03a_sdw12_alp_ovl.bmp)
-wp05a/aa46c8/7751e0.tga	(tri: ws03a)	(texture: ws03a_sdw13_alp_ovl.bmp)
-wp05a/aa46c8/7851e0.tga	(tri: ws03a)	(texture: ws03a_sdw14_alp_ovl.bmp)
-wp05a/aa46c8/7a51e0.tga	(tri: ws03a)	(texture: ws03a_sdw16_alp_ovl.bmp)
-wp05a/aa46c8/7b51e0.tga	(tri: ws03a)	(texture: ws03a_sdw17_alp_ovl.bmp)
-wp05a/aa46c8/7c51e0.tga	(tri: ws03a)	(texture: ws03a_sdw18_alp_ovl.bmp)
-wp05a/aa46c8/7d51e0.tga	(tri: ws03a)	(texture: ws03a_sdw19_alp_ovl.bmp)
-wp05a/aa46c8/9451e0.tga	(tri: ws03a)	(texture: ws03a_sdw20_alp_ovl.bmp)
-wp05a/aa46c8/9551e0.tga	(tri: ws03a)	(texture: ws03a_sdw21_alp_ovl.bmp)
-wp05a/aa46c8/9651e0.tga	(tri: ws03a)	(texture: ws03a_sdw22_alp_ovl.bmp)
-wp05a/aa46c8/9751e0.tga	(tri: ws03a)	(texture: ws03a_sdw23_alp_ovl.bmp)
-wp05a/aa46c8/9851e0.tga	(tri: ws03a)	(texture: ws03a_sdw24_alp_ovl.bmp)
-wp05a/aa46c8/9951e0.tga	(tri: ws03a)	(texture: ws03a_sdw25_alp_ovl.bmp)
-wp05a/aa46c8/9a51e0.tga	(tri: ws03a)	(texture: ws03a_sdw26_alp_ovl.bmp)
-wp05a/aa46c8/9c51e0.tga	(tri: ws03a)	(texture: ws03a_sdw28_alp_ovl.bmp)
-wp05a/aa46c8/9d51e0.tga	(tri: ws03a)	(texture: ws03a_sdw29_alp_ovl.bmp)
-wp05a/aa46c8/b40f00.tga	(tri: ws03a)	(texture: ws03a_sdw49a_alp_ovl.bmp)
-wp05a/aa46c8/b451e0.tga	(tri: ws03a)	(texture: ws03a_sdw30_alp_ovl.bmp)
-wp05a/aa46c8/b551e0.tga	(tri: ws03a)	(texture: ws03a_sdw31_alp_ovl.bmp)
-wp05a/aa46c8/d551e0.tga	(tri: ws03a)	(texture: ws03a_sdw41_alp_ovl.bmp)
-wp05a/aa46c8/d651e0.tga	(tri: ws03a)	(texture: ws03a_sdw42_alp_ovl.bmp)
-wp05a/aa46c8/db51e0.tga	(tri: ws03a)	(texture: ws03a_sdw47_alp_ovl.bmp)
-wp05a/aa46c8/dc51e0.tga	(tri: ws03a)	(texture: ws03a_sdw48_alp_ovl.bmp)
-wp05a/aa46c8/dd51e0.tga	(tri: ws03a)	(texture: ws03a_sdw49_alp_ovl.bmp)
-wp11a/aa4a88/5452d0.tga	(tri: ws11a)	(texture: ws11a_sdw00_alp_ovl.bmp)
-wp11a/aa4a88/5552d0.tga	(tri: ws11a)	(texture: ws11a_sdw01_alp_ovl.bmp)
-wp11a/aa4a88/5652d0.tga	(tri: ws11a)	(texture: ws11a_sdw02_alp_ovl.bmp)
-wp11a/aa4a88/5752d0.tga	(tri: ws11a)	(texture: ws11a_sdw03_alp_ovl.bmp)
-wp11a/aa4a88/f42cef.tga	(tri: ws11a)	(texture: ws11a_sdw03a_alp_ovl.bmp)
-wp11a/aa4a88/f52cef.tga	(tri: ws11a)	(texture: ws11a_sdw03b_alp_ovl.bmp)
-wp11a/aa4a88/f62cef.tga	(tri: ws11a)	(texture: ws11a_sdw03c_alp_ovl.bmp)
-wp13a/aa4aa8/5452d8.tga	(tri: ws12a)	(texture: ws12a_sdw00_alp_ovl.bmp)
-wp13a/aa4aa8/5552d8.tga	(tri: ws12a)	(texture: ws12a_sdw01_alp_ovl.bmp)
-wp13a/aa4aa8/5652d8.tga	(tri: ws12a)	(texture: ws12a_sdw02_alp_ovl.bmp)
-wp13a/aa4aa8/5752d8.tga	(tri: ws12a)	(texture: ws12a_sdw03_alp_ovl.bmp)
-wp13a/aa4aa8/b42def.tga	(tri: ws12a)	(texture: ws12a_sdw01a_alp_ovl.bmp)
-wp13a/aa4aa8/b52def.tga	(tri: ws12a)	(texture: ws12a_sdw01b_alp_ovl.bmp)
-wp13a/aa4aa8/b62def.tga	(tri: ws12a)	(texture: ws12a_sdw01c_alp_ovl.bmp)
-wp13a/aa4aa8/b72def.tga	(tri: ws12a)	(texture: ws12a_sdw01d_alp_ovl.bmp)
-wp13a/aa4aa8/b82def.tga	(tri: ws12a)	(texture: ws12a_sdw01e_alp_ovl.bmp)
-wp13a/aa4aa8/d42def.tga	(tri: ws12a)	(texture: ws12a_sdw02a_alp_ovl.bmp)
-wp13a/aa4aa8/d52def.tga	(tri: ws12a)	(texture: ws12a_sdw02b_alp_ovl.bmp)
-wp13a/aa4aa8/f42def.tga	(tri: ws12a)	(texture: ws12a_sdw03a_alp_ovl.bmp)
-wp13a/aa4aa8/f52def.tga	(tri: ws12a)	(texture: ws12a_sdw03b_alp_ovl.bmp)
-wp13a/aa4aa8/f62def.tga	(tri: ws12a)	(texture: ws12a_sdw03c_alp_ovl.bmp)
-wp14a/aa4ac8/c2d31b.tga	(tri: ws13a)	(texture: ws_13a_sdw01_alp_ovl.bmp)
-wp14a/aa4ac8/c3d31b.tga	(tri: ws13a)	(texture: ws_13a_sdw02_alp_ovl.bmp)
-wp14a/aa4ac8/c4d31b.tga	(tri: ws13a)	(texture: ws_13a_sdw03_alp_ovl.bmp)
-wp14a/aa4ac8/c5d31b.tga	(tri: ws13a)	(texture: ws_13a_sdw04_alp_ovl.bmp)
-wp14a/aa4ac8/c6d31b.tga	(tri: ws13a)	(texture: ws_13a_sdw05_alp_ovl.bmp)
-wp14a/aa4ac8/c7d31b.tga	(tri: ws13a)	(texture: ws_13a_sdw06_alp_ovl.bmp)
-wp14a/aa4ac8/c8d31b.tga	(tri: ws13a)	(texture: ws_13a_sdw07_alp_ovl.bmp)
-wp15a/aa4ae8/5852e8.tga	(tri: ws14a)	(texture: ws14a_sdw04_alp_ovl.bmp)
-wp15a/aa4ae8/5b52e8.tga	(tri: ws14a)	(texture: ws14a_sdw07_alp_ovl.bmp)
-wp21a/aa4e88/5653d0.tga	(tri: ws21a)	(texture: ws21a_sdw02_alp_ovl.bmp)
-wp22a/aa4ea8/5553d8.tga	(tri: ws22a)	(texture: ws22a_sdw01_alp_ovl.bmp)
-wp22a/aa4ea8/5653d8.tga	(tri: ws22a)	(texture: ws22a_sdw02_alp_ovl.bmp)
-wp23a/aa4ec8/5553e0.tga	(tri: ws23a)	(texture: ws23a_sdw01_alp_ovl.bmp)
-wp23a/aa4ec8/5653e0.tga	(tri: ws23a)	(texture: ws23a_sdw02_alp_ovl.bmp)
-wp23a/aa4ec8/5753e0.tga	(tri: ws23a)	(texture: ws23a_sdw03_alp_ovl.bmp)
-wp23a/aa4ec8/5853e0.tga	(tri: ws23a)	(texture: ws23a_sdw04_alp_ovl.bmp)
-wp23a/aa4ec8/5a53e0.tga	(tri: ws23a)	(texture: ws23a_sdw06_alp_ovl.bmp)
-wp23a/aa4ec8/5b53e0.tga	(tri: ws23a)	(texture: ws23a_sdw07_alp_ovl.bmp)
-wp23a/aa4ec8/5c53e0.tga	(tri: ws23a)	(texture: ws23a_sdw08_alp_ovl.bmp)
-wp23a/aa4ec8/5d53e0.tga	(tri: ws23a)	(texture: ws23a_sdw09_alp_ovl.bmp)
-wp23a/aa4ec8/7453e0.tga	(tri: ws23a)	(texture: ws23a_sdw10_alp_ovl.bmp)
-wp24a/aa4ee8/5553e8.tga	(tri: ws24a)	(texture: ws24a_sdw01_alp_ovl.bmp)
-wp24a/aa4ee8/5653e8.tga	(tri: ws24a)	(texture: ws24a_sdw02_alp_ovl.bmp)
-wp24a/aa4ee8/5753e8.tga	(tri: ws24a)	(texture: ws24a_sdw03_alp_ovl.bmp)
-wp24a/aa4ee8/5853e8.tga	(tri: ws24a)	(texture: ws24a_sdw04_alp_ovl.bmp)
-wp24a/aa4ee8/5a53e8.tga	(tri: ws24a)	(texture: ws24a_sdw06_alp_ovl.bmp)
-wp24a/aa4ee8/5b53e8.tga	(tri: ws24a)	(texture: ws24a_sdw07_alp_ovl.bmp)
-wp31a/aa5288/5edc0f.tga	(tri: ws31a)	(texture: ws31a_sdw3_alp_ovl.bmp)
-wp31a/aa5288/60dc0f.tga	(tri: ws31a)	(texture: ws31a_sdw5_alp_ovl.bmp)
-wp31a/aa5288/656cef.tga	(tri: ws31a)	(texture: ws31a_sdw002_alp_ovl.bmp)
-wp32a/aa52a8/816df0.tga	(tri: ws32a)	(texture: ws32a_sdw07n_alp_ovl.bmp)
-wp33a/aa52c8/5456e0.tga	(tri: ws33a)	(texture: ws33a_shw00_alp_ovl.bmp)
-wp33a/aa52c8/5556e0.tga	(tri: ws33a)	(texture: ws33a_shw01_alp_ovl.bmp)
-wp33a/aa52c8/5656e0.tga	(tri: ws33a)	(texture: ws33a_shw02_alp_ovl.bmp)
-wp33a/aa52c8/5756e0.tga	(tri: ws33a)	(texture: ws33a_shw03_alp_ovl.bmp)
-wp33a/aa52c8/5856e0.tga	(tri: ws33a)	(texture: ws33a_shw04_alp_ovl.bmp)
-wp33a/aa52c8/5956e0.tga	(tri: ws33a)	(texture: ws33a_shw05_alp_ovl.bmp)
-wp33a/aa52c8/5a56e0.tga	(tri: ws33a)	(texture: ws33a_shw06_alp_ovl.bmp)
-wp35a/aa5308/5554f0.tga	(tri: ws35a)	(texture: ws35a_sdw01_alp_ovl.bmp)
-wp35a/aa5308/5654f0.tga	(tri: ws35a)	(texture: ws35a_sdw02_alp_ovl.bmp)
-wp35a/aa5308/5754f0.tga	(tri: ws35a)	(texture: ws35a_sdw03_alp_ovl.bmp)
-wp35a/aa5308/5854f0.tga	(tri: ws35a)	(texture: ws35a_sdw04_alp_ovl.bmp)
-wp35a/aa5308/5954f0.tga	(tri: ws35a)	(texture: ws35a_sdw05_alp_ovl.bmp)
-wp35a/aa5308/5a54f0.tga	(tri: ws35a)	(texture: ws35a_sdw06_alp_ovl.bmp)
-wp35a/aa5308/5c54f0.tga	(tri: ws35a)	(texture: ws35a_sdw08_alp_ovl.bmp)
-wp35a/aa5308/5d54f0.tga	(tri: ws35a)	(texture: ws35a_sdw09_alp_ovl.bmp)
-wp35a/aa5308/7454f0.tga	(tri: ws35a)	(texture: ws35a_sdw10_alp_ovl.bmp)
-wp35a/aa5308/7554f0.tga	(tri: ws35a)	(texture: ws35a_sdw11_alp_ovl.bmp)
-wp35a/aa5308/7654f0.tga	(tri: ws35a)	(texture: ws35a_sdw12_alp_ovl.bmp)
-wp35a/aa5308/7754f0.tga	(tri: ws35a)	(texture: ws35a_sdw13_alp_ovl.bmp)
-wp35a/aa5308/7854f0.tga	(tri: ws35a)	(texture: ws35a_sdw14_alp_ovl.bmp)
-wp35a/aa5308/7954f0.tga	(tri: ws35a)	(texture: ws35a_sdw15_alp_ovl.bmp)
-wp35a/aa5308/7a54f0.tga	(tri: ws35a)	(texture: ws35a_sdw16_alp_ovl.bmp)
-wp35a/aa5308/7b54f0.tga	(tri: ws35a)	(texture: ws35a_sdw17_alp_ovl.bmp)
-wp35a/aa5308/7c54f0.tga	(tri: ws35a)	(texture: ws35a_sdw18_alp_ovl.bmp)
-wp35a/aa5308/7d54f0.tga	(tri: ws35a)	(texture: ws35a_sdw19_alp_ovl.bmp)
-wp41a/aa5688/5457d0.tga	(tri: ws41a)	(texture: ws41a_shw00_alp_ovl.bmp)
-wp41a/aa5688/5557d0.tga	(tri: ws41a)	(texture: ws41a_shw01_alp_ovl.bmp)
-wp41a/aa5688/5657d0.tga	(tri: ws41a)	(texture: ws41a_shw02_alp_ovl.bmp)
-wp41a/aa5688/5757d0.tga	(tri: ws41a)	(texture: ws41a_shw03_alp_ovl.bmp)
-wp41a/aa5688/5857d0.tga	(tri: ws41a)	(texture: ws41a_shw04_alp_ovl.bmp)
-wp41a/aa5688/5957d0.tga	(tri: ws41a)	(texture: ws41a_shw05_alp_ovl.bmp)
-wp41a/aa5688/5a57d0.tga	(tri: ws41a)	(texture: ws41a_shw06_alp_ovl.bmp)
-wp41a/aa5688/5b57d0.tga	(tri: ws41a)	(texture: ws41a_shw07_alp_ovl.bmp)
-wp41a/aa5688/5c57d0.tga	(tri: ws41a)	(texture: ws41a_shw08_alp_ovl.bmp)
-wp41a/aa5688/5d57d0.tga	(tri: ws41a)	(texture: ws41a_shw09_alp_ovl.bmp)
-wp41a/aa5688/7457d0.tga	(tri: ws41a)	(texture: ws41a_shw10_alp_ovl.bmp)
-wp41a/aa5688/7557d0.tga	(tri: ws41a)	(texture: ws41a_shw11_alp_ovl.bmp)
-wp41a/aa5688/7657d0.tga	(tri: ws41a)	(texture: ws41a_shw12_alp_ovl.bmp)
-wp45a/aa5708/5a788b.tga	(tri: ws45a)	(texture: ws45a_nsdw00_alp_ovl.bmp)
-wp45a/aa5708/5c788b.tga	(tri: ws45a)	(texture: ws45a_nsdw02_alp_ovl.bmp)
-wp45a/aa5708/5e788b.tga	(tri: ws45a)	(texture: ws45a_nsdw04_alp_ovl.bmp)
-wp45a/aa5708/5f788b.tga	(tri: ws45a)	(texture: ws45a_nsdw05_alp_ovl.bmp)
-wp45a/aa5708/b64d02.tga	(tri: ws45a)	(texture: w42a_sdw_alp_ovl_02.bmp)
-wp45a/aa5708/b64d03.tga	(tri: ws45a)	(texture: w42a_sdw_alp_ovl_03.bmp)
-wp45a/aa5708/b64d04.tga	(tri: ws45a)	(texture: w42a_sdw_alp_ovl_04.bmp)
-wp45a/aa5708/b64d05.tga	(tri: ws45a)	(texture: w42a_sdw_alp_ovl_05.bmp)
-wp45a/aa5708/b64d06.tga	(tri: ws45a)	(texture: w42a_sdw_alp_ovl_06.bmp)
-wp45a/aa5708/b64d07.tga	(tri: ws45a)	(texture: w42a_sdw_alp_ovl_07.bmp)
-wp45a/aa5708/b64d08.tga	(tri: ws45a)	(texture: w42a_sdw_alp_ovl_08.bmp)
-wp45a/aa5708/b64d20.tga	(tri: ws45a)	(texture: w42a_sdw_alp_ovl_10.bmp)
-wp45a/aa5708/b64d21.tga	(tri: ws45a)	(texture: w42a_sdw_alp_ovl_11.bmp)
-wp45a/aa5708/b64d22.tga	(tri: ws45a)	(texture: w42a_sdw_alp_ovl_12.bmp)
-wp51a/aa5a88/5456d0.tga	(tri: ws51a)	(texture: ws51a_sdw00_alp_ovl.bmp)
-wp51a/aa5a88/5556d0.tga	(tri: ws51a)	(texture: ws51a_sdw01_alp_ovl.bmp)
-wp51a/aa5a88/5656d0.tga	(tri: ws51a)	(texture: ws51a_sdw02_alp_ovl.bmp)
-wp51a/aa5a88/94acef.tga	(tri: ws51a)	(texture: ws51a_sdw00a_alp_ovl.bmp)
-wp51a/aa5a88/95acef.tga	(tri: ws51a)	(texture: ws51a_sdw00b_alp_ovl.bmp)
-wp51a/aa5a88/b4acef.tga	(tri: ws51a)	(texture: ws51a_sdw01a_alp_ovl.bmp)
-wp52a/aa5aa8/14adf0.tga	(tri: ws52a)	(texture: ws52a_sdw04a_alp_ovl.bmp)
-wp52a/aa5aa8/15adf0.tga	(tri: ws52a)	(texture: ws52a_sdw04b_alp_ovl.bmp)
-wp52a/aa5aa8/16adf0.tga	(tri: ws52a)	(texture: ws52a_sdw04c_alp_ovl.bmp)
-wp52a/aa5aa8/17adf0.tga	(tri: ws52a)	(texture: ws52a_sdw04d_alp_ovl.bmp)
-wp52a/aa5aa8/18adf0.tga	(tri: ws52a)	(texture: ws52a_sdw04e_alp_ovl.bmp)
-wp52a/aa5aa8/19adf0.tga	(tri: ws52a)	(texture: ws52a_sdw04f_alp_ovl.bmp)
-wp52a/aa5aa8/1aadf0.tga	(tri: ws52a)	(texture: ws52a_sdw04g_alp_ovl.bmp)
-wp52a/aa5aa8/1badf0.tga	(tri: ws52a)	(texture: ws52a_sdw04h_alp_ovl.bmp)
-wp52a/aa5aa8/1cadf0.tga	(tri: ws52a)	(texture: ws52a_sdw04i_alp_ovl.bmp)
-wp52a/aa5aa8/5456d8.tga	(tri: ws52a)	(texture: ws52a_sdw00_alp_ovl.bmp)
-wp52a/aa5aa8/5556d8.tga	(tri: ws52a)	(texture: ws52a_sdw01_alp_ovl.bmp)
-wp52a/aa5aa8/5656d8.tga	(tri: ws52a)	(texture: ws52a_sdw02_alp_ovl.bmp)
-wp52a/aa5aa8/5756d8.tga	(tri: ws52a)	(texture: ws52a_sdw03_alp_ovl.bmp)
-wp52a/aa5aa8/5856d8.tga	(tri: ws52a)	(texture: ws52a_sdw04_alp_ovl.bmp)
-wp52a/aa5aa8/94adef.tga	(tri: ws52a)	(texture: ws52a_sdw00a_alp_ovl.bmp)
-wp52a/aa5aa8/95adef.tga	(tri: ws52a)	(texture: ws52a_sdw00b_alp_ovl.bmp)
-wp52a/aa5aa8/96adef.tga	(tri: ws52a)	(texture: ws52a_sdw00c_alp_ovl.bmp)
-wp52a/aa5aa8/b4adef.tga	(tri: ws52a)	(texture: ws52a_sdw01a_alp_ovl.bmp)
-wp52a/aa5aa8/b5adef.tga	(tri: ws52a)	(texture: ws52a_sdw01b_alp_ovl.bmp)
-wp52a/aa5aa8/b6adef.tga	(tri: ws52a)	(texture: ws52a_sdw01c_alp_ovl.bmp)
-wp52a/aa5aa8/d4adef.tga	(tri: ws52a)	(texture: ws52a_sdw02a_alp_ovl.bmp)
-wp52a/aa5aa8/d5adef.tga	(tri: ws52a)	(texture: ws52a_sdw02b_alp_ovl.bmp)
-wp52a/aa5aa8/d6adef.tga	(tri: ws52a)	(texture: ws52a_sdw02c_alp_ovl.bmp)
-wp52a/aa5aa8/d7adef.tga	(tri: ws52a)	(texture: ws52a_sdw02d_alp_ovl.bmp)
-wp52a/aa5aa8/d8adef.tga	(tri: ws52a)	(texture: ws52a_sdw02e_alp_ovl.bmp)
-wp52a/aa5aa8/d9adef.tga	(tri: ws52a)	(texture: ws52a_sdw02f_alp_ovl.bmp)
-wp52a/aa5aa8/f4adef.tga	(tri: ws52a)	(texture: ws52a_sdw03a_alp_ovl.bmp)
-wp52a/aa5aa8/f5adef.tga	(tri: ws52a)	(texture: ws52a_sdw03b_alp_ovl.bmp)
-wp52a/aa5aa8/f6adef.tga	(tri: ws52a)	(texture: ws52a_sdw03c_alp_ovl.bmp)
-wp52a/aa5aa8/f7adef.tga	(tri: ws52a)	(texture: ws52a_sdw03d_alp_ovl.bmp)
-wp52a/aa5aa8/f8adef.tga	(tri: ws52a)	(texture: ws52a_sdw03e_alp_ovl.bmp)
-wp53a/aa5ac8/5656e0.tga	(tri: ws53a)	(texture: ws33a_shw02_alp_ovl.bmp_d6dfbf599e5c8376dcedcf427dfd67a1)
-wp53a/aa5ac8/5756e0.tga	(tri: ws53a)	(texture: ws33a_shw03_alp_ovl.bmp_14ce115100999d0b16ddad95d1e21090)
-wp53a/aa5ac8/5c56e0.tga	(tri: ws53a)	(texture: ws53a_sdw08_alp_ovl.bmp)
-wp53a/aa5ac8/65aeef.tga	(tri: ws53a)	(texture: ws53a_sdw002_alp_ovl.bmp)
-wp53a/aa5ac8/66aeef.tga	(tri: ws53a)	(texture: ws53a_sdw003_alp_ovl.bmp)
-wp53a/aa5ac8/67aeef.tga	(tri: ws53a)	(texture: ws53a_sdw004_alp_ovl.bmp)
-wp53a/aa5ac8/68aeef.tga	(tri: ws53a)	(texture: ws53a_sdw005_alp_ovl.bmp)
-wp53a/aa5ac8/69aeef.tga	(tri: ws53a)	(texture: ws53a_sdw006_alp_ovl.bmp)
-wp53a/aa5ac8/6aaeef.tga	(tri: ws53a)	(texture: ws53a_sdw007_alp_ovl.bmp)
-wp53a/aa5ac8/6baeef.tga	(tri: ws53a)	(texture: ws53a_sdw008_alp_ovl.bmp)
-wp53a/aa5ac8/6caeef.tga	(tri: ws53a)	(texture: ws53a_sdw009_alp_ovl.bmp)
-wp53a/aa5ac8/7456e0.tga	(tri: ws53a)	(texture: ws53a_sdw10_alp_ovl.bmp)
-wp53a/aa5ac8/7556e0.tga	(tri: ws53a)	(texture: ws53a_sdw11_alp_ovl.bmp)
-wp53a/aa5ac8/7656e0.tga	(tri: ws53a)	(texture: ws53a_sdw12_alp_ovl.bmp)
-wp54a/aa5ae8/5458e8.tga	(tri: ws54a)	(texture: ws54a_shw00_alp_ovl.bmp)
-wp54a/aa5ae8/5558e8.tga	(tri: ws54a)	(texture: ws54a_shw01_alp_ovl.bmp)
-wp54a/aa5ae8/5658e8.tga	(tri: ws54a)	(texture: ws54a_shw02_alp_ovl.bmp)
-wp54a/aa5ae8/5758e8.tga	(tri: ws54a)	(texture: ws54a_shw03_alp_ovl.bmp)
-wp54a/aa5ae8/5858e8.tga	(tri: ws54a)	(texture: ws54a_shw04_alp_ovl.bmp)
-wp54a/aa5ae8/5958e8.tga	(tri: ws54a)	(texture: ws54a_shw05_alp_ovl.bmp)
-wp54a/aa5ae8/5a58e8.tga	(tri: ws54a)	(texture: ws54a_shw06_alp_ovl.bmp)
-wp54a/aa5ae8/5b58e8.tga	(tri: ws54a)	(texture: ws54a_shw07_alp_ovl.bmp)
-wp54a/aa5ae8/5c58e8.tga	(tri: ws54a)	(texture: ws54a_shw08_alp_ovl.bmp)
-wp54a/aa5ae8/5d58e8.tga	(tri: ws54a)	(texture: ws54a_shw09_alp_ovl.bmp)
-wp54a/aa5ae8/6d998b.tga	(tri: ws54a)	(texture: ws54a_wshw01_alp_ovl.bmp)
-wp54a/aa5ae8/6e998b.tga	(tri: ws54a)	(texture: ws54a_wshw02_alp_ovl.bmp)
-wp54a/aa5ae8/6f998b.tga	(tri: ws54a)	(texture: ws54a_wshw03_alp_ovl.bmp)
-wp54a/aa5ae8/70998b.tga	(tri: ws54a)	(texture: ws54a_wshw04_alp_ovl.bmp)
-wp54a/aa5ae8/71998b.tga	(tri: ws54a)	(texture: ws54a_wshw05_alp_ovl.bmp)
-wp54a/aa5ae8/72998b.tga	(tri: ws54a)	(texture: ws54a_wshw06_alp_ovl.bmp)
-wp54a/aa5ae8/73998b.tga	(tri: ws54a)	(texture: ws54a_wshw07_alp_ovl.bmp)
-wp54a/aa5ae8/7458e8.tga	(tri: ws54a)	(texture: ws54a_shw10_alp_ovl.bmp)
-wp54a/aa5ae8/74998b.tga	(tri: ws54a)	(texture: ws54a_wshw08_alp_ovl.bmp)
-wp54a/aa5ae8/7558e8.tga	(tri: ws54a)	(texture: ws54a_shw11_alp_ovl.bmp)
-wp54a/aa5ae8/75998b.tga	(tri: ws54a)	(texture: ws54a_wshw09_alp_ovl.bmp)
-wp54a/aa5ae8/7658e8.tga	(tri: ws54a)	(texture: ws54a_shw12_alp_ovl.bmp)
-wp54a/aa5ae8/7758e8.tga	(tri: ws54a)	(texture: ws54a_shw13_alp_ovl.bmp)
-wp54a/aa5ae8/7858e8.tga	(tri: ws54a)	(texture: ws54a_shw14_alp_ovl.bmp)
-wp54a/aa5ae8/7958e8.tga	(tri: ws54a)	(texture: ws54a_shw15_alp_ovl.bmp)
-wp54a/aa5ae8/7a58e8.tga	(tri: ws54a)	(texture: ws54a_shw16_alp_ovl.bmp)
-wp54a/aa5ae8/7b58e8.tga	(tri: ws54a)	(texture: ws54a_shw17_alp_ovl.bmp)
-wp54a/aa5ae8/7c58e8.tga	(tri: ws54a)	(texture: ws54a_shw18_alp_ovl.bmp)
-wp54a/aa5ae8/7d58e8.tga	(tri: ws54a)	(texture: ws54a_shw19_alp_ovl.bmp)
-wp54a/aa5ae8/8c998b.tga	(tri: ws54a)	(texture: ws54a_wshw10_alp_ovl.bmp)
-wp54a/aa5ae8/8d998b.tga	(tri: ws54a)	(texture: ws54a_wshw11_alp_ovl.bmp)
-wp54a/aa5ae8/8e998b.tga	(tri: ws54a)	(texture: ws54a_wshw12_alp_ovl.bmp)
-wp54a/aa5ae8/8f998b.tga	(tri: ws54a)	(texture: ws54a_wshw13_alp_ovl.bmp)
-wp54a/aa5ae8/90998b.tga	(tri: ws54a)	(texture: ws54a_wshw14_alp_ovl.bmp)
-wp54a/aa5ae8/91998b.tga	(tri: ws54a)	(texture: ws54a_wshw15_alp_ovl.bmp)
-wp54a/aa5ae8/92998b.tga	(tri: ws54a)	(texture: ws54a_wshw16_alp_ovl.bmp)
-wp54a/aa5ae8/93998b.tga	(tri: ws54a)	(texture: ws54a_wshw17_alp_ovl.bmp)
-wp54a/aa5ae8/94998b.tga	(tri: ws54a)	(texture: ws54a_wshw18_alp_ovl.bmp)
-wp54a/aa5ae8/95998b.tga	(tri: ws54a)	(texture: ws54a_wshw19_alp_ovl.bmp)
-wp54a/aa5ae8/ac998b.tga	(tri: ws54a)	(texture: ws54a_wshw20_alp_ovl.bmp)
-wp54a/aa5ae8/ad998b.tga	(tri: ws54a)	(texture: ws54a_wshw21_alp_ovl.bmp)
-wp54a/aa5ae8/ae998b.tga	(tri: ws54a)	(texture: ws54a_wshw22_alp_ovl.bmp)
-wp55a/aa5b08/5556f0.tga	(tri: ws55a)	(texture: ws55a_sdw01_alp_ovl.bmp)
-wp55a/aa5b08/5656f0.tga	(tri: ws55a)	(texture: ws55a_sdw02_alp_ovl.bmp)
-wp55a/aa5b08/5756f0.tga	(tri: ws55a)	(texture: ws55a_sdw03_alp_ovl.bmp)
-wp55a/aa5b08/5856f0.tga	(tri: ws55a)	(texture: ws55a_sdw04_alp_ovl.bmp)
-wp55a/aa5b08/5956f0.tga	(tri: ws55a)	(texture: ws55a_sdw05_alp_ovl.bmp)
-wp55a/aa5b08/5a56f0.tga	(tri: ws55a)	(texture: ws55a_sdw06_alp_ovl.bmp)
-wp55a/aa5b08/5b56f0.tga	(tri: ws55a)	(texture: ws55a_sdw07_alp_ovl.bmp)
-wp55a/aa5b08/5c56f0.tga	(tri: ws55a)	(texture: ws55a_sdw08_alp_ovl.bmp)
-wp55a/aa5b08/5d56f0.tga	(tri: ws55a)	(texture: ws55a_sdw09_alp_ovl.bmp)
-wp55a/aa5b08/7456f0.tga	(tri: ws55a)	(texture: ws55a_sdw10_alp_ovl.bmp)
-wp55a/aa5b08/7556f0.tga	(tri: ws55a)	(texture: ws55a_sdw11_alp_ovl.bmp)
-wp55a/aa5b08/7656f0.tga	(tri: ws55a)	(texture: ws55a_sdw12_alp_ovl.bmp)
-wp55a/aa5b08/7756f0.tga	(tri: ws55a)	(texture: ws55a_sdw13_alp_ovl.bmp)
-wp55a/aa5b08/7856f0.tga	(tri: ws55a)	(texture: ws55a_sdw14_alp_ovl.bmp)
-wp55a/aa5b08/7956f0.tga	(tri: ws55a)	(texture: ws55a_sdw15_alp_ovl.bmp)
-wp55a/aa5b08/7a56f0.tga	(tri: ws55a)	(texture: ws55a_sdw16_alp_ovl.bmp)
-wp55a/aa5b08/7b56f0.tga	(tri: ws55a)	(texture: ws55a_sdw17_alp_ovl.bmp)
-wp55a/aa5b08/7c56f0.tga	(tri: ws55a)	(texture: ws55a_sdw18_alp_ovl.bmp)
-wp55a/aa5b08/7d56f0.tga	(tri: ws55a)	(texture: ws55a_sdw19_alp_ovl.bmp)
-wp55a/aa5b08/9456f0.tga	(tri: ws55a)	(texture: ws55a_sdw20_alp_ovl.bmp)
-wp55a/aa5b08/9556f0.tga	(tri: ws55a)	(texture: ws55a_sdw21_alp_ovl.bmp)
-wp55a/aa5b08/9656f0.tga	(tri: ws55a)	(texture: ws55a_sdw22_alp_ovl.bmp)
-wp55a/aa5b08/9856f0.tga	(tri: ws55a)	(texture: ws55a_sdw24_alp_ovl.bmp)
-wp55a/aa5b08/9956f0.tga	(tri: ws55a)	(texture: ws55a_sdw25_alp_ovl.bmp)
-wp55a/aa5b08/9a56f0.tga	(tri: ws55a)	(texture: ws55a_sdw26_alp_ovl.bmp)
-wp55a/aa5b08/9b56f0.tga	(tri: ws55a)	(texture: ws55a_sdw27_alp_ovl.bmp)
-wp55a/aa5b08/9c56f0.tga	(tri: ws55a)	(texture: ws55a_sdw28_alp_ovl.bmp)
-wp55a/aa5b08/9d56f0.tga	(tri: ws55a)	(texture: ws55a_sdw29_alp_ovl.bmp)
-wp55a/aa5b08/b456f0.tga	(tri: ws55a)	(texture: ws55a_sdw30_alp_ovl.bmp)
-wp55a/aa5b08/b556f0.tga	(tri: ws55a)	(texture: ws55a_sdw31_alp_ovl.bmp)
-wp55a/aa5b08/b856f0.tga	(tri: ws55a)	(texture: ws55a_sdw34_alp_ovl.bmp)
-wp55a/aa5b08/b956f0.tga	(tri: ws55a)	(texture: ws55a_sdw35_alp_ovl.bmp)
-wp55a/aa5b08/ba56f0.tga	(tri: ws55a)	(texture: ws55a_sdw36_alp_ovl.bmp)
-wp61a/aa5e88/5457d0.tga	(tri: ws61a)	(texture: ws41a_shw00_alp_ovl.bmp_21d58decce3d62942420dd942a3815c3)
-wp61a/aa5e88/5557d0.tga	(tri: ws61a)	(texture: ws41a_shw01_alp_ovl.bmp_ff2dd6eaa06d194dd339f50aa6fbbf6f)
-wp61a/aa5e88/94ccef.tga	(tri: ws61a)	(texture: ws61a_sdw00a_alp_ovl.bmp)
-wp61a/aa5e88/b4ccef.tga	(tri: ws61a)	(texture: ws61a_sdw01a_alp_ovl.bmp)
-wp61a/aa5e88/b5ccef.tga	(tri: ws61a)	(texture: ws61a_sdw01b_alp_ovl.bmp)
-wp62a/aa5ea8/00cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw13m_alp_ovl.bmp)
-wp62a/aa5ea8/01cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw13n_alp_ovl.bmp)
-wp62a/aa5ea8/02cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw13o_alp_ovl.bmp)
-wp62a/aa5ea8/14cdf0.tga	(tri: ws62a)	(texture: ws62a_sdw04a_alp_ovl.bmp)
-wp62a/aa5ea8/15cdf0.tga	(tri: ws62a)	(texture: ws62a_sdw04b_alp_ovl.bmp)
-wp62a/aa5ea8/15cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw14b_alp_ovl.bmp)
-wp62a/aa5ea8/16cdf0.tga	(tri: ws62a)	(texture: ws62a_sdw04c_alp_ovl.bmp)
-wp62a/aa5ea8/16cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw14c_alp_ovl.bmp)
-wp62a/aa5ea8/17cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw14d_alp_ovl.bmp)
-wp62a/aa5ea8/34cdf0.tga	(tri: ws62a)	(texture: ws62a_sdw05a_alp_ovl.bmp)
-wp62a/aa5ea8/34cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw15a_alp_ovl.bmp)
-wp62a/aa5ea8/37cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw15d_alp_ovl.bmp)
-wp62a/aa5ea8/5457d8.tga	(tri: ws62a)	(texture: ws62a_sdw00_alp_ovl.bmp)
-wp62a/aa5ea8/54cdf0.tga	(tri: ws62a)	(texture: ws62a_sdw06a_alp_ovl.bmp)
-wp62a/aa5ea8/54cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw16a_alp_ovl.bmp)
-wp62a/aa5ea8/5557d8.tga	(tri: ws62a)	(texture: ws62a_sdw01_alp_ovl.bmp)
-wp62a/aa5ea8/55cdf0.tga	(tri: ws62a)	(texture: ws62a_sdw06b_alp_ovl.bmp)
-wp62a/aa5ea8/55cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw16b_alp_ovl.bmp)
-wp62a/aa5ea8/5657d8.tga	(tri: ws62a)	(texture: ws62a_sdw02_alp_ovl.bmp)
-wp62a/aa5ea8/56cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw16c_alp_ovl.bmp)
-wp62a/aa5ea8/57cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw16d_alp_ovl.bmp)
-wp62a/aa5ea8/5857d8.tga	(tri: ws62a)	(texture: ws62a_sdw04_alp_ovl.bmp)
-wp62a/aa5ea8/58cdf4.tga	(tri: ws62a)	(texture: ws62a_sdw16e_alp_ovl.bmp)
-wp62a/aa5ea8/5957d8.tga	(tri: ws62a)	(texture: ws62a_sdw05_alp_ovl.bmp)
-wp62a/aa5ea8/5a57d8.tga	(tri: ws62a)	(texture: ws62a_sdw06_alp_ovl.bmp)
-wp62a/aa5ea8/5b57d8.tga	(tri: ws62a)	(texture: ws62a_sdw07_alp_ovl.bmp)
-wp62a/aa5ea8/5c57d8.tga	(tri: ws62a)	(texture: ws62a_sdw08_alp_ovl.bmp)
-wp62a/aa5ea8/7457d8.tga	(tri: ws62a)	(texture: ws62a_sdw10_alp_ovl.bmp)
-wp62a/aa5ea8/7557d8.tga	(tri: ws62a)	(texture: ws62a_sdw11_alp_ovl.bmp)
-wp62a/aa5ea8/7657d8.tga	(tri: ws62a)	(texture: ws62a_sdw12_alp_ovl.bmp)
-wp62a/aa5ea8/7757d8.tga	(tri: ws62a)	(texture: ws62a_sdw13_alp_ovl.bmp)
-wp62a/aa5ea8/7857d8.tga	(tri: ws62a)	(texture: ws62a_sdw14_alp_ovl.bmp)
-wp62a/aa5ea8/7957d8.tga	(tri: ws62a)	(texture: ws62a_sdw15_alp_ovl.bmp)
-wp62a/aa5ea8/7a57d8.tga	(tri: ws62a)	(texture: ws62a_sdw16_alp_ovl.bmp)
-wp62a/aa5ea8/94cdef.tga	(tri: ws62a)	(texture: ws62a_sdw00a_alp_ovl.bmp)
-wp62a/aa5ea8/94cdf0.tga	(tri: ws62a)	(texture: ws62a_sdw08a_alp_ovl.bmp)
-wp62a/aa5ea8/94cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw10a_alp_ovl.bmp)
-wp62a/aa5ea8/95cdef.tga	(tri: ws62a)	(texture: ws62a_sdw00b_alp_ovl.bmp)
-wp62a/aa5ea8/95cdf0.tga	(tri: ws62a)	(texture: ws62a_sdw08b_alp_ovl.bmp)
-wp62a/aa5ea8/95cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw10b_alp_ovl.bmp)
-wp62a/aa5ea8/96cdef.tga	(tri: ws62a)	(texture: ws62a_sdw00c_alp_ovl.bmp)
-wp62a/aa5ea8/96cdf0.tga	(tri: ws62a)	(texture: ws62a_sdw08c_alp_ovl.bmp)
-wp62a/aa5ea8/96cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw10c_alp_ovl.bmp)
-wp62a/aa5ea8/97cdef.tga	(tri: ws62a)	(texture: ws62a_sdw00d_alp_ovl.bmp)
-wp62a/aa5ea8/98cdef.tga	(tri: ws62a)	(texture: ws62a_sdw00e_alp_ovl.bmp)
-wp62a/aa5ea8/99cdef.tga	(tri: ws62a)	(texture: ws62a_sdw00f_alp_ovl.bmp)
-wp62a/aa5ea8/9acdef.tga	(tri: ws62a)	(texture: ws62a_sdw00g_alp_ovl.bmp)
-wp62a/aa5ea8/b4cdf0.tga	(tri: ws62a)	(texture: ws62a_sdw09a_alp_ovl.bmp)
-wp62a/aa5ea8/b4cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw11a_alp_ovl.bmp)
-wp62a/aa5ea8/b5cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw11b_alp_ovl.bmp)
-wp62a/aa5ea8/b6cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw11c_alp_ovl.bmp)
-wp62a/aa5ea8/d4cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw12a_alp_ovl.bmp)
-wp62a/aa5ea8/d5cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw12b_alp_ovl.bmp)
-wp62a/aa5ea8/f5cdef.tga	(tri: ws62a)	(texture: ws62a_sdw03b_alp_ovl.bmp)
-wp62a/aa5ea8/f5cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw13b_alp_ovl.bmp)
-wp62a/aa5ea8/f6cdef.tga	(tri: ws62a)	(texture: ws62a_sdw03c_alp_ovl.bmp)
-wp62a/aa5ea8/f6cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw13c_alp_ovl.bmp)
-wp62a/aa5ea8/f7cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw13d_alp_ovl.bmp)
-wp62a/aa5ea8/f8cdef.tga	(tri: ws62a)	(texture: ws62a_sdw03e_alp_ovl.bmp)
-wp62a/aa5ea8/f9cdf3.tga	(tri: ws62a)	(texture: ws62a_sdw13f_alp_ovl.bmp)
-wp62a/aa5ea8/facdf3.tga	(tri: ws62a)	(texture: ws62a_sdw13g_alp_ovl.bmp)
-wp62a/aa5ea8/fbcdf3.tga	(tri: ws62a)	(texture: ws62a_sdw13h_alp_ovl.bmp)
-wp62a/aa5ea8/fccdf3.tga	(tri: ws62a)	(texture: ws62a_sdw13i_alp_ovl.bmp)
-wp62a/aa5ea8/fdcdf3.tga	(tri: ws62a)	(texture: ws62a_sdw13j_alp_ovl.bmp)
-wp62a/aa5ea8/fecdf3.tga	(tri: ws62a)	(texture: ws62a_sdw13k_alp_ovl.bmp)
-wp62a/aa5ea8/ffcdf3.tga	(tri: ws62a)	(texture: ws62a_sdw13l_alp_ovl.bmp)
-wp63a/aa5ec8/5459e0.tga	(tri: ws63a)	(texture: ws63a_shw00_alp_ovl.bmp)
-wp63a/aa5ec8/5559e0.tga	(tri: ws63a)	(texture: ws63a_shw01_alp_ovl.bmp)
-wp63a/aa5ec8/5659e0.tga	(tri: ws63a)	(texture: ws63a_shw02_alp_ovl.bmp)
-wp63a/aa5ec8/5759e0.tga	(tri: ws63a)	(texture: ws63a_shw03_alp_ovl.bmp)
-wp63a/aa5ec8/5859e0.tga	(tri: ws63a)	(texture: ws63a_shw04_alp_ovl.bmp)
-wp63a/aa5ec8/5959e0.tga	(tri: ws63a)	(texture: ws63a_shw05_alp_ovl.bmp)
-wp63a/aa5ec8/5a59e0.tga	(tri: ws63a)	(texture: ws63a_shw06_alp_ovl.bmp)
-wp63a/aa5ec8/5b59e0.tga	(tri: ws63a)	(texture: ws63a_shw07_alp_ovl.bmp)
-wp63a/aa5ec8/5c59e0.tga	(tri: ws63a)	(texture: ws63a_shw08_alp_ovl.bmp)
-wp63a/aa5ec8/5d59e0.tga	(tri: ws63a)	(texture: ws63a_shw09_alp_ovl.bmp)
-wp63a/aa5ec8/7459e0.tga	(tri: ws63a)	(texture: ws63a_shw10_alp_ovl.bmp)
-wp63a/aa5ec8/7559e0.tga	(tri: ws63a)	(texture: ws63a_shw11_alp_ovl.bmp)
-wp63a/aa5ec8/7659e0.tga	(tri: ws63a)	(texture: ws63a_shw12_alp_ovl.bmp)
-wp63a/aa5ec8/7759e0.tga	(tri: ws63a)	(texture: ws63a_shw13_alp_ovl.bmp)
-wp64a/aa5ee8/268f3c.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_00.bmp)
-wp64a/aa5ee8/268f3d.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_01.bmp)
-wp64a/aa5ee8/268f3f.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_03.bmp)
-wp64a/aa5ee8/268f40.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_04.bmp)
-wp64a/aa5ee8/268f41.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_05.bmp)
-wp64a/aa5ee8/268f42.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_06.bmp)
-wp64a/aa5ee8/268f43.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_07.bmp)
-wp64a/aa5ee8/268f44.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_08.bmp)
-wp64a/aa5ee8/268f45.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_09.bmp)
-wp64a/aa5ee8/268f5c.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_10.bmp)
-wp64a/aa5ee8/268f5d.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_11.bmp)
-wp64a/aa5ee8/268f5e.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_12.bmp)
-wp64a/aa5ee8/268f5f.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_13.bmp)
-wp64a/aa5ee8/268f60.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_14.bmp)
-wp64a/aa5ee8/268f61.tga	(tri: ws64a)	(texture: ws64a_sdw_alp_ovl_15.bmp)
-wp65a/aa5f08/1457f1.tga	(tri: ws65a)	(texture: ws65a_sdw60_alp_ovl.bmp)
-wp65a/aa5f08/1657f1.tga	(tri: ws65a)	(texture: ws65a_sdw62_alp_ovl.bmp)
-wp65a/aa5f08/1757f1.tga	(tri: ws65a)	(texture: ws65a_sdw63_alp_ovl.bmp)
-wp65a/aa5f08/1857f1.tga	(tri: ws65a)	(texture: ws65a_sdw64_alp_ovl.bmp)
-wp65a/aa5f08/1957f1.tga	(tri: ws65a)	(texture: ws65a_sdw65_alp_ovl.bmp)
-wp65a/aa5f08/1a57f1.tga	(tri: ws65a)	(texture: ws65a_sdw66_alp_ovl.bmp)
-wp65a/aa5f08/1b57f1.tga	(tri: ws65a)	(texture: ws65a_sdw67_alp_ovl.bmp)
-wp65a/aa5f08/1c57f1.tga	(tri: ws65a)	(texture: ws65a_sdw68_alp_ovl.bmp)
-wp65a/aa5f08/3457f1.tga	(tri: ws65a)	(texture: ws65a_sdw70_alp_ovl.bmp)
-wp65a/aa5f08/3557f1.tga	(tri: ws65a)	(texture: ws65a_sdw71_alp_ovl.bmp)
-wp65a/aa5f08/3657f1.tga	(tri: ws65a)	(texture: ws65a_sdw72_alp_ovl.bmp)
-wp65a/aa5f08/5557f0.tga	(tri: ws65a)	(texture: ws65a_sdw01_alp_ovl.bmp)
-wp65a/aa5f08/5657f0.tga	(tri: ws65a)	(texture: ws65a_sdw02_alp_ovl.bmp)
-wp65a/aa5f08/5757f0.tga	(tri: ws65a)	(texture: ws65a_sdw03_alp_ovl.bmp)
-wp65a/aa5f08/5957f0.tga	(tri: ws65a)	(texture: ws65a_sdw05_alp_ovl.bmp)
-wp65a/aa5f08/5a57f0.tga	(tri: ws65a)	(texture: ws65a_sdw06_alp_ovl.bmp)
-wp65a/aa5f08/5b57f0.tga	(tri: ws65a)	(texture: ws65a_sdw07_alp_ovl.bmp)
-wp65a/aa5f08/5d57f0.tga	(tri: ws65a)	(texture: ws65a_sdw09_alp_ovl.bmp)
-wp65a/aa5f08/7457f0.tga	(tri: ws65a)	(texture: ws65a_sdw10_alp_ovl.bmp)
-wp65a/aa5f08/7557f0.tga	(tri: ws65a)	(texture: ws65a_sdw11_alp_ovl.bmp)
-wp65a/aa5f08/7657f0.tga	(tri: ws65a)	(texture: ws65a_sdw12_alp_ovl.bmp)
-wp65a/aa5f08/7757f0.tga	(tri: ws65a)	(texture: ws65a_sdw13_alp_ovl.bmp)
-wp65a/aa5f08/7857f0.tga	(tri: ws65a)	(texture: ws65a_sdw14_alp_ovl.bmp)
-wp65a/aa5f08/7957f0.tga	(tri: ws65a)	(texture: ws65a_sdw15_alp_ovl.bmp)
-wp65a/aa5f08/7a57f0.tga	(tri: ws65a)	(texture: ws65a_sdw16_alp_ovl.bmp)
-wp65a/aa5f08/7c57f0.tga	(tri: ws65a)	(texture: ws65a_sdw18_alp_ovl.bmp)
-wp65a/aa5f08/7d57f0.tga	(tri: ws65a)	(texture: ws65a_sdw19_alp_ovl.bmp)
-wp65a/aa5f08/9457f0.tga	(tri: ws65a)	(texture: ws65a_sdw20_alp_ovl.bmp)
-wp65a/aa5f08/9557f0.tga	(tri: ws65a)	(texture: ws65a_sdw21_alp_ovl.bmp)
-wp65a/aa5f08/9657f0.tga	(tri: ws65a)	(texture: ws65a_sdw22_alp_ovl.bmp)
-wp65a/aa5f08/9757f0.tga	(tri: ws65a)	(texture: ws65a_sdw23_alp_ovl.bmp)
-wp65a/aa5f08/9857f0.tga	(tri: ws65a)	(texture: ws65a_sdw24_alp_ovl.bmp)
-wp65a/aa5f08/9957f0.tga	(tri: ws65a)	(texture: ws65a_sdw25_alp_ovl.bmp)
-wp65a/aa5f08/9a57f0.tga	(tri: ws65a)	(texture: ws65a_sdw26_alp_ovl.bmp)
-wp65a/aa5f08/9b57f0.tga	(tri: ws65a)	(texture: ws65a_sdw27_alp_ovl.bmp)
-wp65a/aa5f08/9c57f0.tga	(tri: ws65a)	(texture: ws65a_sdw28_alp_ovl.bmp)
-wp65a/aa5f08/9d57f0.tga	(tri: ws65a)	(texture: ws65a_sdw29_alp_ovl.bmp)
-wp65a/aa5f08/b457f0.tga	(tri: ws65a)	(texture: ws65a_sdw30_alp_ovl.bmp)
-wp65a/aa5f08/b557f0.tga	(tri: ws65a)	(texture: ws65a_sdw31_alp_ovl.bmp)
-wp65a/aa5f08/b757f0.tga	(tri: ws65a)	(texture: ws65a_sdw33_alp_ovl.bmp)
-wp65a/aa5f08/b857f0.tga	(tri: ws65a)	(texture: ws65a_sdw34_alp_ovl.bmp)
-wp65a/aa5f08/b957f0.tga	(tri: ws65a)	(texture: ws65a_sdw35_alp_ovl.bmp)
-wp65a/aa5f08/ba57f0.tga	(tri: ws65a)	(texture: ws65a_sdw36_alp_ovl.bmp)
-wp65a/aa5f08/bb57f0.tga	(tri: ws65a)	(texture: ws65a_sdw37_alp_ovl.bmp)
-wp65a/aa5f08/bc57f0.tga	(tri: ws65a)	(texture: ws65a_sdw38_alp_ovl.bmp)
-wp65a/aa5f08/bd57f0.tga	(tri: ws65a)	(texture: ws65a_sdw39_alp_ovl.bmp)
-wp65a/aa5f08/d457f0.tga	(tri: ws65a)	(texture: ws65a_sdw40_alp_ovl.bmp)
-wp65a/aa5f08/d4d6f7.tga	(tri: ws65a)	(texture: ws65a_sdw_duct01_alp_ovl.bmp)
-wp65a/aa5f08/d557f0.tga	(tri: ws65a)	(texture: ws65a_sdw41_alp_ovl.bmp)
-wp65a/aa5f08/d5d6f7.tga	(tri: ws65a)	(texture: ws65a_sdw_duct02_alp_ovl.bmp)
-wp65a/aa5f08/d657f0.tga	(tri: ws65a)	(texture: ws65a_sdw42_alp_ovl.bmp)
-wp65a/aa5f08/d757f0.tga	(tri: ws65a)	(texture: ws65a_sdw43_alp_ovl.bmp)
-wp65a/aa5f08/d857f0.tga	(tri: ws65a)	(texture: ws65a_sdw44_alp_ovl.bmp)
-wp65a/aa5f08/d957f0.tga	(tri: ws65a)	(texture: ws65a_sdw45_alp_ovl.bmp)
-wp65a/aa5f08/da57f0.tga	(tri: ws65a)	(texture: ws65a_sdw46_alp_ovl.bmp)
-wp65a/aa5f08/db57f0.tga	(tri: ws65a)	(texture: ws65a_sdw47_alp_ovl.bmp)
-wp65a/aa5f08/dc57f0.tga	(tri: ws65a)	(texture: ws65a_sdw48_alp_ovl.bmp)
-wp65a/aa5f08/dd57f0.tga	(tri: ws65a)	(texture: ws65a_sdw49_alp_ovl.bmp)
-wp65a/aa5f08/f457f0.tga	(tri: ws65a)	(texture: ws65a_sdw50_alp_ovl.bmp)
-wp65a/aa5f08/f557f0.tga	(tri: ws65a)	(texture: ws65a_sdw51_alp_ovl.bmp)
-wp65a/aa5f08/f657f0.tga	(tri: ws65a)	(texture: ws65a_sdw52_alp_ovl.bmp)
-wp65a/aa5f08/f857f0.tga	(tri: ws65a)	(texture: ws65a_sdw54_alp_ovl.bmp)
-wp65a/aa5f08/f957f0.tga	(tri: ws65a)	(texture: ws65a_sdw55_alp_ovl.bmp)
-wp65a/aa5f08/fa57f0.tga	(tri: ws65a)	(texture: ws65a_sdw56_alp_ovl.bmp)
-wp65a/aa5f08/fb57f0.tga	(tri: ws65a)	(texture: ws65a_sdw57_alp_ovl.bmp)
-wp65a/aa5f08/fc57f0.tga	(tri: ws65a)	(texture: ws65a_sdw58_alp_ovl.bmp)
-wp65a/aa5f08/fd57f0.tga	(tri: ws65a)	(texture: ws65a_sdw59_alp_ovl.bmp)
-wp71a/aa6288/67edab.tga	(tri: ws71a)	(texture: ws71a_sdw_04_alp_ovl.bmp)
-wp73a/aa62a8/01edf4.tga	(tri: ws72a)	(texture: ws72a_sdw13n_alp_ovl.bmp)
-wp73a/aa62a8/5558d8.tga	(tri: ws72a)	(texture: ws72a_sdw01_alp_ovl.bmp)
-wp73a/aa62a8/5658d8.tga	(tri: ws72a)	(texture: ws72a_sdw02_alp_ovl.bmp)
-wp73a/aa62a8/5758d8.tga	(tri: ws72a)	(texture: ws72a_sdw03_alp_ovl.bmp)
-wp73a/aa62a8/5858d8.tga	(tri: ws72a)	(texture: ws72a_sdw04_alp_ovl.bmp)
-wp73a/aa62a8/5958d8.tga	(tri: ws72a)	(texture: ws72a_sdw05_alp_ovl.bmp)
-wp73a/aa62a8/5a58d8.tga	(tri: ws72a)	(texture: ws72a_sdw06_alp_ovl.bmp)
-wp73a/aa62a8/5b58d8.tga	(tri: ws72a)	(texture: ws72a_sdw07_alp_ovl.bmp)
-wp73a/aa62a8/5c58d8.tga	(tri: ws72a)	(texture: ws72a_sdw08_alp_ovl.bmp)
-wp73a/aa62a8/5d58d8.tga	(tri: ws72a)	(texture: ws72a_sdw09_alp_ovl.bmp)
-wp73a/aa62a8/7458d8.tga	(tri: ws72a)	(texture: ws72a_sdw10_alp_ovl.bmp)
-wp73a/aa62a8/7558d8.tga	(tri: ws72a)	(texture: ws72a_sdw11_alp_ovl.bmp)
-wp73a/aa62a8/7658d8.tga	(tri: ws72a)	(texture: ws72a_sdw12_alp_ovl.bmp)
-wp73a/aa62a8/7958d8.tga	(tri: ws72a)	(texture: ws72a_sdw15_alp_ovl.bmp)
-wp73a/aa62a8/7a58d8.tga	(tri: ws72a)	(texture: ws72a_sdw16_alp_ovl.bmp)
-wp73a/aa62a8/7b58d8.tga	(tri: ws72a)	(texture: ws72a_sdw17_alp_ovl.bmp)
-wp73a/aa62a8/7c58d8.tga	(tri: ws72a)	(texture: ws72a_sdw18_alp_ovl.bmp)
-wp73a/aa62a8/7d58d8.tga	(tri: ws72a)	(texture: ws72a_sdw19_alp_ovl.bmp)
-wp73a/aa62a8/9458d8.tga	(tri: ws72a)	(texture: ws72a_sdw20_alp_ovl.bmp)
-wp73a/aa62a8/9758d8.tga	(tri: ws72a)	(texture: ws72a_sdw23_alp_ovl.bmp)
-wp73a/aa62a8/9858d8.tga	(tri: ws72a)	(texture: ws72a_sdw24_alp_ovl.bmp)
-wp73a/aa62a8/9958d8.tga	(tri: ws72a)	(texture: ws72a_sdw25_alp_ovl.bmp)
-wp73a/aa62a8/9a58d8.tga	(tri: ws72a)	(texture: ws72a_sdw26_alp_ovl.bmp)
-wp73a/aa62a8/9c58d8.tga	(tri: ws72a)	(texture: ws72a_sdw28_alp_ovl.bmp)
-wp73a/aa62a8/9d58d8.tga	(tri: ws72a)	(texture: ws72a_sdw29_alp_ovl.bmp)
-wp73a/aa62a8/b458d8.tga	(tri: ws72a)	(texture: ws72a_sdw30_alp_ovl.bmp)
-wp73a/aa62a8/b558d8.tga	(tri: ws72a)	(texture: ws72a_sdw31_alp_ovl.bmp)
-wp73a/aa62a8/b758d8.tga	(tri: ws72a)	(texture: ws72a_sdw33_alp_ovl.bmp)
-wp75a/aa62c8/abefab.tga	(tri: ws73a)	(texture: ws73a_sdw_28_alp_ovl.bmp)
-wp75a/aa62c8/c3efab.tga	(tri: ws73a)	(texture: ws73a_sdw_30_alp_ovl.bmp)
-wp75a/aa62c8/c8efab.tga	(tri: ws73a)	(texture: ws73a_sdw_35_alp_ovl.bmp)
-wp75a/aa62c8/cbefab.tga	(tri: ws73a)	(texture: ws73a_sdw_38_alp_ovl.bmp)
-wp75a/aa62c8/e4efab.tga	(tri: ws73a)	(texture: ws73a_sdw_41_alp_ovl.bmp)
 
 
 ==============================
- Unique Corrupted Textures (3102 total)
+ Unique Corrupted Textures (1791 total)
 ==============================
-00024ad1
 002d83e3
 002d83e4
 002e7dde
 002e7de0
-002f8bd0
-00352bd0
-0036ea81
 00487b63
 00497b63
 004a7b63
@@ -3136,9 +1942,6 @@ wp75a/aa62c8/e4efab.tga	(tri: ws73a)	(texture: ws73a_sdw_41_alp_ovl.bmp)
 009fbc16
 00a1bc16
 00a891e2
-00b60372
-00b64ad1
-00b6eb2c
 00c6fef1
 00cfb0a6
 00ec73af
@@ -3182,11 +1985,6 @@ cam_chest_bo_dt_sub_alp_ovl.bmp
 cam_color_l_sub_alp_ovl.bmp
 cam_color_r_sub_alp_ovl.bmp
 cam_kata_sml_dt_sub_alp_ovl.bmp
-camera_alp_ovl.bmp
-car_kage_ban_alp_ovl.bmp
-car_kage_ode_alp_ovl.bmp
-car_kage_sky_alp_ovl.bmp
-car_kage_wagon_alp_ovl.bmp
 cau_alp_ovl.bmp
 caust00_alp_add_ovl.bmp
 caution_alp_ovl.bmp
@@ -3204,7 +2002,6 @@ chr1_03_alp_sub_ovl.bmp
 chr1_03a_alp_sub_ovl.bmp
 chr1_05_alp_sub_ovl.bmp
 clr_alp_ovl.bmp
-clr_b_alp_ovl.bmp
 cyp_lens_rgb_alp_ovl.bmp
 cyp_propera_alp.bmp
 cyp_roter01_alp.bmp
@@ -3271,7 +2068,6 @@ ema_glassf_alp_ovl.bmp
 ema_glassf_sub_alp_ovl.bmp
 ema_hand_sub_alp_ovl.bmp
 ema_leg_sub_alp_ovl.bmp
-empty_alp_ovl.bmp
 entrance_alp_add_ovl.bmp
 etop_alp_ovl.bmp
 eva_alp_ovl.bmp
@@ -3289,20 +2085,14 @@ fat_eri_back_sub_alp_ovl.bmp
 fat_eri_front_sub_alp_ovl.bmp
 fat_eri_side_sub_alp_ovl.bmp
 fat_larm_sub_alp_ovl.bmp
-fat_pias_alp_ovl.bmp
 fat_radio_sub_ovl_alp.bmp
 fat_shues_ovl_alp_emap_mod1120.bmp
 fat_suits_kat_sub_alp_ovl.bmp
-floor_marker1_add_alp.bmp
-floor_marker2_add_alp.bmp
 frost02_alp.bmp
 fstamp03_alp.bmp
 g_alp_ovl.bmp
 gcyp_blade_alp.bmp
 gcyp_eff_blade_alp.bmp
-gno_para_himo_ovl_alp.bmp
-gray_128_128_add_alp.bmp
-gray_128_192_alp_ovl.bmp
 h6h_door_window_sub_alp_ovl.bmp
 h6h_eff_mrot_alp.bmp
 h6h_f_window_sub_alp_ovl.bmp
@@ -3377,7 +2167,6 @@ label01a_alp_ovl.bmp
 label02_alp_ovl.bmp
 label_00_alp_ovl.bmp
 label_01_alp_ovl.bmp
-label_28_alp_ovl.bmp
 label_rei_alp_ovl.bmp
 lg_renraku_alp_ovl.bmp
 litA0_add_alp.bmp
@@ -3400,44 +2189,7 @@ mark_ev_alp_ovl.bmp
 mark_hall_alp_ovl.bmp
 mark_locker_alp_ovl.bmp
 mark_lounge_alp_ovl.bmp
-mark_warning_alp_ovl.bmp_b02569d9d2fe228c695d6e54a1f86d70
-mrl_arm_wrist_sub_ovl_alp.bmp
-mrl_belt_sub_alp_ovl.bmp
 n523_alp_ovl.bmp
-n_vs06a_sdw00_alp_ovl.bmp
-n_vs06a_sdw01_alp_ovl.bmp
-n_vs06a_sdw03_alp_ovl.bmp
-n_vs06a_sdw04_alp_ovl.bmp
-n_vs06a_sdw05_alp_ovl.bmp
-n_vs06a_sdw06_alp_ovl.bmp
-n_vs06a_sdw07_alp_ovl.bmp
-n_vs06a_sdw08_alp_ovl.bmp
-n_vs06a_sdw09_alp_ovl.bmp
-n_vs06a_sdw10_alp_ovl.bmp
-n_vs06a_sdw11_alp_ovl.bmp
-n_vs06a_sdw12_alp_ovl.bmp
-n_vs06a_sdw13_alp_ovl.bmp
-n_vs06a_sdw14_alp_ovl.bmp
-n_vs06a_sdw16_alp_ovl.bmp
-n_vs06a_sdw17_alp_ovl.bmp
-n_vs06a_sdw18_alp_ovl.bmp
-n_vs06a_sdw19_alp_ovl.bmp
-n_vs06a_sdw20_alp_ovl.bmp
-n_vs06a_sdw21_alp_ovl.bmp
-n_vs06a_sdw22_alp_ovl.bmp
-n_vs06a_sdw23_alp_ovl.bmp
-n_vs06a_sdw24_alp_ovl.bmp
-n_vs06a_sdw25_alp_ovl.bmp
-n_vs06a_sdw26_alp_ovl.bmp
-n_vs06a_sdw27_alp_ovl.bmp
-n_vs06a_sdw28_alp_ovl.bmp
-n_vs06a_sdw29_alp_ovl.bmp
-n_vs06a_sdw30_alp_ovl.bmp
-n_vs06a_sdw31_alp_ovl.bmp
-n_vs06a_sdw32_alp_ovl.bmp
-n_vs06a_sdw33_alp_ovl.bmp
-n_vs06a_sdw34_alp_ovl.bmp
-n_vs06a_sdw35_alp_ovl.bmp
 no_use_alp_ovl.bmp
 node_plate_alp_ovl.bmp
 nom_alp_ovl.bmp
@@ -3489,18 +2241,13 @@ pdray_thigh_cir_sub_alp_ovl.bmp
 pdray_thigh_t1_sub_ovl_alp.bmp
 pdray_waist_s1_sub_alp_ovl.bmp
 pdray_waist_s2_sub_alp_ovl.bmp
-pit_face2_ovl_sub_alp.bmp_6db9591385198a710491f1b539611f0b
 pit_steki_alp_ovl_sub.bmp
 plant_uturikommi_01_alp_ovl.bmp
 plant_uturikommi_02_alp_ovl.bmp
 powder01_alp.bmp
 powder02_alp.bmp
-rah_nin_hi_hand2_fix_ovl_sub_alp.bmp
-rai_eye_hlf_ovl.bmp
 rai_finger_fix_ovl_sub_alp.bmp
-rai_foot_c_fix_ovl_sub_alp.bmp
 rai_hand_02_fix_ovl_sub_alp.bmp
-rai_mask_a_ovl_sub_alp.bmp
 rai_rist_fix_ovl_sub_alp.bmp
 ray_arm_t1_sub_alp_ovl.bmp
 ray_canopy_sub_ovl_alp.bmp
@@ -3557,16 +2304,9 @@ s2_g_1f_alp_ovl.bmp
 s2_k_1f_alp_ovl.bmp
 s2_l_1f_alp_ovl.bmp
 s_oil_sea_alp_ovl_mod0022.bmp
-sco_hand_i_ovl_sub_alp.bmp
 sco_hand_in_ovl_sub_alp.bmp
-sco_hand_o_ovl_sub_alp.bmp
-sco_hand_o_ovl_sub_alp.bmp_7ae46165cf53cfc184eb18f1cbb93ce8
 sco_hand_out_ovl_sub_alp.bmp
 sco_n3_ude_u_ovl_sub_alp.bmp
-sco_n3_ude_u_ovl_sub_alp.bmp_160fc82beaf190aad4b9ed0deee98d37
-sco_ude_ovl_sub_alp.bmp
-sdw_alp_ovl_wall.bmp
-sdw_alp_ovl_wall_01.bmp
 seculitycard_lv1_alp.bmp
 seculitycard_lv2_alp.bmp
 seculitycard_lv3_alp.bmp
@@ -3576,17 +2316,12 @@ sensou_02_alp_ovl.bmp
 shell-1_alp_ovl.bmp
 shell-2_alp_ovl.bmp
 shl_s_alp.bmp
-sky_alp_add.bmp
 sky_d1_alp.bmp
 sky_e1_alp.bmp
 sky_m1_alp.bmp
 sky_m2_alp.bmp
 sky_m4_alp.bmp
 sky_n3_alp.bmp
-smoke_alp_ovl.bmp
-smoke_lp4_alp.bmp
-sna_glass_bld080_ovl_alp.bmp
-sna_glass_bld095_ovl_alp.bmp
 so_rlish_alp_ovl.bmp
 so_yu_lig_add_alp_ovl.bmp
 so_yu_sh_alp_ovl.bmp
@@ -3606,349 +2341,10 @@ sol_sarm_tube3_ovl_sub_alp.bmp
 sol_shoes1_n_ovl_sub_alp.bmp
 sonic02_alp.bmp
 sourse_hlf_ovl.bmp
-sp01a_sdw00_alp_ovl.bmp
-sp01a_sdw00a_alp_ovl.bmp
-sp01a_sdw00b_alp_ovl.bmp
-sp01a_sdw00c_alp_ovl.bmp
-sp01a_sdw00d_alp_ovl.bmp
-sp01a_sdw00e_alp_ovl.bmp
-sp01a_sdw00f_alp_ovl.bmp
-sp01a_sdw01_alp_ovl.bmp
-sp01a_sdw01a_alp_ovl.bmp
-sp01a_sdw02_alp_ovl.bmp
-sp01a_sdw02a_alp_ovl.bmp
-sp01a_sdw02b_alp_ovl.bmp
-sp01a_sdw02c_alp_ovl.bmp
-sp01a_sdw02d_alp_ovl.bmp
-sp01a_sdw02e_alp_ovl.bmp
-sp01a_sdw03_alp_ovl.bmp
-sp01a_sdw03a_alp_ovl.bmp
-sp01a_sdw03b_alp_ovl.bmp
-sp01a_sdw03c_alp_ovl.bmp
-sp01a_sdw03d_alp_ovl.bmp
-sp01a_sdw03e_alp_ovl.bmp
-sp01a_sdw03f_alp_ovl.bmp
-sp01a_sdw03g_alp_ovl.bmp
-sp01a_sdw03h_alp_ovl.bmp
-sp01a_sdw03i_alp_ovl.bmp
-sp01a_sdw03j_alp_ovl.bmp
-sp01a_sdw03k_alp_ovl.bmp
-sp01a_sdw03l_alp_ovl.bmp
-sp01a_sdw03m_alp_ovl.bmp
-sp01a_sdw03n_alp_ovl.bmp
-sp01a_sdw03o_alp_ovl.bmp
-sp01a_sdw03p_alp_ovl.bmp
-sp01a_sdw04_alp_ovl.bmp
-sp01a_sdw04a_alp_ovl.bmp
-sp01a_sdw04b_alp_ovl.bmp
-sp01a_sdw04c_alp_ovl.bmp
-sp01a_sdw04d_alp_ovl.bmp
-sp01a_sdw04e_alp_ovl.bmp
-sp01a_sdw04f_alp_ovl.bmp
-sp01a_sdw04g_alp_ovl.bmp
-sp01a_sdw05_alp_ovl.bmp
-sp01a_sdw05a_alp_ovl.bmp
-sp02a_shw00_alp_ovl.bmp
-sp02a_shw01_alp_ovl.bmp
-sp02a_shw02_alp_ovl.bmp
-sp02a_shw03_alp_ovl.bmp
-sp03a4_shd02_alp_ovl.bmp
-sp03a4_shd03_alp_ovl.bmp
-sp03a4_shd1_alp_ovl.bmp
-sp03a_sdw00_alp_ovl.bmp
-sp03a_wall_sdw00_alp_ovl.bmp
-sp06a_sdw00_alp_ovl.bmp
-sp06a_shw01_alp_ovl.bmp
-sp06a_shw02_alp_ovl.bmp
-sp06a_shw03_alp_ovl.bmp
-sp06a_shw04_alp_ovl.bmp
-sp06a_shw05_alp_ovl.bmp
-sp06a_shw06_alp_ovl.bmp
-sp06a_shw07_alp_ovl.bmp
-sp06a_shw08_alp_ovl.bmp
-sp06a_shw10_alp_ovl.bmp
-sp06a_shw11_alp_ovl.bmp
-sp06a_shw12_alp_ovl.bmp
-sp06a_shw13_alp_ovl.bmp
-sp06a_shw14_alp_ovl.bmp
-sp06a_shw15_alp_ovl.bmp
-sp06a_shw16_alp_ovl.bmp
-sp06a_shw17_alp_ovl.bmp
-sp06a_shw18_alp_ovl.bmp
-sp06a_shw19_alp_ovl.bmp
-sp06a_shw20_alp_ovl.bmp
-sp06a_shw21_alp_ovl.bmp
-sp06a_shw22_alp_ovl.bmp
-sp06a_shw23_alp_ovl.bmp
-sp06a_shw29_alp_ovl.bmp
-sp06a_shw9_alp_ovl.bmp
-sp07a_shw00_alp_ovl.bmp
-sp07a_shw01_alp_ovl.bmp
-sp07a_shw02_alp_ovl.bmp
-sp07a_shw03_alp_ovl.bmp
-sp07a_shw04_alp_ovl.bmp
-sp07a_shw05_alp_ovl.bmp
-sp07a_shw06_alp_ovl.bmp
-sp07a_shw07_alp_ovl.bmp
-sp07a_shw08_alp_ovl.bmp
-sp07a_shw09_alp_ovl.bmp
-sp07a_shw10_alp_ovl.bmp
-sp07a_shw11_alp_ovl.bmp
-sp07a_shw12_alp_ovl.bmp
-sp07a_shw13_alp_ovl.bmp
-sp07a_shw15_alp_ovl.bmp
-sp07a_shw16_alp_ovl.bmp
-sp07a_shw17_alp_ovl.bmp
-sp07a_shw18_alp_ovl.bmp
-sp07a_shw19_alp_ovl.bmp
-sp07a_shw21_alp_ovl.bmp
-sp07a_shw22_alp_ovl.bmp
-sp07a_shw23_alp_ovl.bmp
-sp07a_shw24_alp_ovl.bmp
-sp07a_shw25_alp_ovl.bmp
-sp07a_shw26_alp_ovl.bmp
-sp07a_wall_shw00_alp_ovl.bmp
-sp07a_wall_shw01_alp_ovl.bmp
-sp07a_wall_shw02_alp_ovl.bmp
-sp21a_sdw00_alp_ovl.bmp
-sp21a_sdw00a_alp_ovl.bmp
-sp21a_sdw00b_alp_ovl.bmp
-sp21a_sdw00f_alp_ovl.bmp
-sp21a_sdw00g_alp_ovl.bmp
-sp21a_sdw00h_alp_ovl.bmp
-sp21a_sdw00i_alp_ovl.bmp
-sp21a_sdw00j_alp_ovl.bmp
-sp21a_sdw01_alp_ovl.bmp
-sp21a_sdw01a_alp_ovl.bmp
-sp21a_sdw01e_alp_ovl.bmp
-sp21a_sdw02_alp_ovl.bmp
-sp21a_sdw02a_alp_ovl.bmp
-sp21a_sdw02b_alp_ovl.bmp
-sp21a_sdw02c_alp_ovl.bmp
-sp21a_sdw02d_alp_ovl.bmp
-sp21a_sdw02e_alp_ovl.bmp
-sp21a_sdw02f_alp_ovl.bmp
-sp21a_sdw02g_alp_ovl.bmp
-sp21a_sdw02h_alp_ovl.bmp
-sp21a_sdw03_alp_ovl.bmp
-sp21a_sdw03a_alp_ovl.bmp
-sp21a_sdw03b_alp_ovl.bmp
-sp21a_sdw03f_alp_ovl.bmp
-sp21a_sdw03g_alp_ovl.bmp
-sp21a_sdw03h_alp_ovl.bmp
-sp21a_sdw03i_alp_ovl.bmp
-sp21a_sdw03j_alp_ovl.bmp
-sp21a_sdw04_alp_ovl.bmp
-sp21a_sdw04a_alp_ovl.bmp
-sp21a_sdw04b_alp_ovl.bmp
-sp21a_sdw04c_alp_ovl.bmp
-sp21a_sdw04d_alp_ovl.bmp
-sp21a_sdw04e_alp_ovl.bmp
-sp21a_sdw04f_alp_ovl.bmp
-sp21a_sdw04g_alp_ovl.bmp
-sp21a_sdw04h_alp_ovl.bmp
-sp21a_sdw04i_alp_ovl.bmp
-sp21a_sdw05_alp_ovl.bmp
-sp21a_sdw05a_alp_ovl.bmp
-sp21a_sdw05b_alp_ovl.bmp
-sp21a_sdw05c_alp_ovl.bmp
-sp21a_sdw05d_alp_ovl.bmp
-sp21a_sdw05e_alp_ovl.bmp
-sp21a_sdw06_alp_ovl.bmp
-sp21a_sdw06a_alp_ovl.bmp
-sp21a_sdw06b_alp_ovl.bmp
-sp21a_sdw06c_alp_ovl.bmp
-sp21a_sdw06d_alp_ovl.bmp
-sp21a_sdw07_alp_ovl.bmp
-sp21a_sdw07a_alp_ovl.bmp
-sp21a_sdw07b_alp_ovl.bmp
-sp21a_sdw07c_alp_ovl.bmp
-sp21a_sdw08_alp_ovl.bmp
-sp21a_sdw08a_alp_ovl.bmp
-sp21a_sdw08b_alp_ovl.bmp
-sp21a_sdw08c_alp_ovl.bmp
-sp21a_sdw08d_alp_ovl.bmp
-sp21a_sdw09_alp_ovl.bmp
-sp21a_sdw09b_alp_ovl.bmp
-sp21a_sdw09c_alp_ovl.bmp
-sp21a_sdw10_alp_ovl.bmp
-sp21a_sdw10a_alp_ovl.bmp
-sp21a_sdw11_alp_ovl.bmp
-sp21a_sdwbox00_alp_ovl.bmp
-sp21a_sdwbox00a_alp_ovl.bmp
-sp21a_sdwbox01_alp_ovl.bmp
-sp21a_sdwbox01a_alp_ovl.bmp_627c0aff71e2c0006ff00d92280ffb2c
-sp21a_sdwbox02_alp_ovl.bmp
-sp21a_sdwbox02a_alp_ovl.bmp
-sp21a_sdwbox03_alp_ovl.bmp
-sp21a_sdwbox03a_alp_ovl.bmp
-sp21a_sdwbox04_alp_ovl.bmp
-sp21a_sdwbox04a_alp_ovl.bmp
-sp21a_sdwbox05_alp_ovl.bmp
-sp21a_sdwbox05a_alp_ovl.bmp
-sp21a_sdwwl00_alp_ovl.bmp
-sp21a_sdwwl01_alp_ovl.bmp
-sp21a_sdwwl02_alp_ovl.bmp
-sp21a_sdwwl03_alp_ovl.bmp
-sp21a_sdwwl04_alp_ovl.bmp
-sp25a_sdw01_alp_ovl.bmp
-sp25a_sdw02_alp_ovl.bmp
-sp25a_sdw03_alp_ovl.bmp
-sp25a_sdw04_alp_ovl.bmp
-sp25a_sdw05_alp_ovl.bmp
-sp25a_sdw06_alp_ovl.bmp
-sp25a_sdw07_alp_ovl.bmp
-sp25a_sdw08_alp_ovl.bmp
-sp25a_sdw09_alp_ovl.bmp
-sp25a_sdw10_alp_ovl.bmp
-sp25a_sdw11_alp_ovl.bmp
-sp25a_sdw12_alp_ovl.bmp
-sp25a_sdw13_alp_ovl.bmp
-sp25a_sdw14_alp_ovl.bmp
-sp25a_sdw15_alp_ovl.bmp
-sp25a_sdw16_alp_ovl.bmp
-sp25a_sdw17_alp_ovl.bmp
-sp25a_sdw18_alp_ovl.bmp
-sp25a_sdw19_alp_ovl.bmp
-sp25a_sdw20_alp_ovl.bmp
-sp25a_sdw21_alp_ovl.bmp
-sp25a_sdw22_alp_ovl.bmp
-sp25a_sdw23_alp_ovl.bmp
-sp25a_sdw24_alp_ovl.bmp
-sp25a_sdw25_alp_ovl.bmp
-sp25a_sdw26_alp_ovl.bmp
-sp25a_sdw27_alp_ovl.bmp
-sp25a_sdw28_alp_ovl.bmp
-sp25a_sdw29_alp_ovl.bmp
-sp25a_sdw30_alp_ovl.bmp
-sp25a_sdw31_alp_ovl.bmp
-sp25a_sdw32_alp_ovl.bmp
-sp25a_sdw33_alp_ovl.bmp
-sp25a_sdw34_alp_ovl.bmp
-sp25a_sdw35_alp_ovl.bmp
-sp25a_sdw36_alp_ovl.bmp
-sp25a_sdw37_alp_ovl.bmp
-sp25a_sdw38_alp_ovl.bmp
-sp25a_sdw39_alp_ovl.bmp
-sp25a_sdw40_alp_ovl.bmp
-sp25a_sdw41_alp_ovl.bmp
-sp25a_sdw42_alp_ovl.bmp
-sp25a_sdw43_alp_ovl.bmp
-sp25a_sdw44_alp_ovl.bmp
-sp25a_sdw45_alp_ovl.bmp
-sp25a_sdw46_alp_ovl.bmp
-sp25a_sdw48_alp_ovl.bmp
-sp25a_sdw49_alp_ovl.bmp
-sp25a_sdw50_alp_ovl.bmp
-sp25a_sdw51_alp_ovl.bmp
-sp25a_sdw52_alp_ovl.bmp
-sp25a_sdw53_alp_ovl.bmp
-sp25a_sdw54_alp_ovl.bmp
-sp25a_sdw55_alp_ovl.bmp
-sp25a_sdw56_alp_ovl.bmp
-sp25a_sdw57_alp_ovl.bmp
-sp25a_sdw58_alp_ovl.bmp
-sp25a_sdw59_alp_ovl.bmp
-sp25a_sdw60_alp_ovl.bmp
-sp25a_sdw61_alp_ovl.bmp
-sp25a_sdw62_alp_ovl.bmp
-sp25a_sdw63_alp_ovl.bmp
-sp25a_sdw64_alp_ovl.bmp
-sp25a_sdw65_alp_ovl.bmp
-sp25a_sdw_dan01_10_alp_ovl.bmp
-sp25a_sdw_dan01_11_alp_ovl.bmp
-sp25a_sdw_dan01_2_alp_ovl.bmp
-sp25a_sdw_dan01_3_alp_ovl.bmp
-sp25a_sdw_dan01_4_alp_ovl.bmp
-sp25a_sdw_dan01_5_alp_ovl.bmp
-sp25a_sdw_dan01_6_alp_ovl.bmp
-sp25a_sdw_dan01_7_alp_ovl.bmp
-sp25a_sdw_dan01_8_alp_ovl.bmp
-sp25a_sdw_dan01_9_alp_ovl.bmp
-sp25a_sdw_dan01_alp_ovl.bmp
-sp25a_sdw_dan02_10_alp_ovl.bmp
-sp25a_sdw_dan02_11_alp_ovl.bmp
-sp25a_sdw_dan02_1_alp_ovl.bmp
-sp25a_sdw_dan02_2_alp_ovl.bmp
-sp25a_sdw_dan02_3_alp_ovl.bmp
-sp25a_sdw_dan02_4_alp_ovl.bmp
-sp25a_sdw_dan02_5_alp_ovl.bmp
-sp25a_sdw_dan02_6_alp_ovl.bmp
-sp25a_sdw_dan02_7_alp_ovl.bmp
-sp25a_sdw_dan02_8_alp_ovl.bmp
-sp25a_sdw_dan02_9_alp_ovl.bmp
-sp25a_sdw_dan03_alp_ovl.bmp
-sp25a_sdw_dan04_10_alp_ovl.bmp
-sp25a_sdw_dan04_11_alp_ovl.bmp
-sp25a_sdw_dan04_12_alp_ovl.bmp
-sp25a_sdw_dan04_13_alp_ovl.bmp
-sp25a_sdw_dan04_14_alp_ovl.bmp
-sp25a_sdw_dan04_15_alp_ovl.bmp
-sp25a_sdw_dan04_16_alp_ovl.bmp
-sp25a_sdw_dan04_17_alp_ovl.bmp
-sp25a_sdw_dan04_18_alp_ovl.bmp
-sp25a_sdw_dan04_19_alp_ovl.bmp
-sp25a_sdw_dan04_1_alp_ovl.bmp
-sp25a_sdw_dan04_2_alp_ovl.bmp
-sp25a_sdw_dan04_3_alp_ovl.bmp
-sp25a_sdw_dan04_4_alp_ovl.bmp
-sp25a_sdw_dan04_5_alp_ovl.bmp
-sp25a_sdw_dan04_6_alp_ovl.bmp
-sp25a_sdw_dan04_7_alp_ovl.bmp
-sp25a_sdw_dan04_8_alp_ovl.bmp
-sp25a_sdw_dan04_9_alp_ovl.bmp
-sp25a_sdw_dan04_alp_ovl.bmp
-sp25a_sdw_dan05_1_alp_ovl.bmp
-sp25a_sdw_dan05_2_alp_ovl.bmp
-sp25a_sdw_dan05_3_alp_ovl.bmp
-sp25a_sdw_dan05_4_alp_ovl.bmp
-sp25a_sdw_dan05_5_alp_ovl.bmp
-sp25a_sdw_dan06_1_alp_ovl.bmp
-sp25a_sdw_dan06_2_alp_ovl.bmp
-sp25a_sdw_dan06_3_alp_ovl.bmp
-sp25a_sdw_dan06_4_alp_ovl.bmp
-sp25a_sdw_dan06_5_alp_ovl.bmp
-sp25a_sdw_dan07_alp_ovl.bmp
-sp25a_sdw_dan08_10_alp_ovl.bmp
-sp25a_sdw_dan08_1_alp_ovl.bmp
-sp25a_sdw_dan08_2_alp_ovl.bmp
-sp25a_sdw_dan08_3_alp_ovl.bmp
-sp25a_sdw_dan08_4_alp_ovl.bmp
-sp25a_sdw_dan08_5_alp_ovl.bmp
-sp25a_sdw_dan08_6_alp_ovl.bmp
-sp25a_sdw_dan08_7_alp_ovl.bmp
-sp25a_sdw_dan08_8_alp_ovl.bmp
-sp25a_sdw_dan08_9_alp_ovl.bmp
-sp25a_sdw_dan09_10_alp_ovl.bmp
-sp25a_sdw_dan09_11_alp_ovl.bmp
-sp25a_sdw_dan09_1_alp_ovl.bmp
-sp25a_sdw_dan09_2_alp_ovl.bmp
-sp25a_sdw_dan09_3_alp_ovl.bmp
-sp25a_sdw_dan09_4_alp_ovl.bmp
-sp25a_sdw_dan09_5_alp_ovl.bmp
-sp25a_sdw_dan09_6_alp_ovl.bmp
-sp25a_sdw_dan09_7_alp_ovl.bmp
-sp25a_sdw_dan09_8_alp_ovl.bmp
-sp25a_sdw_dan09_9_alp_ovl.bmp
-sp25a_sdw_gray_alp_ovl.bmp
-sp25a_sdw_kaidan_alp_ovl.bmp
-sp25a_sdw_rp_alp_ovl.bmp
 splash05_alp.bmp
-tag1_alp_ovl.bmp
-tag2_alp_ovl.bmp
-tag3_alp_ovl.bmp
 test_bld020.bmp
-tgt_col1_rgb_sol_add_alp.bmp
-tgt_color1_add_alp.bmp
-tgt_color1_tab_add_alp.bmp
-tgt_color2_add_alp.bmp
-tgt_tri_hlt_add_alp.bmp
 ticsh2_alp_ovl.bmp
 ticsh_alp_ovl.bmp
-tnc_gost_body_b_ovl_alp.bmp
-tnc_gost_body_c_ovl_alp.bmp
-tnc_gost_face_b_ovl_alp.bmp
-tnc_gost_hair_ovl_alp.bmp
 tng_belt_ovl_sub_alp.bmp
 tng_cloth_ovl_sub_alp.bmp
 tng_head_f_ovl_sub_alp.bmp
@@ -3959,287 +2355,9 @@ tng_leg01_ovl_sub_alp.bmp
 tng_mask_i_ovl_sub_alp.bmp
 tng_neck_ovl_sub_alp.bmp
 tomato_hlf_ovl.bmp
-tv_black_sub_alp.bmp
 usa_met01dt_ovl_sub_alp.bmp
 usa_met_ovl_sub_alp.bmp
 vkf_big_mt_sub_alp_ovl.bmp
-vr2_amiyuka_add_alp.bmp
-vr2_chi01_alp.bmp
-vr2_chi02_alp.bmp
-vr2_chi03_alp.bmp
-vr2_chi04_alp.bmp
-vr2_chi05_alp.bmp
-vr2_dmm_sub_alp_ovl.bmp
-vr2_footstamp1_add_alp.bmp
-vr2_frg_numbers_add_alp_ovl.bmp
-vr2_goal_add_alp.bmp
-vr2_goal_post_add_alp.bmp
-vr2_goalpost_add_alp.bmp
-vr2_ketchap00_alp.bmp
-vr2_no_elude1_add_alp.bmp
-vr2_no_elude2_add_alp.bmp
-vr2_noise_b1_alp.bmp
-vr2_pitfall_a0_add_alp.bmp
-vr2_pitfall_b0_all_add_alp.bmp
-vr2_tonbo_alp_add.bmp
-vr2_wetpanel_alp.bmp
-vs01a_sdw00_alp_ovl.bmp
-vs01a_sdw01_alp_ovl.bmp
-vs01a_sdw02_alp_ovl.bmp
-vs01a_sdw03_alp_ovl.bmp
-vs01a_sdw04_alp_ovl.bmp
-vs01a_sdw05_alp_ovl.bmp
-vs01a_sdw05_alp_ovl.bmp_40b97c8de7e575d4104872b918f29e71
-vs01a_sdw05a_alp_ovl.bmp
-vs01a_sdw06_alp_ovl.bmp
-vs01a_sdw06_alp_ovl.bmp_9cf945d44ef4158476a20499bed16e15
-vs01a_sdw06a_alp_ovl.bmp
-vs02a_sdw01_alp_ovl.bmp
-vs02a_sdw02_alp_ovl.bmp
-vs02a_sdw03_alp_ovl.bmp
-vs02a_sdw04_alp_ovl.bmp
-vs02a_sdw05_alp_ovl.bmp
-vs03a_sdw00_alp_ovl.bmp
-vs03a_sdw01_alp_ovl.bmp
-vs03a_sdw01a_alp_ovl.bmp
-vs03a_sdw02_alp_ovl.bmp
-vs03a_sdw03_alp_ovl.bmp
-vs03a_sdw04_alp_ovl.bmp
-vs03a_sdw04a_alp_ovl.bmp
-vs03a_sdw05_alp_ovl.bmp
-vs03a_sdw05_alp_ovl.bmp_f9a840517b1ca5676c659c9c4cb3da9a
-vs03a_sdw05a_alp_ovl.bmp
-vs03a_sdw05b_alp_ovl.bmp
-vs04a_sdw01_alp_ovl.bmp
-vs04a_sdw02_alp_ovl.bmp
-vs04a_sdw03_alp_ovl.bmp
-vs04a_sdw04_alp_ovl.bmp
-vs04a_sdw05_alp_ovl.bmp
-vs04a_sdw05_alp_ovl.bmp_3f1603f4c53b27d35bd771aa02e3be6a
-vs04a_sdw06_alp_ovl.bmp
-vs05a_sdw01_alp_ovl.bmp
-vs05a_sdw02_alp_ovl.bmp
-vs05a_sdw02a_alp_ovl.bmp
-vs05a_sdw02b_alp_ovl.bmp
-vs05a_sdw02d_alp_ovl.bmp
-vs05a_sdw03_alp_ovl.bmp
-vs05a_sdw03a_alp_ovl.bmp
-vs05a_sdw03b_alp_ovl.bmp
-vs05a_sdw03c_alp_ovl.bmp
-vs05a_sdw03d_alp_ovl.bmp
-vs05a_sdw03e_alp_ovl.bmp
-vs05a_sdw03f_alp_ovl.bmp
-vs05a_sdw03g_alp_ovl.bmp
-vs05a_sdw03h_alp_ovl.bmp
-vs05a_sdw03i_alp_ovl.bmp
-vs05a_sdw03j_alp_ovl.bmp
-vs05a_sdw03k_alp_ovl.bmp
-vs05a_sdw03l_alp_ovl.bmp
-vs05a_sdw03m_alp_ovl.bmp
-vs05a_sdw03n_alp_ovl.bmp
-vs05a_sdw03o_alp_ovl.bmp
-vs05a_sdw03p_alp_ovl.bmp
-vs05a_sdw03q_alp_ovl.bmp
-vs05a_sdw03r_alp_ovl.bmp
-vs05a_sdw03s_alp_ovl.bmp
-vs05a_sdw03t_alp_ovl.bmp
-vs05a_sdw03u_alp_ovl.bmp
-vs05a_sdw03v_alp_ovl.bmp
-vs05a_sdw03w_alp_ovl.bmp
-vs05a_sdw04_alp_ovl.bmp
-vs05a_sdw05_alp_ovl.bmp
-vs05a_sdw05a_alp_ovl.bmp
-vs05a_sdw05b_alp_ovl.bmp
-vs05a_sdw05c_alp_ovl.bmp
-vs05a_sdw05d_alp_ovl.bmp
-vs05a_sdw05e_alp_ovl.bmp
-vs05a_sdw06_alp_ovl.bmp
-vs05a_sdw06a_alp_ovl.bmp
-vs05a_sdw06b_alp_ovl.bmp
-vs05a_sdw06c_alp_ovl.bmp
-vs07a_sdw01_alp_ovl.bmp
-vs07a_sdw02_alp_ovl.bmp
-vs07a_sdw03_alp_ovl.bmp
-vs07a_sdw04_alp_ovl.bmp
-vs07a_sdw05_alp_ovl.bmp
-vs07a_sdw06_alp_ovl.bmp
-vs07a_sdw08_alp_ovl.bmp
-vs07a_sdw09_alp_ovl.bmp
-vs07a_sdw11_alp_ovl.bmp
-vs07a_sdw12_alp_ovl.bmp
-vs07a_sdw13_alp_ovl.bmp
-vs08a_sdw00_alp_ovl.bmp
-vs08a_sdw00a_alp_ovl.bmp
-vs08a_sdw00b_alp_ovl.bmp
-vs08a_sdw00c_alp_ovl.bmp
-vs08a_sdw00d_alp_ovl.bmp
-vs08a_sdw00e_alp_ovl.bmp
-vs08a_sdw00f_alp_ovl.bmp
-vs08a_sdw00g_alp_ovl.bmp
-vs08a_sdw01_alp_ovl.bmp
-vs08a_sdw01a_alp_ovl.bmp
-vs08a_sdw01b_alp_ovl.bmp
-vs08a_sdw01c_alp_ovl.bmp
-vs08a_sdw01d_alp_ovl.bmp
-vs08a_sdw01f_alp_ovl.bmp
-vs08a_sdw01g_alp_ovl.bmp
-vs08a_sdw01h_alp_ovl.bmp
-vs08a_sdw01i_alp_ovl.bmp
-vs08a_sdw01j_alp_ovl.bmp
-vs08a_sdw01m_alp_ovl.bmp
-vs08a_sdw01n_alp_ovl.bmp
-vs08a_sdw01o_alp_ovl.bmp
-vs08a_sdw01p_alp_ovl.bmp
-vs08a_sdw01q_alp_ovl.bmp
-vs08a_sdw01r_alp_ovl.bmp
-vs08a_sdw02_alp_ovl.bmp
-vs08a_sdw02a_alp_ovl.bmp
-vs08a_sdw02b_alp_ovl.bmp
-vs08a_sdw02c_alp_ovl.bmp
-vs08a_sdw02d_alp_ovl.bmp
-vs08a_sdw02e_alp_ovl.bmp
-vs08a_sdw02f_alp_ovl.bmp
-vs08a_sdw03_alp_ovl.bmp
-vs08a_sdw03a_alp_ovl.bmp
-vs08a_sdw03b_alp_ovl.bmp
-vs08a_sdw03c_alp_ovl.bmp
-vs08a_sdw03d_alp_ovl.bmp
-vs08a_sdw03e_alp_ovl.bmp
-vs08a_sdw03f_alp_ovl.bmp
-vs08a_sdw03g_alp_ovl.bmp
-vs08a_sdw03h_alp_ovl.bmp
-vs08a_sdw03i_alp_ovl.bmp
-vs08a_sdw03j_alp_ovl.bmp
-vs08a_sdw03k_alp_ovl.bmp
-vs08a_sdw03l_alp_ovl.bmp
-vs08a_sdw03n_alp_ovl.bmp
-vs08a_sdw03o_alp_ovl.bmp
-vs08a_sdw04_alp_ovl.bmp
-vs08a_sdw04b_alp_ovl.bmp
-vs08a_sdw04c_alp_ovl.bmp
-vs08a_sdw04d_alp_ovl.bmp
-vs08a_sdw05_alp_ovl.bmp
-vs08a_sdw05a_alp_ovl.bmp
-vs08a_sdw05b_alp_ovl.bmp
-vs08a_sdw05c_alp_ovl.bmp
-vs08a_sdw05d_alp_ovl.bmp
-vs08a_sdw05e_alp_ovl.bmp
-vs08a_sdw05f_alp_ovl.bmp
-vs08a_sdw05g_alp_ovl.bmp
-vs08a_sdw05h_alp_ovl.bmp
-vs08a_sdw05i_alp_ovl.bmp
-vs08a_sdw05j_alp_ovl.bmp
-vs08a_sdw05k_alp_ovl.bmp
-vs08a_sdw05l_alp_ovl.bmp
-vs08a_sdw06_alp_ovl.bmp
-vs08a_sdw06a_alp_ovl.bmp
-vs08a_sdw06b_alp_ovl.bmp
-vs08a_sdw06c_alp_ovl.bmp
-vs08a_sdw06d_alp_ovl.bmp
-vs08a_sdw06e_alp_ovl.bmp
-vs09a_sdw01_alp_ovl.bmp
-vs09a_sdw02_alp_ovl.bmp
-vs09a_sdw03_alp_ovl.bmp
-vs09a_sdw05_alp_ovl.bmp
-vs09a_sdw07_alp_ovl.bmp
-vs09a_sdw08_alp_ovl.bmp
-vs09a_sdw09_alp_ovl.bmp
-vs09a_sdw10_alp_ovl.bmp
-vs09a_sdw11_alp_ovl.bmp
-vs09a_sdw12_alp_ovl.bmp
-vs09a_sdw13_alp_ovl.bmp
-vs09a_sdw14_alp_ovl.bmp
-vs09a_sdw16_alp_ovl.bmp
-vs10a_sdw00a_alp_ovl.bmp
-vs10a_sdw00b0_alp_ovl.bmp
-vs10a_sdw00b1_alp_ovl.bmp
-vs10a_sdw00b2_alp_ovl.bmp
-vs10a_sdw00b3_alp_ovl.bmp
-vs10a_sdw00b4_alp_ovl.bmp
-vs10a_sdw00c0_alp_ovl.bmp
-vs10a_sdw00c1_alp_ovl.bmp
-vs10a_sdw00d_alp_ovl.bmp
-vs10a_sdw01_alp_ovl.bmp
-vs10a_sdw01a_alp_ovl.bmp
-vs10a_sdw01b_alp_ovl.bmp
-vs10a_sdw01c0_alp_ovl.bmp
-vs10a_sdw01c1_alp_ovl.bmp
-vs10a_sdw01c2_alp_ovl.bmp
-vs10a_sdw02_alp_ovl.bmp
-vs10a_sdw02a_alp_ovl.bmp
-vs10a_sdw02b_alp_ovl.bmp
-vs10a_sdw03_alp_ovl.bmp
-vs10a_sdw03a_alp_ovl.bmp
-vs10a_sdw03b_alp_ovl.bmp
-vs10a_sdw03c0_alp_ovl.bmp
-vs10a_sdw03c1_alp_ovl.bmp
-vs10a_sdw03c2_alp_ovl.bmp
-vs10a_sdw03c3_alp_ovl.bmp
-vs10a_sdw03c4_alp_ovl.bmp
-vs10a_sdw03c5_alp_ovl.bmp
-vs10a_sdw03c6_alp_ovl.bmp
-vs10a_sdw03c7_alp_ovl.bmp
-vs10a_sdw03c8_alp_ovl.bmp
-vs10a_sdw03c9_alp_ovl.bmp
-vs10a_sdw03c_alp_ovl.bmp
-vs10a_sdw03d0_alp_ovl.bmp
-vs10a_sdw03d1_alp_ovl.bmp
-vs10a_sdw03d2_alp_ovl.bmp
-vs10a_sdw03d3_alp_ovl.bmp
-vs10a_sdw03d4_alp_ovl.bmp
-vs10a_sdw03d5_alp_ovl.bmp
-vs10a_sdw03d6_alp_ovl.bmp
-vs10a_sdw03d7_alp_ovl.bmp
-vs10a_sdw03d8_alp_ovl.bmp
-vs10a_sdw03d_alp_ovl.bmp
-vs10a_sdw04_alp_ovl.bmp
-vs10a_sdw04a0_alp_ovl.bmp
-vs10a_sdw04a1_alp_ovl.bmp
-vs10a_sdw04a2_alp_ovl.bmp
-vs10a_sdw04a3_alp_ovl.bmp
-vs10a_sdw04a4_alp_ovl.bmp
-vs10a_sdw04a5_alp_ovl.bmp
-vs10a_sdw04a6_alp_ovl.bmp
-vs10a_sdw04a7_alp_ovl.bmp
-vs10a_sdw04b0_alp_ovl.bmp
-vs10a_sdw04b1_alp_ovl.bmp
-vs10a_sdw04b2_alp_ovl.bmp
-vs10a_sdw04b_alp_ovl.bmp
-vs10a_sdw04c0_alp_ovl.bmp
-vs10a_sdw04c1_alp_ovl.bmp
-vs10a_sdw04c2_alp_ovl.bmp
-vs10a_sdw04c_alp_ovl.bmp
-vs10a_sdw05_alp_ovl.bmp
-vs10a_sdw05a_alp_ovl.bmp
-vs10a_sdw05b_alp_ovl.bmp
-vs10a_sdw05c_alp_ovl.bmp
-vs10a_sdw06a_alp_ovl.bmp
-vs10a_sdw07_alp_ovl.bmp
-vs10a_sdw07a_alp_ovl.bmp
-vs10a_sdw07b_alp_ovl.bmp
-vs10a_sdw07c_alp_ovl.bmp
-vs10a_sdw07d_alp_ovl.bmp
-vs10a_sdw07e_alp_ovl.bmp
-vs10a_sdw07f_alp_ovl.bmp
-vs10a_sdw07g_alp_ovl.bmp
-vs10a_sdw08_alp_ovl.bmp
-vs10a_sdw08a_alp_ovl.bmp
-vs10a_sdw08b_alp_ovl.bmp
-vs10a_sdw08c_alp_ovl.bmp
-vs10a_sdw08d_alp_ovl.bmp
-vs10a_sdw09_alp_ovl.bmp
-vs10a_sdw09a_alp_ovl.bmp
-vs10a_sdw09b_alp_ovl.bmp
-vs10a_sdw09c_alp_ovl.bmp
-vs10a_sdw09d_alp_ovl.bmp
-vs10a_sdw09e_alp_ovl.bmp
-vs10a_sdw09f_alp_ovl.bmp
-vs10a_sdw10_alp_ovl.bmp
-vs10a_sdw10a_alp_ovl.bmp
-vs10a_sdw10b_alp_ovl.bmp
-vs10a_sdw12b_alp_ovl.bmp
-vs10a_sdw13_alp_ovl.bmp
-vs10a_sdw13a_alp_ovl.bmp
 w00_sky_add_alp.bmp
 w00_sky_add_alp_ovl.bmp
 w00ak_flrshad1_sub_alp_ovl.bmp
@@ -4312,14 +2430,6 @@ w01e_wl_shd01_sub_alp_ovl.bmp
 w01e_wl_shd02_sub_alp_ovl.bmp
 w01e_wl_shd03_sub_alp_ovl.bmp
 w01e_wl_shd04_sub_alp_ovl.bmp
-w01f_sdwbox00_alp_ovl.bmp
-w01f_sdwbox00a_alp_ovl.bmp
-w01f_sdwbox00b_alp_ovl.bmp
-w01f_sdwbox00c2_alp_ovl.bmp
-w01f_sdwbox00c_alp_ovl.bmp
-w01f_sdwbox00d_alp_ovl.bmp
-w02a_sdw_alp_ovl_01.bmp
-w02a_sdw_alp_ovl_02.bmp
 w03b_sdw00_alp.bmp
 w04a_shadow_alp.bmp
 w10a_brdg_obj_a01_alp.bmp
@@ -4405,7 +2515,6 @@ w12a_number06_alp_ovl.bmp
 w12a_sdw00_alp_ovl.bmp
 w12a_sdw00a_alp_ovl.bmp
 w12a_sdw00b_alp_ovl.bmp
-w12a_sdw012_alp_ovl.bmp
 w12a_sdw01_alp_ovl.bmp
 w12a_sdw01a2_alp_ovl.bmp
 w12a_sdw01a_alp_ovl.bmp
@@ -4821,6 +2930,7 @@ w16a2_mirror_alp.bmp
 w16a2_mirror_bro_alp.bmp
 w16a2n_fl_sh01_alp_ovl.bmp
 w16a4_rf_pi1_add_alp_ovl.bmp
+w16a4_wa_sh01_alp_ovl.bmp
 w16a4n_fl02_lig2a_alp_ovl.bmp
 w16a4n_p1_alp_ovl.bmp
 w16a4n_p2_alp_ovl.bmp
@@ -4983,13 +3093,6 @@ w20a3_wallsh05_alp_ovl.bmp
 w20a3_wallsh06_alp_ovl.bmp
 w20a3_wallsh07_alp_ovl.bmp
 w20a3_wallsh08_alp_ovl.bmp
-w20a4_sdwpp00_alp_ovl.bmp
-w20a4_sdwpp00a_alp_ovl.bmp
-w20a4_sdwpp01_alp_ovl.bmp
-w20a4n_sdw00_alp_ovl.bmp
-w20a4n_sdw00a_alp_ovl.bmp
-w20a4n_sdw00b_alp_ovl.bmp
-w20a4n_sdw01_alp_ovl.bmp
 w20a_bel34_sh_alp_ovl.bmp
 w20a_belst02_alp_ovl.bmp
 w20a_belst08_alp_ovl.bmp
@@ -5058,17 +3161,12 @@ w21b_sdw00e_alp_ovl.bmp
 w21b_sdwtnk00_alp_ovl.bmp
 w21b_sdwtnk00a_alp_ovl.bmp
 w21b_sky_e3_alp.bmp
-w22a0a_boxshd01_alp_ovl_mk.bmp
-w22a0a_boxshd03_alp_ovl_mk.bmp
-w22a0a_boxshd04_alp_ovl_mk.bmp
 w22a0a_l_kage_alp_ovl_ns.bmp
 w22a0a_oku_kage_alp_ovl_ns.bmp
 w22a0a_r02_kage_alp_ovl_ns.bmp
-w22a0a_yuka_kage_alp_ovl_mk.bmp
 w22a0b_l_kage_alp_ovl_ns.bmp
 w22a0b_oku_kage_alp_ovl_ns.bmp
 w22a0b_r_kage_alp_ovl_ns.bmp
-w22a0b_yuka_kage_alp_ovl_mk.bmp
 w22a0bhashira_kage_alp_ovl_ns.bmp
 w22a0c_hako_kage_alp_ovl_ns.bmp
 w22a0c_l_alp_ovl_ns.bmp
@@ -5237,14 +3335,6 @@ w24c0_stst10_alp_ovl.bmp
 w24c0_ta01_alp_ovl.bmp
 w24c0_wall01_alp_ovl.bmp
 w24c0_wall01_mk_alp_ovl.bmp
-w24c0_wlit00_alp_add_ovl.bmp
-w24c0_wlit02_alp_add_ovl.bmp
-w24c0n_fl_sh01_alp_ovl.bmp
-w24c0n_label02_alp_ovl.bmp
-w24c0n_line00_add_alp_ovl.bmp
-w24c0n_line00a_add_alp_ovl.bmp
-w24c0n_sdw00_alp_ovl.bmp
-w24c0n_sdw01_alp_ovl.bmp
 w24c1_rev_disp_maku_alp_add_ovl.bmp
 w24d1_fr_lo1_bld090_ovl.bmp
 w24d1_fr_lo2_bld090_ovl.bmp
@@ -5256,15 +3346,11 @@ w24d1_fr_lo7_bld090_ovl.bmp
 w24d1_fr_lo8_bld090_ovl.bmp
 w24d1_sh1_alp.bmp
 w24d1bn_sdw00_alp_ovl.bmp
-w24d1n_fr_lo10_bld095_ovl.bmp
-w24d1n_fr_lo8_bld095_ovl.bmp
-w24d1n_fr_lo9_bld095_ovl.bmp
 w24d1n_sdw00_alp_ovl.bmp
 w24d2_fr_all3_alp_ovl.bmp
 w24d2_fr_all4_alp_ovl.bmp
 w24d2_fr_lo_11_bld090_ovl.bmp
 w24d2_mo3sh_alp_ovl.bmp
-w24d2_wall_shd1_alp_ovl.bmp
 w24d_fr_lo10_bld090_ovl.bmp
 w24d_fr_lo1_bld090_ovl.bmp
 w24d_fr_lo2_bld090_ovl.bmp
@@ -5395,36 +3481,18 @@ w25d1_sdw01b_alp_ovl.bmp
 w25d1_sdw01c_alp_ovl.bmp
 w25d1_sdwline02_alp_ovl.bmp
 w25d1_sdwt00_alp_ovl.bmp
-w25d_28sdw_alp_ovl.bmp
 w28a_ana_pipe_kage_03_alp_ovl.bmp
 w28a_ana_pipe_kage_04_alp_ovl.bmp
 w28a_center_ent02_kage_alp_sub_ovl.bmp
 w28a_center_ent_kage_alp_sub_ovl.bmp
+w28a_light_kage_alp_sub_ovl.bmp
 w28a_oku_pipekage_bld035.bmp
 w28a_roof_rouka_kage_alp_sub_ovl.bmp
-w28an_emergency_alp_ovl.bmp
-w28an_exit_alp_ovl.bmp
-w28an_sdw00_alp_ovl.bmp
-w28an_sdw00a_alp_ovl.bmp
-w28an_sdw00b_alp_ovl.bmp
-w28an_sdw01_alp_ovl.bmp
-w28an_sdw01b_alp_ovl.bmp
-w28an_sdw02_alp_ovl.bmp
-w28an_sdw03a_alp_ovl.bmp
-w28an_sdw04_alp_ovl.bmp
-w28an_sdw04a_alp_ovl.bmp
-w28an_sdw04b_alp_ovl.bmp
-w28an_sdwwl_02_alp_ovl.bmp
-w28an_sdwwl_02a_alp_ovl.bmp
-w28an_sdwwl_02b_alp_ovl.bmp
 w31a_bld90_ovl_01.bmp
 w31a_bld90_ovl_02.bmp
 w31a_bld90_ovl_03.bmp
 w31a_bld90_ovl_04.bmp
 w31a_bld95_ovl_04.bmp
-w31a_cir_panel_alp_ovl_brk_011.bmp
-w31a_cir_panel_alp_ovl_brk_02.bmp
-w31a_cir_panel_brk_alp_ovl_01.bmp
 w31a_duct_yogore_alp_ovl_sub_02.bmp
 w31a_floor_ovl_bld090.bmp
 w31a_kage_alp_ovl_01.bmp
@@ -5440,7 +3508,6 @@ w31a_mark_add_alp_ovl_02.bmp
 w31b_kage_ovl_alp_01.bmp
 w31b_light_add_alp_ovl_01.bmp
 w31b_wall_water_01_alp_ovl.bmp
-w31b_wall_water_02_alp_ovl.bmp
 w31c_kage_ovl_alp_01.bmp
 w31c_kage_ovl_alp_02.bmp
 w31c_kage_ovl_alp_03.bmp
@@ -5498,7 +3565,6 @@ w42a_1f_box_kage04_alp_ovl.bmp
 w42a_1f_box_kage05_alp_sub_ovl.bmp
 w42a_1f_box_kage06_alp_ovl.bmp
 w42a_1f_box_kage07_alp_ovl.bmp
-w42a_2f_comp_kage02_alp_ovl.bmp
 w42a_data_light_01_alp_add_ovl.bmp_7246e3bdca03aae1d4a9093e82663db5
 w42a_efct_1f_disp_alp_add_ovl.bmp
 w42a_efct_disp_01_alp_add_ovl.bmp
@@ -5521,16 +3587,6 @@ w42a_efct_rbn_02_2_alp_add_ovl.bmp
 w42a_efct_rbn_02_alp_add_ovl.bmp
 w42a_efct_rbn_smt01_alp_add_ovl.bmp
 w42a_efct_rbn_smt02_alp_add_ovl.bmp
-w42a_sdw_alp_ovl_02.bmp
-w42a_sdw_alp_ovl_03.bmp
-w42a_sdw_alp_ovl_04.bmp
-w42a_sdw_alp_ovl_05.bmp
-w42a_sdw_alp_ovl_06.bmp
-w42a_sdw_alp_ovl_07.bmp
-w42a_sdw_alp_ovl_08.bmp
-w42a_sdw_alp_ovl_10.bmp
-w42a_sdw_alp_ovl_11.bmp
-w42a_sdw_alp_ovl_12.bmp
 w42a_step_line02_alp_ovl.bmp
 w42a_step_line_alp_ovl.bmp
 w42a_white_line_alp_ovl.bmp
@@ -5632,14 +3688,12 @@ w62a_kage_a02_alp_ovl.bmp
 w62a_kemuri_01_alp.bmp
 w62a_sky_top_01_alp.bmp
 wa_be_sh_alp_ovl.bmp
-wall_marker1_add_alp.bmp
 waterflow01_alp.bmp
 waterflow02_alp.bmp
 waterflow03_alp.bmp
 wave12_alp_ovl.bmp
 wc_alp_ovl.bmp
 win_alp_ovl.bmp
-window01_alp.bmp_7bbfecbc9a722557df5da7eed5410eb4
 window01_hlf_ovl.bmp
 window3_hlf.bmp
 wine_liq_sub_alp_ovl.bmp
@@ -5649,561 +3703,6 @@ wrain03_add_alp_ovl.bmp
 wrain04_add_alp_ovl.bmp
 wrain05_add_alp_ovl.bmp
 wrain06_add_alp_ovl.bmp
-ws01a_sdw03_alp_ovl.bmp
-ws01a_sdw04_alp_ovl.bmp
-ws01a_sdw05_alp_ovl.bmp
-ws01a_sdw06_alp_ovl.bmp
-ws01a_sdw07_alp_ovl.bmp
-ws01a_sdw08_alp_ovl.bmp
-ws01a_sdw09_alp_ovl.bmp
-ws01a_sdw10_alp_ovl.bmp
-ws01a_sdw11_alp_ovl.bmp
-ws01a_sdw12_alp_ovl.bmp
-ws01a_sdw13_alp_ovl.bmp
-ws01a_sdw14_alp_ovl.bmp
-ws01a_sdw15_alp_ovl.bmp
-ws01a_sdw16_alp_ovl.bmp
-ws01a_sdw17_alp_ovl.bmp
-ws01a_sdw18_alp_ovl.bmp
-ws01a_sdw19_alp_ovl.bmp
-ws01a_sdw20_alp_ovl.bmp
-ws01a_sdw21_alp_ovl.bmp
-ws01a_sdw22_alp_ovl.bmp
-ws01a_sdw23_alp_ovl.bmp
-ws01a_sdw24_alp_ovl.bmp
-ws01a_sdw_roof02_alp_ovl.bmp
-ws01a_sdw_roof03_alp_ovl.bmp
-ws01a_sdw_roof04_alp_ovl.bmp
-ws01a_sdw_roof05_alp_ovl.bmp
-ws01a_sdw_roof06_alp_ovl.bmp
-ws01a_sdw_roof07_alp_ovl.bmp
-ws01a_sdw_wall01_alp_ovl.bmp
-ws01a_sdw_wall02_alp_ovl.bmp
-ws01a_sdw_wall03_alp_ovl.bmp
-ws01a_sdw_wall04_alp_ovl.bmp
-ws01a_sdw_wall05_alp_ovl.bmp
-ws01a_sdw_wall07_alp_ovl.bmp
-ws01a_sdw_wall08_alp_ovl.bmp
-ws01a_sdw_wall09_alp_ovl.bmp
-ws01a_sdw_wall11_alp_ovl.bmp
-ws01a_sdw_wall12_alp_ovl.bmp
-ws01a_sdw_wall13_alp_ovl.bmp
-ws01a_sdw_wall14_alp_ovl.bmp
-ws01a_sdw_wall15_alp_ovl.bmp
-ws01a_sdw_wall16_alp_ovl.bmp
-ws01a_sdw_wall17_alp_ovl.bmp
-ws01a_sdw_wall18_alp_ovl.bmp
-ws01a_sdw_wall19_alp_ovl.bmp
-ws01a_sdw_wall20_alp_ovl.bmp
-ws01a_sdw_wall21_alp_ovl.bmp
-ws01a_sdw_wall22_alp_ovl.bmp
-ws01a_sdw_wall23_alp_ovl.bmp
-ws01a_sdw_wall24_alp_ovl.bmp
-ws02a_sdw_alp_ovl_05.bmp
-ws02a_sdw_alp_ovl_06.bmp
-ws02a_sdw_alp_ovl_07.bmp
-ws02a_sdw_alp_ovl_08.bmp
-ws03a_sdw02_alp_ovl.bmp
-ws03a_sdw03_alp_ovl.bmp
-ws03a_sdw04_alp_ovl.bmp
-ws03a_sdw05_alp_ovl.bmp
-ws03a_sdw06_alp_ovl.bmp
-ws03a_sdw07_alp_ovl.bmp
-ws03a_sdw08_alp_ovl.bmp
-ws03a_sdw09_alp_ovl.bmp
-ws03a_sdw11_alp_ovl.bmp
-ws03a_sdw12_alp_ovl.bmp
-ws03a_sdw13_alp_ovl.bmp
-ws03a_sdw14_alp_ovl.bmp
-ws03a_sdw15a_alp_ovl.bmp
-ws03a_sdw16_alp_ovl.bmp
-ws03a_sdw17_alp_ovl.bmp
-ws03a_sdw18_alp_ovl.bmp
-ws03a_sdw19_alp_ovl.bmp
-ws03a_sdw20_alp_ovl.bmp
-ws03a_sdw21_alp_ovl.bmp
-ws03a_sdw22_alp_ovl.bmp
-ws03a_sdw23_alp_ovl.bmp
-ws03a_sdw24_alp_ovl.bmp
-ws03a_sdw25_alp_ovl.bmp
-ws03a_sdw26_alp_ovl.bmp
-ws03a_sdw27a_alp_ovl.bmp
-ws03a_sdw28_alp_ovl.bmp
-ws03a_sdw29_alp_ovl.bmp
-ws03a_sdw30_alp_ovl.bmp
-ws03a_sdw31_alp_ovl.bmp
-ws03a_sdw41_alp_ovl.bmp
-ws03a_sdw42_alp_ovl.bmp
-ws03a_sdw47_alp_ovl.bmp
-ws03a_sdw48_alp_ovl.bmp
-ws03a_sdw49_alp_ovl.bmp
-ws03a_sdw49a_alp_ovl.bmp
-ws04a_sdw03_alp_ovl.bmp
-ws04a_sdw04_alp_ovl.bmp
-ws04a_sdw05_alp_ovl.bmp
-ws04a_sdw06_alp_ovl.bmp
-ws04a_sdw07_alp_ovl.bmp
-ws04a_sdw08_alp_ovl.bmp
-ws04a_sdw09_alp_ovl.bmp
-ws04a_sdw10_alp_ovl.bmp
-ws04a_sdw12_alp_ovl.bmp
-ws04a_sdw13_alp_ovl.bmp
-ws04a_sdw14_alp_ovl.bmp
-ws04a_sdw15_alp_ovl.bmp
-ws04a_sdw16_alp_ovl.bmp
-ws04a_sdw17_alp_ovl.bmp
-ws04a_sdw18_alp_ovl.bmp
-ws11a_sdw00_alp_ovl.bmp
-ws11a_sdw01_alp_ovl.bmp
-ws11a_sdw02_alp_ovl.bmp
-ws11a_sdw03_alp_ovl.bmp
-ws11a_sdw03a_alp_ovl.bmp
-ws11a_sdw03b_alp_ovl.bmp
-ws11a_sdw03c_alp_ovl.bmp
-ws12a_sdw00_alp_ovl.bmp
-ws12a_sdw01_alp_ovl.bmp
-ws12a_sdw01a_alp_ovl.bmp
-ws12a_sdw01b_alp_ovl.bmp
-ws12a_sdw01c_alp_ovl.bmp
-ws12a_sdw01d_alp_ovl.bmp
-ws12a_sdw01e_alp_ovl.bmp
-ws12a_sdw02_alp_ovl.bmp
-ws12a_sdw02a_alp_ovl.bmp
-ws12a_sdw02b_alp_ovl.bmp
-ws12a_sdw03_alp_ovl.bmp
-ws12a_sdw03a_alp_ovl.bmp
-ws12a_sdw03b_alp_ovl.bmp
-ws12a_sdw03c_alp_ovl.bmp
-ws14a_sdw04_alp_ovl.bmp
-ws14a_sdw07_alp_ovl.bmp
-ws21a_sdw02_alp_ovl.bmp
-ws22a_sdw01_alp_ovl.bmp
-ws22a_sdw02_alp_ovl.bmp
-ws23a_sdw01_alp_ovl.bmp
-ws23a_sdw02_alp_ovl.bmp
-ws23a_sdw03_alp_ovl.bmp
-ws23a_sdw04_alp_ovl.bmp
-ws23a_sdw06_alp_ovl.bmp
-ws23a_sdw07_alp_ovl.bmp
-ws23a_sdw08_alp_ovl.bmp
-ws23a_sdw09_alp_ovl.bmp
-ws23a_sdw10_alp_ovl.bmp
-ws24a_sdw01_alp_ovl.bmp
-ws24a_sdw02_alp_ovl.bmp
-ws24a_sdw03_alp_ovl.bmp
-ws24a_sdw04_alp_ovl.bmp
-ws24a_sdw06_alp_ovl.bmp
-ws24a_sdw07_alp_ovl.bmp
-ws31a_sdw002_alp_ovl.bmp
-ws31a_sdw3_alp_ovl.bmp
-ws31a_sdw5_alp_ovl.bmp
-ws32a_sdw07n_alp_ovl.bmp
-ws33a_shw00_alp_ovl.bmp
-ws33a_shw01_alp_ovl.bmp
-ws33a_shw02_alp_ovl.bmp
-ws33a_shw02_alp_ovl.bmp_d6dfbf599e5c8376dcedcf427dfd67a1
-ws33a_shw03_alp_ovl.bmp
-ws33a_shw03_alp_ovl.bmp_14ce115100999d0b16ddad95d1e21090
-ws33a_shw04_alp_ovl.bmp
-ws33a_shw05_alp_ovl.bmp
-ws33a_shw06_alp_ovl.bmp
-ws34a_nsdw00_alp_ovl.bmp
-ws34a_nsdw01_alp_ovl.bmp
-ws34a_sdw10_alp_ovl.bmp
-ws34a_sdw22_alp_ovl.bmp
-ws34a_sdw23_alp_ovl.bmp
-ws34a_sdw26_alp_ovl.bmp
-ws34a_sdw27_alp_ovl.bmp
-ws34a_sdw31_alp_ovl.bmp
-ws34a_sdw32_alp_ovl.bmp
-ws35a_sdw01_alp_ovl.bmp
-ws35a_sdw02_alp_ovl.bmp
-ws35a_sdw03_alp_ovl.bmp
-ws35a_sdw04_alp_ovl.bmp
-ws35a_sdw05_alp_ovl.bmp
-ws35a_sdw06_alp_ovl.bmp
-ws35a_sdw08_alp_ovl.bmp
-ws35a_sdw09_alp_ovl.bmp
-ws35a_sdw10_alp_ovl.bmp
-ws35a_sdw11_alp_ovl.bmp
-ws35a_sdw12_alp_ovl.bmp
-ws35a_sdw13_alp_ovl.bmp
-ws35a_sdw14_alp_ovl.bmp
-ws35a_sdw15_alp_ovl.bmp
-ws35a_sdw16_alp_ovl.bmp
-ws35a_sdw17_alp_ovl.bmp
-ws35a_sdw18_alp_ovl.bmp
-ws35a_sdw19_alp_ovl.bmp
-ws41a_shw00_alp_ovl.bmp
-ws41a_shw00_alp_ovl.bmp_21d58decce3d62942420dd942a3815c3
-ws41a_shw01_alp_ovl.bmp
-ws41a_shw01_alp_ovl.bmp_ff2dd6eaa06d194dd339f50aa6fbbf6f
-ws41a_shw02_alp_ovl.bmp
-ws41a_shw03_alp_ovl.bmp
-ws41a_shw04_alp_ovl.bmp
-ws41a_shw05_alp_ovl.bmp
-ws41a_shw06_alp_ovl.bmp
-ws41a_shw07_alp_ovl.bmp
-ws41a_shw08_alp_ovl.bmp
-ws41a_shw09_alp_ovl.bmp
-ws41a_shw10_alp_ovl.bmp
-ws41a_shw11_alp_ovl.bmp
-ws41a_shw12_alp_ovl.bmp
-ws43a_shw02_alp_ovl.bmp
-ws43a_shw03_alp_ovl.bmp
-ws43a_shw04_alp_ovl.bmp
-ws43a_shw05_alp_ovl.bmp
-ws43a_shw06_alp_ovl.bmp
-ws43a_shw07_alp_ovl.bmp
-ws43a_shw08_alp_ovl.bmp
-ws43a_shw09_alp_ovl.bmp
-ws43a_shw10_alp_ovl.bmp
-ws43a_shw11_alp_ovl.bmp
-ws43a_shw12_alp_ovl.bmp
-ws43a_shw13_alp_ovl.bmp
-ws43a_shw14_alp_ovl.bmp
-ws43a_shw15_alp_ovl.bmp
-ws43a_shw16_alp_ovl.bmp
-ws43a_shw17_alp_ovl.bmp
-ws43a_shw18_alp_ovl.bmp
-ws43a_shw19_alp_ovl.bmp
-ws43a_shw20_alp_ovl.bmp
-ws43a_shw21_alp_ovl.bmp
-ws43a_shw22_alp_ovl.bmp
-ws45a_nsdw00_alp_ovl.bmp
-ws45a_nsdw02_alp_ovl.bmp
-ws45a_nsdw04_alp_ovl.bmp
-ws45a_nsdw05_alp_ovl.bmp
-ws51a_sdw00_alp_ovl.bmp
-ws51a_sdw00a_alp_ovl.bmp
-ws51a_sdw00b_alp_ovl.bmp
-ws51a_sdw01_alp_ovl.bmp
-ws51a_sdw01a_alp_ovl.bmp
-ws51a_sdw02_alp_ovl.bmp
-ws52a_sdw00_alp_ovl.bmp
-ws52a_sdw00a_alp_ovl.bmp
-ws52a_sdw00b_alp_ovl.bmp
-ws52a_sdw00c_alp_ovl.bmp
-ws52a_sdw01_alp_ovl.bmp
-ws52a_sdw01a_alp_ovl.bmp
-ws52a_sdw01b_alp_ovl.bmp
-ws52a_sdw01c_alp_ovl.bmp
-ws52a_sdw02_alp_ovl.bmp
-ws52a_sdw02a_alp_ovl.bmp
-ws52a_sdw02b_alp_ovl.bmp
-ws52a_sdw02c_alp_ovl.bmp
-ws52a_sdw02d_alp_ovl.bmp
-ws52a_sdw02e_alp_ovl.bmp
-ws52a_sdw02f_alp_ovl.bmp
-ws52a_sdw03_alp_ovl.bmp
-ws52a_sdw03a_alp_ovl.bmp
-ws52a_sdw03b_alp_ovl.bmp
-ws52a_sdw03c_alp_ovl.bmp
-ws52a_sdw03d_alp_ovl.bmp
-ws52a_sdw03e_alp_ovl.bmp
-ws52a_sdw04_alp_ovl.bmp
-ws52a_sdw04a_alp_ovl.bmp
-ws52a_sdw04b_alp_ovl.bmp
-ws52a_sdw04c_alp_ovl.bmp
-ws52a_sdw04d_alp_ovl.bmp
-ws52a_sdw04e_alp_ovl.bmp
-ws52a_sdw04f_alp_ovl.bmp
-ws52a_sdw04g_alp_ovl.bmp
-ws52a_sdw04h_alp_ovl.bmp
-ws52a_sdw04i_alp_ovl.bmp
-ws53a_sdw002_alp_ovl.bmp
-ws53a_sdw003_alp_ovl.bmp
-ws53a_sdw004_alp_ovl.bmp
-ws53a_sdw005_alp_ovl.bmp
-ws53a_sdw006_alp_ovl.bmp
-ws53a_sdw007_alp_ovl.bmp
-ws53a_sdw008_alp_ovl.bmp
-ws53a_sdw009_alp_ovl.bmp
-ws53a_sdw08_alp_ovl.bmp
-ws53a_sdw10_alp_ovl.bmp
-ws53a_sdw11_alp_ovl.bmp
-ws53a_sdw12_alp_ovl.bmp
-ws54a_shw00_alp_ovl.bmp
-ws54a_shw01_alp_ovl.bmp
-ws54a_shw02_alp_ovl.bmp
-ws54a_shw03_alp_ovl.bmp
-ws54a_shw04_alp_ovl.bmp
-ws54a_shw05_alp_ovl.bmp
-ws54a_shw06_alp_ovl.bmp
-ws54a_shw07_alp_ovl.bmp
-ws54a_shw08_alp_ovl.bmp
-ws54a_shw09_alp_ovl.bmp
-ws54a_shw10_alp_ovl.bmp
-ws54a_shw11_alp_ovl.bmp
-ws54a_shw12_alp_ovl.bmp
-ws54a_shw13_alp_ovl.bmp
-ws54a_shw14_alp_ovl.bmp
-ws54a_shw15_alp_ovl.bmp
-ws54a_shw16_alp_ovl.bmp
-ws54a_shw17_alp_ovl.bmp
-ws54a_shw18_alp_ovl.bmp
-ws54a_shw19_alp_ovl.bmp
-ws54a_wshw01_alp_ovl.bmp
-ws54a_wshw02_alp_ovl.bmp
-ws54a_wshw03_alp_ovl.bmp
-ws54a_wshw04_alp_ovl.bmp
-ws54a_wshw05_alp_ovl.bmp
-ws54a_wshw06_alp_ovl.bmp
-ws54a_wshw07_alp_ovl.bmp
-ws54a_wshw08_alp_ovl.bmp
-ws54a_wshw09_alp_ovl.bmp
-ws54a_wshw10_alp_ovl.bmp
-ws54a_wshw11_alp_ovl.bmp
-ws54a_wshw12_alp_ovl.bmp
-ws54a_wshw13_alp_ovl.bmp
-ws54a_wshw14_alp_ovl.bmp
-ws54a_wshw15_alp_ovl.bmp
-ws54a_wshw16_alp_ovl.bmp
-ws54a_wshw17_alp_ovl.bmp
-ws54a_wshw18_alp_ovl.bmp
-ws54a_wshw19_alp_ovl.bmp
-ws54a_wshw20_alp_ovl.bmp
-ws54a_wshw21_alp_ovl.bmp
-ws54a_wshw22_alp_ovl.bmp
-ws55a_sdw01_alp_ovl.bmp
-ws55a_sdw02_alp_ovl.bmp
-ws55a_sdw03_alp_ovl.bmp
-ws55a_sdw04_alp_ovl.bmp
-ws55a_sdw05_alp_ovl.bmp
-ws55a_sdw06_alp_ovl.bmp
-ws55a_sdw07_alp_ovl.bmp
-ws55a_sdw08_alp_ovl.bmp
-ws55a_sdw09_alp_ovl.bmp
-ws55a_sdw10_alp_ovl.bmp
-ws55a_sdw11_alp_ovl.bmp
-ws55a_sdw12_alp_ovl.bmp
-ws55a_sdw13_alp_ovl.bmp
-ws55a_sdw14_alp_ovl.bmp
-ws55a_sdw15_alp_ovl.bmp
-ws55a_sdw16_alp_ovl.bmp
-ws55a_sdw17_alp_ovl.bmp
-ws55a_sdw18_alp_ovl.bmp
-ws55a_sdw19_alp_ovl.bmp
-ws55a_sdw20_alp_ovl.bmp
-ws55a_sdw21_alp_ovl.bmp
-ws55a_sdw22_alp_ovl.bmp
-ws55a_sdw24_alp_ovl.bmp
-ws55a_sdw25_alp_ovl.bmp
-ws55a_sdw26_alp_ovl.bmp
-ws55a_sdw27_alp_ovl.bmp
-ws55a_sdw28_alp_ovl.bmp
-ws55a_sdw29_alp_ovl.bmp
-ws55a_sdw30_alp_ovl.bmp
-ws55a_sdw31_alp_ovl.bmp
-ws55a_sdw34_alp_ovl.bmp
-ws55a_sdw35_alp_ovl.bmp
-ws55a_sdw36_alp_ovl.bmp
-ws61a_sdw00a_alp_ovl.bmp
-ws61a_sdw01a_alp_ovl.bmp
-ws61a_sdw01b_alp_ovl.bmp
-ws62a_sdw00_alp_ovl.bmp
-ws62a_sdw00a_alp_ovl.bmp
-ws62a_sdw00b_alp_ovl.bmp
-ws62a_sdw00c_alp_ovl.bmp
-ws62a_sdw00d_alp_ovl.bmp
-ws62a_sdw00e_alp_ovl.bmp
-ws62a_sdw00f_alp_ovl.bmp
-ws62a_sdw00g_alp_ovl.bmp
-ws62a_sdw01_alp_ovl.bmp
-ws62a_sdw02_alp_ovl.bmp
-ws62a_sdw03b_alp_ovl.bmp
-ws62a_sdw03c_alp_ovl.bmp
-ws62a_sdw03e_alp_ovl.bmp
-ws62a_sdw04_alp_ovl.bmp
-ws62a_sdw04a_alp_ovl.bmp
-ws62a_sdw04b_alp_ovl.bmp
-ws62a_sdw04c_alp_ovl.bmp
-ws62a_sdw05_alp_ovl.bmp
-ws62a_sdw05a_alp_ovl.bmp
-ws62a_sdw06_alp_ovl.bmp
-ws62a_sdw06a_alp_ovl.bmp
-ws62a_sdw06b_alp_ovl.bmp
-ws62a_sdw07_alp_ovl.bmp
-ws62a_sdw08_alp_ovl.bmp
-ws62a_sdw08a_alp_ovl.bmp
-ws62a_sdw08b_alp_ovl.bmp
-ws62a_sdw08c_alp_ovl.bmp
-ws62a_sdw09a_alp_ovl.bmp
-ws62a_sdw10_alp_ovl.bmp
-ws62a_sdw10a_alp_ovl.bmp
-ws62a_sdw10b_alp_ovl.bmp
-ws62a_sdw10c_alp_ovl.bmp
-ws62a_sdw11_alp_ovl.bmp
-ws62a_sdw11a_alp_ovl.bmp
-ws62a_sdw11b_alp_ovl.bmp
-ws62a_sdw11c_alp_ovl.bmp
-ws62a_sdw12_alp_ovl.bmp
-ws62a_sdw12a_alp_ovl.bmp
-ws62a_sdw12b_alp_ovl.bmp
-ws62a_sdw13_alp_ovl.bmp
-ws62a_sdw13b_alp_ovl.bmp
-ws62a_sdw13c_alp_ovl.bmp
-ws62a_sdw13d_alp_ovl.bmp
-ws62a_sdw13f_alp_ovl.bmp
-ws62a_sdw13g_alp_ovl.bmp
-ws62a_sdw13h_alp_ovl.bmp
-ws62a_sdw13i_alp_ovl.bmp
-ws62a_sdw13j_alp_ovl.bmp
-ws62a_sdw13k_alp_ovl.bmp
-ws62a_sdw13l_alp_ovl.bmp
-ws62a_sdw13m_alp_ovl.bmp
-ws62a_sdw13n_alp_ovl.bmp
-ws62a_sdw13o_alp_ovl.bmp
-ws62a_sdw14_alp_ovl.bmp
-ws62a_sdw14b_alp_ovl.bmp
-ws62a_sdw14c_alp_ovl.bmp
-ws62a_sdw14d_alp_ovl.bmp
-ws62a_sdw15_alp_ovl.bmp
-ws62a_sdw15a_alp_ovl.bmp
-ws62a_sdw15d_alp_ovl.bmp
-ws62a_sdw16_alp_ovl.bmp
-ws62a_sdw16a_alp_ovl.bmp
-ws62a_sdw16b_alp_ovl.bmp
-ws62a_sdw16c_alp_ovl.bmp
-ws62a_sdw16d_alp_ovl.bmp
-ws62a_sdw16e_alp_ovl.bmp
-ws63a_shw00_alp_ovl.bmp
-ws63a_shw01_alp_ovl.bmp
-ws63a_shw02_alp_ovl.bmp
-ws63a_shw03_alp_ovl.bmp
-ws63a_shw04_alp_ovl.bmp
-ws63a_shw05_alp_ovl.bmp
-ws63a_shw06_alp_ovl.bmp
-ws63a_shw07_alp_ovl.bmp
-ws63a_shw08_alp_ovl.bmp
-ws63a_shw09_alp_ovl.bmp
-ws63a_shw10_alp_ovl.bmp
-ws63a_shw11_alp_ovl.bmp
-ws63a_shw12_alp_ovl.bmp
-ws63a_shw13_alp_ovl.bmp
-ws64a_sdw_alp_ovl_00.bmp
-ws64a_sdw_alp_ovl_01.bmp
-ws64a_sdw_alp_ovl_03.bmp
-ws64a_sdw_alp_ovl_04.bmp
-ws64a_sdw_alp_ovl_05.bmp
-ws64a_sdw_alp_ovl_06.bmp
-ws64a_sdw_alp_ovl_07.bmp
-ws64a_sdw_alp_ovl_08.bmp
-ws64a_sdw_alp_ovl_09.bmp
-ws64a_sdw_alp_ovl_10.bmp
-ws64a_sdw_alp_ovl_11.bmp
-ws64a_sdw_alp_ovl_12.bmp
-ws64a_sdw_alp_ovl_13.bmp
-ws64a_sdw_alp_ovl_14.bmp
-ws64a_sdw_alp_ovl_15.bmp
-ws65a_sdw01_alp_ovl.bmp
-ws65a_sdw02_alp_ovl.bmp
-ws65a_sdw03_alp_ovl.bmp
-ws65a_sdw05_alp_ovl.bmp
-ws65a_sdw06_alp_ovl.bmp
-ws65a_sdw07_alp_ovl.bmp
-ws65a_sdw09_alp_ovl.bmp
-ws65a_sdw10_alp_ovl.bmp
-ws65a_sdw11_alp_ovl.bmp
-ws65a_sdw12_alp_ovl.bmp
-ws65a_sdw13_alp_ovl.bmp
-ws65a_sdw14_alp_ovl.bmp
-ws65a_sdw15_alp_ovl.bmp
-ws65a_sdw16_alp_ovl.bmp
-ws65a_sdw18_alp_ovl.bmp
-ws65a_sdw19_alp_ovl.bmp
-ws65a_sdw20_alp_ovl.bmp
-ws65a_sdw21_alp_ovl.bmp
-ws65a_sdw22_alp_ovl.bmp
-ws65a_sdw23_alp_ovl.bmp
-ws65a_sdw24_alp_ovl.bmp
-ws65a_sdw25_alp_ovl.bmp
-ws65a_sdw26_alp_ovl.bmp
-ws65a_sdw27_alp_ovl.bmp
-ws65a_sdw28_alp_ovl.bmp
-ws65a_sdw29_alp_ovl.bmp
-ws65a_sdw30_alp_ovl.bmp
-ws65a_sdw31_alp_ovl.bmp
-ws65a_sdw33_alp_ovl.bmp
-ws65a_sdw34_alp_ovl.bmp
-ws65a_sdw35_alp_ovl.bmp
-ws65a_sdw36_alp_ovl.bmp
-ws65a_sdw37_alp_ovl.bmp
-ws65a_sdw38_alp_ovl.bmp
-ws65a_sdw39_alp_ovl.bmp
-ws65a_sdw40_alp_ovl.bmp
-ws65a_sdw41_alp_ovl.bmp
-ws65a_sdw42_alp_ovl.bmp
-ws65a_sdw43_alp_ovl.bmp
-ws65a_sdw44_alp_ovl.bmp
-ws65a_sdw45_alp_ovl.bmp
-ws65a_sdw46_alp_ovl.bmp
-ws65a_sdw47_alp_ovl.bmp
-ws65a_sdw48_alp_ovl.bmp
-ws65a_sdw49_alp_ovl.bmp
-ws65a_sdw50_alp_ovl.bmp
-ws65a_sdw51_alp_ovl.bmp
-ws65a_sdw52_alp_ovl.bmp
-ws65a_sdw54_alp_ovl.bmp
-ws65a_sdw55_alp_ovl.bmp
-ws65a_sdw56_alp_ovl.bmp
-ws65a_sdw57_alp_ovl.bmp
-ws65a_sdw58_alp_ovl.bmp
-ws65a_sdw59_alp_ovl.bmp
-ws65a_sdw60_alp_ovl.bmp
-ws65a_sdw62_alp_ovl.bmp
-ws65a_sdw63_alp_ovl.bmp
-ws65a_sdw64_alp_ovl.bmp
-ws65a_sdw65_alp_ovl.bmp
-ws65a_sdw66_alp_ovl.bmp
-ws65a_sdw67_alp_ovl.bmp
-ws65a_sdw68_alp_ovl.bmp
-ws65a_sdw70_alp_ovl.bmp
-ws65a_sdw71_alp_ovl.bmp
-ws65a_sdw72_alp_ovl.bmp
-ws65a_sdw_duct01_alp_ovl.bmp
-ws65a_sdw_duct02_alp_ovl.bmp
-ws71a_sdw_04_alp_ovl.bmp
-ws72a_sdw01_alp_ovl.bmp
-ws72a_sdw02_alp_ovl.bmp
-ws72a_sdw03_alp_ovl.bmp
-ws72a_sdw04_alp_ovl.bmp
-ws72a_sdw05_alp_ovl.bmp
-ws72a_sdw06_alp_ovl.bmp
-ws72a_sdw07_alp_ovl.bmp
-ws72a_sdw08_alp_ovl.bmp
-ws72a_sdw09_alp_ovl.bmp
-ws72a_sdw10_alp_ovl.bmp
-ws72a_sdw11_alp_ovl.bmp
-ws72a_sdw12_alp_ovl.bmp
-ws72a_sdw13n_alp_ovl.bmp
-ws72a_sdw15_alp_ovl.bmp
-ws72a_sdw16_alp_ovl.bmp
-ws72a_sdw17_alp_ovl.bmp
-ws72a_sdw18_alp_ovl.bmp
-ws72a_sdw19_alp_ovl.bmp
-ws72a_sdw20_alp_ovl.bmp
-ws72a_sdw23_alp_ovl.bmp
-ws72a_sdw24_alp_ovl.bmp
-ws72a_sdw25_alp_ovl.bmp
-ws72a_sdw26_alp_ovl.bmp
-ws72a_sdw28_alp_ovl.bmp
-ws72a_sdw29_alp_ovl.bmp
-ws72a_sdw30_alp_ovl.bmp
-ws72a_sdw31_alp_ovl.bmp
-ws72a_sdw33_alp_ovl.bmp
-ws73a_sdw_28_alp_ovl.bmp
-ws73a_sdw_30_alp_ovl.bmp
-ws73a_sdw_35_alp_ovl.bmp
-ws73a_sdw_38_alp_ovl.bmp
-ws73a_sdw_41_alp_ovl.bmp
-ws_13a_sdw01_alp_ovl.bmp
-ws_13a_sdw02_alp_ovl.bmp
-ws_13a_sdw03_alp_ovl.bmp
-ws_13a_sdw04_alp_ovl.bmp
-ws_13a_sdw05_alp_ovl.bmp
-ws_13a_sdw06_alp_ovl.bmp
-ws_13a_sdw07_alp_ovl.bmp
 wtd_mini_petbottle2_mt_alp_ovl_sub_.bmp
 wtd_petbottle2_mt_ovl_alp_sub_01.bmp
 zoom_alp_ovl.bmp
