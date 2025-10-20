@@ -415,6 +415,7 @@ texture_name,stage,tri_strcode,texture_strcode
 00ffb109,n_title,54becb,ffb109
 25d_28door_b00.bmp,a25d,741451,33ce58
 WallLc1Up2.bmp_8bcf03bfb0e39c5e15c0c5a38913842a,ending,8ea3f5,8e5ddb
+_SONS_UNUSED_VERSION_w24d2_te3_alla_mk.bmp,w24d,89dcb9,b63325
 a24d2_pane03_alp.bmp,a24d,573de0,b3f932
 a24d2_pane04_alp.bmp,a24d,573de0,c3f932
 a41a_pos01.bmp,a41b,8ef342,8ef342
@@ -422,17 +423,13 @@ a_bg.bmp,tales,7ad3ff,3208a7
 aks_selecter.bmp,a00a,9e05c5,46416b
 animal_alp_ovl.bmp,ending,164155,89728c
 b_bg.bmp,tales,7ad3ff,3288a7
-berrazano_alp_ovl.bmp,d001p01,745657,ce1022
 bg_alp_ovl.bmp,n_title,ac396b,db5c57
-bigshell_alp_ovl.bmp,d001p01,745657,35c518
 c_bg.bmp,tales,7ad3ff,3308a7
 car_kage_ban_alp_ovl.bmp,d00t,ab5284,e98003
 car_kage_ode_alp_ovl.bmp,d00t,ab5284,408038
 car_kage_sky_alp_ovl.bmp,d00t,ab5284,348049
 car_kage_wagon_alp_ovl.bmp,d00t,ab5284,128f12
 car_lit_ground_alp_add_ovl.bmp,d00t,ab5284,b8ce72
-car_shadow_01.bmp,d00t,ab5284,89bd94
-cit_hair2_alp.bmp,d082p01,573de0,a29b73
 class1_alp_ovl.bmp,n_title,ac396b,924ea6
 class2_alp_ovl.bmp,n_title,ac396b,934ea6
 class3_alp_ovl.bmp,n_title,ac396b,944ea6
@@ -460,7 +457,6 @@ fat_face_re.bmp,a20c,535eb5,fb1e91
 fat_face_re.bmp_a65902de0116b1a4ce6a1647e832d293,a20c,b35eb5,fb1e91
 fat_poket00_re.bmp,a20c,535eb5,5e485b
 fat_strow.bmp,a41b,3d3225,d4fc1c
-fiction_e_alp_ovl.bmp,n_title,32a5f4,288ef1
 floor_marker1_add_alp.bmp,sp01a,573de0,b8d5cc
 floor_marker2_add_alp.bmp,sp01a,573de0,b9d5cc
 floor_normal.bmp,sp02a,68c6a8,7d9ded
@@ -699,8 +695,6 @@ odai_meryl.bmp,a02b,bc0076,4b7a9f
 odai_moai.bmp,a01a,2b5df9,9a81a1
 olp_hi_hand_g00.bmp,a13c,94b943,92ac9c
 olp_hi_hand_g01.bmp,a13c,94b943,92ac9d
-org_mil_hair_alp_ovl.bmp,a00b,d9dac9,39c499
-org_mil_re_face.bmp,a00b,d9dac9,5e4773
 orp_hi_finger.bmp,a13c,94b943,1b3471
 pit_arm.bmp,a24f,b4082d,712f86
 pit_arm_markl.bmp,a24f,b4082d,4e382d
@@ -811,7 +805,6 @@ sco_ude_under.bmp,a24f,56a30a,e83a5f
 scot_hiface3.bmp,a24f,56a30a,e966c5
 sdw_alp_ovl_wall.bmp,sp21a,aa46a8,83ce3a
 sdw_alp_ovl_wall_01.bmp,sp21a,aa46a8,1ec418
-shuukanshi_hyoushi3.bmp,a00a,4da20c,70206b
 sky_alp_add.bmp,a22a,573de0,0d23dd
 smoke_lp4_alp.bmp,a46a,573de0,408e1d
 sna_arm1.bmp,r_plt10,6e1ff7,260a19
@@ -1248,7 +1241,6 @@ tgt_color3_tab2.bmp,sp01a,49867e,509696
 tgt_straw.bmp,sp03a,fb5768,e32a5c
 tgt_straw_tab.bmp,twp43a,3e08c5,ff8f27
 tgt_tri_hlt_add_alp.bmp,sp01a,573de0,303b44
-tnc_eri_bd.bmp,a00b,33bf7f,473944
 tnc_gost_arm_ovl_alp.bmp,a03a,ee56b7,135a46
 tnc_gost_body_b_ovl_alp.bmp,a03a,ee56b7,0983ad
 tnc_gost_body_c_ovl_alp.bmp,a03a,ee56b7,0a83ad
@@ -1261,14 +1253,8 @@ tnc_gost_foot_ovl_alp.bmp,a03a,ee56b7,8e9d7b
 tnc_gost_hair_ovl_alp.bmp,a03a,ee56b7,cc9e42
 tnc_gost_hand_a_ovl_alp.bmp,a03a,ee56b7,13a859
 tnc_gost_hand_b_ovl_alp.bmp,a03a,ee56b7,14a859
-tnc_obj_faceneck00.bmp,a00b,33bf7f,5aac0c
 tnc_re_body.bmp,a02b,613ae8,48e027
-tnc_re_body_bd.bmp,a00b,33bf7f,152d14
-tnc_re_faceneck.bmp,a02b,613ae8,6d4b4a
-tnc_re_faceneck_dead.bmp,a00b,33bf7f,fe371e
-tnc_re_faceneck_dead.bmp_0e551a799467218ab1818640b8ee2d96,a01d,1c8bd2,fe371e
 tnc_re_shatsu.bmp,a02b,613ae8,0f181a
-tnc_shatsu_bd.bmp,a00b,33bf7f,c9da6b
 tnc_spe_ovl_mod1120_alp_emap.bmp,a02b,613ae8,680535
 tnr_leg_rain.bmp,d01t,513ae9,cd4768
 tnr_shoese_re.bmp,a00b,33bf7f,c1e00a
@@ -1759,7 +1745,6 @@ w22a_floor_02_mk.bmp,a21a,2bad19,f76436
 w22a_room_box001_mk.bmp,a22a,89d458,ed3ed0
 w22a_room_wall11_mk.bmp,a22a,3c4ea1,11cc49
 w22a_room_wall1_mk.bmp,a21a,2bad19,f1481c
-w22a_room_wall_02.bmp,a22a,89d458,903c22
 w22a_room_wall_02_mk.bmp,a22a,3c4ea1,12d229
 w22a_wall5_mk.bmp,a22a,89d458,6664fe
 w24c0_entfl00.bmp,a24b,83ecad,0f5230
