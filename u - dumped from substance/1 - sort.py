@@ -86,7 +86,7 @@ def main():
         "half": "half_alpha",
         "opaque": "opaque",
         "invisible": "invisible",
-        "bad": "alpha_above_correct_levels",
+        "bad": "good_alpha",
         "mixed": "mixed_alpha"
     }
 
@@ -231,9 +231,12 @@ def main():
     for name in missing_tgas:
         grouped["MISSING_TGA"].append(f"[MISSING_TGA] {name}.tga | present in CSV but no matching file found")
 
+    # Deduplicate entries (case-insensitive)
     for key in grouped:
-        grouped[key].sort(key=lambda s: s.lower())
+        unique = list(dict.fromkeys(line.lower() for line in grouped[key]))
+        grouped[key] = sorted(unique, key=lambda s: s.lower())
 
+    # Write the grouped results.
     with open(log_path, "w", encoding="utf-8") as log:
         log.write(f"BP Comparison Log - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         log.write("=" * 80 + "\n\n")
