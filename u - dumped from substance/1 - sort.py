@@ -15,6 +15,10 @@ def next_power_of_two(n: int) -> int:
         return 1
     return 1 << (n - 1).bit_length()
 
+# Ensures a directory exists before use.
+def ensure_dir(path: str):
+    os.makedirs(path, exist_ok=True)
+
 # Analyzes a TGA file to determine its alpha type and whether dimensions are power-of-two.
 def get_alpha_type_and_pow2(path: str):
     try:
@@ -26,7 +30,7 @@ def get_alpha_type_and_pow2(path: str):
         if len(unique) == 1:
             val = next(iter(unique))
             if val == 0:
-                alpha_type = "transparent"
+                alpha_type = "invisible"
             elif val == 128:
                 alpha_type = "half"
             elif val == 255:
@@ -46,70 +50,68 @@ def get_alpha_type_and_pow2(path: str):
         print(f"Error reading {path}: {e}")
         return (path, "error", False, 0, 0)
 
-# Ensures a directory exists before use.
-def ensure_dir(path: str):
-    os.makedirs(path, exist_ok=True)
-
 # Loads expected dimensions from the CSV file.
 def read_dimensions_csv(csv_path: str) -> dict:
     entries = {}
     if not os.path.isfile(csv_path):
-        print("WARNING: dimensions.csv not found. Skipping verification.\n")
+        print("WARNING: mgs2_mc_dimensions.csv not found. Skipping verification.\n")
         return entries
 
     with open(csv_path, newline="", encoding="utf-8") as f:
         reader = csv.reader(f)
         for row in reader:
             if len(row) >= 3:
-                name = row[0].lower()  # Keep full filename; compare case-insensitive.
+                name = row[0].lower()
                 try:
                     w = int(row[1])
                     h = int(row[2])
                     entries[name] = (w, h)
                 except ValueError:
                     continue
-    print(f"Loaded {len(entries)} entries from dimensions.csv\n")
+    print(f"Loaded {len(entries)} entries from mgs2_mc_dimensions.csv\n")
     return entries
 
 def main():
-    base_dir = os.path.dirname(os.path.abspath(__file__))
+    # --- Fixed working directory ---
+    base_dir = r"C:\Development\Git\MGS2-PS2-Textures\u - dumped from substance\dump\Final Rebuilt"
+
+    # CSV is located in the same folder as the script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    dimensions_csv = os.path.join(script_dir, "mgs2_mc_dimensions.csv")
+
     conflicted_dir = os.path.join(base_dir, "conflicted")
-    dimensions_csv = os.path.join(base_dir, "dimensions.csv")
     log_path = os.path.join(base_dir, "bp_comparison_log.txt")
 
     subdirs = {
         "half": "half_alpha",
         "opaque": "opaque",
-        "transparent": "transparent",
-        "bad": "bad_alpha",
+        "invisible": "invisible",
+        "bad": "alpha_above_correct_levels",
         "mixed": "mixed_alpha"
     }
 
-    # Collects TGA filenames requiring manual verification.
+    # Collect conflicted filenames
     conflicted_names = set()
     if os.path.isdir(conflicted_dir):
         for f in os.listdir(conflicted_dir):
             if f.endswith(".tga"):
-                conflicted_names.add(f)
+                conflicted_names.add(f.lower())
         print(f"Loaded {len(conflicted_names)} conflicted filenames for manual verification.\n")
 
     csv_data = read_dimensions_csv(dimensions_csv)
 
-    # Create alpha classification folders if they don’t exist.
     for sub in subdirs.values():
         ensure_dir(os.path.join(base_dir, sub))
 
-    # Get list of TGA files in the root directory.
     files = [
         os.path.join(base_dir, f)
         for f in os.listdir(base_dir)
-        if f.endswith(".tga") and os.path.isfile(os.path.join(base_dir, f))
+        if f.lower().endswith(".tga") and os.path.isfile(os.path.join(base_dir, f))
     ]
 
     results = []
-    print(f"Scanning {len(files)} .tga files using multithreading...")
+    print(f"Scanning {len(files)} .tga files...")
 
-    # Analyze all TGAs concurrently for alpha type and power-of-two dimensions.
     with ThreadPoolExecutor(max_workers=os.cpu_count() or 4) as executor:
         futures = {executor.submit(get_alpha_type_and_pow2, f): f for f in files}
         for future in as_completed(futures):
@@ -117,12 +119,12 @@ def main():
 
     counts = {k: 0 for k in subdirs}
 
-    # Step 1: Alpha classification, conflicts, and power-of-two sorting.
+    # Step 1: Classification (lowercase filenames during move)
     for path, alpha_type, pow2, w, h in results:
         if alpha_type not in subdirs:
             continue
 
-        filename = os.path.basename(path)
+        filename = os.path.basename(path).lower()
         alpha_folder = os.path.join(base_dir, subdirs[alpha_type])
 
         if filename in conflicted_names:
@@ -134,10 +136,15 @@ def main():
             ensure_dir(dest_dir)
             print(f"Moving {filename} -> {os.path.relpath(dest_dir, base_dir)}/")
 
-        shutil.move(path, os.path.join(dest_dir, filename))
+        dest_path = os.path.join(dest_dir, filename)
+        try:
+            shutil.move(path, dest_path)
+        except shutil.Error:
+            os.replace(path, dest_path)
+
         counts[alpha_type] += 1
 
-    # Step 2: Compare image dimensions against CSV expectations.
+    # Step 2: CSV comparison
     print("\nVerifying dimensions against CSV...\n")
     skip_dirs = {"manual_verification", "match_found", "unmatch", "conflicted"}
     matched_count = 0
@@ -147,23 +154,21 @@ def main():
     bp_mismatch = 0
     log_lines = []
 
-    # Traverse all subdirectories and validate against the CSV.
     for root, dirs, files in os.walk(base_dir):
         parts = set(os.path.normpath(root).split(os.sep))
         if parts & skip_dirs:
             continue
 
         for f in files:
-            if not f.endswith(".tga"):
+            if not f.lower().endswith(".tga"):
                 continue
 
             full_path = os.path.join(root, f)
             name_no_tga = f[:-4].lower()
 
-            # Record files missing from CSV.
             if name_no_tga not in csv_data:
                 unmatched_count += 1
-                log_lines.append(f"[UNMATCHED] {f} | not found in dimensions.csv")
+                log_lines.append(f"[UNMATCHED] {f} | not found in mgs2_mc_dimensions.csv")
                 continue
 
             matched_count += 1
@@ -177,7 +182,6 @@ def main():
                 log_lines.append(f"[UNMATCHED] {f} | could not read image dimensions")
                 continue
 
-            # Compare expected dimensions with actual (rounded to next power-of-two).
             rw = next_power_of_two(w)
             rh = next_power_of_two(h)
 
@@ -187,59 +191,49 @@ def main():
             elif csv_w > rw or csv_h > rh:
                 bp_remade += 1
                 rel_subfolder = "bp_remade"
-                log_lines.append(f"[REMADE] {f} | expected {csv_w}x{csv_h} > ceil_p2 {rw}x{rh} (actual {w}x{h})")
+                log_lines.append(f"[BP REMADE] {f} | original: {w}x{h} | ceil_p^2: {rw}x{rh} | hdc/mc: {csv_w}x{csv_h}")
             else:
                 bp_mismatch += 1
                 rel_subfolder = "bp_mismatch"
-                log_lines.append(f"[MISMATCH] {f} | expected {csv_w}x{csv_h} < ceil_p2 {rw}x{rh} (actual {w}x{h})")
+                log_lines.append(f"[MISMATCH] {f} | original: {w}x{h} | ceil_p^2: {rw}x{rh} | hdc/mc: {csv_w}x{csv_h}")
 
-            # Move remade/mismatched files into subfolders under their existing directory.
             if rel_subfolder:
-                dest_dir = os.path.join(root, rel_subfolder)
-                ensure_dir(dest_dir)
-                try:
-                    shutil.move(full_path, os.path.join(dest_dir, f))
-                except shutil.Error:
-                    os.replace(full_path, os.path.join(dest_dir, f))
+                # Avoid creating nested bp_remade/bp_remade or bp_mismatch/bp_mismatch
+                if os.path.basename(root).lower() != rel_subfolder:
+                    dest_dir = os.path.join(root, rel_subfolder)
+                    ensure_dir(dest_dir)
+                    dest_path = os.path.join(dest_dir, f.lower())
+                    try:
+                        shutil.move(full_path, dest_path)
+                    except shutil.Error:
+                        os.replace(full_path, dest_path)
 
-    # -------------------------------------------------------------------------------------------------
-    # Step 3: Write grouped and alphabetically sorted log
-    # -------------------------------------------------------------------------------------------------
 
-    # Find CSV entries that never had a matching TGA anywhere.
+    # Step 3: Log output
     all_tga_names = set()
     for root, dirs, files in os.walk(base_dir):
         for f in files:
-            if f.endswith(".tga"):
+            if f.lower().endswith(".tga"):
                 all_tga_names.add(f[:-4].lower())
 
     missing_tgas = [name for name in csv_data.keys() if name not in all_tga_names]
 
-    # Group results by category.
-    grouped = {
-        "REMADE": [],
-        "MISMATCH": [],
-        "UNMATCHED": [],
-        "MISSING_TGA": []
-    }
+    grouped = {"REMADE": [], "MISMATCH": [], "UNMATCHED": [], "MISSING_TGA": []}
 
     for line in log_lines:
-        if line.startswith("[REMADE]"):
+        if line.startswith("[BP REMADE]"):
             grouped["REMADE"].append(line)
         elif line.startswith("[MISMATCH]"):
             grouped["MISMATCH"].append(line)
         elif line.startswith("[UNMATCHED]"):
             grouped["UNMATCHED"].append(line)
 
-    # Add missing TGA entries.
     for name in missing_tgas:
         grouped["MISSING_TGA"].append(f"[MISSING_TGA] {name}.tga | present in CSV but no matching file found")
 
-    # Sort all groups alphabetically for clean output.
     for key in grouped:
         grouped[key].sort(key=lambda s: s.lower())
 
-    # Write the grouped results.
     with open(log_path, "w", encoding="utf-8") as log:
         log.write(f"BP Comparison Log - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         log.write("=" * 80 + "\n\n")
@@ -255,7 +249,7 @@ def main():
 
     print(f"Detailed results written to: {log_path}")
 
-    # Step 4: Remove empty working directories created during sorting.
+    # Step 4: Cleanup empty dirs
     for sub in subdirs.values():
         main_path = os.path.join(base_dir, sub)
         for nested in ["power_of_2", "manual_verification"]:
@@ -265,16 +259,15 @@ def main():
         if os.path.exists(main_path) and not os.listdir(main_path):
             os.rmdir(main_path)
 
-    # Step 5: Display run summary.
+    # Step 5: Summary
     print("\nSummary:")
     for k, v in counts.items():
-        print(f"{subdirs[k]:<15} : {v} files")
-    print(f"\nMatched in dimensions.csv : {matched_count}")
-    print(f"Unmatched                 : {unmatched_count}")
-    print(f"\nBP - Not Remade           : {bp_not_remade}")
-    print(f"BP - Remade               : {bp_remade}")
-    print(f"BP - Mismatch             : {bp_mismatch}")
+        print(f"{subdirs[k]:<25} : {v} files")
+    print(f"\nMatched in mgs2_mc_dimensions.csv : {matched_count}")
+    print(f"Unmatched                         : {unmatched_count}")
+    print(f"\nBP - Not Remade                   : {bp_not_remade}")
+    print(f"BP - Remade                       : {bp_remade}")
+    print(f"BP - Mismatch                     : {bp_mismatch}")
 
-# Standard entry point.
 if __name__ == "__main__":
     main()

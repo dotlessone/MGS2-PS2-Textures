@@ -51,7 +51,6 @@ texture_name,stage,tri_strcode,texture_strcode
 0095373c,a43a,202085,95373c
 0096b7c2,mselect,37a0f5,96b7c2
 0096c7c2,mselect,37a0f5,96c7c2
-00a69783,n_title,14de14,a69783
 00aeb10a,n_title,54bf7a,aeb10a
 00af4bac,mselect,a6cb3c,af4bac
 00ce4bac,mselect,a6977c,ce4bac
@@ -82,3 +81,7 @@ texture_name,stage,tri_strcode,texture_strcode
 00f736bc,a43a,202085,f736bc
 00f7373c,a43a,202085,f7373c
 00ffb109,n_title,54becb,ffb109
+_SONS_CENSORED_REMOVED_VERSION_tnc_eri.bmp,d04t,a68520,cee4fc
+_SONS_CENSORED_REMOVED_VERSION_tnc_re_body_bd.bmp,d04t,b65d75,8d62f6
+_SONS_UNUSED_VERSION_org_chest.bmp,d05t,a175f6,265e4d
+_SONS_UNUSED_VERSION_w24d2_te3_alla_mk.bmp,d053p01,726143,b63325
