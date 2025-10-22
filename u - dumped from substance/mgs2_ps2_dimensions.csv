@@ -1,4 +1,4 @@
-filename,crc32,width,height,width_pow2,height_pow2
+filename,crc32,original_width,original_height,width_pow2,height_pow2
 00002016,e41f4d2c,72,32,128,32
 00004ad1,173fe728,24,24,32,32
 000062b9,dc39cefd,32,32,32,32
