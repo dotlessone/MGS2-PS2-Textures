@@ -2,19 +2,19 @@ import csv
 import os
 from hashlib import md5
 
-pcsx2_csv = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_dumped_png_crc32_log.csv"
+pcsx2_csv = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_dumped_sha1_log.csv"
 texture_csv = r"C:\Development\Git\MGS2-PS2-Textures\u - dumped from substance\mgs2_ps2_dimensions.csv"
-output_csv = os.path.join(os.path.dirname(pcsx2_csv), "crc32_matches_deduped.csv")
+output_csv = r"C:\Development\Git\MGS2-PS2-Textures\scripts\pcsx2_tri_sha1_matches.csv"
 
 pcsx2_crc_fields = [
-    "pcsx2_dumped_crc32",
-    "pcxs2_normalized_png_crc32",
-    "pcsx2_alpha_stripped_crc32"
+    "pcsx2_dumped_sha1",
+    "pcsx2_resaved_sha1",
+    "pcsx2_alpha_stripped_sha1"
 ]
 texture_crc_fields = [
-    "tri_dumped_tga_crc32",
-    "tri_png_converted_crc32",
-    "tri_alpha_stripped_crc32"
+    "tri_dumped_tga_sha1",
+    "tri_dumped_png_converted_sha1",
+    "tri_dumped_alpha_stripped_sha1"
 ]
 
 # --- Load texture CSV ---
@@ -34,7 +34,7 @@ crc_lookup = {}
 for row in tex_rows:
     for field in texture_crc_fields:
         crc = row.get(field, "").strip().lower()
-        if crc and crc != "00000000":
+        if crc and crc != "0000000000000000000000000000000000000000":
             crc_lookup.setdefault(crc, []).append(row)
 
 # --- Merge ---
@@ -44,7 +44,7 @@ seen_hashes = set()
 for pcsx2_row in pcsx2_rows:
     for field in pcsx2_crc_fields:
         crc = pcsx2_row.get(field, "").strip().lower()
-        if not crc or crc == "00000000":
+        if not crc or crc == "0000000000000000000000000000000000000000":
             continue
         if crc in crc_lookup:
             for tex_row in crc_lookup[crc]:
@@ -55,13 +55,17 @@ for pcsx2_row in pcsx2_rows:
                     seen_hashes.add(row_hash)
                     merged_rows.append(merged)
 
-# --- Write output ---
+# --- Sort merged rows alphabetically by texture_name (fallback to first key if missing) ---
 if merged_rows:
+    sort_key = "texture_name" if "texture_name" in merged_rows[0] else list(merged_rows[0].keys())[0]
+    merged_rows.sort(key=lambda x: x.get(sort_key, "").lower())
+
     fieldnames = tex_fieldnames + [f for f in pcsx2_fieldnames if f not in tex_fieldnames]
     with open(output_csv, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(merged_rows)
+
     print(f"[+] {len(merged_rows)} unique matches written to: {output_csv}")
 else:
     print("[-] No matches found.")

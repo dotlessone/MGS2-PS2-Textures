@@ -24,7 +24,7 @@ def process_file(path):
 
 def main():
     folder = os.path.dirname(os.path.abspath(__file__))
-    output_csv = os.path.join(folder, "png_alpha_levels.csv")
+    output_csv = os.path.join(folder, "3 - pcsx2_dumped_alpha_levels.csv")
 
     png_files = [os.path.join(folder, f) for f in os.listdir(folder) if f.lower().endswith(".png")]
     total = len(png_files)
@@ -53,7 +53,7 @@ def main():
     # Write output CSV
     with open(output_csv, "w", newline="", encoding="utf-8") as out:
         writer = csv.writer(out)
-        writer.writerow(["filename", "alpha_levels"])
+        writer.writerow(["pcsx2_dumped_sha1", "pcsx2_alpha_levels"])
         writer.writerows(sorted(rows, key=lambda x: x[0].lower()))
 
     print(f"\n[+] Done. Logged alpha levels for {total} PNGs.")
