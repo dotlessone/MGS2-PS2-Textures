@@ -53,21 +53,57 @@ def get_unique_alpha_values(path):
 # CSV LOADERS
 # ==========================================================
 def load_sha1_mapping(csv_path):
-    """Load pcsx2_dumped_sha1 → [texture_name1, texture_name2, ...] mapping from CSV."""
+    """Load pcsx2_dumped_sha1 → [texture_name1, texture_name2, ...] mapping from CSV, skipping alpha=[0] entries unless whitelisted."""
+    ALLOWED_ALPHA_ZERO_TEXTURES = {
+        "0076cd21",
+        "00c1181b",
+        "00f7f08f",
+        "00f8f08f",
+        "blk_msk_alp.bmp",
+        "d_sky_hasira_alp.bmp",
+        "fat_shues_ovl_alp_emap_mod1120.bmp",
+        "magazine_tx_alp.bmp",
+        "null_msk.bmp",
+        "sky_n3_alp.bmp",
+    }
+
     mapping = {}
+    skipped = []
+
     with open(csv_path, "r", encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f)
-        if "pcsx2_dumped_sha1" not in reader.fieldnames or "texture_name" not in reader.fieldnames:
-            raise ValueError("CSV must contain 'pcsx2_dumped_sha1' and 'texture_name' columns.")
+        if "pcsx2_dumped_sha1" not in reader.fieldnames or "texture_name" not in reader.fieldnames or "pcsx2_alpha_levels" not in reader.fieldnames:
+            raise ValueError("CSV must contain 'pcsx2_dumped_sha1', 'texture_name', and 'pcsx2_alpha_levels' columns.")
+
         for row in reader:
-            sha1_val = row["pcsx2_dumped_sha1"].strip().lower()
-            tex_name = row["texture_name"].strip()
-            if sha1_val:
-                mapping.setdefault(sha1_val, set()).add(tex_name)
+            sha1_val = (row["pcsx2_dumped_sha1"] or "").strip().lower()
+            tex_name = (row["texture_name"] or "").strip()
+            alpha_levels = (row["pcsx2_alpha_levels"] or "").strip()
+
+            if not sha1_val or not tex_name:
+                continue
+
+            # Skip if alpha levels are exactly [0] and not explicitly whitelisted
+            if alpha_levels == "[0]" and tex_name.lower() not in ALLOWED_ALPHA_ZERO_TEXTURES:
+                skipped.append((sha1_val, tex_name))
+                continue
+
+            mapping.setdefault(sha1_val, set()).add(tex_name)
+
     total_pairs = sum(len(v) for v in mapping.values())
     print(f"[+] Loaded {len(mapping)} unique SHA-1 entries ({total_pairs} total texture mappings).")
-    return mapping
 
+    # Log skipped entries
+    if skipped:
+        print(f"[!] Skipped {len(skipped)} entries with alpha=[0] not in whitelist.")
+        with open(LOG_PATH, "a", encoding="utf-8") as f:
+            f.write("\n[Skipped Alpha=0 Entries]\n")
+            for sha1_val, tex_name in skipped:
+                mapped = mapping.get(sha1_val)
+                mapped_to = list(mapped) if mapped else []
+                f.write(f"sha1={sha1_val}, texture={tex_name}, would_map_to={mapped_to}\n")
+
+    return mapping
 
 def load_pcsx2_sha1_list(csv_path):
     """Load all pcsx2_dumped_sha1 values from pcsx2_dumped_sha1_log.csv."""
@@ -133,6 +169,7 @@ def process_file(path, mapping, log_lock, existing_sha1s):
     try:
         sha1 = calc_sha1(path)
         rel_path = os.path.relpath(path, ROOT_DIR).replace("\\", "/")
+        original_name = os.path.splitext(os.path.basename(path))[0].lower()  # no extension
 
         # Delete only if all mapped files already exist
         if sha1 in existing_sha1s and all_mapped_files_present(sha1, mapping, existing_sha1s):
@@ -147,7 +184,10 @@ def process_file(path, mapping, log_lock, existing_sha1s):
             os.makedirs(os.path.dirname(dest_first), exist_ok=True)
             shutil.move(path, dest_first)
             existing_sha1s.setdefault(sha1, []).append(dest_first)
-            log_line(f"{rel_path} -> renamed to: {first_tex}.png (sha1: {sha1})", log_lock)
+
+            # Skip logging if original had "-" or names are identical
+            if "-" not in original_name and original_name != first_tex.lower():
+                log_line(f"{rel_path} -> renamed to: {first_tex}.png (sha1: {sha1})", log_lock)
 
             for tex_name in list(tex_names)[1:]:
                 dest_copy = os.path.join(DEST_DIR, f"{tex_name}.png")
@@ -155,7 +195,11 @@ def process_file(path, mapping, log_lock, existing_sha1s):
                 if not os.path.exists(dest_copy):
                     shutil.copy2(dest_first, dest_copy)
                     existing_sha1s.setdefault(sha1, []).append(dest_copy)
-                    log_line(f"[COPY] {first_tex}.png -> {tex_name}.png (sha1: {sha1})", log_lock)
+
+                    # Skip logging if original had "-" or names are identical
+                    if "-" not in original_name and original_name != tex_name.lower():
+                        log_line(f"[COPY] {first_tex}.png -> {tex_name}.png (sha1: {sha1})", log_lock)
+
             return (path, sha1, list(tex_names), True)
 
         return (path, sha1, None, False)
