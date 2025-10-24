@@ -22,9 +22,10 @@ texture_crc_fields = [
     "tri_dumped_png_converted_sha1",
     "tri_dumped_alpha_stripped_sha1"
 ]
+
+# --- MC merge now only uses this field for matching ---
 mc_crc_fields = [
-    "mc_resaved_sha1",
-    "mc_alpha_stripped_sha1"
+    "mc_resaved_sha1"
 ]
 
 # ==========================================================
@@ -39,7 +40,7 @@ def load_csv(path):
 # ==========================================================
 # MERGE FUNCTION
 # ==========================================================
-def merge_crc(pcsx2_rows, pcsx2_crc_fields, target_rows, target_crc_fields, target_fieldnames, out_path, label):
+def merge_crc(pcsx2_rows, pcsx2_crc_fields, target_rows, target_crc_fields, target_fieldnames, out_path, label, exclude_fields=None):
     crc_lookup = {}
     for row in target_rows:
         for field in target_crc_fields:
@@ -63,20 +64,31 @@ def merge_crc(pcsx2_rows, pcsx2_crc_fields, target_rows, target_crc_fields, targ
                         seen_hashes.add(row_hash)
                         merged_rows.append(merged)
 
-    # --- Sort and write output ---
-    if merged_rows:
-        sort_key = "texture_name" if "texture_name" in merged_rows[0] else list(merged_rows[0].keys())[0]
-        merged_rows.sort(key=lambda x: x.get(sort_key, "").lower())
-
-        fieldnames = target_fieldnames + [f for f in pcsx2_fieldnames if f not in target_fieldnames]
-        with open(out_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(merged_rows)
-
-        print(f"[+] {len(merged_rows)} unique {label} matches written to: {out_path}")
-    else:
+    if not merged_rows:
         print(f"[-] No matches found for {label}.")
+        return
+
+    # --- Sort results alphabetically by texture_name ---
+    sort_key = "texture_name" if "texture_name" in merged_rows[0] else list(merged_rows[0].keys())[0]
+    merged_rows.sort(key=lambda x: x.get(sort_key, "").lower())
+
+    # --- Exclude unwanted columns ---
+    fieldnames = [f for f in target_fieldnames if not exclude_fields or f not in exclude_fields]
+    fieldnames += [f for f in pcsx2_fieldnames if f not in fieldnames]
+
+    # --- Write output ---
+    with open(out_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in merged_rows:
+            # Drop excluded columns from each row before writing
+            if exclude_fields:
+                for ef in exclude_fields:
+                    if ef in row:
+                        del row[ef]
+            writer.writerow(row)
+
+    print(f"[+] {len(merged_rows)} unique {label} matches written to: {out_path}")
 
 
 # ==========================================================
@@ -99,13 +111,14 @@ if __name__ == "__main__":
         label="PS2"
     )
 
-    # --- Merge MC Dimensions ---
+    # --- Merge MC Dimensions (only mc_resaved_sha1, exclude mc_alpha_stripped_sha1) ---
     merge_crc(
         pcsx2_rows=pcsx2_rows,
         pcsx2_crc_fields=pcsx2_crc_fields,
         target_rows=mc_rows,
-        target_crc_fields=mc_crc_fields,
+        target_crc_fields=["mc_resaved_sha1"],  # only use mc_resaved_sha1 for matching
         target_fieldnames=mc_fieldnames,
         out_path=mc_output_csv,
-        label="MC"
+        label="MC",
+        exclude_fields=["mc_alpha_stripped_sha1"]  # completely remove from final output
     )
