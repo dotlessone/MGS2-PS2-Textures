@@ -17,6 +17,7 @@ PCSX2_SHA1_LOG = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_dumped_sha1_log.cs
 
 PASS1_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_mc_sha1_matches.csv"
 PASS2_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_tri_sha1_matches.csv"
+MANUAL_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_manual_sha1_matches.csv"
 
 EXCLUDE_DIRS = ["Self Remade", "Renamed Copies - Better LODs"]
 
@@ -84,6 +85,20 @@ def load_sha1_mapping(csv_path, log_path):
 
     return mapping
 
+def load_manual_mapping(csv_path):
+    mapping = {}
+    with open(csv_path, "r", encoding="utf-8", newline="") as f:
+        reader = csv.DictReader(f)
+        if "pcsx2_dumped_sha1" not in reader.fieldnames or "texture_name" not in reader.fieldnames:
+            raise ValueError(f"{csv_path} missing required columns: needs texture_name and pcsx2_dumped_sha1")
+        for row in reader:
+            sha1_val = (row["pcsx2_dumped_sha1"] or "").strip().lower()
+            tex_name = (row["texture_name"] or "").strip()
+            if sha1_val and tex_name:
+                mapping.setdefault(sha1_val, set()).add(tex_name)
+    print(f"[+] Loaded {len(mapping)} SHA-1 manual entries from {os.path.basename(csv_path)}")
+    return mapping
+
 def load_pcsx2_sha1_list(csv_path):
     sha1s = set()
     with open(csv_path, "r", encoding="utf-8", newline="") as f:
@@ -93,6 +108,32 @@ def load_pcsx2_sha1_list(csv_path):
             if sha1 and sha1 != "0000000000000000000000000000000000000000":
                 sha1s.add(sha1)
     return sha1s
+
+# ==========================================================
+# MANUAL VERIFICATION
+# ==========================================================
+def verify_manual_names_exist(manual_csv, mc_csv):
+    with open(mc_csv, "r", encoding="utf-8", newline="") as f:
+        mc_reader = csv.DictReader(f)
+        mc_names = {row["texture_name"].strip().lower() for row in mc_reader if row.get("texture_name")}
+
+    with open(manual_csv, "r", encoding="utf-8", newline="") as f:
+        manual_reader = csv.DictReader(f)
+        missing = []
+        for row in manual_reader:
+            tex = (row.get("texture_name") or "").strip().lower()
+            if tex and tex not in mc_names:
+                missing.append(tex)
+
+    if missing:
+        print(f"\n[!] {len(missing)} textures in {os.path.basename(manual_csv)} not found in MC list:")
+        for m in missing:
+            print(f"    - {m}")
+        print("\n[!] Fix or remove these before continuing.")
+        input("\nPress Enter to exit...")
+        raise SystemExit(1)
+    else:
+        print(f"[+] All manual textures verified against MC list ({len(mc_names)} known).")
 
 # ==========================================================
 # FILE DISCOVERY
@@ -156,7 +197,6 @@ def process_file(path, mapping, log_lock, existing_sha1s, log_path, conflict_che
             dest_first = os.path.join(DEST_DIR, f"{first_tex}.png")
             os.makedirs(os.path.dirname(dest_first), exist_ok=True)
 
-            # Conflict handling (only for 2nd pass)
             if conflict_check and os.path.exists(dest_first):
                 existing_sha1 = calc_sha1(dest_first)
                 if existing_sha1 != sha1:
@@ -185,7 +225,7 @@ def process_file(path, mapping, log_lock, existing_sha1s, log_path, conflict_che
         return (path, "ERROR", str(e), False)
 
 # ==========================================================
-# VERIFICATION STEPS
+# VERIFICATION HELPERS
 # ==========================================================
 def check_duplicate_names(root_dir, verify_dir, exclude_dirs, log_lock, log_path):
     log_line("\n[Duplicate Check] Scanning for duplicate filenames...", log_lock, log_path)
@@ -274,7 +314,7 @@ def reverification_pass(mapping, dest_dir, log_lock, log_path):
         log_line("[Reverification] All verified OK.", log_lock, log_path)
 
 # ==========================================================
-# PASS RUNNER
+# PASS RUNNERS
 # ==========================================================
 def run_pass(csv_path, pass_name, conflict_check=False):
     log_path = os.path.join(os.path.dirname(__file__), f"{pass_name}_verification_log.txt")
@@ -304,7 +344,6 @@ def run_pass(csv_path, pass_name, conflict_check=False):
             if completed % 250 == 0 or completed == total:
                 print(f"[{pass_name}] {completed}/{total} ({(completed/total)*100:.1f}%) - {moved} moved")
 
-    # Post-run verifications
     check_duplicate_names(ROOT_DIR, DEST_DIR, EXCLUDE_DIRS, log_lock, log_path)
     verify_hash_presence(DEST_DIR, pcsx2_sha1s, log_lock, log_path)
     verify_missing_textures(DIMENSIONS_CSV, DEST_DIR, log_lock, log_path)
@@ -312,10 +351,52 @@ def run_pass(csv_path, pass_name, conflict_check=False):
     log_line(f"\n[Summary] {pass_name}: Moved {moved}/{total} textures.", log_lock, log_path)
     print(f"[+] {pass_name} complete. Log: {log_path}")
 
+def run_manual_pass(csv_path):
+    pass_name = "Manual_Pass"
+    log_path = os.path.join(os.path.dirname(__file__), f"{pass_name}_verification_log.txt")
+    open(log_path, "w", encoding="utf-8").close()
+    log_lock = threading.Lock()
+
+    mapping = load_manual_mapping(csv_path)
+    pcsx2_sha1s = load_pcsx2_sha1_list(PCSX2_SHA1_LOG)
+    existing_sha1s = collect_existing_sha1s(DEST_DIR)
+    png_files = find_pngs(ROOT_DIR, DEST_DIR, EXCLUDE_DIRS)
+
+    total = len(png_files)
+    if total == 0:
+        log_line("[!] No PNG files found to process.", log_lock, log_path)
+        return
+
+    print(f"\n===== Running {pass_name} ({total} PNGs) =====")
+    completed = 0
+    moved = 0
+    with ThreadPoolExecutor(max_workers=max(4, os.cpu_count() or 4)) as executor:
+        futures = {executor.submit(process_file, f, mapping, log_lock, existing_sha1s, log_path, False): f for f in png_files}
+        for future in as_completed(futures):
+            _, _, _, success = future.result()
+            completed += 1
+            if success:
+                moved += 1
+            if completed % 250 == 0 or completed == total:
+                print(f"[{pass_name}] {completed}/{total} ({(completed/total)*100:.1f}%) - {moved} moved")
+
+    # Post-run verification steps
+    check_duplicate_names(ROOT_DIR, DEST_DIR, EXCLUDE_DIRS, log_lock, log_path)
+    verify_hash_presence(DEST_DIR, pcsx2_sha1s, log_lock, log_path)
+    verify_missing_textures(DIMENSIONS_CSV, DEST_DIR, log_lock, log_path)
+    reverification_pass(mapping, DEST_DIR, log_lock, log_path)
+
+    log_line(f"\n[Summary] {pass_name}: Moved {moved}/{total} textures.", log_lock, log_path)
+    print(f"[+] {pass_name} complete. Log: {log_path}")
+
+
 # ==========================================================
 # MAIN
 # ==========================================================
 if __name__ == "__main__":
+    verify_manual_names_exist(MANUAL_CSV, DIMENSIONS_CSV)
     run_pass(PASS1_CSV, "MC_Pass", conflict_check=False)
     run_pass(PASS2_CSV, "TRI_Pass", conflict_check=True)
-    print("\n[+] Both passes completed.")
+    run_manual_pass(MANUAL_CSV)
+    print("\n[+] All passes completed (MC, TRI, MANUAL).")
+    input("\nPress Enter to close...")
