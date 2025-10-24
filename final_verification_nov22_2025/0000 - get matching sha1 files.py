@@ -13,6 +13,7 @@ ROOT_DIR = r"C:\Development\Git\MGS2-PS2-Textures"
 DEST_DIR = r"C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025"
 CONFLICT_DIR = os.path.join(DEST_DIR, "conflicted")
 DIMENSIONS_CSV = r"C:\Development\Git\MGS2-PS2-Textures\u - dumped from substance\mgs2_mc_dimensions.csv"
+PS2_DIMENSIONS_CSV = r"C:\Development\Git\MGS2-PS2-Textures\u - dumped from substance\mgs2_ps2_dimensions.csv"
 PCSX2_SHA1_LOG = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_dumped_sha1_log.csv"
 
 PASS1_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_mc_sha1_matches.csv"
@@ -36,7 +37,15 @@ def log_line(line, lock, log_path):
         with open(log_path, "a", encoding="utf-8") as f:
             f.write(line.rstrip() + "\n")
 
+def get_image_dimensions(path):
+    try:
+        with Image.open(path) as img:
+            return img.width, img.height
+    except Exception:
+        return None, None
+
 def get_unique_alpha_values(path):
+    """Return sorted unique alpha values in an image (or [255] if opaque)."""
     try:
         with Image.open(path) as img:
             if "A" not in img.getbands():
@@ -108,6 +117,18 @@ def load_pcsx2_sha1_list(csv_path):
             if sha1 and sha1 != "0000000000000000000000000000000000000000":
                 sha1s.add(sha1)
     return sha1s
+
+def load_ps2_dimensions(csv_path):
+    dims = {}
+    with open(csv_path, "r", encoding="utf-8", newline="") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            tex = (row.get("texture_name") or "").strip().lower()
+            w = row.get("tri_dumped_width", "").strip()
+            h = row.get("tri_dumped_height", "").strip()
+            if tex and w.isdigit() and h.isdigit():
+                dims[tex] = (int(w), int(h))
+    return dims
 
 # ==========================================================
 # MANUAL VERIFICATION
@@ -314,6 +335,35 @@ def reverification_pass(mapping, dest_dir, log_lock, log_path):
         log_line("[Reverification] All verified OK.", log_lock, log_path)
 
 # ==========================================================
+# FINAL DIMENSION VALIDATION (EXTERNAL FILES)
+# ==========================================================
+def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
+    print("\n[Final Check] Verifying external PNG dimensions...")
+    dims = load_ps2_dimensions(ps2_csv)
+    checked = 0
+    renamed = 0
+    for dirpath, _, files in os.walk(root_dir):
+        abs_path = os.path.abspath(dirpath).lower()
+        if os.path.abspath(dest_dir).lower() in abs_path:
+            continue
+        if any(excl.lower() in abs_path for excl in exclude_dirs):
+            continue
+        for fn in files:
+            if fn.lower().endswith(".png"):
+                tex = os.path.splitext(fn)[0].lower()
+                if tex in dims:
+                    expected_w, expected_h = dims[tex]
+                    path = os.path.join(dirpath, fn)
+                    real_w, real_h = get_image_dimensions(path)
+                    checked += 1
+                    if real_w and real_h and (real_w != expected_w or real_h != expected_h):
+                        new_path = os.path.join(dirpath, f"{tex} - wrong name.png")
+                        os.rename(path, new_path)
+                        renamed += 1
+                        print(f"[WRONG] {fn} -> {os.path.basename(new_path)} (expected {expected_w}x{expected_h}, got {real_w}x{real_h})")
+    print(f"[Final Check] Checked {checked} PNGs, renamed {renamed} with wrong dimensions.")
+
+# ==========================================================
 # PASS RUNNERS
 # ==========================================================
 def run_pass(csv_path, pass_name, conflict_check=False):
@@ -380,15 +430,12 @@ def run_manual_pass(csv_path):
             if completed % 250 == 0 or completed == total:
                 print(f"[{pass_name}] {completed}/{total} ({(completed/total)*100:.1f}%) - {moved} moved")
 
-    # Post-run verification steps
     check_duplicate_names(ROOT_DIR, DEST_DIR, EXCLUDE_DIRS, log_lock, log_path)
     verify_hash_presence(DEST_DIR, pcsx2_sha1s, log_lock, log_path)
     verify_missing_textures(DIMENSIONS_CSV, DEST_DIR, log_lock, log_path)
     reverification_pass(mapping, DEST_DIR, log_lock, log_path)
-
     log_line(f"\n[Summary] {pass_name}: Moved {moved}/{total} textures.", log_lock, log_path)
     print(f"[+] {pass_name} complete. Log: {log_path}")
-
 
 # ==========================================================
 # MAIN
@@ -398,5 +445,6 @@ if __name__ == "__main__":
     run_pass(PASS1_CSV, "MC_Pass", conflict_check=False)
     run_pass(PASS2_CSV, "TRI_Pass", conflict_check=True)
     run_manual_pass(MANUAL_CSV)
-    print("\n[+] All passes completed (MC, TRI, MANUAL).")
+    check_external_wrong_dimensions(PS2_DIMENSIONS_CSV, ROOT_DIR, DEST_DIR, EXCLUDE_DIRS)
+    print("\n[+] All passes completed (MC, TRI, MANUAL, FINAL CHECK).")
     input("\nPress Enter to close...")
