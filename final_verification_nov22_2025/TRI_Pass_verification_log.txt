@@ -13,7 +13,7 @@ sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w25a_sdw_alp_ovl.bmp
 sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w28a_oku_pipekage_bld035.bmp
 
 [Duplicate Check] Scanning for duplicate filenames...
-[Duplicate Check] 18 conflicts found.
+[Duplicate Check] 16 conflicts found.
   C:\Development\Git\MGS2-PS2-Textures\b - sons of liberty\m9_alp_ovl.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\m9_alp_ovl.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\b - sons of liberty\tnc_eri_bd.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\tnc_eri_bd.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\b - sons of liberty\tnc_re_body_bd.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\tnc_re_body_bd.bmp.png
@@ -23,12 +23,10 @@ sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w28a_oku_pipekage_bld035.
   C:\Development\Git\MGS2-PS2-Textures\b - sons of liberty\tnr_leg_rain.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\tnr_leg_rain.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\b - sons of liberty\tnr_shoese_re_ovl_sub_alp.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\tnr_shoese_re_ovl_sub_alp.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\b - sons of liberty\w00_blc_u1.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\w00_blc_u1.bmp.png
-  C:\Development\Git\MGS2-PS2-Textures\y - reverify\psg_grip.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\psg_grip.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\y - reverify\psg_grip_natsu.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\psg_grip_natsu.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\z - final rebuilt\BETA Textures - From Document\gcyp_blade_alp.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\gcyp_blade_alp.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\z - final rebuilt\BETA Textures - From Document\svc2_lens_f.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\svc2_lens_f.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\z - final rebuilt\final verified\BP Remade\usa_face_d.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\usa_face_d.bmp.png
-  C:\Development\Git\MGS2-PS2-Textures\z - final rebuilt\final verified\power of 2\m4grn_emb.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\m4grn_emb.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\z - final rebuilt\final verified\send to mod\otc_eye_ovl_sub_alp.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\otc_eye_ovl_sub_alp.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\z - final rebuilt\final verified\send to mod\psg_sight_natsu.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\psg_sight_natsu.bmp.png
   C:\Development\Git\MGS2-PS2-Textures\z - final rebuilt\final verified\send to mod\psg_s_mk.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\psg_s_mk.bmp.png
