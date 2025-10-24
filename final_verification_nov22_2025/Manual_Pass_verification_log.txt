@@ -1,1 +1,0 @@
-[!] No entries found in pcsx2_manual_sha1_matches.csv; skipping Manual_Pass.

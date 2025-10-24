@@ -23,6 +23,14 @@ MANUAL_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_manual_sha1_matches.cs
 EXCLUDE_DIRS = ["Self Remade", "Renamed Copies - Better LODs"]
 
 # ==========================================================
+# COMBINED LOG CONFIGURATION
+# ==========================================================
+COMBINED_LOG_PATH = os.path.join(os.path.dirname(__file__), "Get Matching SHA1 Files.log")
+LOG_LOCK = threading.Lock()
+LOG_MEMORY = {}
+open(COMBINED_LOG_PATH, "w", encoding="utf-8").close()
+
+# ==========================================================
 # UTILITIES
 # ==========================================================
 def calc_sha1(path):
@@ -246,10 +254,11 @@ def process_file(path, mapping, log_lock, existing_sha1s, log_path, conflict_che
         return (path, "ERROR", str(e), False)
 
 # ==========================================================
-# VERIFICATION HELPERS
+# VERIFICATION HELPERS (DEDUPLICATION ENABLED)
 # ==========================================================
 def check_duplicate_names(root_dir, verify_dir, exclude_dirs, log_lock, log_path):
-    log_line("\n[Duplicate Check] Scanning for duplicate filenames...", log_lock, log_path)
+    content_lines = []
+    content_lines.append("\n[Duplicate Check] Scanning for duplicate filenames...")
     verified_map = {}
     for root, _, files in os.walk(verify_dir):
         for fn in files:
@@ -272,15 +281,22 @@ def check_duplicate_names(root_dir, verify_dir, exclude_dirs, log_lock, log_path
                 inside_sha1 = calc_sha1(inside_path)
                 if outside_sha1 != inside_sha1:
                     conflicts.append((outside_path, inside_path))
+
     if conflicts:
-        log_line(f"[Duplicate Check] {len(conflicts)} conflicts found.", log_lock, log_path)
+        content_lines.append(f"[Duplicate Check] {len(conflicts)} conflicts found.")
         for o, i in conflicts:
-            log_line(f"  {o} <-> {i}", log_lock, log_path)
+            content_lines.append(f"  {o} <-> {i}")
     else:
-        log_line("[Duplicate Check] No duplicate conflicts found.", log_lock, log_path)
+        content_lines.append("[Duplicate Check] No duplicate conflicts found.")
+
+    content = "\n".join(content_lines)
+    if LOG_MEMORY.get("Duplicate Check") != content:
+        LOG_MEMORY["Duplicate Check"] = content
+        log_line(content, log_lock, log_path)
 
 def verify_hash_presence(verify_dir, pcsx2_sha1s, log_lock, log_path):
-    log_line("\n[Hash Verification] Checking coverage...", log_lock, log_path)
+    content_lines = []
+    content_lines.append("\n[Hash Verification] Checking coverage...")
     missing = []
     for root, _, files in os.walk(verify_dir):
         for fn in files:
@@ -290,11 +306,16 @@ def verify_hash_presence(verify_dir, pcsx2_sha1s, log_lock, log_path):
                 if sha1 not in pcsx2_sha1s:
                     missing.append((fn, sha1))
     if missing:
-        log_line(f"[Hash Verification] {len(missing)} unknown SHA-1s:", log_lock, log_path)
+        content_lines.append(f"[Hash Verification] {len(missing)} unknown SHA-1s:")
         for fn, sha1 in missing:
-            log_line(f"  - {fn} ({sha1})", log_lock, log_path)
+            content_lines.append(f"  - {fn} ({sha1})")
     else:
-        log_line("[Hash Verification] All verified hashes known.", log_lock, log_path)
+        content_lines.append("[Hash Verification] All verified hashes known.")
+
+    content = "\n".join(content_lines)
+    if LOG_MEMORY.get("Hash Verification") != content:
+        LOG_MEMORY["Hash Verification"] = content
+        log_line(content, log_lock, log_path)
 
 def verify_missing_textures(dim_csv, verify_dir, log_lock, log_path):
     expected = set()
@@ -306,12 +327,17 @@ def verify_missing_textures(dim_csv, verify_dir, log_lock, log_path):
                 expected.add(n)
     actual = {os.path.splitext(f)[0].lower() for _, _, files in os.walk(verify_dir) for f in files if f.lower().endswith(".png")}
     missing = sorted(expected - actual)
+    content_lines = []
     if missing:
-        log_line(f"[Verification] Missing {len(missing)} textures:", log_lock, log_path)
+        content_lines.append(f"[Verification] Missing {len(missing)} textures:")
         for m in missing:
-            log_line(f"  - {m}", log_lock, log_path)
+            content_lines.append(f"  - {m}")
     else:
-        log_line("[Verification] No missing textures.", log_lock, log_path)
+        content_lines.append("[Verification] No missing textures.")
+    content = "\n".join(content_lines)
+    if LOG_MEMORY.get("Verification") != content:
+        LOG_MEMORY["Verification"] = content
+        log_line(content, log_lock, log_path)
 
 def reverification_pass(mapping, dest_dir, log_lock, log_path):
     log_line("\n[Reverification] Ensuring all mapped outputs exist...", log_lock, log_path)
@@ -367,7 +393,7 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
             if fn.lower().endswith(".png"):
                 verified_names.add(os.path.splitext(fn)[0].lower())
 
-    log_path = os.path.join(os.path.dirname(__file__), "dimension_mismatch_log.txt")
+    log_path = os.path.join(os.path.dirname(__file__), "External PNG Status Checks.log")
     log_lock = threading.Lock()
 
     def is_blacklisted_dir(abs_path):
@@ -656,11 +682,20 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
 
 # ==========================================================
 # PASS RUNNERS
+
+# ==========================================================
+# PASS RUNNERS (MERGED LOG)
 # ==========================================================
 def run_pass(csv_path, pass_name, conflict_check=False):
-    log_path = os.path.join(os.path.dirname(__file__), f"{pass_name}_verification_log.txt")
-    open(log_path, "w", encoding="utf-8").close()
-    log_lock = threading.Lock()
+    log_path = COMBINED_LOG_PATH
+    log_lock = LOG_LOCK
+
+    # Header section
+    with log_lock:
+        with open(log_path, "a", encoding="utf-8") as f:
+            f.write("\n\n============================================\n")
+            f.write(f"[{pass_name}] Verification Log\n")
+            f.write("============================================\n")
 
     mapping = load_sha1_mapping(csv_path, log_path)
     pcsx2_sha1s = load_pcsx2_sha1_list(PCSX2_SHA1_LOG)
@@ -690,13 +725,19 @@ def run_pass(csv_path, pass_name, conflict_check=False):
     verify_missing_textures(DIMENSIONS_CSV, DEST_DIR, log_lock, log_path)
     reverification_pass(mapping, DEST_DIR, log_lock, log_path)
     log_line(f"\n[Summary] {pass_name}: Moved {moved}/{total} textures.", log_lock, log_path)
-    print(f"[+] {pass_name} complete. Log: {log_path}")
+    print(f"[+] {pass_name} complete. Logged into combined log.")
 
 def run_manual_pass(csv_path):
     pass_name = "Manual_Pass"
-    log_path = os.path.join(os.path.dirname(__file__), f"{pass_name}_verification_log.txt")
-    open(log_path, "w", encoding="utf-8").close()
-    log_lock = threading.Lock()
+    log_path = COMBINED_LOG_PATH
+    log_lock = LOG_LOCK
+
+    # Header section
+    with log_lock:
+        with open(log_path, "a", encoding="utf-8") as f:
+            f.write("\n\n============================================\n")
+            f.write(f"[{pass_name}] Verification Log\n")
+            f.write("============================================\n")
 
     mapping = load_manual_mapping(csv_path)
     if not mapping:
@@ -731,7 +772,7 @@ def run_manual_pass(csv_path):
     verify_missing_textures(DIMENSIONS_CSV, DEST_DIR, log_lock, log_path)
     reverification_pass(mapping, DEST_DIR, log_lock, log_path)
     log_line(f"\n[Summary] {pass_name}: Moved {moved}/{total} textures.", log_lock, log_path)
-    print(f"[+] {pass_name} complete. Log: {log_path}")
+    print(f"[+] {pass_name} complete. Logged into combined log.")
 
 # ==========================================================
 # MAIN
@@ -742,5 +783,4 @@ if __name__ == "__main__":
     run_pass(PASS2_CSV, "TRI_Pass", conflict_check=True)
     run_manual_pass(MANUAL_CSV)
     check_external_wrong_dimensions(PS2_DIMENSIONS_CSV, ROOT_DIR, DEST_DIR, EXCLUDE_DIRS)
-    print("\n[+] All passes completed (MC, TRI, MANUAL, FINAL CHECK).")
-    input("\nPress Enter to close...")
+    print(f"\n[+] Combined verification log saved at: {COMBINED_LOG_PATH}")

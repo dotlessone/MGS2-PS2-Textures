@@ -1,4 +1,9 @@
 
+
+============================================
+[MC_Pass] Verification Log
+============================================
+
 [Duplicate Check] Scanning for duplicate filenames...
 [Duplicate Check] 16 conflicts found.
   C:\Development\Git\MGS2-PS2-Textures\b - sons of liberty\m9_alp_ovl.bmp.png <-> C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\m9_alp_ovl.bmp.png
@@ -3996,3 +4001,32 @@
 [Reverification] All verified OK.
 
 [Summary] MC_Pass: Moved 0/2866 textures.
+
+
+============================================
+[TRI_Pass] Verification Log
+============================================
+
+[Skipped Alpha=0 Entries]
+sha1=72a9c4c5455787870ac40dd30801f01d482208ad, texture=rai_eye_hlf_ovl.bmp
+sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w01f_sdwbox00c2_alp_ovl.bmp
+sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w11a2_hako_kage05_alp_ovl.bmp
+sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w11a2_wall_line_kage_alp_ovl.bmp
+sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w11a_kage_alp.bmp
+sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w11b_box_backclip_alp_ovl.bmp
+sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w22a_naka_kage_alp_ovl.bmp
+sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w24c0_kage_alp.bmp
+sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w24d1n_sdw00_alp_ovl.bmp
+sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w25a_sdw_alp_ovl.bmp
+sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w28a_oku_pipekage_bld035.bmp
+
+[Reverification] Ensuring all mapped outputs exist...
+[Reverification] All verified OK.
+
+[Summary] TRI_Pass: Moved 0/2866 textures.
+
+
+============================================
+[Manual_Pass] Verification Log
+============================================
+[!] No entries found in pcsx2_manual_sha1_matches.csv; skipping Manual_Pass.
