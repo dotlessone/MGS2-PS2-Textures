@@ -20,7 +20,7 @@
 
 [Hash Verification] Checking coverage...
 [Hash Verification] All verified hashes known.
-[Verification] Missing 3971 textures:
+[Verification] Missing 3970 textures:
   - 00002016
   - 00004ad1
   - 000062b9
@@ -2153,7 +2153,6 @@
   - usp_sp2_alp_ovl.bmp
   - usp_sp_alp_ovl.bmp
   - vamp_col1.bmp
-  - ved_douro_u1.bmp
   - vmp_aaa.bmp
   - vmp_eri_belt.bmp_6e4be7e6df81f272c20b7a5649956fd8
   - vmp_ton_b.bmp
@@ -3996,4 +3995,4 @@
 [Reverification] Ensuring all mapped outputs exist...
 [Reverification] All verified OK.
 
-[Summary] MC_Pass: Moved 0/2867 textures.
+[Summary] MC_Pass: Moved 0/2866 textures.

@@ -468,6 +468,9 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
             log.write(f"Alpha >128: {'Yes' if r['alpha'] else 'No'}\n")
 
             if not_identified:
+                full_path = os.path.abspath(r["path"])
+                everything_line = f"\"{full_path}\"|<\"mgs2/base textures/\" /<{'|'.join(not_identified)}>.png>\n"
+                log.write(everything_line)
                 log.write("Possible matching textures (not already found):\n")
                 for m in not_identified:
                     suffix = '\t!"/ALREADY FILE NAME/"' if m.lower() == r["tex_name"] else ""
@@ -612,6 +615,9 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
             already_identified = r["already_identified"]
 
             if not_identified:
+                full_path = os.path.abspath(r["path"])
+                everything_line = f"\"{full_path}\"|<\"mgs2/base textures/\" /<{'|'.join(not_identified)}>.png>\n"
+                log.write(everything_line)
                 log.write("Possible matching textures (not already found):\n")
                 for m in not_identified:
                     suffix = '\t!"/ALREADY FILE NAME/"' if m.lower() == r["tex_name"] else ""
