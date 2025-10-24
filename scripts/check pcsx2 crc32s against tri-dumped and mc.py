@@ -22,11 +22,7 @@ texture_crc_fields = [
     "tri_dumped_png_converted_sha1",
     "tri_dumped_alpha_stripped_sha1"
 ]
-
-# --- MC merge now only uses this field for matching ---
-mc_crc_fields = [
-    "mc_resaved_sha1"
-]
+mc_crc_fields = ["mc_resaved_sha1"]
 
 # ==========================================================
 # LOAD CSV HELPERS
@@ -40,14 +36,50 @@ def load_csv(path):
 # ==========================================================
 # MERGE FUNCTION
 # ==========================================================
-def merge_crc(pcsx2_rows, pcsx2_crc_fields, target_rows, target_crc_fields, target_fieldnames, out_path, label, exclude_fields=None):
+def merge_crc(pcsx2_rows, pcsx2_crc_fields, target_rows, target_crc_fields, target_fieldnames, out_path, label, exclude_fields=None, ps2_ref_rows=None):
+    # --- Build PS2 dimension map for both PS2 and MC validation ---
+    ps2_ref_map = {}
+    if ps2_ref_rows:
+        for r in ps2_ref_rows:
+            name = r.get("texture_name", "").strip().lower()
+            w = r.get("tri_dumped_width", "").strip()
+            h = r.get("tri_dumped_height", "").strip()
+            if name and w and h:
+                ps2_ref_map[name] = (w, h)
+
+    # --- Build CRC lookup for target rows ---
     crc_lookup = {}
     for row in target_rows:
+        texname = row.get("texture_name", "").strip().lower()
+
+        # --- MC-specific dimension filter ---
+        if label == "MC" and texname in ps2_ref_map:
+            mc_w = row.get("mc_width", "").strip()
+            mc_h = row.get("mc_height", "").strip()
+            ps2_w, ps2_h = ps2_ref_map[texname]
+            if mc_w != ps2_w or mc_h != ps2_h:
+                # Uncomment for debugging:
+                # print(f"[BLACKLIST MC] {texname} - MC {mc_w}x{mc_h} != PS2 {ps2_w}x{ps2_h}")
+                continue
+
+        # --- PS2-specific dimension filter ---
+        if label == "PS2" and texname in ps2_ref_map:
+            ps2_w, ps2_h = ps2_ref_map[texname]
+            pcsx2_entry = next((r for r in pcsx2_rows if r.get("texture_name", "").strip().lower() == texname), None)
+            if pcsx2_entry:
+                pcsx2_w = pcsx2_entry.get("pcsx2_width", "").strip()
+                pcsx2_h = pcsx2_entry.get("pcsx2_height", "").strip()
+                if pcsx2_w != ps2_w or pcsx2_h != ps2_h:
+                    # Uncomment for debugging:
+                    # print(f"[BLACKLIST PS2] {texname} - PCSX2 {pcsx2_w}x{pcsx2_h} != PS2 {ps2_w}x{ps2_h}")
+                    continue
+
         for field in target_crc_fields:
             crc = row.get(field, "").strip().lower()
             if crc and crc != "0000000000000000000000000000000000000000":
                 crc_lookup.setdefault(crc, []).append(row)
 
+    # --- Normal merging logic ---
     merged_rows = []
     seen_hashes = set()
 
@@ -76,31 +108,39 @@ def merge_crc(pcsx2_rows, pcsx2_crc_fields, target_rows, target_crc_fields, targ
     fieldnames = [f for f in target_fieldnames if not exclude_fields or f not in exclude_fields]
     fieldnames += [f for f in pcsx2_fieldnames if f not in fieldnames]
 
+    # --- Drop PCSX2 dimension fields from all outputs ---
+    fieldnames = [f for f in fieldnames if f not in ("pcsx2_width", "pcsx2_height")]
+
+
     # --- Write output ---
     with open(out_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         for row in merged_rows:
-            # Drop excluded columns from each row before writing
+            # Always remove unwanted PCSX2 dimensions from MC output
+            for drop_field in ["pcsx2_width", "pcsx2_height"]:
+                if drop_field in row:
+                    del row[drop_field]
+
+            # Remove any other excluded fields
             if exclude_fields:
                 for ef in exclude_fields:
-                    if ef in row:
-                        del row[ef]
+                    row.pop(ef, None)
+
             writer.writerow(row)
 
-    print(f"[+] {len(merged_rows)} unique {label} matches written to: {out_path}")
 
+    print(f"[+] {len(merged_rows)} unique {label} matches written to: {out_path}")
 
 # ==========================================================
 # MAIN EXECUTION
 # ==========================================================
 if __name__ == "__main__":
-    # --- Load CSVs ---
     tex_fieldnames, tex_rows = load_csv(texture_csv)
     pcsx2_fieldnames, pcsx2_rows = load_csv(pcsx2_csv)
     mc_fieldnames, mc_rows = load_csv(mc_csv)
 
-    # --- Merge PS2 Dimensions ---
+    # --- Merge PS2 Dimensions (skip if PCSX2 dims don't match PS2 TRI) ---
     merge_crc(
         pcsx2_rows=pcsx2_rows,
         pcsx2_crc_fields=pcsx2_crc_fields,
@@ -108,17 +148,19 @@ if __name__ == "__main__":
         target_crc_fields=texture_crc_fields,
         target_fieldnames=tex_fieldnames,
         out_path=output_csv,
-        label="PS2"
+        label="PS2",
+        ps2_ref_rows=tex_rows
     )
 
-    # --- Merge MC Dimensions (only mc_resaved_sha1, exclude mc_alpha_stripped_sha1) ---
+    # --- Merge MC Dimensions (skip if MC dims don't match PS2 TRI) ---
     merge_crc(
         pcsx2_rows=pcsx2_rows,
         pcsx2_crc_fields=pcsx2_crc_fields,
         target_rows=mc_rows,
-        target_crc_fields=["mc_resaved_sha1"],  # only use mc_resaved_sha1 for matching
+        target_crc_fields=["mc_resaved_sha1"],
         target_fieldnames=mc_fieldnames,
         out_path=mc_output_csv,
         label="MC",
-        exclude_fields=["mc_alpha_stripped_sha1"]  # completely remove from final output
+        exclude_fields=["mc_alpha_stripped_sha1"],
+        ps2_ref_rows=tex_rows
     )
