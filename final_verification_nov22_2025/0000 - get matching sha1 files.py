@@ -352,18 +352,25 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
     # Full-path folder blacklist (applies to all passes)
     # =====================================================
     FOLDER_BLACKLIST = [
-        r"C:\Development\Git\MGS2-PS2-Textures\_old_exports",
-        r"C:\Development\Git\MGS2-PS2-Textures\discarded",
-        r"C:\Development\Git\MGS2-PS2-Textures\temp",
-        r"C:\Development\Git\MGS2-PS2-Textures\backup",
+        r"C:\Development\Git\MGS2-PS2-Textures\x - document specific",
     ]
     FOLDER_BLACKLIST = [os.path.abspath(p).lower() for p in FOLDER_BLACKLIST]
+
+    # =====================================================
+    # Gather all known verified texture names
+    # =====================================================
+    VERIFIED_DIR = r"C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025"
+    VERIFIED_DIR = os.path.abspath(VERIFIED_DIR).lower()
+    verified_names = set()
+    for root, _, files in os.walk(VERIFIED_DIR):
+        for fn in files:
+            if fn.lower().endswith(".png"):
+                verified_names.add(os.path.splitext(fn)[0].lower())
 
     log_path = os.path.join(os.path.dirname(__file__), "dimension_mismatch_log.txt")
     log_lock = threading.Lock()
 
     def is_blacklisted_dir(abs_path):
-        """Return True if a folder is exactly blacklisted or inside one."""
         abs_path = os.path.abspath(abs_path).lower()
         for bl in FOLDER_BLACKLIST:
             if abs_path == bl or abs_path.startswith(bl + os.sep):
@@ -371,10 +378,9 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
         return False
 
     def ensure_tagged_filename(base_name_no_ext, want_wrong_name, want_bad_alpha):
-        """Return base name (no extension) with needed tags appended, avoiding duplicates."""
         out = base_name_no_ext
         if want_wrong_name and " - wrong name" not in out.lower():
-            out += " - WRONG NAME"  # write in caps like BAD ALPHA for consistency
+            out += " - WRONG NAME"
         if want_bad_alpha and " - bad alpha" not in out.lower():
             out += " - BAD ALPHA"
         return out
@@ -384,89 +390,100 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
         log.write(" MGS2 PS2 Texture Dimension Mismatch Report\n")
         log.write("============================================\n\n")
 
-        # Build reverse lookup: (w,h) -> list of textures
         resolution_map = {}
         for tex, (w, h) in dims.items():
             resolution_map.setdefault((w, h), []).append(tex)
 
-        # Track paths handled in earlier passes
         logged_paths = set()
+        mismatch_results = []
 
         # ------------------------------------------------
         # PASS 1: Dimension mismatch (+ BAD ALPHA tagging)
         # ------------------------------------------------
         for dirpath, _, files in os.walk(root_dir):
             abs_path_dir = os.path.abspath(dirpath)
-            lower_abs = abs_path_dir.lower()
-
             if (
-                os.path.abspath(dest_dir).lower() in lower_abs
-                or any(excl.lower() in lower_abs for excl in exclude_dirs)
+                os.path.abspath(dest_dir).lower() in abs_path_dir.lower()
+                or any(excl.lower() in abs_path_dir.lower() for excl in exclude_dirs)
                 or is_blacklisted_dir(abs_path_dir)
             ):
                 continue
-
             for fn in files:
                 if not fn.lower().endswith(".png"):
                     continue
 
-                tex = os.path.splitext(fn)[0].lower()
                 path = os.path.join(dirpath, fn)
+                tex = os.path.splitext(fn)[0].lower()
                 real_w, real_h = get_image_dimensions(path)
                 if not real_w or not real_h:
                     continue
-                checked += 1
 
+                checked += 1
                 if tex in dims:
                     expected_w, expected_h = dims[tex]
                     if real_w != expected_w or real_h != expected_h:
-                        # Check alpha so we can tag BAD ALPHA here too
                         alpha_values = get_unique_alpha_values(path)
-                        has_alpha_over_128 = any(
-                            isinstance(a, int) and a > 128 for a in alpha_values
-                        )
-
+                        has_alpha_over_128 = any(isinstance(a, int) and a > 128 for a in alpha_values)
                         sha1_val = calc_sha1(path)
                         matches = resolution_map.get((real_w, real_h), [])
 
-                        # Build new name with both tags as needed
                         base_no_ext = os.path.splitext(fn)[0]
-                        new_base = ensure_tagged_filename(
-                            base_no_ext, want_wrong_name=True, want_bad_alpha=has_alpha_over_128
-                        )
+                        new_base = ensure_tagged_filename(base_no_ext, True, has_alpha_over_128)
                         new_path = os.path.join(dirpath, f"{new_base}.png")
                         if os.path.abspath(new_path) != os.path.abspath(path):
                             os.rename(path, new_path)
-                            path = new_path  # update for logging
+                            path = new_path
+
                         renamed += 1
-                        abs_new = os.path.abspath(new_path)
-                        logged_paths.add(abs_new)
                         if has_alpha_over_128:
-                            alpha_flagged += 1  # count it as alpha-flagged too
+                            alpha_flagged += 1
+                        logged_paths.add(os.path.abspath(new_path))
 
-                        with log_lock:
-                            log.write(f"File: {os.path.basename(path)}\n")
-                            log.write(f"Path: {path}\n")
-                            log.write(f"SHA1: {sha1_val}\n")
-                            log.write(f"Expected: {expected_w}x{expected_h}\n")
-                            log.write(f"Actual:   {real_w}x{real_h}\n")
-                            log.write(f"Alpha >128: {'Yes' if has_alpha_over_128 else 'No'}\n")
-                            if matches:
-                                log.write("Possible matching textures:\n")
-                                for m in matches:
-                                    log.write(f"  - {m}\n")
-                            else:
-                                log.write("Possible matching textures: (none)\n")
-                            log.write("--------------------------------------------\n")
+                        mismatch_results.append({
+                            "path": path,
+                            "filename": os.path.basename(path),
+                            "sha1": sha1_val,
+                            "expected": f"{expected_w}x{expected_h}",
+                            "actual": f"{real_w}x{real_h}",
+                            "alpha": has_alpha_over_128,
+                            "matches": matches,
+                            "real_w": real_w,
+                            "real_h": real_h,
+                            "tex_name": tex
+                        })
 
-                        print(
-                            f"[WRONG] {fn} -> {os.path.basename(new_path)} "
-                            f"(expected {expected_w}x{expected_h}, got {real_w}x{real_h}"
-                            f"{', BAD ALPHA' if has_alpha_over_128 else ''})"
-                        )
+        # Sort mismatches by number of matches (ascending)
+        mismatch_results.sort(key=lambda r: len(r["matches"]))
+
+        # Write sorted mismatches to log with separated match sections
+        for r in mismatch_results:
+            already_identified = [m for m in r["matches"] if m.lower() in verified_names]
+            not_identified = [m for m in r["matches"] if m.lower() not in verified_names]
+
+            log.write(f"Filename: {r['filename']}\n")
+            log.write(f"Path: {r['path']}\n")
+            log.write(f"SHA1: {r['sha1']}\n")
+            log.write(f"Expected: {r['expected']}\n")
+            log.write(f"Actual:   {r['actual']}\n")
+            log.write(f"Alpha >128: {'Yes' if r['alpha'] else 'No'}\n")
+
+            if not_identified:
+                log.write("Possible matching textures (not already found):\n")
+                for m in not_identified:
+                    suffix = '\t!"/ALREADY FILE NAME/"' if m.lower() == r["tex_name"] else ""
+                    log.write(f"  - {m}{suffix}\n")
+
+            if already_identified:
+                inline = "|".join(already_identified)
+                log.write(f"Possible matching textures (already identified): {inline}\n")
+
+            log.write(f"Total Possible Matches: {len(r['matches'])}\n")
+            log.write("--------------------------------------------\n")
+
+        print(f"[PASS1] Logged {len(mismatch_results)} dimension mismatches (sorted by possible match count).")
 
         # ------------------------------------------------
-        # PASS 2: Alpha >128 for remaining (rename with - BAD ALPHA)
+        # PASS 2: Alpha >128 (remaining)
         # ------------------------------------------------
         log.write("\n\n============================================\n")
         log.write(" Alpha >128 Check (All Non-Renamed PNGs)\n")
@@ -487,21 +504,20 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                 path = os.path.join(dirpath, fn)
                 abs_path_norm = os.path.abspath(path)
                 if abs_path_norm in logged_paths:
-                    continue  # skip already handled by PASS 1
+                    continue
 
                 alpha_values = get_unique_alpha_values(path)
                 if alpha_values == [255]:
-                    continue  # no alpha channel
+                    continue
 
                 has_alpha_over_128 = any(a > 128 for a in alpha_values if isinstance(a, int))
                 if not has_alpha_over_128:
                     continue
 
                 alpha_flagged += 1
-                # Rename to add BAD ALPHA (if not present)
                 base_no_ext = os.path.splitext(fn)[0]
                 if " - bad alpha" not in base_no_ext.lower():
-                    new_base = ensure_tagged_filename(base_no_ext, want_wrong_name=False, want_bad_alpha=True)
+                    new_base = ensure_tagged_filename(base_no_ext, False, True)
                     new_path = os.path.join(dirpath, f"{new_base}.png")
                     os.rename(path, new_path)
                     path = new_path
@@ -509,19 +525,16 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                 logged_paths.add(os.path.abspath(path))
                 sha1_val = calc_sha1(path)
                 real_w, real_h = get_image_dimensions(path)
-
-                with log_lock:
-                    log.write(f"File: {os.path.basename(path)}\n")
-                    log.write(f"Path: {path}\n")
-                    log.write(f"SHA1: {sha1_val}\n")
-                    log.write(f"Resolution: {real_w}x{real_h}\n")
-                    log.write(f"Alpha >128: Yes\n")
-                    log.write("--------------------------------------------\n")
-
+                log.write(f"Filename: {os.path.basename(path)}\n")
+                log.write(f"Path: {path}\n")
+                log.write(f"SHA1: {sha1_val}\n")
+                log.write(f"Resolution: {real_w}x{real_h}\n")
+                log.write(f"Alpha >128: Yes\n")
+                log.write("--------------------------------------------\n")
                 print(f"[BAD ALPHA] {fn} -> {os.path.basename(path)}")
 
         # ------------------------------------------------
-        # PASS 3: Suggestions for remaining unlogged PNGs
+        # PASS 3: Suggestions for remaining unlogged PNGs (sorted by suggestion count)
         # ------------------------------------------------
         log.write("\n\n============================================\n")
         log.write(" Possible Texture Suggestions (Unlogged PNGs)\n")
@@ -544,40 +557,73 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
 
         print(f"[Pass3] Scanning {len(remaining_pngs)} remaining PNGs for dimension-based matches...")
 
+        results = []
+
         def process_remaining_png(path):
-            nonlocal suggestions_logged
             real_w, real_h = get_image_dimensions(path)
             if not real_w or not real_h:
-                return
+                return None
             matches = resolution_map.get((real_w, real_h), [])
             tex_name = os.path.splitext(os.path.basename(path))[0].lower()
             name_in_matches = tex_name in matches
             sha1_val = calc_sha1(path)
-            abs_path_str = os.path.abspath(path)
-
-            if not matches:
-                with log_lock:
-                    no_match_entries.append(f"  - {abs_path_str} ({real_w}x{real_h}, sha1: {sha1_val[:8]}...)")
-                return
-
-            rel_path = os.path.relpath(path, root_dir)
-            with log_lock:
-                log.write(f"File: {os.path.basename(path)}\n")
-                log.write(f"Path: {rel_path}\n")
-                log.write(f"Name Already In List of Possible Matches: {'Yes' if name_in_matches else 'No'}\n")
-                log.write(f"SHA1: {sha1_val}\n")
-                log.write(f"Resolution: {real_w}x{real_h}\n")
-                log.write("Possible matching textures:\n")
-                for m in matches:
-                    log.write(f"  - {m}\n")
-                log.write("--------------------------------------------\n")
-            suggestions_logged += 1
+            return {
+                "path": path,
+                "rel_path": os.path.relpath(path, root_dir),
+                "sha1": sha1_val,
+                "matches": matches,
+                "not_identified": [m for m in matches if m.lower() not in verified_names],
+                "already_identified": [m for m in matches if m.lower() in verified_names],
+                "tex_name": tex_name,
+                "name_in_matches": name_in_matches,
+                "real_w": real_w,
+                "real_h": real_h,
+            }
 
         with ThreadPoolExecutor(max_workers=max(4, os.cpu_count() or 4)) as executor:
-            futures = [executor.submit(process_remaining_png, p) for p in remaining_pngs]
-            for i, _ in enumerate(as_completed(futures), 1):
+            futures = {executor.submit(process_remaining_png, p): p for p in remaining_pngs}
+            for i, fut in enumerate(as_completed(futures), 1):
+                res = fut.result()
+                if res:
+                    results.append(res)
                 if i % 250 == 0 or i == len(futures):
                     print(f"[Pass3] Processed {i}/{len(futures)}")
+
+        results.sort(key=lambda r: len(r["matches"]))
+
+        for r in results:
+            matches = r["matches"]
+            if not matches:
+                no_match_entries.append(f"  - {r['path']} ({r['real_w']}x{r['real_h']}, sha1: {r['sha1'][:8]}...)")
+                continue
+
+            log.write(f"Filename: {os.path.basename(r['path'])}\n")
+            log.write(f"Path: {r['rel_path']}\n")
+
+            if r["name_in_matches"]:
+                log.write(f"SHA1: {os.path.basename(r['path'])},{r['sha1']}\n")
+            else:
+                log.write(f"SHA1: {r['sha1']}\n")
+
+            log.write(f"Name Already In List of Possible Matches: {'Yes' if r['name_in_matches'] else 'No'}\n")
+            log.write(f"Resolution: {r['real_w']}x{r['real_h']}\n")
+
+            not_identified = r["not_identified"]
+            already_identified = r["already_identified"]
+
+            if not_identified:
+                log.write("Possible matching textures (not already found):\n")
+                for m in not_identified:
+                    suffix = '\t!"/ALREADY FILE NAME/"' if m.lower() == r["tex_name"] else ""
+                    log.write(f"  - {m}{suffix}\n")
+            if already_identified:
+                inline = "|".join(already_identified)
+                log.write(f"Possible matching textures (already identified): {inline}\n")
+
+            log.write(f"Total Possible Matches: {len(matches)}\n")
+            log.write("--------------------------------------------\n")
+
+        suggestions_logged = len(results)
 
         # ------------------------------------------------
         # PASS 3B: Compact summary for all no-match files
@@ -593,17 +639,14 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
         # ------------------------------------------------
         # Summary
         # ------------------------------------------------
-        with log_lock:
-            log.write(f"\n[Summary]\nChecked: {checked}\nRenamed (wrong dims): {renamed}\nAlpha >128: {alpha_flagged}\nSuggestions logged: {suggestions_logged}\nNo-match files: {len(no_match_entries)}\n")
-            log.write(f"Log file saved at: {log_path}\n")
+        log.write(f"\n[Summary]\nChecked: {checked}\nRenamed (wrong dims): {renamed}\nAlpha >128: {alpha_flagged}\nSuggestions logged: {suggestions_logged}\nNo-match files: {len(no_match_entries)}\n")
+        log.write(f"Log file saved at: {log_path}\n")
 
     print(f"[Final Check] Checked {checked} PNGs, renamed {renamed} (wrong dims).")
     print(f"[Final Check] Alpha >128: {alpha_flagged}")
     print(f"[Final Check] Suggestions logged: {suggestions_logged}")
     print(f"[Final Check] No-match files: {len(no_match_entries)}")
     print(f"[Final Check] Log written to: {log_path}")
-
-
 
 # ==========================================================
 # PASS RUNNERS
