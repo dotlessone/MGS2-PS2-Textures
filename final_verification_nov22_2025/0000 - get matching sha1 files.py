@@ -775,6 +775,172 @@ def run_manual_pass(csv_path):
     print(f"[+] {pass_name} complete. Logged into combined log.")
 
 # ==========================================================
+# FINAL METADATA EXPORT (Optimized + Lazy TMP Creation)
+# ==========================================================
+def generate_confirmed_sha1_metadata():
+    print("\n[Metadata Export] Generating pcsx2_confirmed_sha1_metadata.csv...")
+
+    VERIFY_DIR = os.path.join(ROOT_DIR, "final_verification_nov22_2025")
+    TMP_DIR = os.path.join(VERIFY_DIR, "_tmp")
+    OUTPUT_CSV = os.path.join(ROOT_DIR, "u - dumped from substance", "pcsx2_confirmed_sha1_metadata.csv")
+
+    # --- Helper Functions ---
+    def calc_sha1(path):
+        h = hashlib.sha1()
+        with open(path, "rb") as f:
+            for chunk in iter(lambda: f.read(8192), b""):
+                h.update(chunk)
+        return h.hexdigest()
+
+    def get_alpha_levels(path):
+        try:
+            with Image.open(path) as img:
+                if img.mode not in ("RGBA", "LA"):
+                    return [255]
+                alpha = img.getchannel("A")
+                return sorted(set(alpha.getdata()))
+        except Exception as e:
+            return [f"ERROR: {e}"]
+
+    def resave_image(path):
+        try:
+            with Image.open(path) as img:
+                img.save(path, format="PNG", optimize=False)
+            return True, None
+        except Exception as e:
+            return False, str(e)
+
+    def ensure_tmp_exists():
+        """Create tmp directory only if needed."""
+        if not os.path.isdir(TMP_DIR):
+            os.makedirs(TMP_DIR, exist_ok=True)
+
+    # --- Load existing metadata CSV (if any) ---
+    existing_meta = {}
+    if os.path.exists(OUTPUT_CSV):
+        try:
+            with open(OUTPUT_CSV, "r", encoding="utf-8", newline="") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    tex = (row.get("texture_name") or "").strip().lower()
+                    dumped = (row.get("pcsx2_dumped_sha1") or "").strip().lower()
+                    resaved = (row.get("pcsx2_resaved_sha1") or "").strip().lower()
+                    if tex and dumped:
+                        existing_meta[tex] = (dumped, resaved)
+            print(f"[Metadata Export] Loaded {len(existing_meta)} existing entries for comparison.")
+        except Exception as e:
+            print(f"[!] Failed to read existing metadata CSV: {e}")
+
+    # --- Gather all PNGs ---
+    png_files = []
+    for dirpath, _, files in os.walk(VERIFY_DIR):
+        for fn in files:
+            if fn.lower().endswith(".png"):
+                png_files.append(os.path.join(dirpath, fn))
+
+    if not png_files:
+        print("[!] No PNG files found under final_verification_nov22_2025.")
+        return
+
+    print(f"[Metadata Export] Found {len(png_files)} PNG files to process.")
+    results = []
+    lock = threading.Lock()
+    errors = []
+    reused = 0
+    resaved_count = 0
+    tmp_used = False
+
+    def process_png(path):
+        nonlocal reused, resaved_count, tmp_used
+        try:
+            name = os.path.splitext(os.path.basename(path))[0].lower()
+            sha1_original = calc_sha1(path)
+
+            # Dimensions + alpha
+            with Image.open(path) as img:
+                width, height = img.size
+            alpha_levels = get_alpha_levels(path)
+
+            # If entry exists and hash matches, reuse resaved_sha1
+            existing_entry = existing_meta.get(name)
+            if existing_entry and existing_entry[0] == sha1_original:
+                sha1_resaved = existing_entry[1] or sha1_original
+                with lock:
+                    reused += 1
+                return (name, sha1_original, sha1_resaved, str(alpha_levels), width, height)
+
+            # Otherwise perform resave (lazy tmp creation)
+            ensure_tmp_exists()
+            tmp_used = True
+            tmp_path = os.path.join(TMP_DIR, os.path.basename(path))
+            shutil.copy2(path, tmp_path)
+            ok, err = resave_image(tmp_path)
+            if not ok:
+                errors.append(f"[RESAVE ERROR] {path}: {err}")
+                os.remove(tmp_path)
+                return None
+
+            sha1_resaved = calc_sha1(tmp_path)
+            os.remove(tmp_path)
+
+            with lock:
+                resaved_count += 1
+            return (name, sha1_original, sha1_resaved, str(alpha_levels), width, height)
+        except Exception as e:
+            errors.append(f"[PROCESS ERROR] {path}: {e}")
+            return None
+
+    with ThreadPoolExecutor(max_workers=max(4, os.cpu_count() or 4)) as executor:
+        futures = {executor.submit(process_png, p): p for p in png_files}
+        completed = 0
+        for fut in as_completed(futures):
+            result = fut.result()
+            if result:
+                with lock:
+                    results.append(result)
+            completed += 1
+            if completed % 250 == 0 or completed == len(png_files):
+                print(f"[Metadata Export] {completed}/{len(png_files)} processed...")
+
+    # Sort alphabetically
+    results.sort(key=lambda r: r[0].lower())
+
+    # Write new CSV
+    os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
+    with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as out:
+        writer = csv.writer(out)
+        writer.writerow([
+            "texture_name",
+            "pcsx2_dumped_sha1",
+            "pcsx2_resaved_sha1",
+            "pcsx2_alpha_levels",
+            "pcsx2_width",
+            "pcsx2_height"
+        ])
+        writer.writerows(results)
+
+    # Cleanup tmp if created
+    if tmp_used and os.path.isdir(TMP_DIR):
+        try:
+            for f in os.listdir(TMP_DIR):
+                os.remove(os.path.join(TMP_DIR, f))
+            os.rmdir(TMP_DIR)
+        except Exception:
+            pass
+
+    print(f"[Metadata Export] Wrote {len(results)} entries to {OUTPUT_CSV}")
+    print(f"[Metadata Export] Reused: {reused}, Resaved: {resaved_count}")
+    if errors:
+        log_file = os.path.join(os.path.dirname(__file__), "pcsx2_confirmed_sha1_metadata_errors.log")
+        with open(log_file, "w", encoding="utf-8") as f:
+            for e in errors:
+                f.write(e + "\n")
+        print(f"[!] {len(errors)} errors encountered. Details logged to {log_file}")
+    else:
+        print("[Metadata Export] Completed with no errors.")
+
+
+# ==========================================================
 # MAIN
 # ==========================================================
 if __name__ == "__main__":
@@ -783,4 +949,5 @@ if __name__ == "__main__":
     run_pass(PASS2_CSV, "TRI_Pass", conflict_check=True)
     run_manual_pass(MANUAL_CSV)
     check_external_wrong_dimensions(PS2_DIMENSIONS_CSV, ROOT_DIR, DEST_DIR, EXCLUDE_DIRS)
+    generate_confirmed_sha1_metadata()
     print(f"\n[+] Combined verification log saved at: {COMBINED_LOG_PATH}")
