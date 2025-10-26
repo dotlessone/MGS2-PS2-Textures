@@ -254,7 +254,7 @@ def process_file(path, mapping, log_lock, existing_sha1s, log_path, conflict_che
         return (path, "ERROR", str(e), False)
 
 # ==========================================================
-# VERIFICATION HELPERS (DEDUPLICATION ENABLED)
+# VERIFICATION HELPERS
 # ==========================================================
 def check_duplicate_names(root_dir, verify_dir, exclude_dirs, log_lock, log_path):
     content_lines = []
@@ -375,7 +375,7 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
     no_match_entries = []
 
     # =====================================================
-    # Full-path folder blacklist (applies to all passes)
+    # Full-path blacklist (applies to all passes)
     # =====================================================
     FOLDER_BLACKLIST = [
         r"C:\Development\Git\MGS2-PS2-Textures\x - document specific",
