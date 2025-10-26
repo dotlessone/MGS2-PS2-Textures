@@ -379,6 +379,8 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
     # =====================================================
     FOLDER_BLACKLIST = [
         r"C:\Development\Git\MGS2-PS2-Textures\x - document specific",
+        r"C:\Development\Git\MGS2-PS2-Textures\z - final rebuilt\BETA Textures - From Document",
+        r"C:\Development\Git\MGS2-PS2-Textures\b - sons of liberty",
     ]
     FOLDER_BLACKLIST = [os.path.abspath(p).lower() for p in FOLDER_BLACKLIST]
 
@@ -511,11 +513,40 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
 
         print(f"[PASS1] Logged {len(mismatch_results)} dimension mismatches (sorted by possible match count).")
 
-        # ------------------------------------------------
-        # PASS 2: Alpha >128 (remaining)
+        # --- Alpha channel analysis helper ---
+
+        def analyze_alpha(path):
+            """
+            Returns (has_alpha_channel: bool, max_alpha: int)
+            - has_alpha_channel is True if file actually has an alpha channel (including P+tRNS).
+            - max_alpha is the maximum alpha value (0..255) if alpha exists, otherwise 255 for no-alpha RGB.
+            """
+            with Image.open(path) as im:
+                im.load()
+                mode = im.mode
+
+                # Direct alpha-bearing modes
+                if mode in ("RGBA", "LA"):
+                    max_a = im.getchannel("A").getextrema()[1]
+                    return True, max_a
+
+                # Paletted image with transparency
+                if mode == "P":
+                    if "transparency" in im.info:
+                        rgba = im.convert("RGBA")
+                        max_a = rgba.getchannel("A").getextrema()[1]
+                        return True, max_a
+                    return False, 255  # no tRNS
+
+                # Any other mode (e.g., RGB, L) -> no alpha
+                return False, 255
+
+
+               # ------------------------------------------------
+        # PASS 2: Alpha >128 OR No-Alpha (remaining)
         # ------------------------------------------------
         log.write("\n\n============================================\n")
-        log.write(" Alpha >128 Check (All Non-Renamed PNGs)\n")
+        log.write(" Alpha >128 OR No-Alpha Check (All Non-Renamed PNGs)\n")
         log.write("============================================\n\n")
 
         for dirpath, _, files in os.walk(root_dir):
@@ -535,12 +566,17 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                 if abs_path_norm in logged_paths:
                     continue
 
-                alpha_values = get_unique_alpha_values(path)
-                if alpha_values == [255]:
+                try:
+                    has_alpha, max_alpha = analyze_alpha(path)
+                except Exception as e:
+                    log.write(f"[!] Failed to analyze alpha for: {path}\n")
+                    log.write(f"    Error: {e}\n")
+                    log.write("--------------------------------------------\n")
                     continue
 
-                has_alpha_over_128 = any(a > 128 for a in alpha_values if isinstance(a, int))
-                if not has_alpha_over_128:
+                # Flag if there is NO alpha channel OR if any alpha > 128
+                should_flag = (not has_alpha) or (max_alpha is not None and max_alpha > 128)
+                if not should_flag:
                     continue
 
                 alpha_flagged += 1
@@ -554,13 +590,21 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                 logged_paths.add(os.path.abspath(path))
                 sha1_val = calc_sha1(path)
                 real_w, real_h = get_image_dimensions(path)
+
                 log.write(f"Filename: {os.path.basename(path)}\n")
                 log.write(f"Path: {path}\n")
                 log.write(f"SHA1: {sha1_val}\n")
                 log.write(f"Resolution: {real_w}x{real_h}\n")
-                log.write(f"Alpha >128: Yes\n")
+                log.write(f"Has Alpha Channel: {'Yes' if has_alpha else 'No'}\n")
+                if has_alpha:
+                    log.write(f"Max Alpha: {max_alpha}\n")
+                    log.write(f"Alpha >128: {'Yes' if max_alpha > 128 else 'No'}\n")
+                else:
+                    log.write("Alpha >128: N/A (no alpha channel)\n")
                 log.write("--------------------------------------------\n")
-                print(f"[BAD ALPHA] {fn} -> {os.path.basename(path)}")
+
+                print(f"[BAD/NON-ALPHA] {fn} -> {os.path.basename(path)} (has_alpha={has_alpha}, max_a={max_alpha})")
+
 
         # ------------------------------------------------
         # PASS 3: Suggestions for remaining unlogged PNGs (sorted by suggestion count)
