@@ -1,4 +1,4 @@
-BP Comparison Log - 2025-10-21 10:47:44
+BP Comparison Log - 2025-10-29 02:09:27
 ================================================================================
 
 REMADE FILES
@@ -29,7 +29,7 @@ REMADE FILES
 [BP REMADE] 00072016.tga | original: 72x32 | ceil_p^2: 128x32 | hdc/mc: 144x64
 [BP REMADE] 00075bbe.tga | original: 190x12 | ceil_p^2: 256x16 | hdc/mc: 380x24
 [BP REMADE] 00078f79.tga | original: 242x158 | ceil_p^2: 256x256 | hdc/mc: 484x316
-[BP REMADE] 0007bc34.tga | original: 440x110 | ceil_p^2: 512x128 | hdc/mc: 906x326
+[BP REMADE] 0007bc34.tga | original: 440x110 | ceil_p^2: 512x128 | hdc/mc: 1359x489
 [BP REMADE] 00082016.tga | original: 72x32 | ceil_p^2: 128x32 | hdc/mc: 144x64
 [BP REMADE] 00085bbe.tga | original: 220x12 | ceil_p^2: 256x16 | hdc/mc: 440x24
 [BP REMADE] 00085d1e.tga | original: 56x12 | ceil_p^2: 64x16 | hdc/mc: 112x24
@@ -655,10 +655,11 @@ REMADE FILES
 [BP REMADE] 1f_live_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] 1f_live_left_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] 1f_live_right_alp_ovl.bmp.tga | original: 312x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
-[BP REMADE] 1wallU2.bmp.tga | original: 120x160 | ceil_p^2: 128x256 | hdc/mc: 256x512
-[BP REMADE] 1wallU3.bmp.tga | original: 120x160 | ceil_p^2: 128x256 | hdc/mc: 256x512
-[BP REMADE] 1wallU4.bmp.tga | original: 48x160 | ceil_p^2: 64x256 | hdc/mc: 128x512
-[BP REMADE] 1wallUp.bmp.tga | original: 152x160 | ceil_p^2: 256x256 | hdc/mc: 512x512
+[BP REMADE] 1wallu2.bmp.tga | original: 120x160 | ceil_p^2: 128x256 | hdc/mc: 256x512
+[BP REMADE] 1wallu3.bmp.tga | original: 120x160 | ceil_p^2: 128x256 | hdc/mc: 256x512
+[BP REMADE] 1wallu4.bmp.tga | original: 48x160 | ceil_p^2: 64x256 | hdc/mc: 128x512
+[BP REMADE] 1wallup.bmp.tga | original: 152x160 | ceil_p^2: 256x256 | hdc/mc: 512x512
+[BP REMADE] 24c_over_alp_ovl.bmp.tga | original: 240x180 | ceil_p^2: 256x256 | hdc/mc: 512x512
 [BP REMADE] 2_chuou_1f_kuki_alp_ovl.bmp.tga | original: 412x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] 2_chuou_b1_roka_01_alp_ovl.bmp.tga | original: 412x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] 2_chuou_b1_roka_02_alp_ovl.bmp.tga | original: 412x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
@@ -677,17 +678,17 @@ REMADE FILES
 [BP REMADE] ab_alp_ovl.bmp.tga | original: 84x18 | ceil_p^2: 128x32 | hdc/mc: 168x36
 [BP REMADE] ab_renraku_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] acd_alp_ovl.bmp.tga | original: 72x48 | ceil_p^2: 128x64 | hdc/mc: 144x96
-[BP REMADE] act_telop10_alp_ovl.bmp.tga | original: 248x42 | ceil_p^2: 256x64 | hdc/mc: 496x84
-[BP REMADE] act_telop11_alp_ovl.bmp.tga | original: 168x42 | ceil_p^2: 256x64 | hdc/mc: 336x84
+[BP REMADE] act_telop10_alp_ovl.bmp.tga | original: 248x42 | ceil_p^2: 256x64 | hdc/mc: 904x160
+[BP REMADE] act_telop11_alp_ovl.bmp.tga | original: 168x42 | ceil_p^2: 256x64 | hdc/mc: 904x160
 [BP REMADE] act_telop1_alp_ovl.bmp.tga | original: 222x42 | ceil_p^2: 256x64 | hdc/mc: 444x84
-[BP REMADE] act_telop2_alp_ovl.bmp.tga | original: 340x42 | ceil_p^2: 512x64 | hdc/mc: 680x84
-[BP REMADE] act_telop3_alp_ovl.bmp.tga | original: 250x42 | ceil_p^2: 256x64 | hdc/mc: 500x84
-[BP REMADE] act_telop4_alp_ovl.bmp.tga | original: 244x42 | ceil_p^2: 256x64 | hdc/mc: 488x84
-[BP REMADE] act_telop5_alp_ovl.bmp_e350349959b1556776f7b5d2e07689fc.tga | original: 378x42 | ceil_p^2: 512x64 | hdc/mc: 756x84
-[BP REMADE] act_telop6_alp_ovl.bmp.tga | original: 294x42 | ceil_p^2: 512x64 | hdc/mc: 588x84
+[BP REMADE] act_telop2_alp_ovl.bmp.tga | original: 340x42 | ceil_p^2: 512x64 | hdc/mc: 904x160
+[BP REMADE] act_telop3_alp_ovl.bmp.tga | original: 250x42 | ceil_p^2: 256x64 | hdc/mc: 904x160
+[BP REMADE] act_telop4_alp_ovl.bmp.tga | original: 244x42 | ceil_p^2: 256x64 | hdc/mc: 904x160
+[BP REMADE] act_telop5_alp_ovl.bmp_e350349959b1556776f7b5d2e07689fc.tga | original: 378x42 | ceil_p^2: 512x64 | hdc/mc: 904x160
+[BP REMADE] act_telop6_alp_ovl.bmp.tga | original: 294x42 | ceil_p^2: 512x64 | hdc/mc: 904x160
 [BP REMADE] act_telop7_alp_ovl.bmp.tga | original: 188x42 | ceil_p^2: 256x64 | hdc/mc: 376x84
-[BP REMADE] act_telop8_alp_ovl.bmp.tga | original: 452x58 | ceil_p^2: 512x64 | hdc/mc: 904x116
-[BP REMADE] act_telop9_alp_ovl.bmp.tga | original: 328x42 | ceil_p^2: 512x64 | hdc/mc: 656x84
+[BP REMADE] act_telop8_alp_ovl.bmp.tga | original: 452x58 | ceil_p^2: 512x64 | hdc/mc: 904x160
+[BP REMADE] act_telop9_alp_ovl.bmp.tga | original: 328x42 | ceil_p^2: 512x64 | hdc/mc: 904x160
 [BP REMADE] ag_ascending_alp_ovl.bmp.tga | original: 312x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] ag_ileum_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] ag_jejunum_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
@@ -868,14 +869,15 @@ REMADE FILES
 [BP REMADE] dbg_gbox_t.bmp.tga | original: 64x64 | ceil_p^2: 64x64 | hdc/mc: 256x256
 [BP REMADE] dbx_tnk3_msk.bmp.tga | original: 48x48 | ceil_p^2: 64x64 | hdc/mc: 128x128
 [BP REMADE] de_renraku_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
+[BP REMADE] dekisi_alp_ovl.bmp.tga | original: 240x180 | ceil_p^2: 256x256 | hdc/mc: 512x512
 [BP REMADE] demo_usp_supressor.bmp.tga | original: 128x48 | ceil_p^2: 128x64 | hdc/mc: 256x128
 [BP REMADE] densou_font_alp_ovl.bmp.tga | original: 256x36 | ceil_p^2: 256x64 | hdc/mc: 512x128
 [BP REMADE] dg_renraku_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] di_ki_bu.bmp.tga | original: 152x80 | ceil_p^2: 256x128 | hdc/mc: 512x256
 [BP REMADE] di_wall1_da.bmp.tga | original: 128x64 | ceil_p^2: 128x64 | hdc/mc: 256x128
 [BP REMADE] di_wall1_up.bmp.tga | original: 128x88 | ceil_p^2: 128x128 | hdc/mc: 256x256
-[BP REMADE] dinYukaFuta.bmp.tga | original: 288x26 | ceil_p^2: 512x32 | hdc/mc: 1024x64
-[BP REMADE] dinYukaFuta2.bmp.tga | original: 288x26 | ceil_p^2: 512x32 | hdc/mc: 1024x64
+[BP REMADE] dinyukafuta.bmp.tga | original: 288x26 | ceil_p^2: 512x32 | hdc/mc: 1024x64
+[BP REMADE] dinyukafuta2.bmp.tga | original: 288x26 | ceil_p^2: 512x32 | hdc/mc: 1024x64
 [BP REMADE] dmp_alp_ovl.bmp.tga | original: 84x48 | ceil_p^2: 128x64 | hdc/mc: 168x96
 [BP REMADE] dmp_sb2.bmp.tga | original: 64x80 | ceil_p^2: 64x128 | hdc/mc: 128x256
 [BP REMADE] dmp_sb2_box.bmp.tga | original: 72x56 | ceil_p^2: 128x64 | hdc/mc: 256x128
@@ -908,12 +910,13 @@ REMADE FILES
 [BP REMADE] elvt_floor4.bmp.tga | original: 112x40 | ceil_p^2: 128x64 | hdc/mc: 256x128
 [BP REMADE] elvt_floor5.bmp.tga | original: 32x40 | ceil_p^2: 32x64 | hdc/mc: 64x128
 [BP REMADE] elvt_nwall3.bmp.tga | original: 124x192 | ceil_p^2: 128x256 | hdc/mc: 256x512
+[BP REMADE] ema_died_alp_ovl.bmp.tga | original: 240x180 | ceil_p^2: 256x256 | hdc/mc: 512x512
 [BP REMADE] empty_alp_ovl.bmp.tga | original: 64x12 | ceil_p^2: 64x16 | hdc/mc: 128x32
 [BP REMADE] emt.bmp.tga | original: 120x36 | ceil_p^2: 128x64 | hdc/mc: 256x128
 [BP REMADE] eva_alp_ovl.bmp.tga | original: 120x14 | ceil_p^2: 128x16 | hdc/mc: 256x32
 [BP REMADE] exit_alp_add_ovl.bmp.tga | original: 48x16 | ceil_p^2: 64x16 | hdc/mc: 128x32
 [BP REMADE] exit_alp_ovl.bmp.tga | original: 296x12 | ceil_p^2: 512x16 | hdc/mc: 1024x32
-[BP REMADE] EXIT_alp_ovl.bmp_2e80fcdf52d4e88c977557d852b3bb00.tga | original: 60x18 | ceil_p^2: 64x32 | hdc/mc: 128x64
+[BP REMADE] exit_alp_ovl.bmp_2e80fcdf52d4e88c977557d852b3bb00.tga | original: 60x18 | ceil_p^2: 64x32 | hdc/mc: 128x64
 [BP REMADE] exit_alp_ovl.bmp_6caebe23bde6080a351ba6c3fd17f622.tga | original: 64x12 | ceil_p^2: 64x16 | hdc/mc: 128x32
 [BP REMADE] exit_alp_ovl.bmp_794456ba9bbbfd3e16cf3cf4157c6d56.tga | original: 76x24 | ceil_p^2: 128x32 | hdc/mc: 256x64
 [BP REMADE] exit_alp_ovl.bmp_7f9196f232454b86ef93cc3591f1f2ab.tga | original: 60x12 | ceil_p^2: 64x16 | hdc/mc: 128x32
@@ -923,6 +926,7 @@ REMADE FILES
 [BP REMADE] f_souko_b1_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] fa_renraku_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] fake_exit_alp_ovl.bmp.tga | original: 60x12 | ceil_p^2: 64x16 | hdc/mc: 128x32
+[BP REMADE] fall_alp_ovl.bmp.tga | original: 240x180 | ceil_p^2: 256x256 | hdc/mc: 512x512
 [BP REMADE] fat_allarm.bmp.tga | original: 84x112 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] fat_allarm_st2.bmp.tga | original: 84x112 | ceil_p^2: 128x128 | hdc/mc: 128x256
 [BP REMADE] fat_allleg.bmp.tga | original: 44x30 | ceil_p^2: 64x32 | hdc/mc: 128x64
@@ -1123,9 +1127,9 @@ REMADE FILES
 [BP REMADE] h6h_temptex1.bmp.tga | original: 64x64 | ceil_p^2: 64x64 | hdc/mc: 128x128
 [BP REMADE] h6h_wheel.bmp.tga | original: 32x32 | ceil_p^2: 32x32 | hdc/mc: 64x64
 [BP REMADE] h6h_wheel_shaft.bmp.tga | original: 16x48 | ceil_p^2: 16x64 | hdc/mc: 32x128
-[BP REMADE] hakoF1.bmp.tga | original: 48x48 | ceil_p^2: 64x64 | hdc/mc: 128x128
-[BP REMADE] hakoS1.bmp.tga | original: 64x42 | ceil_p^2: 64x64 | hdc/mc: 128x128
-[BP REMADE] hakoT1.bmp.tga | original: 64x42 | ceil_p^2: 64x64 | hdc/mc: 128x128
+[BP REMADE] hakof1.bmp.tga | original: 48x48 | ceil_p^2: 64x64 | hdc/mc: 128x128
+[BP REMADE] hakos1.bmp.tga | original: 64x42 | ceil_p^2: 64x64 | hdc/mc: 128x128
+[BP REMADE] hakot1.bmp.tga | original: 64x42 | ceil_p^2: 64x64 | hdc/mc: 128x128
 [BP REMADE] hfb2_alp_ovl.bmp.tga | original: 72x48 | ceil_p^2: 128x64 | hdc/mc: 144x96
 [BP REMADE] hfb_alp_ovl.bmp.tga | original: 72x48 | ceil_p^2: 128x64 | hdc/mc: 144x96
 [BP REMADE] hri2_body_back_cracked.bmp.tga | original: 64x116 | ceil_p^2: 64x128 | hdc/mc: 128x256
@@ -1214,26 +1218,26 @@ REMADE FILES
 [BP REMADE] kckis_door_walls1.bmp.tga | original: 20x96 | ceil_p^2: 32x128 | hdc/mc: 64x256
 [BP REMADE] kckis_pipe1.bmp.tga | original: 64x20 | ceil_p^2: 64x32 | hdc/mc: 128x64
 [BP REMADE] kckis_wall_s1.bmp.tga | original: 224x144 | ceil_p^2: 256x256 | hdc/mc: 512x512
-[BP REMADE] kictObunT.bmp.tga | original: 100x44 | ceil_p^2: 128x64 | hdc/mc: 256x128
-[BP REMADE] kictPa1.bmp.tga | original: 72x60 | ceil_p^2: 128x64 | hdc/mc: 256x128
+[BP REMADE] kictobunt.bmp.tga | original: 100x44 | ceil_p^2: 128x64 | hdc/mc: 256x128
+[BP REMADE] kictpa1.bmp.tga | original: 72x60 | ceil_p^2: 128x64 | hdc/mc: 256x128
 [BP REMADE] kikan_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] kikan_ent_left_alp_ovl.bmp.tga | original: 312x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] kikan_ent_right_alp_ovl.bmp.tga | original: 312x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] kikan_left_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] kikan_right_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
-[BP REMADE] kiTabUp1.bmp.tga | original: 120x74 | ceil_p^2: 128x128 | hdc/mc: 256x256
-[BP REMADE] kiTabUp2.bmp.tga | original: 120x54 | ceil_p^2: 128x64 | hdc/mc: 256x128
-[BP REMADE] kiTabUp2a.bmp_02cd1af7fc3c2bc6ac541d04e3c1fc94.tga | original: 100x98 | ceil_p^2: 128x128 | hdc/mc: 256x256
-[BP REMADE] kiTabUp2b.bmp.tga | original: 24x118 | ceil_p^2: 32x128 | hdc/mc: 64x256
-[BP REMADE] kitDaiF.bmp_f955769afe56243c99ca706b761e63b1.tga | original: 80x80 | ceil_p^2: 128x128 | hdc/mc: 256x256
-[BP REMADE] kitDaiF2a.bmp.tga | original: 80x80 | ceil_p^2: 128x128 | hdc/mc: 256x256
-[BP REMADE] KitFlymoto.bmp.tga | original: 16x132 | ceil_p^2: 16x256 | hdc/mc: 32x512
-[BP REMADE] KitFlymoto_s.bmp.tga | original: 16x132 | ceil_p^2: 16x256 | hdc/mc: 32x512
+[BP REMADE] kitabup1.bmp.tga | original: 120x74 | ceil_p^2: 128x128 | hdc/mc: 256x256
+[BP REMADE] kitabup2.bmp.tga | original: 120x54 | ceil_p^2: 128x64 | hdc/mc: 256x128
+[BP REMADE] kitabup2a.bmp_02cd1af7fc3c2bc6ac541d04e3c1fc94.tga | original: 100x98 | ceil_p^2: 128x128 | hdc/mc: 256x256
+[BP REMADE] kitabup2b.bmp.tga | original: 24x118 | ceil_p^2: 32x128 | hdc/mc: 64x256
+[BP REMADE] kitdaif.bmp_f955769afe56243c99ca706b761e63b1.tga | original: 80x80 | ceil_p^2: 128x128 | hdc/mc: 256x256
+[BP REMADE] kitdaif2a.bmp.tga | original: 80x80 | ceil_p^2: 128x128 | hdc/mc: 256x256
+[BP REMADE] kitflymoto.bmp.tga | original: 16x132 | ceil_p^2: 16x256 | hdc/mc: 32x512
+[BP REMADE] kitflymoto_s.bmp.tga | original: 16x132 | ceil_p^2: 16x256 | hdc/mc: 32x512
 [BP REMADE] kitgas_t.bmp.tga | original: 100x44 | ceil_p^2: 128x64 | hdc/mc: 256x128
-[BP REMADE] kitKabF.bmp.tga | original: 48x82 | ceil_p^2: 64x128 | hdc/mc: 128x256
-[BP REMADE] kitNab_c.bmp.tga | original: 56x56 | ceil_p^2: 64x64 | hdc/mc: 128x128
-[BP REMADE] kitNab_s.bmp.tga | original: 56x56 | ceil_p^2: 64x64 | hdc/mc: 128x128
-[BP REMADE] kitNabD.bmp.tga | original: 60x57 | ceil_p^2: 64x64 | hdc/mc: 128x128
+[BP REMADE] kitkabf.bmp.tga | original: 48x82 | ceil_p^2: 64x128 | hdc/mc: 128x256
+[BP REMADE] kitnab_c.bmp.tga | original: 56x56 | ceil_p^2: 64x64 | hdc/mc: 128x128
+[BP REMADE] kitnab_s.bmp.tga | original: 56x56 | ceil_p^2: 64x64 | hdc/mc: 128x128
+[BP REMADE] kitnabd.bmp.tga | original: 60x57 | ceil_p^2: 64x64 | hdc/mc: 128x128
 [BP REMADE] kl_renraku_alp_ovl.bmp.tga | original: 264x80 | ceil_p^2: 512x128 | hdc/mc: 588x132
 [BP REMADE] kmo_droppings01_alp.bmp.tga | original: 128x128 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] kmo_droppings02_alp.bmp.tga | original: 128x128 | ceil_p^2: 128x128 | hdc/mc: 256x256
@@ -1483,6 +1487,8 @@ REMADE FILES
 [BP REMADE] pit_steki00.bmp.tga | original: 32x32 | ceil_p^2: 32x32 | hdc/mc: 64x64
 [BP REMADE] pit_steki01.bmp.tga | original: 32x32 | ceil_p^2: 32x32 | hdc/mc: 64x64
 [BP REMADE] pl_box_d.bmp.tga | original: 48x96 | ceil_p^2: 64x128 | hdc/mc: 128x256
+[BP REMADE] plant_bomb2_alp_ovl.bmp.tga | original: 240x180 | ceil_p^2: 256x256 | hdc/mc: 512x512
+[BP REMADE] plant_bomb_alp_ovl.bmp.tga | original: 240x180 | ceil_p^2: 256x256 | hdc/mc: 512x512
 [BP REMADE] police_pos.bmp.tga | original: 144x192 | ceil_p^2: 256x256 | hdc/mc: 512x512
 [BP REMADE] pos_abe_01.bmp.tga | original: 184x256 | ceil_p^2: 256x256 | hdc/mc: 512x512
 [BP REMADE] pos_ishida_02.bmp.tga | original: 184x256 | ceil_p^2: 256x256 | hdc/mc: 512x512
@@ -1517,7 +1523,7 @@ REMADE FILES
 [BP REMADE] ptr_tooth_u3.bmp.tga | original: 64x12 | ceil_p^2: 64x16 | hdc/mc: 128x32
 [BP REMADE] ptr_tooth_u4.bmp.tga | original: 64x12 | ceil_p^2: 64x16 | hdc/mc: 128x32
 [BP REMADE] pump.bmp.tga | original: 48x48 | ceil_p^2: 64x64 | hdc/mc: 128x128
-[BP REMADE] pumpIn.bmp_d158ec1bae8868a7fb57a3d368a5647f.tga | original: 48x54 | ceil_p^2: 64x64 | hdc/mc: 128x128
+[BP REMADE] pumpin.bmp_d158ec1bae8868a7fb57a3d368a5647f.tga | original: 48x54 | ceil_p^2: 64x64 | hdc/mc: 128x128
 [BP REMADE] rad_musen1.bmp.tga | original: 20x40 | ceil_p^2: 32x64 | hdc/mc: 64x128
 [BP REMADE] rad_musen3.bmp.tga | original: 12x40 | ceil_p^2: 16x64 | hdc/mc: 32x128
 [BP REMADE] rad_musen4.bmp.tga | original: 20x40 | ceil_p^2: 32x64 | hdc/mc: 64x128
@@ -1742,8 +1748,8 @@ REMADE FILES
 [BP REMADE] so_wi_waku_f.bmp_2a4da7ecf84ff2feb3de4ff20c66c0c4.tga | original: 16x256 | ceil_p^2: 16x256 | hdc/mc: 64x1024
 [BP REMADE] sofa00.bmp.tga | original: 64x96 | ceil_p^2: 64x128 | hdc/mc: 128x256
 [BP REMADE] sofa01.bmp.tga | original: 64x64 | ceil_p^2: 64x64 | hdc/mc: 128x128
-[BP REMADE] soHakoPFr.bmp.tga | original: 72x42 | ceil_p^2: 128x64 | hdc/mc: 256x128
-[BP REMADE] soHakoPSideUp.bmp.tga | original: 24x80 | ceil_p^2: 32x128 | hdc/mc: 64x256
+[BP REMADE] sohakopfr.bmp.tga | original: 72x42 | ceil_p^2: 128x64 | hdc/mc: 256x128
+[BP REMADE] sohakopsideup.bmp.tga | original: 24x80 | ceil_p^2: 32x128 | hdc/mc: 64x256
 [BP REMADE] sol_hi_face02_ovl_sub_alp.bmp.tga | original: 200x338 | ceil_p^2: 256x512 | hdc/mc: 512x1024
 [BP REMADE] sol_hi_face02_tmp.bmp.tga | original: 200x338 | ceil_p^2: 256x512 | hdc/mc: 512x1024
 [BP REMADE] sol_hi_face_d1_ovl_sub_alp.bmp.tga | original: 488x240 | ceil_p^2: 512x256 | hdc/mc: 1024x512
@@ -1809,13 +1815,13 @@ REMADE FILES
 [BP REMADE] sol_usa.bmp.tga | original: 20x14 | ceil_p^2: 32x16 | hdc/mc: 64x32
 [BP REMADE] sopelem_body_01.bmp.tga | original: 16x32 | ceil_p^2: 16x32 | hdc/mc: 32x64
 [BP REMADE] sopelem_renz_01.bmp.tga | original: 20x20 | ceil_p^2: 32x32 | hdc/mc: 64x64
-[BP REMADE] soYuNaka.bmp.tga | original: 24x160 | ceil_p^2: 32x256 | hdc/mc: 64x512
-[BP REMADE] soYuNaTate.bmp.tga | original: 384x26 | ceil_p^2: 512x32 | hdc/mc: 1024x64
-[BP REMADE] soYuNaTateH.bmp.tga | original: 180x26 | ceil_p^2: 256x32 | hdc/mc: 512x64
-[BP REMADE] soYuTop2.bmp.tga | original: 160x160 | ceil_p^2: 256x256 | hdc/mc: 512x512
-[BP REMADE] soYuTop2H.bmp.tga | original: 160x160 | ceil_p^2: 256x256 | hdc/mc: 512x512
-[BP REMADE] soYuTop2HW.bmp.tga | original: 160x160 | ceil_p^2: 256x256 | hdc/mc: 512x512
-[BP REMADE] soYuTopH.bmp.tga | original: 180x160 | ceil_p^2: 256x256 | hdc/mc: 512x512
+[BP REMADE] soyunaka.bmp.tga | original: 24x160 | ceil_p^2: 32x256 | hdc/mc: 64x512
+[BP REMADE] soyunatate.bmp.tga | original: 384x26 | ceil_p^2: 512x32 | hdc/mc: 1024x64
+[BP REMADE] soyunatateh.bmp.tga | original: 180x26 | ceil_p^2: 256x32 | hdc/mc: 512x64
+[BP REMADE] soyutop2.bmp.tga | original: 160x160 | ceil_p^2: 256x256 | hdc/mc: 512x512
+[BP REMADE] soyutop2h.bmp.tga | original: 160x160 | ceil_p^2: 256x256 | hdc/mc: 512x512
+[BP REMADE] soyutop2hw.bmp.tga | original: 160x160 | ceil_p^2: 256x256 | hdc/mc: 512x512
+[BP REMADE] soyutoph.bmp.tga | original: 180x160 | ceil_p^2: 256x256 | hdc/mc: 512x512
 [BP REMADE] sp_alp_ovl.bmp.tga | original: 140x10 | ceil_p^2: 256x16 | hdc/mc: 280x20
 [BP REMADE] sr00e_alp_ovl.bmp.tga | original: 376x24 | ceil_p^2: 512x32 | hdc/mc: 752x48
 [BP REMADE] sr00j_alp_ovl.bmp.tga | original: 376x24 | ceil_p^2: 512x32 | hdc/mc: 752x48
@@ -2018,7 +2024,7 @@ REMADE FILES
 [BP REMADE] w00b_sonar2_msk.bmp.tga | original: 64x112 | ceil_p^2: 64x128 | hdc/mc: 128x256
 [BP REMADE] w00b_step2wing_t.bmp.tga | original: 64x48 | ceil_p^2: 64x64 | hdc/mc: 128x128
 [BP REMADE] w00b_step2wing_t2.bmp.tga | original: 96x64 | ceil_p^2: 128x64 | hdc/mc: 256x128
-[BP REMADE] w00b_tower_deck_s1PSD.bmp.tga | original: 96x20 | ceil_p^2: 128x32 | hdc/mc: 256x64
+[BP REMADE] w00b_tower_deck_s1psd.bmp.tga | original: 96x20 | ceil_p^2: 128x32 | hdc/mc: 256x64
 [BP REMADE] w00b_tower_deck_t1.bmp.tga | original: 112x192 | ceil_p^2: 128x256 | hdc/mc: 256x512
 [BP REMADE] w00b_tower_s1.bmp.tga | original: 80x96 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] w00b_tower_s2.bmp.tga | original: 64x96 | ceil_p^2: 64x128 | hdc/mc: 128x256
@@ -2113,7 +2119,7 @@ REMADE FILES
 [BP REMADE] w01a0_w10dd.bmp.tga | original: 64x132 | ceil_p^2: 64x256 | hdc/mc: 128x512
 [BP REMADE] w01a0_w10du.bmp.tga | original: 64x44 | ceil_p^2: 64x64 | hdc/mc: 128x128
 [BP REMADE] w01a0_w10e.bmp.tga | original: 32x176 | ceil_p^2: 32x256 | hdc/mc: 64x512
-[BP REMADE] w01a0_w10F.bmp.tga | original: 16x192 | ceil_p^2: 16x256 | hdc/mc: 32x512
+[BP REMADE] w01a0_w10f.bmp.tga | original: 16x192 | ceil_p^2: 16x256 | hdc/mc: 32x512
 [BP REMADE] w01a0_w11.bmp.tga | original: 96x44 | ceil_p^2: 128x64 | hdc/mc: 256x128
 [BP REMADE] w01a0_w14a.bmp.tga | original: 100x192 | ceil_p^2: 128x256 | hdc/mc: 256x512
 [BP REMADE] w01a0_w15.bmp.tga | original: 32x192 | ceil_p^2: 32x256 | hdc/mc: 64x512
@@ -2385,7 +2391,7 @@ REMADE FILES
 [BP REMADE] w03c_flb00b.bmp.tga | original: 84x82 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] w03c_flb00c.bmp.tga | original: 84x82 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] w03c_flb00d.bmp.tga | original: 84x62 | ceil_p^2: 128x64 | hdc/mc: 256x128
-[BP REMADE] w03c_flb00E.bmp.tga | original: 84x62 | ceil_p^2: 128x64 | hdc/mc: 256x128
+[BP REMADE] w03c_flb00e.bmp.tga | original: 84x62 | ceil_p^2: 128x64 | hdc/mc: 256x128
 [BP REMADE] w03c_flb02.bmp.tga | original: 144x124 | ceil_p^2: 256x128 | hdc/mc: 512x256
 [BP REMADE] w03c_flb03a.bmp.tga | original: 144x62 | ceil_p^2: 256x64 | hdc/mc: 512x128
 [BP REMADE] w03c_flb03b.bmp.tga | original: 144x62 | ceil_p^2: 256x64 | hdc/mc: 512x128
@@ -2620,7 +2626,7 @@ REMADE FILES
 [BP REMADE] w13a_pp04b.bmp.tga | original: 24x64 | ceil_p^2: 32x64 | hdc/mc: 64x128
 [BP REMADE] w13a_pp04d.bmp.tga | original: 24x88 | ceil_p^2: 32x128 | hdc/mc: 64x256
 [BP REMADE] w13a_sk00a.bmp.tga | original: 96x60 | ceil_p^2: 128x64 | hdc/mc: 256x128
-[BP REMADE] w13a_w01B.bmp.tga | original: 96x40 | ceil_p^2: 128x64 | hdc/mc: 256x128
+[BP REMADE] w13a_w01b.bmp.tga | original: 96x40 | ceil_p^2: 128x64 | hdc/mc: 256x128
 [BP REMADE] w13a_w01j.bmp.tga | original: 96x40 | ceil_p^2: 128x64 | hdc/mc: 256x128
 [BP REMADE] w14a0_fl_b01.bmp.tga | original: 72x120 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] w14a0_fl_b02.bmp.tga | original: 72x120 | ceil_p^2: 128x128 | hdc/mc: 256x256
@@ -2793,6 +2799,9 @@ REMADE FILES
 [BP REMADE] w24c0_wa01b.bmp.tga | original: 264x192 | ceil_p^2: 512x256 | hdc/mc: 1024x512
 [BP REMADE] w24c0_wa01e2_2.bmp.tga | original: 132x144 | ceil_p^2: 256x256 | hdc/mc: 512x512
 [BP REMADE] w24c0_wa01e3.bmp.tga | original: 132x284 | ceil_p^2: 256x512 | hdc/mc: 512x1024
+[BP REMADE] w24c_over_mrs_alp_ovl.bmp.tga | original: 240x180 | ceil_p^2: 256x256 | hdc/mc: 512x512
+[BP REMADE] w24c_over_oba_alp_ovl.bmp.tga | original: 240x180 | ceil_p^2: 256x256 | hdc/mc: 512x512
+[BP REMADE] w24c_overguy_alp_ovl.bmp.tga | original: 240x180 | ceil_p^2: 256x256 | hdc/mc: 512x512
 [BP REMADE] w24d0_w05.bmp.tga | original: 48x192 | ceil_p^2: 64x256 | hdc/mc: 128x512
 [BP REMADE] w25a_fl00a.bmp.tga | original: 96x96 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] w25a_fl00b.bmp.tga | original: 96x72 | ceil_p^2: 128x128 | hdc/mc: 256x256
@@ -2960,10 +2969,10 @@ REMADE FILES
 [BP REMADE] w61a_jeorge_dai.bmp.tga | original: 48x64 | ceil_p^2: 64x64 | hdc/mc: 128x128
 [BP REMADE] w61a_pillar1.bmp.tga | original: 100x256 | ceil_p^2: 128x256 | hdc/mc: 256x512
 [BP REMADE] w62a_bill_h1.bmp.tga | original: 96x256 | ceil_p^2: 128x256 | hdc/mc: 256x512
-[BP REMADE] WallLc1_sh2.bmp.tga | original: 72x172 | ceil_p^2: 128x256 | hdc/mc: 256x512
-[BP REMADE] WallLc1a.bmp.tga | original: 72x200 | ceil_p^2: 128x256 | hdc/mc: 256x512
-[BP REMADE] WallLc1a2a.bmp.tga | original: 64x172 | ceil_p^2: 64x256 | hdc/mc: 128x512
-[BP REMADE] WallLc1b.bmp.tga | original: 72x172 | ceil_p^2: 128x256 | hdc/mc: 256x512
+[BP REMADE] walllc1_sh2.bmp.tga | original: 72x172 | ceil_p^2: 128x256 | hdc/mc: 256x512
+[BP REMADE] walllc1a.bmp.tga | original: 72x200 | ceil_p^2: 128x256 | hdc/mc: 256x512
+[BP REMADE] walllc1a2a.bmp.tga | original: 64x172 | ceil_p^2: 64x256 | hdc/mc: 128x512
+[BP REMADE] walllc1b.bmp.tga | original: 72x172 | ceil_p^2: 128x256 | hdc/mc: 256x512
 [BP REMADE] wave06.bmp.tga | original: 128x128 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] wave06long1.bmp.tga | original: 128x128 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] wc1.bmp.tga | original: 32x84 | ceil_p^2: 32x128 | hdc/mc: 64x256
@@ -2973,7 +2982,7 @@ REMADE FILES
 [BP REMADE] wpb_alp_ovl.bmp.tga | original: 72x48 | ceil_p^2: 128x64 | hdc/mc: 144x96
 [BP REMADE] yu_ne.bmp.tga | original: 128x128 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] yu_ne2.bmp.tga | original: 128x128 | ceil_p^2: 128x128 | hdc/mc: 256x256
-[BP REMADE] YukaMoto_alp_ovl.bmp.tga | original: 128x128 | ceil_p^2: 128x128 | hdc/mc: 256x256
+[BP REMADE] yukamoto_alp_ovl.bmp.tga | original: 128x128 | ceil_p^2: 128x128 | hdc/mc: 256x256
 [BP REMADE] zoe_pos_n.bmp.tga | original: 144x192 | ceil_p^2: 256x256 | hdc/mc: 512x512
 
 MISMATCH FILES
@@ -3064,4 +3073,56 @@ MISSING_TGA FILES
 [MISSING_TGA] 00f736bc.tga | present in CSV but no matching file found
 [MISSING_TGA] 00f7373c.tga | present in CSV but no matching file found
 [MISSING_TGA] 00ffb109.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_arrow_l_00.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_arrow_l_01.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_arrow_l_02.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_arrow_r_00.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_arrow_r_01.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_arrow_r_02.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_ctrlset_btn_base_00.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_ctrlset_btn_base_01.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_ctrlset_btn_base_02.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_ctrlset_cursor00.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_00.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_01.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_02.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_03.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_00_en.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_00_fr.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_00_gr.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_00_it.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_00_jp.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_00_sp.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_01_en.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_01_fr.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_01_gr.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_01_it.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_01_jp.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_01_sp.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_03_en.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_03_fr.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_03_gr.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_03_it.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_03_jp.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_btn_base_switch_03_sp.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_cursor_00.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_cursor_01.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_line_00.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_line_01.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_page_00.tga | present in CSV but no matching file found
+[MISSING_TGA] mgs2_keyass_page_01.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_arrow_l.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_arrow_r.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_btn_00.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_btn_01.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_dialog_00.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_head_line.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_head_subitem.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_icon_mute.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_icon_volume.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_line_00.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_volume_00.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_volume_01.tga | present in CSV but no matching file found
+[MISSING_TGA] pausemenu_volume_cursor.tga | present in CSV but no matching file found
+[MISSING_TGA] volume_setting_01.tga | present in CSV but no matching file found
 
