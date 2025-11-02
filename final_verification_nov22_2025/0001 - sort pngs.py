@@ -1,1 +1,0 @@
-don't forget to lowercase the filenames.
