@@ -227,7 +227,13 @@ def main():
         written_logs.add(stage_filename)
         stage_log_path = os.path.join(per_stage_dir, stage_filename)
 
-        new_contents = "\n".join(sorted(set(missing), key=str.lower)) + "\n"
+        # Build header line: mgs2/base|ps2-text <tex1|tex2|tex3>.png
+        sorted_missing = sorted(set(missing), key=str.lower)
+        joined_names = "|".join(sorted_missing)
+        header_line = f"mgs2/base|mgs2-ps2-text /<{joined_names}>.png\n"
+
+        # Combine header + texture list
+        new_contents = header_line + "\n".join(sorted_missing) + "\n"
 
         old_contents = None
         if os.path.exists(stage_log_path):

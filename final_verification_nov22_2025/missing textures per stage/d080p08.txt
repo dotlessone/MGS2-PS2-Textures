@@ -1,3 +1,4 @@
+mgs2/base|mgs2-ps2-text /<00180189|007a0189|angle_alp_ovl.bmp|call_alp_ovl.bmp|d_sky_hasira_alp.bmp|federal_alp_ovl.bmp|kwtmst_hl_alp_ovl.bmp|mode_alp_ovl.bmp|nom_alp_ovl.bmp|pgn_wingd_ovl_alp.bmp|pgn_wingu_ovl_alp.bmp|raiden_gogle_sev_alp.bmp|rdr_yaji_alp_ovl.bmp|sky_1_alp.bmp|w60a_seacolor_b02_alp_ovl.bmp|w60a_sky_b01_alp_ovl.bmp|w60a_sky_b02_alp_ovl.bmp|w60a_sky_b03_alp_ovl.bmp|w60a_sky_b04_alp_ovl.bmp|w60a_sky_d01_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
 00180189
 007a0189
 angle_alp_ovl.bmp

@@ -2800,18 +2800,3 @@ sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w24c0_kage_alp.bmp
 sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w24d1n_sdw00_alp_ovl.bmp
 sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w25a_sdw_alp_ovl.bmp
 sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w28a_oku_pipekage_bld035.bmp
-
-[Reverification] Ensuring all mapped outputs exist...
-[Reverification] All verified OK.
-
-[Summary] TRI_Pass: Moved 0/1586 textures.
-
-
-============================================
-[Manual_Pass] Verification Log
-============================================
-
-[Reverification] Ensuring all mapped outputs exist...
-[Reverification] All verified OK.
-
-[Summary] Manual_Pass: Moved 0/1586 textures.

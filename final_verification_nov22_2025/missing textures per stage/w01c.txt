@@ -1,3 +1,4 @@
+mgs2/base|mgs2-ps2-text /<a_p_sensor_alp.bmp|angle_alp_ovl.bmp|call_alp_ovl.bmp|cigarette_tx_alp.bmp|clr_font_alp_ovl.bmp|debug_font_alp_ovl.bmp|dogtag_chain_black_msk.bmp|dogtag_tx_alp.bmp|fms_alp_ovl.bmp|font_alp_ovl.bmp|font_mini_alp_ovl.bmp|frost02_alp.bmp|gogle_rabel_alp_ovl.bmp|gradation_alp_ovl.bmp|ibox_tx_all_alp_ovl.bmp|launch_rabel_alp_ovl.bmp|mode_alp_ovl.bmp|nom_alp_ovl.bmp|powder_ex_logo_alp.bmp|rabel_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|rifle_ammo_rabel_alp_ovl.bmp|sky_1_alp.bmp|socom_alp_ovl.bmp|stg_rabel_alp_ovl.bmp|test_rabel_alp_ovl.bmp|wrain02_add_alp_ovl.bmp|wrain03_add_alp_ovl.bmp|wrain05_add_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
 a_p_sensor_alp.bmp
 angle_alp_ovl.bmp
 call_alp_ovl.bmp

@@ -1,3 +1,4 @@
+mgs2/base|mgs2-ps2-text /<angle_alp_ovl.bmp|call_alp_ovl.bmp|dogtag_chain_black_msk.bmp|frost02_alp.bmp|gradation_alp_ovl.bmp|mode_alp_ovl.bmp|nom_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|sky_1_alp.bmp|w00_fog_alp.bmp|waterflow03_alp.bmp|wrain02_add_alp_ovl.bmp|wrain03_add_alp_ovl.bmp|wrain05_add_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
 angle_alp_ovl.bmp
 call_alp_ovl.bmp
 dogtag_chain_black_msk.bmp

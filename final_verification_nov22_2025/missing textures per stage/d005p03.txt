@@ -1,3 +1,4 @@
+mgs2/base|mgs2-ps2-text /<kmo_droppings01_alp.bmp|kmo_droppings04_alp.bmp|nypo_ovl_mod1210_alp.bmp|sky_1_alp.bmp|w10a_sky_b02_alp_ovl.bmp|w10a_sky_b03_alp_ovl.bmp|w60a_seacolor_b02_alp_ovl.bmp|w60a_sky_b01_alp_ovl.bmp|w60a_sky_b02_alp_ovl.bmp|w60a_sky_b03_alp_ovl.bmp|w60a_sky_b04_alp_ovl.bmp|w60a_sky_d01_alp_ovl.bmp>.png
 kmo_droppings01_alp.bmp
 kmo_droppings04_alp.bmp
 nypo_ovl_mod1210_alp.bmp

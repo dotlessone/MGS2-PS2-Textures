@@ -1,3 +1,4 @@
+mgs2/base|mgs2-ps2-text /<2_chuou_b1_roka_02_alp_ovl.bmp|a_p_sensor_alp.bmp|angle_alp_ovl.bmp|call_alp_ovl.bmp|cigarette_tx_alp.bmp|dogtag_tx_alp.bmp|elvt_nwall3pb_alp.bmp|elvt_pane_down_alp.bmp|elvt_pane_lr_alp.bmp|elvt_pane_up_alp.bmp|fms_alp_ovl.bmp|gogle_rabel_alp_ovl.bmp|ibox_tx_all_alp_ovl.bmp|launch_rabel_alp_ovl.bmp|mode_alp_ovl.bmp|node_areaname_alp_ovl.bmp|nom_alp_ovl.bmp|rabel_alp_ovl.bmp|ray_add_alp.bmp|rdr_yaji_alp_ovl.bmp|rifle_ammo_rabel_alp_ovl.bmp|shadow_rev_alp.bmp|socom_alp_ovl.bmp|stg_rabel_alp_ovl.bmp|test_rabel_alp_ovl.bmp|w031b_light_add_alp.bmp|w31b_yogore_alp_01.bmp|w31c0_renz_alp.bmp|zoom_alp_ovl.bmp>.png
 2_chuou_b1_roka_02_alp_ovl.bmp
 a_p_sensor_alp.bmp
 angle_alp_ovl.bmp

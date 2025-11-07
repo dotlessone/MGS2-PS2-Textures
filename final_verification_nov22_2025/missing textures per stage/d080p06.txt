@@ -1,3 +1,4 @@
+mgs2/base|mgs2-ps2-text /<0055b270|006baeb5|009720e7|00b7b270|00f520eb|angle_alp_ovl.bmp|call_alp_ovl.bmp|for_blood_face_ovl_alp.bmp|for_kizu_body_ovl_alp.bmp|kwtmst_hl_alp_ovl.bmp|mode_alp_ovl.bmp|nom_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|sky_sun_n_alp.bmp|w51a_seacolor_04_alp_ovl.bmp|w51a_sky_botom_01_alp_ovl.bmp|w51a_sky_n1_alp_ovl.bmp|w51a_sky_n2_alp_ovl.bmp|w51a_sky_n4_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
 0055b270
 006baeb5
 009720e7

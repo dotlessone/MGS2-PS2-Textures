@@ -1,3 +1,4 @@
+mgs2/base|mgs2-ps2-text /<0038f2a7|0092ec26|00e8533f|cam_face_dt_skl_alp_ovl.bmp>.png
 0038f2a7
 0092ec26
 00e8533f

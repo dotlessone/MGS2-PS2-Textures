@@ -1,3 +1,4 @@
+mgs2/base|mgs2-ps2-text /<act_telop1_alp_ovl.bmp|act_telop7_alp_ovl.bmp|angle_alp_ovl.bmp|call_alp_ovl.bmp|dogtag_chain_black_msk.bmp|gradation_alp_ovl.bmp|mode_alp_ovl.bmp|nom_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
 act_telop1_alp_ovl.bmp
 act_telop7_alp_ovl.bmp
 angle_alp_ovl.bmp

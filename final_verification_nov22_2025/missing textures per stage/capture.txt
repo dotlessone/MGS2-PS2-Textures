@@ -1,2 +1,3 @@
+mgs2/base|mgs2-ps2-text /<0038f2a7|00bb5e27>.png
 0038f2a7
 00bb5e27
