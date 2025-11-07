@@ -1,0 +1,9 @@
+angle_alp_ovl.bmp
+call_alp_ovl.bmp
+fat_ooze_blood00_alp_ovl.bmp
+fat_strow_col_alp.bmp
+mode_alp_ovl.bmp
+nom_alp_ovl.bmp
+rdr_yaji_alp_ovl.bmp
+sky_1_alp.bmp
+zoom_alp_ovl.bmp

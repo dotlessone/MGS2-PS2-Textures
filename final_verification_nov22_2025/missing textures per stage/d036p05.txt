@@ -1,0 +1,11 @@
+angle_alp_ovl.bmp
+call_alp_ovl.bmp
+elvt_nwall3pb_alp.bmp
+elvt_pane_down_alp.bmp
+elvt_pane_lr_alp.bmp
+elvt_pane_up_alp.bmp
+mode_alp_ovl.bmp
+nom_alp_ovl.bmp
+rdr_yaji_alp_ovl.bmp
+sky_1_alp.bmp
+zoom_alp_ovl.bmp

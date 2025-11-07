@@ -1,0 +1,15 @@
+00180189
+007a0189
+nypo_ovl_mod1210_alp.bmp
+sky_1_alp.bmp
+w10a_sky_b02_alp_ovl.bmp
+w10a_sky_b03_alp_ovl.bmp
+w10c_oil_sea_128_alp_ovl.bmp
+w10c_oil_sea_32_alp_ovl.bmp
+w10c_oil_sea_64_alp_ovl.bmp
+w60a_seacolor_b02_alp_ovl.bmp
+w60a_sky_b01_alp_ovl.bmp
+w60a_sky_b02_alp_ovl.bmp
+w60a_sky_b03_alp_ovl.bmp
+w60a_sky_b04_alp_ovl.bmp
+w60a_sky_d01_alp_ovl.bmp

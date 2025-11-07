@@ -1062,4 +1062,27 @@ if __name__ == "__main__":
             print(f"[Post-Process] Sorted {len(lines)} entries in {EVERYTHING_LINES_PATH}")
         except Exception as e:
             print(f"[!] Failed to sort {EVERYTHING_LINES_PATH}: {e}")
-
+            
+    import subprocess
+    try:
+        generate_script = os.path.join(os.path.dirname(__file__), "0001 - generate list of remaining stages.py")
+        if os.path.exists(generate_script):
+            print(f"\n[Final Step] Launching: {os.path.basename(generate_script)}...")
+            result = subprocess.run(
+                ["python", generate_script],
+                check=False,
+                capture_output=True,
+                text=True
+            )
+            if result.returncode == 0:
+                print("[Final Step] Stage list generation completed successfully.")
+            else:
+                print(f"[Final Step] Stage list generation failed with exit code {result.returncode}.")
+                print("--- STDOUT ---")
+                print(result.stdout.strip())
+                print("--- STDERR ---")
+                print(result.stderr.strip())
+        else:
+            print(f"[Final Step] Skipped — {generate_script} not found.")
+    except Exception as e:
+        print(f"[!] Failed to run 0001 - generate list of remaining stages.py: {e}")

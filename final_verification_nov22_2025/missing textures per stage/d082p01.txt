@@ -1,0 +1,15 @@
+angle_alp_ovl.bmp
+call_alp_ovl.bmp
+ema_leg_sub_alp_ovl.bmp_59cf833a559696b26388f9f9abed5184
+frost02_alp.bmp
+kwtmst_hl_alp_ovl.bmp
+mode_alp_ovl.bmp
+nom_alp_ovl.bmp
+nypo_ovl_mod1210_alp.bmp
+raiden_gogle_sev_alp.bmp
+rdr_yaji_alp_ovl.bmp
+sky_1_alp.bmp
+wrain02_add_alp_ovl.bmp
+wrain03_add_alp_ovl.bmp
+wrain05_add_alp_ovl.bmp
+zoom_alp_ovl.bmp

@@ -1,0 +1,4 @@
+cd_err_alp_ovl.bmp
+debug_font_alp_ovl.bmp
+font_alp_ovl.bmp
+font_mini_alp_ovl.bmp

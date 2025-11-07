@@ -1,0 +1,15 @@
+angle_alp_ovl.bmp
+apple_alp.bmp
+call_alp_ovl.bmp
+dish_tx_alp.bmp
+frost02_alp.bmp
+mode_alp_ovl.bmp
+nom_alp_ovl.bmp
+pumppowder_msk.bmp
+rdr_yaji_alp_ovl.bmp
+sky_1_alp.bmp
+sna_glass_bld080_ovl_alp.bmp
+wrain02_add_alp_ovl.bmp
+wrain03_add_alp_ovl.bmp
+wrain05_add_alp_ovl.bmp
+zoom_alp_ovl.bmp

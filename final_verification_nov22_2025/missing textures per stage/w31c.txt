@@ -1,0 +1,16 @@
+2_chuou_b1_roka_02_alp_ovl.bmp
+angle_alp_ovl.bmp
+call_alp_ovl.bmp
+caust00_alp_add_ovl.bmp
+frost02_alp.bmp
+mode_alp_ovl.bmp
+nom_alp_ovl.bmp
+rdr_yaji_alp_ovl.bmp
+w31b_ref_water_alp_ovl_01.bmp_7b39660909c4df45b9f1df4aea837cc0
+w31c_poster_alp_ovl_01.bmp
+water_reflection_alp_01.bmp
+water_reflection_alp_02.bmp
+wrain02_add_alp_ovl.bmp
+wrain03_add_alp_ovl.bmp
+wrain05_add_alp_ovl.bmp
+zoom_alp_ovl.bmp
