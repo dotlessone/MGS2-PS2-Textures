@@ -20,12 +20,15 @@ PASS1_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_mc_sha1_matches.csv"
 PASS2_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_tri_sha1_matches.csv"
 MANUAL_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_manual_sha1_matches.csv"
 
-EXCLUDE_DIRS = ["Self Remade", "Renamed Copies - Better LODs"]
+EXCLUDE_DIRS = ["Self Remade", "Renamed Copies - Better LODs", "skateboarding", "realtime generated from w11_sbmr_ref_add_alp_ovl.bmp", "corrupt water"]
 
 # ==========================================================
 # COMBINED LOG CONFIGURATION
 # ==========================================================
 COMBINED_LOG_PATH = os.path.join(os.path.dirname(__file__), "Get Matching SHA1 Files.log")
+EVERYTHING_LINES_PATH = os.path.join(os.path.dirname(__file__), "Everything Lines.log")
+open(EVERYTHING_LINES_PATH, "w", encoding="utf-8").close()
+
 LOG_LOCK = threading.Lock()
 LOG_MEMORY = {}
 open(COMBINED_LOG_PATH, "w", encoding="utf-8").close()
@@ -498,6 +501,8 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
             if not_identified:
                 full_path = os.path.abspath(r["path"])
                 everything_line = f"\"{full_path}\"|<\"mgs2/base textures/\" /<{'|'.join(not_identified)}>.png>\n"
+                with open(EVERYTHING_LINES_PATH, "a", encoding="utf-8") as f:
+                    f.write(everything_line)
                 log.write(everything_line)
                 log.write("Possible matching textures (not already found):\n")
                 for m in not_identified:
@@ -687,6 +692,8 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
             if not_identified:
                 full_path = os.path.abspath(r["path"])
                 everything_line = f"\"{full_path}\"|<\"mgs2/base textures/\" /<{'|'.join(not_identified)}>.png>\n"
+                with open(EVERYTHING_LINES_PATH, "a", encoding="utf-8") as f:
+                    f.write(everything_line)
                 log.write(everything_line)
                 log.write("Possible matching textures (not already found):\n")
                 for m in not_identified:
@@ -983,6 +990,53 @@ def generate_confirmed_sha1_metadata():
     else:
         print("[Metadata Export] Completed with no errors.")
 
+# ==========================================================
+# POST-PROCESS: Extract all "!\"/ALREADY FILE NAME/\"" entries
+# ==========================================================
+def extract_already_named_entries():
+    log_src = os.path.join(os.path.dirname(__file__), "External PNG Status Checks.log")
+    output_csv = os.path.join(os.path.dirname(__file__), "already_named_files.csv")
+
+    # Clean up any existing log first
+    if os.path.exists(output_csv):
+        try:
+            os.remove(output_csv)
+            print(f"[Post-Process] Removed existing {output_csv}")
+        except Exception as e:
+            print(f"[!] Failed to remove existing {output_csv}: {e}")
+
+    if not os.path.exists(log_src):
+        print(f"[!] Skipping ALREADY FILE NAME extraction — {log_src} not found.")
+        return
+
+    entries = []
+    with open(log_src, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    current_filename = None
+    current_path = None
+    for line in lines:
+        line_stripped = line.strip()
+        if line_stripped.startswith("Filename: "):
+            current_filename = line_stripped.split("Filename: ", 1)[1].strip()
+        elif line_stripped.startswith("Path: "):
+            current_path = line_stripped.split("Path: ", 1)[1].strip()
+        elif '!"/ALREADY FILE NAME/"' in line_stripped and current_filename and current_path:
+            filename_no_ext = os.path.splitext(current_filename)[0]
+            entries.append((filename_no_ext, current_path))
+            current_filename = None
+            current_path = None
+
+    if not entries:
+        print("[Post-Process] No !\"/ALREADY FILE NAME/\" entries found.")
+        return
+
+    with open(output_csv, "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["filename", "full_path"])
+        writer.writerows(entries)
+
+    print(f"[Post-Process] Extracted {len(entries)} entries to {output_csv}")
 
 # ==========================================================
 # MAIN
@@ -994,4 +1048,18 @@ if __name__ == "__main__":
     run_manual_pass(MANUAL_CSV)
     check_external_wrong_dimensions(PS2_DIMENSIONS_CSV, ROOT_DIR, DEST_DIR, EXCLUDE_DIRS)
     generate_confirmed_sha1_metadata()
+    extract_already_named_entries()
     print(f"\n[+] Combined verification log saved at: {COMBINED_LOG_PATH}")
+
+
+    if os.path.exists(EVERYTHING_LINES_PATH):
+        try:
+            with open(EVERYTHING_LINES_PATH, "r", encoding="utf-8") as f:
+                lines = sorted(set(line.strip() for line in f if line.strip()))
+            with open(EVERYTHING_LINES_PATH, "w", encoding="utf-8") as f:
+                for line in lines:
+                    f.write(line + "\n")
+            print(f"[Post-Process] Sorted {len(lines)} entries in {EVERYTHING_LINES_PATH}")
+        except Exception as e:
+            print(f"[!] Failed to sort {EVERYTHING_LINES_PATH}: {e}")
+
