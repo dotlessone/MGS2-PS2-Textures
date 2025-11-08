@@ -10,582 +10,582 @@ Loaded 15142 valid PS2 texture names.
 
 Found 13224 PNG/TGA files total.
 
-=== MISSING TEXTURE COUNTS BY STAGE (DESCENDING) ===
-sp25a	213
-n_title	172
-vs10a	160
-sp22a	148
-wp65a	138
-st05a	136
-tvs08a	136
-vs08a	136
-wp62a	129
-wp01a	119
-wp02a	119
-sp01a	108
-tvs05a	106
-vs05a	106
-wp54a	106
-tvs06a	102
-vs06a	102
-wp05a	100
-wp55a	100
-node	98
-wp73a	97
-wp74a	97
-wp75a	97
-wp52a	94
-a46a	91
-twp34a	86
-twp43a	86
-wp34a	86
-wp43a	86
-wp44a	86
-twp03a	85
-wp03a	85
-wp35a	83
-wp53a	83
-vs09a	82
-wp45a	81
-sp03a	80
-sp07a	80
-tsp03a	80
-wp64a	80
-wp41a	77
-wp42a	77
-wp63a	77
-vs07a	76
-wp04a	76
-wp13a	76
-st03a	75
-tvs03a	75
-vs03a	75
-sp21a	74
-wp23a	74
-wp15a	73
-st04a	71
-vs04a	71
-wp24a	71
-wp25a	71
-wp51a	71
-st02a	70
-vs02a	70
-wp14a	70
-wp32a	70
-wp33a	70
-sp08a	69
-sp24a	69
-wp11a	69
-wp12a	69
-wp71a	69
-wp72a	69
-a21b	68
-wp61a	68
-a45a	67
-a24a	66
-ta24a	66
-a24b	65
-a43a	65
-sp02a	65
-st01a	65
-vs01a	65
-wp21a	65
-wp22a	65
-wp31a	65
-r_vr_1	64
-a15a	64
-a16a	64
-a20a	64
-a22a	64
-a28a	64
-ta20a	64
-ta22a	64
-a21a	63
-a25d	63
-a31a	63
-ta31a	63
-a12a	62
-a12b	62
-a13a	62
-a13b	62
-a14b	62
-a15b	62
-a17a	62
-a18a	62
-a24c	62
-a24f	62
-ta12a	62
-sp06a	61
-r_vr_t	60
-a20c	60
-a41a	60
-a42a	60
-ta42a	60
-a03a	58
-a14a	58
-a03b	57
-a24d	57
-a24g	57
-a25a	57
-r_vr_b	56
-r_vr_p	56
-a01c	56
-a01d	56
-ta01c	56
-ta01d	56
-r_vr_r	55
-r_vr_rp	55
-r_vr_s	55
-r_vr_sp	55
-a23a	54
-w46a	54
-a00b	53
-a01a	53
-a01b	53
-a01e	53
-a01f	53
-a13c	53
-a20e	53
-a22b	53
-a31c	53
-a61a	53
-ta01a	53
-ta01b	53
-ta01e	53
-ta01f	53
-a00c	52
-a23b	52
-r_vr_x	51
-a02b	51
-a19a	51
-a20b	51
-d080p07	51
-a00a	49
-a41b	49
-ta00a	49
-r_rai_b	47
-a02a	47
-ta02a	47
-mselect	44
-r_sna_b	43
-w21b	33
-r_plt0	32
-r_plt2	32
-r_plt3	32
-r_plt_s	32
-d080p01	31
-r_plt1	31
-r_tnk_r	31
-w24d	31
-w01d	30
-w25d	30
-w01c	30
-r_plt4	29
-r_plt5	29
-w45a	29
-w24a	29
-a31b	29
-w31b	29
-w21a	28
-w24b	28
-w23a	28
-w43a	27
-w20a	27
-w16b	27
-w13a	27
-w13b	27
-w15a	27
-w12a	27
-w12c	27
-w14a	27
-w22a	27
-w28a	27
-r_tnk0	26
-w44a	26
-w31d	26
-w00b	26
-w23b	26
-w24c	25
-w00a	25
-w18a	25
-w16a	25
-w17a	25
-w15b	25
-w20b	25
-w20d	25
-w12b	25
-w19a	25
-w31a	24
-w11c	24
-w41a	23
-w42a	23
-w20c	23
-d01t	22
-d04t	22
-w51a	21
-d080p08	21
-d05t	21
-w25b	21
-d080p06	20
-w03b	20
-w03a	20
-w25a	20
-d065p02	19
-r_plt11	19
-r_plt13	19
-d13t	18
-d005p01	18
-w32b	18
-r_plt7	18
-r_plt8	18
-r_plt9	18
-r_plt10	18
-r_plt12	18
-r_plt6	18
-d053p01	17
-w32a	17
-d063p01	17
-d00t	16
-w31c	16
-w31f	16
-d055p01	16
-w61a	16
-d001p01	15
-w01f	15
-w01b	15
-w01e	15
-w00c	15
-d014p01	15
-d070p09	15
-d082p01	15
-w01a	14
-d012p01	14
-w02a	14
-d036p03	14
-d12t3	14
-d14t	14
-w24e	13
-w11b	13
-d10t	13
-d005p03	12
-tales	12
-d010p01	12
-d12t4	12
-d045p01	12
-d11t	12
-d036p05	11
-w04b	11
-d070px9	11
-d078p01	11
-d12t	11
-w11a	10
-w04a	10
-d070p01	10
-sselect	9
-w25c	9
-d021p01	9
-w04c	8
-d046p01	8
-ending	5
-f01e	4
-f01f	4
-init	4
-f00a	3
-f01a	3
-f01b	3
-f01c	3
-f01d	3
-photo	3
-capture	2
-wmovie	1
+Detected 1357 correct mixed-alpha TGAs (will be skipped).
 
-TOTAL UNIQUE MISSING: 1887
+=== MISSING TEXTURE COUNTS BY STAGE (DESCENDING) ===
+sp25a	190	[VR: First-Person | Level 5]
+n_title	161	[Menu | Title Screen]
+vs10a	138	[VR: Sneaking | Level 10]
+sp22a	125	[VR: First-Person | Level 2]
+wp65a	120	[VR: Weapons - Nikita | Level 5]
+st05a	114	
+tvs08a	114	
+vs08a	114	[VR: Sneaking | Level 8]
+wp62a	112	[VR: Weapons - Nikita | Level 2]
+wp01a	101	[VR: Weapons - SOCOM | Level 1]
+wp02a	101	[VR: Weapons - SOCOM | Level 2]
+node	98	
+sp01a	91	[VR: Variety | Level 1]
+wp54a	89	[VR: Weapons - Stinger | Level 4]
+tvs05a	84	
+vs05a	84	[VR: Sneaking | Level 5]
+wp05a	83	[VR: Weapons - SOCOM | Level 5]
+wp55a	83	[VR: Weapons - Stinger | Level 5]
+wp73a	80	[VR: Weapons - No Weapon | Level 3]
+wp74a	80	[VR: Weapons - No Weapon | Level 4]
+tvs06a	79	
+vs06a	79	[VR: Sneaking | Level 6]
+wp52a	77	[VR: Weapons - Stinger | Level 2]
+a46a	73	[Alternate | GW - Rectum (Snake Tales)]
+twp43a	68	
+wp43a	68	[VR: Weapons - PSG1 | Level 3]
+wp44a	68	[VR: Weapons - PSG1 | Level 4]
+twp03a	67	
+wp03a	67	[VR: Weapons - SOCOM | Level 3]
+sp07a	66	[VR: Variety | Level 7]
+wp35a	66	[VR: Weapons - Grenade | Level 5]
+wp45a	63	[VR: Weapons - PSG1 | Level 5]
+wp64a	62	[VR: Weapons - Nikita | Level 4]
+vs09a	60	[VR: Sneaking | Level 9]
+wp41a	60	[VR: Weapons - PSG1 | Level 1]
+wp42a	60	[VR: Weapons - PSG1 | Level 2]
+wp53a	60	[VR: Weapons - Stinger | Level 3]
+wp63a	60	[VR: Weapons - Nikita | Level 3]
+wp13a	59	[VR: Weapons - M4 | Level 3]
+sp03a	58	[VR: Variety | Level 3]
+tsp03a	58	
+wp23a	57	[VR: Weapons - Claymore | Level 3]
+wp04a	56	[VR: Weapons - SOCOM | Level 4]
+sp21a	55	[VR: First-Person | Level 1]
+twp34a	55	
+wp34a	55	[VR: Weapons - Grenade | Level 4]
+vs07a	54	[VR: Sneaking | Level 7]
+wp51a	54	[VR: Weapons - Stinger | Level 1]
+st03a	53	[VR: Streaking | Level 3]
+tvs03a	53	
+vs03a	53	[VR: Sneaking | Level 3]
+wp14a	53	[VR: Weapons - M4 | Level 4]
+wp24a	53	[VR: Weapons - Claymore | Level 4]
+wp33a	53	[VR: Weapons - Grenade | Level 3]
+wp11a	52	[VR: Weapons - M4 | Level 1]
+wp12a	52	[VR: Weapons - M4 | Level 2]
+wp25a	52	[VR: Weapons - Claymore | Level 5]
+wp75a	52	[VR: Weapons - No Weapon | Level 5]
+wp61a	51	[VR: Weapons - Nikita | Level 1]
+a45a	50	[Alternate | GW - Sigmoid Colon (Snake Tales)]
+a21b	49	
+st04a	49	[VR: Streaking | Level 4]
+vs04a	49	[VR: Sneaking | Level 4]
+a43a	48	[Alternate | GW - Ascending Colon (Snake Tales)]
+sp02a	48	[VR: Variety | Level 2]
+st02a	48	[VR: Streaking | Level 2]
+vs02a	48	[VR: Sneaking | Level 2]
+wp15a	48	[VR: Weapons - M4 | Level 5]
+wp22a	48	[VR: Weapons - Claymore | Level 2]
+a24a	47	[Alternate | Shell 1 Core - 1F (Snake Tales)]
+sp08a	47	[VR: Variety | Level 8]
+sp24a	47	[VR: First-Person | Level 4]
+ta24a	47	
+wp21a	47	[VR: Weapons - Claymore | Level 1]
+wp32a	47	[VR: Weapons - Grenade | Level 2]
+wp71a	47	[VR: Weapons - No Weapon | Level 1]
+wp72a	47	[VR: Weapons - No Weapon | Level 2]
+a16a	46	[Alternate | Dining Hall (Snake Tales)]
+wp31a	46	[VR: Weapons - Grenade | Level 1]
+r_vr_b	45	
+r_vr_p	45	
+a01c	45	[Alternate | Deck C Crew Quarters (Alternate)]
+a15a	45	[Alternate | BC Connecting Bridge (Snake Tales)]
+a20a	45	[Alternate | Parcel Room (Snake Tales)]
+a21a	45	[Alternate | EF Connecting Bridge (Snake Tales)]
+a22a	45	[Alternate | Warehouse (Snake Tales)]
+a24b	45	[Alternate | Shell 1 Core - B1 (Snake Tales)]
+a25d	45	[Alternate | KL Connecting Bridge (Snake Tales)]
+a28a	45	[Alternate | Sewage Treatment (Snake Tales)]
+ta01c	45	
+ta20a	45	
+ta22a	45	
+r_vr_1	44	
+r_vr_r	44	
+r_vr_rp	44	
+r_vr_s	44	
+r_vr_sp	44	
+r_vr_t	44	
+a12a	44	[Alternate | Strut A Roof (Snake Tales)]
+a12b	44	[Alternate | Strut A Pump Room (Snake Tales)]
+a13a	44	[Alternate | AB Connecting Bridge (Snake Tales)]
+a13b	44	[Alternate | AB Connecting Bridge (Sensor B) (Snake Tales)]
+a14b	44	
+a15b	44	[Alternate | BC Connecting Bridge (After Stillman) (Snake Tales)]
+a17a	44	[Alternate | CD Connecting Bridge (Snake Tales)]
+a18a	44	[Alternate | Sediment Pool (Snake Tales)]
+ta12a	44	
+w46a	44	[Plant | GW - Rectum]
+a01d	43	[Alternate | Deck D Crew Quarters (Alternate)]
+a24d	43	[Alternate | Shell 1 Core - B2 (Snake Tales)]
+a24g	43	
+a31a	43	[Alternate | Shell 2 Core (Snake Tales)]
+a41a	43	[Alternate | GW - Stomach (Snake Tales)]
+a42a	43	[Alternate | GW - Jejunum (Snake Tales)]
+st01a	43	[VR: Streaking | Level 1]
+ta01d	43	
+ta31a	43	
+ta42a	43	
+vs01a	43	[VR: Sneaking | Level 1]
+a00b	42	[Alternate | Navigational Deck (Alternate)]
+a00c	42	[Alternate | Navigational Deck (Unused Alt)]
+a01b	42	[Alternate | Deck A Crew Quarters Starboard (Alternate)]
+a01e	42	[Alternate | Deck E Bridge (Alternate)]
+a01f	42	[Alternate | Deck A Crew Lounge (Alternate)]
+a23a	42	
+a24c	42	[Alternate | Shell 1 Core - Hostage Room (Snake Tales)]
+a24f	42	
+ta01b	42	
+ta01e	42	
+ta01f	42	
+a01a	41	[Alternate | Deck A Crew Quarters (Alternate)]
+a13c	41	
+a20c	41	[Alternate | Heliport (Bomb) (Snake Tales)]
+a20e	41	
+a22b	41	
+a23b	41	[Alternate | FA Connecting Bridge (Snake Tales)]
+a61a	41	[Alternate | Federal Hall (Snake Tales)]
+ta01a	41	
+r_vr_x	40	
+a02b	40	
+a14a	40	[Alternate | Transformer Room (Snake Tales)]
+a19a	40	[Alternate | DE Connecting Bridge (Snake Tales)]
+a20b	40	[Alternate | Heliport (Snake Tales)]
+a31c	40	[Alternate | Shell 2 Filtration Chamber No.2 (Snake Tales)]
+sp06a	40	[VR: Variety | Level 6]
+a03a	39	[Alternate | Deck 2 Port (Alternate)]
+a03b	39	[Alternate | Deck 2 Starboard (Alternate)]
+a25a	39	[Alternate | Shell Connecting Bridge (Snake Tales)]
+a41b	39	
+a00a	37	[Alternate | Deck A - Port (Alternate)]
+ta00a	37	
+a02a	36	[Alternate | Engine Room (Alternate)]
+ta02a	36	
+r_rai_b	35	
+mselect	32	[Menu | VR Missions Menu]
+r_sna_b	31	
+d080p01	25	[Plant | Cutscene d080p01]
+r_plt0	22	
+r_plt2	22	
+r_plt3	22	
+r_plt_s	22	
+r_plt1	21	
+r_tnk_r	21	
+w21b	21	[Plant | EF Connecting Bridge 2]
+w45a	20	[Plant | GW - Sigmoid Colon]
+w25d	20	[Plant | KL Connecting Bridge]
+w01c	20	[Tanker | Deck C Crew Quarters]
+r_plt4	19	
+r_plt5	19	
+d080p07	18	[Plant | Cutscene d080p07]
+w43a	18	[Plant | GW - Ascending Colon]
+w01d	18	[Tanker | Deck D Crew Quarters]
+w24a	18	[Plant | Shell 1 Core - 1F]
+w24d	18	[Plant | Shell 1 Core - B2]
+r_tnk0	17	
+w44a	17	[Plant | GW - Ileum]
+d01t	17	[Tanker | Navigational Deck (Russian Invasion)]
+d04t	17	[Tanker | Identifying Choppers]
+d05t	17	[Tanker | Olga Cutscene]
+w21a	17	[Plant | EF Connecting Bridge]
+w00b	17	[Tanker | Deck A - Starboard (Olga)]
+w16b	17	[Plant | Dining Hall (Post Stillman)]
+w23a	17	[Plant | FA Connecting Bridge]
+w14a	17	[Plant | Transformer Room]
+w24b	16	[Plant | Shell 1 Core - B1]
+w20a	16	[Plant | Parcel Room]
+w16a	16	[Plant | Dining Hall]
+w13a	16	[Plant | AB Connecting Bridge]
+w13b	16	[Plant | AB Connecting Bridge (Sensor B)]
+w15a	16	[Plant | BC Connecting Bridge]
+w23b	16	[Plant | FA Connecting Bridge (Post Shell 2)]
+w11c	16	[Plant | Strut A - Dock (Fortune)]
+w12a	16	[Plant | Strut A Roof]
+w12c	16	[Plant | Strut A Roof (Bomb)]
+w22a	16	[Plant | Warehouse]
+w28a	16	[Plant | Sewage Treatment]
+d065p02	16	[Plant | Cutscene d065p02]
+w32b	16	[Plant | Oil Fence (Vamp Fight)]
+d13t	15	[Tanker | Cutscene d13t (NG+ Rewards)]
+w18a	15	[Plant | Sediment Pool]
+w17a	15	[Plant | CD Connecting Bridge]
+w15b	15	[Plant | BC Connecting Bridge (After Stillman)]
+w20b	15	[Plant | Heliport]
+w20d	15	[Plant | Heliport (Post Ninja)]
+w12b	15	[Plant | Strut A Pump Room]
+w19a	15	[Plant | DE Connecting Bridge]
+w32a	15	[Plant | Oil Fence]
+d063p01	15	[Plant | Cutscene d063p01]
+w41a	14	[Plant | GW - Stomach]
+w42a	14	[Plant | GW - Jejunum]
+w00a	14	[Tanker | Deck A - Port]
+a31b	14	[Alternate | Shell 2 Filtration Chamber No.1 (Snake Tales)]
+w31b	14	[Plant | Shell 2 Filtration Chamber No.1]
+w31d	14	[Plant | Shell 2 Core (With Emma)]
+d053p01	14	[Plant | Cutscene d053p01]
+d00t	13	[Tanker | George Washington Bridge]
+w24c	13	[Plant | Shell 1 Core - Hostage Room]
+w01f	13	[Tanker | Deck A Crew Lounge]
+w31a	13	[Plant | Shell 2 Core]
+w01b	13	[Tanker | Deck A Crew Quarters Starboard]
+w01e	13	[Tanker | Deck E Bridge]
+w00c	13	[Tanker | Navigational Deck]
+d014p01	13	[Plant | Stillman Cutscene]
+d070p09	13	[Plant | Cutscene d070p09]
+d005p01	12	[Plant | Raiden On Elevator]
+w01a	12	[Tanker | Deck A Crew Quarters]
+w61a	12	[Plant | Federal Hall]
+w20c	12	[Plant | Heliport (Bomb)]
+w02a	12	[Tanker | Engine Room]
+tales	11	[Menu | Snake Tales Menu]
+w31c	11	[Plant | Shell 2 Filtration Chamber No.2]
+w31f	11	
+d055p01	11	[Plant | Cutscene d055p01]
+d010p01	11	[Plant | Meeting Vamp]
+d012p01	11	[Plant | ADUD]
+w25b	11	[Plant | Shell Connecting Bridge (Destroyed)]
+d036p03	11	[Plant | Hostage Cutscene]
+d12t3	11	[Tanker | Cutscene d12t3]
+d12t4	11	[Tanker | Cutscene d12t4]
+d082p01	11	[Plant | Cutscene d082p01]
+d045p01	11	[Plant | Cutscene d045p01]
+d10t	11	[Tanker | Cutscene d10t]
+d11t	11	[Tanker | Cutscene d11t]
+d14t	11	[Tanker | Cutscene d14t]
+w51a	10	[Plant | Arsenal Gear]
+d080p08	10	[Plant | Cutscene d080p08]
+w03b	10	[Tanker | Deck 2 Starboard]
+w11b	10	[Plant | Strut A - Dock (Bomb Disposal)]
+w03a	10	[Tanker | Deck 2 Port]
+w25a	10	[Plant | Shell Connecting Bridge]
+d070px9	10	[Plant | Cutscene d070px9]
+d078p01	10	[Plant | Cutscene d078p01]
+d12t	10	[Tanker | Cutscene d12t]
+w24e	9	
+d036p05	9	[Plant | Shell 1 Cutscene]
+w04b	9	[Tanker | Hold No.2]
+d070p01	9	[Plant | Cutscene d070p01]
+d080p06	8	[Plant | Cutscene d080p06]
+w11a	8	[Plant | Strut A - Dock]
+w04a	8	[Tanker | Hold No.1]
+sselect	7	
+w25c	7	[Plant | Strut L Perimeter]
+w04c	7	[Tanker | Hold No.3]
+d046p01	7	[Plant | Cutscene d046p01]
+d021p01	6	[Plant | Fatman and Ninja]
+d001p01	4	[Plant | Plant Opening]
+ending	4	[Plant | Results Screen]
+r_plt11	4	
+r_plt13	4	
+r_plt7	4	
+r_plt8	4	
+r_plt9	4	
+init	4	
+r_plt10	4	
+r_plt12	4	
+r_plt6	4	
+photo	3	
+d005p03	2	[Plant | Strut A Roof Cutscene]
+f00a	2	
+f01a	2	
+f01b	2	
+f01c	2	
+f01d	2	
+f01e	2	
+f01f	2	
+capture	2	
+
+TOTAL UNIQUE MISSING: 1595
 
 === MISSING TEXTURE COUNTS BY STAGE (ALPHABETICAL) ===
-a00a	49
-a00b	53
-a00c	52
-a01a	53
-a01b	53
-a01c	56
-a01d	56
-a01e	53
-a01f	53
-a02a	47
-a02b	51
-a03a	58
-a03b	57
-a12a	62
-a12b	62
-a13a	62
-a13b	62
-a13c	53
-a14a	58
-a14b	62
-a15a	64
-a15b	62
-a16a	64
-a17a	62
-a18a	62
-a19a	51
-a20a	64
-a20b	51
-a20c	60
-a20e	53
-a21a	63
-a21b	68
-a22a	64
-a22b	53
-a23a	54
-a23b	52
-a24a	66
-a24b	65
-a24c	62
-a24d	57
-a24f	62
-a24g	57
-a25a	57
-a25d	63
-a28a	64
-a31a	63
-a31b	29
-a31c	53
-a41a	60
-a41b	49
-a42a	60
-a43a	65
-a45a	67
-a46a	91
-a61a	53
-capture	2
-d001p01	15
-d005p01	18
-d005p03	12
-d00t	16
-d010p01	12
-d012p01	14
-d014p01	15
-d01t	22
-d021p01	9
-d036p03	14
-d036p05	11
-d045p01	12
-d046p01	8
-d04t	22
-d053p01	17
-d055p01	16
-d05t	21
-d063p01	17
-d065p02	19
-d070p01	10
-d070p09	15
-d070px9	11
-d078p01	11
-d080p01	31
-d080p06	20
-d080p07	51
-d080p08	21
-d082p01	15
-d10t	13
-d11t	12
-d12t	11
-d12t3	14
-d12t4	12
-d13t	18
-d14t	14
-ending	5
-f00a	3
-f01a	3
-f01b	3
-f01c	3
-f01d	3
-f01e	4
-f01f	4
-init	4
-mselect	44
-n_title	172
-node	98
-photo	3
-r_plt0	32
-r_plt1	31
-r_plt10	18
-r_plt11	19
-r_plt12	18
-r_plt13	19
-r_plt2	32
-r_plt3	32
-r_plt4	29
-r_plt5	29
-r_plt6	18
-r_plt7	18
-r_plt8	18
-r_plt9	18
-r_plt_s	32
-r_rai_b	47
-r_sna_b	43
-r_tnk0	26
-r_tnk_r	31
-r_vr_1	64
-r_vr_b	56
-r_vr_p	56
-r_vr_r	55
-r_vr_rp	55
-r_vr_s	55
-r_vr_sp	55
-r_vr_t	60
-r_vr_x	51
-sp01a	108
-sp02a	65
-sp03a	80
-sp06a	61
-sp07a	80
-sp08a	69
-sp21a	74
-sp22a	148
-sp24a	69
-sp25a	213
-sselect	9
-st01a	65
-st02a	70
-st03a	75
-st04a	71
-st05a	136
-ta00a	49
-ta01a	53
-ta01b	53
-ta01c	56
-ta01d	56
-ta01e	53
-ta01f	53
-ta02a	47
-ta12a	62
-ta20a	64
-ta22a	64
-ta24a	66
-ta31a	63
-ta42a	60
-tales	12
-tsp03a	80
-tvs03a	75
-tvs05a	106
-tvs06a	102
-tvs08a	136
-twp03a	85
-twp34a	86
-twp43a	86
-vs01a	65
-vs02a	70
-vs03a	75
-vs04a	71
-vs05a	106
-vs06a	102
-vs07a	76
-vs08a	136
-vs09a	82
-vs10a	160
-w00a	25
-w00b	26
-w00c	15
-w01a	14
-w01b	15
-w01c	30
-w01d	30
-w01e	15
-w01f	15
-w02a	14
-w03a	20
-w03b	20
-w04a	10
-w04b	11
-w04c	8
-w11a	10
-w11b	13
-w11c	24
-w12a	27
-w12b	25
-w12c	27
-w13a	27
-w13b	27
-w14a	27
-w15a	27
-w15b	25
-w16a	25
-w16b	27
-w17a	25
-w18a	25
-w19a	25
-w20a	27
-w20b	25
-w20c	23
-w20d	25
-w21a	28
-w21b	33
-w22a	27
-w23a	28
-w23b	26
-w24a	29
-w24b	28
-w24c	25
-w24d	31
-w24e	13
-w25a	20
-w25b	21
-w25c	9
-w25d	30
-w28a	27
-w31a	24
-w31b	29
-w31c	16
-w31d	26
-w31f	16
-w32a	17
-w32b	18
-w41a	23
-w42a	23
-w43a	27
-w44a	26
-w45a	29
-w46a	54
-w51a	21
-w61a	16
-wmovie	1
-wp01a	119
-wp02a	119
-wp03a	85
-wp04a	76
-wp05a	100
-wp11a	69
-wp12a	69
-wp13a	76
-wp14a	70
-wp15a	73
-wp21a	65
-wp22a	65
-wp23a	74
-wp24a	71
-wp25a	71
-wp31a	65
-wp32a	70
-wp33a	70
-wp34a	86
-wp35a	83
-wp41a	77
-wp42a	77
-wp43a	86
-wp44a	86
-wp45a	81
-wp51a	71
-wp52a	94
-wp53a	83
-wp54a	106
-wp55a	100
-wp61a	68
-wp62a	129
-wp63a	77
-wp64a	80
-wp65a	138
-wp71a	69
-wp72a	69
-wp73a	97
-wp74a	97
-wp75a	97
+a00a	37	[Alternate | Deck A - Port (Alternate)]
+a00b	42	[Alternate | Navigational Deck (Alternate)]
+a00c	42	[Alternate | Navigational Deck (Unused Alt)]
+a01a	41	[Alternate | Deck A Crew Quarters (Alternate)]
+a01b	42	[Alternate | Deck A Crew Quarters Starboard (Alternate)]
+a01c	45	[Alternate | Deck C Crew Quarters (Alternate)]
+a01d	43	[Alternate | Deck D Crew Quarters (Alternate)]
+a01e	42	[Alternate | Deck E Bridge (Alternate)]
+a01f	42	[Alternate | Deck A Crew Lounge (Alternate)]
+a02a	36	[Alternate | Engine Room (Alternate)]
+a02b	40	
+a03a	39	[Alternate | Deck 2 Port (Alternate)]
+a03b	39	[Alternate | Deck 2 Starboard (Alternate)]
+a12a	44	[Alternate | Strut A Roof (Snake Tales)]
+a12b	44	[Alternate | Strut A Pump Room (Snake Tales)]
+a13a	44	[Alternate | AB Connecting Bridge (Snake Tales)]
+a13b	44	[Alternate | AB Connecting Bridge (Sensor B) (Snake Tales)]
+a13c	41	
+a14a	40	[Alternate | Transformer Room (Snake Tales)]
+a14b	44	
+a15a	45	[Alternate | BC Connecting Bridge (Snake Tales)]
+a15b	44	[Alternate | BC Connecting Bridge (After Stillman) (Snake Tales)]
+a16a	46	[Alternate | Dining Hall (Snake Tales)]
+a17a	44	[Alternate | CD Connecting Bridge (Snake Tales)]
+a18a	44	[Alternate | Sediment Pool (Snake Tales)]
+a19a	40	[Alternate | DE Connecting Bridge (Snake Tales)]
+a20a	45	[Alternate | Parcel Room (Snake Tales)]
+a20b	40	[Alternate | Heliport (Snake Tales)]
+a20c	41	[Alternate | Heliport (Bomb) (Snake Tales)]
+a20e	41	
+a21a	45	[Alternate | EF Connecting Bridge (Snake Tales)]
+a21b	49	
+a22a	45	[Alternate | Warehouse (Snake Tales)]
+a22b	41	
+a23a	42	
+a23b	41	[Alternate | FA Connecting Bridge (Snake Tales)]
+a24a	47	[Alternate | Shell 1 Core - 1F (Snake Tales)]
+a24b	45	[Alternate | Shell 1 Core - B1 (Snake Tales)]
+a24c	42	[Alternate | Shell 1 Core - Hostage Room (Snake Tales)]
+a24d	43	[Alternate | Shell 1 Core - B2 (Snake Tales)]
+a24f	42	
+a24g	43	
+a25a	39	[Alternate | Shell Connecting Bridge (Snake Tales)]
+a25d	45	[Alternate | KL Connecting Bridge (Snake Tales)]
+a28a	45	[Alternate | Sewage Treatment (Snake Tales)]
+a31a	43	[Alternate | Shell 2 Core (Snake Tales)]
+a31b	14	[Alternate | Shell 2 Filtration Chamber No.1 (Snake Tales)]
+a31c	40	[Alternate | Shell 2 Filtration Chamber No.2 (Snake Tales)]
+a41a	43	[Alternate | GW - Stomach (Snake Tales)]
+a41b	39	
+a42a	43	[Alternate | GW - Jejunum (Snake Tales)]
+a43a	48	[Alternate | GW - Ascending Colon (Snake Tales)]
+a45a	50	[Alternate | GW - Sigmoid Colon (Snake Tales)]
+a46a	73	[Alternate | GW - Rectum (Snake Tales)]
+a61a	41	[Alternate | Federal Hall (Snake Tales)]
+capture	2	
+d001p01	4	[Plant | Plant Opening]
+d005p01	12	[Plant | Raiden On Elevator]
+d005p03	2	[Plant | Strut A Roof Cutscene]
+d00t	13	[Tanker | George Washington Bridge]
+d010p01	11	[Plant | Meeting Vamp]
+d012p01	11	[Plant | ADUD]
+d014p01	13	[Plant | Stillman Cutscene]
+d01t	17	[Tanker | Navigational Deck (Russian Invasion)]
+d021p01	6	[Plant | Fatman and Ninja]
+d036p03	11	[Plant | Hostage Cutscene]
+d036p05	9	[Plant | Shell 1 Cutscene]
+d045p01	11	[Plant | Cutscene d045p01]
+d046p01	7	[Plant | Cutscene d046p01]
+d04t	17	[Tanker | Identifying Choppers]
+d053p01	14	[Plant | Cutscene d053p01]
+d055p01	11	[Plant | Cutscene d055p01]
+d05t	17	[Tanker | Olga Cutscene]
+d063p01	15	[Plant | Cutscene d063p01]
+d065p02	16	[Plant | Cutscene d065p02]
+d070p01	9	[Plant | Cutscene d070p01]
+d070p09	13	[Plant | Cutscene d070p09]
+d070px9	10	[Plant | Cutscene d070px9]
+d078p01	10	[Plant | Cutscene d078p01]
+d080p01	25	[Plant | Cutscene d080p01]
+d080p06	8	[Plant | Cutscene d080p06]
+d080p07	18	[Plant | Cutscene d080p07]
+d080p08	10	[Plant | Cutscene d080p08]
+d082p01	11	[Plant | Cutscene d082p01]
+d10t	11	[Tanker | Cutscene d10t]
+d11t	11	[Tanker | Cutscene d11t]
+d12t	10	[Tanker | Cutscene d12t]
+d12t3	11	[Tanker | Cutscene d12t3]
+d12t4	11	[Tanker | Cutscene d12t4]
+d13t	15	[Tanker | Cutscene d13t (NG+ Rewards)]
+d14t	11	[Tanker | Cutscene d14t]
+ending	4	[Plant | Results Screen]
+f00a	2	
+f01a	2	
+f01b	2	
+f01c	2	
+f01d	2	
+f01e	2	
+f01f	2	
+init	4	
+mselect	32	[Menu | VR Missions Menu]
+n_title	161	[Menu | Title Screen]
+node	98	
+photo	3	
+r_plt0	22	
+r_plt1	21	
+r_plt10	4	
+r_plt11	4	
+r_plt12	4	
+r_plt13	4	
+r_plt2	22	
+r_plt3	22	
+r_plt4	19	
+r_plt5	19	
+r_plt6	4	
+r_plt7	4	
+r_plt8	4	
+r_plt9	4	
+r_plt_s	22	
+r_rai_b	35	
+r_sna_b	31	
+r_tnk0	17	
+r_tnk_r	21	
+r_vr_1	44	
+r_vr_b	45	
+r_vr_p	45	
+r_vr_r	44	
+r_vr_rp	44	
+r_vr_s	44	
+r_vr_sp	44	
+r_vr_t	44	
+r_vr_x	40	
+sp01a	91	[VR: Variety | Level 1]
+sp02a	48	[VR: Variety | Level 2]
+sp03a	58	[VR: Variety | Level 3]
+sp06a	40	[VR: Variety | Level 6]
+sp07a	66	[VR: Variety | Level 7]
+sp08a	47	[VR: Variety | Level 8]
+sp21a	55	[VR: First-Person | Level 1]
+sp22a	125	[VR: First-Person | Level 2]
+sp24a	47	[VR: First-Person | Level 4]
+sp25a	190	[VR: First-Person | Level 5]
+sselect	7	
+st01a	43	[VR: Streaking | Level 1]
+st02a	48	[VR: Streaking | Level 2]
+st03a	53	[VR: Streaking | Level 3]
+st04a	49	[VR: Streaking | Level 4]
+st05a	114	
+ta00a	37	
+ta01a	41	
+ta01b	42	
+ta01c	45	
+ta01d	43	
+ta01e	42	
+ta01f	42	
+ta02a	36	
+ta12a	44	
+ta20a	45	
+ta22a	45	
+ta24a	47	
+ta31a	43	
+ta42a	43	
+tales	11	[Menu | Snake Tales Menu]
+tsp03a	58	
+tvs03a	53	
+tvs05a	84	
+tvs06a	79	
+tvs08a	114	
+twp03a	67	
+twp34a	55	
+twp43a	68	
+vs01a	43	[VR: Sneaking | Level 1]
+vs02a	48	[VR: Sneaking | Level 2]
+vs03a	53	[VR: Sneaking | Level 3]
+vs04a	49	[VR: Sneaking | Level 4]
+vs05a	84	[VR: Sneaking | Level 5]
+vs06a	79	[VR: Sneaking | Level 6]
+vs07a	54	[VR: Sneaking | Level 7]
+vs08a	114	[VR: Sneaking | Level 8]
+vs09a	60	[VR: Sneaking | Level 9]
+vs10a	138	[VR: Sneaking | Level 10]
+w00a	14	[Tanker | Deck A - Port]
+w00b	17	[Tanker | Deck A - Starboard (Olga)]
+w00c	13	[Tanker | Navigational Deck]
+w01a	12	[Tanker | Deck A Crew Quarters]
+w01b	13	[Tanker | Deck A Crew Quarters Starboard]
+w01c	20	[Tanker | Deck C Crew Quarters]
+w01d	18	[Tanker | Deck D Crew Quarters]
+w01e	13	[Tanker | Deck E Bridge]
+w01f	13	[Tanker | Deck A Crew Lounge]
+w02a	12	[Tanker | Engine Room]
+w03a	10	[Tanker | Deck 2 Port]
+w03b	10	[Tanker | Deck 2 Starboard]
+w04a	8	[Tanker | Hold No.1]
+w04b	9	[Tanker | Hold No.2]
+w04c	7	[Tanker | Hold No.3]
+w11a	8	[Plant | Strut A - Dock]
+w11b	10	[Plant | Strut A - Dock (Bomb Disposal)]
+w11c	16	[Plant | Strut A - Dock (Fortune)]
+w12a	16	[Plant | Strut A Roof]
+w12b	15	[Plant | Strut A Pump Room]
+w12c	16	[Plant | Strut A Roof (Bomb)]
+w13a	16	[Plant | AB Connecting Bridge]
+w13b	16	[Plant | AB Connecting Bridge (Sensor B)]
+w14a	17	[Plant | Transformer Room]
+w15a	16	[Plant | BC Connecting Bridge]
+w15b	15	[Plant | BC Connecting Bridge (After Stillman)]
+w16a	16	[Plant | Dining Hall]
+w16b	17	[Plant | Dining Hall (Post Stillman)]
+w17a	15	[Plant | CD Connecting Bridge]
+w18a	15	[Plant | Sediment Pool]
+w19a	15	[Plant | DE Connecting Bridge]
+w20a	16	[Plant | Parcel Room]
+w20b	15	[Plant | Heliport]
+w20c	12	[Plant | Heliport (Bomb)]
+w20d	15	[Plant | Heliport (Post Ninja)]
+w21a	17	[Plant | EF Connecting Bridge]
+w21b	21	[Plant | EF Connecting Bridge 2]
+w22a	16	[Plant | Warehouse]
+w23a	17	[Plant | FA Connecting Bridge]
+w23b	16	[Plant | FA Connecting Bridge (Post Shell 2)]
+w24a	18	[Plant | Shell 1 Core - 1F]
+w24b	16	[Plant | Shell 1 Core - B1]
+w24c	13	[Plant | Shell 1 Core - Hostage Room]
+w24d	18	[Plant | Shell 1 Core - B2]
+w24e	9	
+w25a	10	[Plant | Shell Connecting Bridge]
+w25b	11	[Plant | Shell Connecting Bridge (Destroyed)]
+w25c	7	[Plant | Strut L Perimeter]
+w25d	20	[Plant | KL Connecting Bridge]
+w28a	16	[Plant | Sewage Treatment]
+w31a	13	[Plant | Shell 2 Core]
+w31b	14	[Plant | Shell 2 Filtration Chamber No.1]
+w31c	11	[Plant | Shell 2 Filtration Chamber No.2]
+w31d	14	[Plant | Shell 2 Core (With Emma)]
+w31f	11	
+w32a	15	[Plant | Oil Fence]
+w32b	16	[Plant | Oil Fence (Vamp Fight)]
+w41a	14	[Plant | GW - Stomach]
+w42a	14	[Plant | GW - Jejunum]
+w43a	18	[Plant | GW - Ascending Colon]
+w44a	17	[Plant | GW - Ileum]
+w45a	20	[Plant | GW - Sigmoid Colon]
+w46a	44	[Plant | GW - Rectum]
+w51a	10	[Plant | Arsenal Gear]
+w61a	12	[Plant | Federal Hall]
+wp01a	101	[VR: Weapons - SOCOM | Level 1]
+wp02a	101	[VR: Weapons - SOCOM | Level 2]
+wp03a	67	[VR: Weapons - SOCOM | Level 3]
+wp04a	56	[VR: Weapons - SOCOM | Level 4]
+wp05a	83	[VR: Weapons - SOCOM | Level 5]
+wp11a	52	[VR: Weapons - M4 | Level 1]
+wp12a	52	[VR: Weapons - M4 | Level 2]
+wp13a	59	[VR: Weapons - M4 | Level 3]
+wp14a	53	[VR: Weapons - M4 | Level 4]
+wp15a	48	[VR: Weapons - M4 | Level 5]
+wp21a	47	[VR: Weapons - Claymore | Level 1]
+wp22a	48	[VR: Weapons - Claymore | Level 2]
+wp23a	57	[VR: Weapons - Claymore | Level 3]
+wp24a	53	[VR: Weapons - Claymore | Level 4]
+wp25a	52	[VR: Weapons - Claymore | Level 5]
+wp31a	46	[VR: Weapons - Grenade | Level 1]
+wp32a	47	[VR: Weapons - Grenade | Level 2]
+wp33a	53	[VR: Weapons - Grenade | Level 3]
+wp34a	55	[VR: Weapons - Grenade | Level 4]
+wp35a	66	[VR: Weapons - Grenade | Level 5]
+wp41a	60	[VR: Weapons - PSG1 | Level 1]
+wp42a	60	[VR: Weapons - PSG1 | Level 2]
+wp43a	68	[VR: Weapons - PSG1 | Level 3]
+wp44a	68	[VR: Weapons - PSG1 | Level 4]
+wp45a	63	[VR: Weapons - PSG1 | Level 5]
+wp51a	54	[VR: Weapons - Stinger | Level 1]
+wp52a	77	[VR: Weapons - Stinger | Level 2]
+wp53a	60	[VR: Weapons - Stinger | Level 3]
+wp54a	89	[VR: Weapons - Stinger | Level 4]
+wp55a	83	[VR: Weapons - Stinger | Level 5]
+wp61a	51	[VR: Weapons - Nikita | Level 1]
+wp62a	112	[VR: Weapons - Nikita | Level 2]
+wp63a	60	[VR: Weapons - Nikita | Level 3]
+wp64a	62	[VR: Weapons - Nikita | Level 4]
+wp65a	120	[VR: Weapons - Nikita | Level 5]
+wp71a	47	[VR: Weapons - No Weapon | Level 1]
+wp72a	47	[VR: Weapons - No Weapon | Level 2]
+wp73a	80	[VR: Weapons - No Weapon | Level 3]
+wp74a	80	[VR: Weapons - No Weapon | Level 4]
+wp75a	52	[VR: Weapons - No Weapon | Level 5]

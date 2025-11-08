@@ -1,2 +1,0 @@
-mgs2/base|mgs2-ps2-text /<title_logo_mono_alp_ovl.bmp>.png
-title_logo_mono_alp_ovl.bmp

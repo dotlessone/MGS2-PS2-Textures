@@ -1,9 +1,0 @@
-assets/tri/us/jpnw_news.tri
-assets/tri/us/moses1_stage_tales.tri
-assets/tri/us/save_load.tri
-assets/tri/us/snake_tales_bg.tri
-assets/tri/us/tales_title.tri
-assets/row/us/sub_sticon.row
-assets/o2d/us/vr_book.o2d
-assets/o2d/us/save_load_stage_d080p01.o2d
-assets/gcx/eu/scenerio_stage_tales.gcx

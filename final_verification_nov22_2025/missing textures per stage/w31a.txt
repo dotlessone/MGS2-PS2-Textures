@@ -1,25 +1,14 @@
-mgs2/base|mgs2-ps2-text /<a_p_sensor_alp.bmp|angle_alp_ovl.bmp|call_alp_ovl.bmp|cigarette_tx_alp.bmp|dogtag_tx_alp.bmp|elvt_nwall3pb_alp.bmp|elvt_pane_down_alp.bmp|elvt_pane_lr_alp.bmp|elvt_pane_up_alp.bmp|fms_alp_ovl.bmp|frost02_alp.bmp|gogle_rabel_alp_ovl.bmp|ibox_tx_all_alp_ovl.bmp|launch_rabel_alp_ovl.bmp|mode_alp_ovl.bmp|nom_alp_ovl.bmp|rabel_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|rifle_ammo_rabel_alp_ovl.bmp|socom_alp_ovl.bmp|stg_rabel_alp_ovl.bmp|test_fence_mini_alp.bmp|test_rabel_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
-a_p_sensor_alp.bmp
+mgs2/base|mgs2-ps2-text /<angle_alp_ovl.bmp|call_alp_ovl.bmp|cigarette_tx_alp.bmp|dogtag_tx_alp.bmp|elvt_pane_down_alp.bmp|elvt_pane_lr_alp.bmp|elvt_pane_up_alp.bmp|frost02_alp.bmp|nom_alp_ovl.bmp|rabel_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|stg_rabel_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
 angle_alp_ovl.bmp
 call_alp_ovl.bmp
 cigarette_tx_alp.bmp
 dogtag_tx_alp.bmp
-elvt_nwall3pb_alp.bmp
 elvt_pane_down_alp.bmp
 elvt_pane_lr_alp.bmp
 elvt_pane_up_alp.bmp
-fms_alp_ovl.bmp
 frost02_alp.bmp
-gogle_rabel_alp_ovl.bmp
-ibox_tx_all_alp_ovl.bmp
-launch_rabel_alp_ovl.bmp
-mode_alp_ovl.bmp
 nom_alp_ovl.bmp
 rabel_alp_ovl.bmp
 rdr_yaji_alp_ovl.bmp
-rifle_ammo_rabel_alp_ovl.bmp
-socom_alp_ovl.bmp
 stg_rabel_alp_ovl.bmp
-test_fence_mini_alp.bmp
-test_rabel_alp_ovl.bmp
 zoom_alp_ovl.bmp

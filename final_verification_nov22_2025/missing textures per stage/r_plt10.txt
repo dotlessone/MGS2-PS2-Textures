@@ -1,19 +1,5 @@
-mgs2/base|mgs2-ps2-text /<oce_collar1msk.bmp|oce_collar2msk.bmp|oce_skirt6msk.bmp|rai_eye_hlf_ovl.bmp|sna_oss_arm_ovl_sub_alp.bmp|sna_oss_body_ovl_sub_alp.bmp|sna_oss_eri_ovl_sub_alp.bmp|sna_oss_hip_ovl_sub_alp.bmp|sna_oss_leg_ovl_sub_alp.bmp|sna_oss_oshould_ovl_sub_alp.bmp|sna_oss_rthigh_ovl_sub_alp.bmp|sna_oss_spad_ovl_sub_alp.bmp|sna_oss_weast_ovl_sub_alp.bmp|sna_txd_arm_ovl_sub_alp.bmp|sna_txd_collar_ovl_sub_alp.bmp|sna_txd_jacket_ovl_sub_alp.bmp|sna_txd_leg_ovl_sub_alp.bmp|sna_txd_shoe_ovl_sub_alp.bmp>.png
+mgs2/base|mgs2-ps2-text /<oce_collar1msk.bmp|oce_collar2msk.bmp|oce_skirt6msk.bmp|rai_eye_hlf_ovl.bmp>.png
 oce_collar1msk.bmp
 oce_collar2msk.bmp
 oce_skirt6msk.bmp
 rai_eye_hlf_ovl.bmp
-sna_oss_arm_ovl_sub_alp.bmp
-sna_oss_body_ovl_sub_alp.bmp
-sna_oss_eri_ovl_sub_alp.bmp
-sna_oss_hip_ovl_sub_alp.bmp
-sna_oss_leg_ovl_sub_alp.bmp
-sna_oss_oshould_ovl_sub_alp.bmp
-sna_oss_rthigh_ovl_sub_alp.bmp
-sna_oss_spad_ovl_sub_alp.bmp
-sna_oss_weast_ovl_sub_alp.bmp
-sna_txd_arm_ovl_sub_alp.bmp
-sna_txd_collar_ovl_sub_alp.bmp
-sna_txd_jacket_ovl_sub_alp.bmp
-sna_txd_leg_ovl_sub_alp.bmp
-sna_txd_shoe_ovl_sub_alp.bmp

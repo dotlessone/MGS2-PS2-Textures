@@ -1,2 +1,0 @@
-assets/tri/us/menu.tri
-assets/gcx/eu/scenerio_stage_init.gcx

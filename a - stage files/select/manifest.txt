@@ -1,2 +1,0 @@
-assets/var/us/cache_stage_select.var
-assets/gcx/eu/scenerio_stage_select.gcx
