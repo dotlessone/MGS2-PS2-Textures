@@ -484,7 +484,7 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                         })
 
         # Sort mismatches by number of matches (ascending)
-        mismatch_results.sort(key=lambda r: (len(r["matches"]), r["filename"].lower()))
+        mismatch_results.sort(key=lambda r: (len(r["matches"]), r["sha1"].lower()))
 
         # Write sorted mismatches to log with separated match sections
         for r in mismatch_results:
@@ -667,7 +667,7 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                 if i % 250 == 0 or i == len(futures):
                     print(f"[Pass3] Processed {i}/{len(futures)}")
 
-        results.sort(key=lambda r: (len(r["matches"]), os.path.basename(r["path"]).lower()))
+        results.sort(key=lambda r: (len(r["matches"]), r["sha1"].lower()))
 
         for r in results:
             matches = r["matches"]

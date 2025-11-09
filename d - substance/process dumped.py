@@ -19,7 +19,6 @@ ZERO_SHA1 = "0000000000000000000000000000000000000000"
 # HELPERS
 # ==========================================================
 def get_git_root() -> str:
-    """Return the absolute path to the Git repo root."""
     try:
         out = subprocess.check_output(["git", "rev-parse", "--show-toplevel"], stderr=subprocess.DEVNULL)
         return out.decode().strip()
@@ -27,7 +26,6 @@ def get_git_root() -> str:
         raise RuntimeError("Not inside a Git repository.")
 
 def sha1_of_file(path: str) -> str:
-    """Compute SHA-1 of a file."""
     sha1 = hashlib.sha1()
     with open(path, "rb") as f:
         for chunk in iter(lambda: f.read(65536), b""):
@@ -35,7 +33,6 @@ def sha1_of_file(path: str) -> str:
     return sha1.hexdigest()
 
 def resave_png(src_path: str, tmp_dir: str) -> str:
-    """Resave PNG to tmp folder and return the new file path."""
     os.makedirs(tmp_dir, exist_ok=True)
     base = os.path.basename(src_path)
     tmp_path = os.path.join(tmp_dir, base)
@@ -47,7 +44,6 @@ def resave_png(src_path: str, tmp_dir: str) -> str:
     return tmp_path
 
 def analyze_alpha(img: Image.Image):
-    """Return (unique_alpha_levels, width, height)."""
     width, height = img.size
     if img.mode not in ("RGBA", "LA"):
         return [], width, height
@@ -63,6 +59,20 @@ def format_eta(elapsed, done, total):
     mins, secs = divmod(int(remaining), 60)
     return f"{mins:02d}:{secs:02d}"
 
+def load_texture_map(texture_map_path):
+    valid_stage_map = {}
+    with open(texture_map_path, "r", encoding="utf-8", newline="") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if not row or row[0].startswith(";"):
+                continue
+            if len(row) < 2:
+                continue
+            texture_filename = row[0].strip().lower()
+            stage = row[1].strip().lower()
+            valid_stage_map.setdefault(texture_filename, set()).add(stage)
+    return valid_stage_map
+
 # ==========================================================
 # MAIN
 # ==========================================================
@@ -70,12 +80,17 @@ def main():
     repo_root = get_git_root()
     target_dir = os.path.join(repo_root, "d - substance")
     csv_path = os.path.join(repo_root, "pcsx2_dumped_sha1_log.csv")
+    texture_map_path = os.path.join(repo_root, "u - dumped from substance", "mgs2_texture_map.csv")
 
     if not os.path.isdir(target_dir):
         print(f"ERROR: Target directory not found: {target_dir}")
         return
+    if not os.path.isfile(texture_map_path):
+        print(f"ERROR: Texture map CSV not found: {texture_map_path}")
+        return
 
-    # Load existing SHA1s
+    valid_stage_map = load_texture_map(texture_map_path)
+
     existing_hashes = set()
     if os.path.isfile(csv_path):
         with open(csv_path, "r", encoding="utf-8", newline="") as f:
@@ -85,7 +100,6 @@ def main():
                 if row and len(row) > 0:
                     existing_hashes.add(row[0].strip())
 
-    # Collect all PNGs
     all_pngs = []
     for root, _, files in os.walk(target_dir):
         for fn in files:
@@ -103,6 +117,34 @@ def main():
     tmp_folders = set()
     lock = Lock()
     start_time = time.time()
+    stage_errors = []
+    duplicate_names = set()
+    seen_filenames = set()
+
+    def verify_stage_and_uniqueness(path):
+        folder = os.path.basename(os.path.dirname(path)).strip().lower()
+        name_no_ext = os.path.splitext(os.path.basename(path))[0].strip().lower()
+
+        # If texture not in CSV at all, skip logging
+        valid_stages = valid_stage_map.get(name_no_ext)
+        if valid_stages:
+            if folder not in valid_stages:
+                rel_path = os.path.relpath(path, repo_root)
+                with lock:
+                    stage_errors.append(f"{rel_path} -> INVALID STAGE (found '{folder}', valid={sorted(valid_stages)})")
+
+        # Duplicate filename check (case-insensitive)
+        if name_no_ext in seen_filenames:
+            with lock:
+                duplicate_names.add(name_no_ext)
+        else:
+            with lock:
+                seen_filenames.add(name_no_ext)
+
+
+    # Pre-verification
+    for p in all_pngs:
+        verify_stage_and_uniqueness(p)
 
     def process_file(path):
         dumped_sha1 = sha1_of_file(path)
@@ -172,7 +214,6 @@ def main():
     else:
         print("No new entries to add.")
 
-    # Sort CSV alphabetically
     print("Sorting CSV alphabetically...")
     with open(csv_path, "r", encoding="utf-8", newline="") as f:
         reader = csv.reader(f)
@@ -195,7 +236,6 @@ def main():
     os.replace(tmpname, csv_path)
     print(f"Sorted and updated: {csv_path}")
 
-    # Cleanup temporary folders
     print("Cleaning up temporary folders...")
     for folder in tmp_folders:
         try:
@@ -203,6 +243,32 @@ def main():
         except Exception as e:
             print(f"Warning: Failed to delete {folder}: {e}")
 
+    # Write logs
+    log_stage = os.path.join(repo_root, "d - substance", "stage_verification_errors.txt")
+    log_dupes = os.path.join(repo_root, "d - substance", "duplicate_filenames.txt")
+
+    if stage_errors:
+        with open(log_stage, "w", encoding="utf-8") as f:
+            for line in sorted(stage_errors):
+                f.write(line + "\n")
+        print(f"Stage verification errors: {len(stage_errors)} written to {log_stage}")
+    else:
+        if os.path.exists(log_stage):
+            os.remove(log_stage)
+        print("No stage verification errors found.")
+
+    if duplicate_names:
+        with open(log_dupes, "w", encoding="utf-8") as f:
+            for name in sorted(duplicate_names):
+                f.write(name + "\n")
+        print(f"Duplicate filenames: {len(duplicate_names)} written to {log_dupes}")
+    else:
+        if os.path.exists(log_dupes):
+            os.remove(log_dupes)
+        print("No duplicate filenames found.")
+
+    print(f"Stage verification errors: {len(stage_errors)} written to {log_stage}")
+    print(f"Duplicate filenames: {len(duplicate_names)} written to {log_dupes}")
     print("All temporary folders removed. Done.")
 
 # ==========================================================
