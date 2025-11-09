@@ -41,7 +41,7 @@ def resave_png(src_path: str, tmp_dir: str) -> str:
     tmp_path = os.path.join(tmp_dir, base)
     try:
         with Image.open(src_path) as img:
-            img.save(tmp_path, format="PNG", optimize=True)
+            img.save(tmp_path, format="PNG", optimize=False)
     except Exception as e:
         raise RuntimeError(f"Failed to resave {src_path}: {e}")
     return tmp_path

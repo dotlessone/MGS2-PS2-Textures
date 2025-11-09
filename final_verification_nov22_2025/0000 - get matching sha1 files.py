@@ -20,7 +20,7 @@ PASS1_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_mc_sha1_matches.csv"
 PASS2_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_tri_sha1_matches.csv"
 MANUAL_CSV = r"C:\Development\Git\MGS2-PS2-Textures\pcsx2_manual_sha1_matches.csv"
 
-EXCLUDE_DIRS = ["Self Remade", "Renamed Copies - Better LODs", "skateboarding", "realtime generated from w11_sbmr_ref_add_alp_ovl.bmp", "corrupt water"]
+EXCLUDE_DIRS = ["Self Remade", "Renamed Copies - Better LODs", "skateboarding", "realtime generated from w11_sbmr_ref_add_alp_ovl.bmp", "corrupt water", "z - BETA Textures - From Document", "z - trash"]
 
 # ==========================================================
 # COMBINED LOG CONFIGURATION
@@ -484,7 +484,7 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                         })
 
         # Sort mismatches by number of matches (ascending)
-        mismatch_results.sort(key=lambda r: len(r["matches"]))
+        mismatch_results.sort(key=lambda r: (len(r["matches"]), r["filename"].lower()))
 
         # Write sorted mismatches to log with separated match sections
         for r in mismatch_results:
@@ -667,7 +667,7 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                 if i % 250 == 0 or i == len(futures):
                     print(f"[Pass3] Processed {i}/{len(futures)}")
 
-        results.sort(key=lambda r: len(r["matches"]))
+        results.sort(key=lambda r: (len(r["matches"]), os.path.basename(r["path"]).lower()))
 
         for r in results:
             matches = r["matches"]
@@ -997,7 +997,7 @@ def extract_already_named_entries():
     log_src = os.path.join(os.path.dirname(__file__), "External PNG Status Checks.log")
     output_csv = os.path.join(os.path.dirname(__file__), "already_named_files.csv")
 
-    # Clean up any existing log first
+    # Clean up any existing output
     if os.path.exists(output_csv):
         try:
             os.remove(output_csv)
@@ -1031,12 +1031,16 @@ def extract_already_named_entries():
         print("[Post-Process] No !\"/ALREADY FILE NAME/\" entries found.")
         return
 
+    # Sort alphabetically by filename (case-insensitive)
+    entries.sort(key=lambda x: x[0].lower())
+
     with open(output_csv, "w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
         writer.writerow(["filename", "full_path"])
         writer.writerows(entries)
 
-    print(f"[Post-Process] Extracted {len(entries)} entries to {output_csv}")
+    print(f"[Post-Process] Extracted and sorted {len(entries)} entries to {output_csv}")
+
 
 # ==========================================================
 # MAIN
