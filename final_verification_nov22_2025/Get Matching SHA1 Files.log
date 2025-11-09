@@ -2784,7 +2784,7 @@
 [Reverification] Ensuring all mapped outputs exist...
 [Reverification] All verified OK.
 
-[Summary] MC_Pass: Moved 0/82 textures.
+[Summary] MC_Pass: Moved 0/499 textures.
 
 
 ============================================
@@ -2807,7 +2807,7 @@ sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w28a_oku_pipekage_bld035.
 [Reverification] Ensuring all mapped outputs exist...
 [Reverification] All verified OK.
 
-[Summary] TRI_Pass: Moved 0/82 textures.
+[Summary] TRI_Pass: Moved 0/499 textures.
 
 
 ============================================
@@ -2817,4 +2817,4 @@ sha1=effdcd035c2a91cd70278e347ebd4f22aa2a2a2e, texture=w28a_oku_pipekage_bld035.
 [Reverification] Ensuring all mapped outputs exist...
 [Reverification] All verified OK.
 
-[Summary] Manual_Pass: Moved 0/82 textures.
+[Summary] Manual_Pass: Moved 0/499 textures.
