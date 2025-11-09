@@ -4,15 +4,88 @@ import hashlib
 import shutil
 import csv
 import difflib
+import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from threading import Lock
 from PIL import Image
 
 # ==========================================================
-# HELPERS
+# CONFIGURATION
 # ==========================================================
 
+# These regexes are evaluated BEFORE all other checks
+# Any filename matching one will be deleted immediately
+FORCE_DELETE_PATTERNS = [
+    r"-20d9773182cf07ff-r553x148-000022ac$",
+    r"-c08affed504498f1-r0x320-00002654$",
+    r"-r513x449-80c02642$",
+    r"d658061781d2d4f-0000226c$",
+    r"f63f71fcdbafe788",
+    r"d4f8a5f69be016a8",
+    r"80c02a82$",
+    r"-r513x121-000022ac$",
+    r"20b055d3da46a453-0000226c$",
+    r"80402642$",
+    r"7816945abaccac11",
+    r"6f0c6024f6730294-r513x121-0000226c",
+    r"80c02202$",
+    r"-r511x447-80c02642$",
+    r"e610aa167a687a0f-00001aac$",
+    r"r4x4-00001dd4$",
+    r"f9a899aadeaaf853-abaa789c1ebbac91-r64x64-00002a54$",
+    r"343e3f4d7ac51784-abaa789c1ebbac91-r64x64-00002a54$",
+    r"cdbdf4b821b4fcce-abaa789c1ebbac91-r64x64-00002a54$",
+    r"f3ac5df1b4b11f1-abaa789c1ebbac91-r64x64-00002a54$",
+    r"723454847e1ea326-d865a4ca6070a82f-r64x64-00002a54$",
+    r"10d923f22fb93755-d865a4ca6070a82f-r64x64-00002a54$",
+    r"fbdc5d988e1e1e38-d865a4ca6070a82f-r64x64-00002a54$",
+    r"983bcf6f20159710-9d39dafa3a02bf43-r64x64-00002a54$",
+    r"f8f7d4229d4fd138-aa0d5e00a059ec1b-r64x64-00002a54$",
+    r"71d1e5856e14a61-aa0d5e00a059ec1b-r64x64-00002a54$",
+    r"a6151f56b4281894-aa0d5e00a059ec1b-r64x64-00002a54$",
+    r"660efeeb386af521-3c8cdfbb4d60154e-r64x64-00002a54$",
+    r"bf205bd3a141396e-3c8cdfbb4d60154e-r64x64-00002a54$",
+    r"-e610aa167a687a0f-00001a2c$",
+    r"228d7f93799a1978",
+    r"7215e925fde43eae",
+    r"9efcc39081b017f0",
+    r"d658061781d2d4f",
+    r"c78d5c0bfacf8095-3c8cdfbb4d60154e-r64x64-00002a54$",
+    r"1686664efe32789f-3c8cdfbb4d60154e-r64x64-00002a54$",
+    r"f67bd0c61ae10b0c-3c8cdfbb4d60154e-r64x64-00002a54$",
+    r"be314a5bf23c5b39-3c8cdfbb4d60154e-r64x64-00002a54$",
+    r"e19c3b9c4236bb10-a3993454c9a93e21-r64x64-00002a54$",
+    r"8f864fba9ba5e047-9d39dafa3a02bf43-r64x64-00002a54$",
+    r"6665d7c038605ee8-9d39dafa3a02bf43-r64x64-00002a54$",
+    r"833e6b144c858534-d865a4ca6070a82f-r64x64-00002a54$",
+    r"a80906e50e4f52ed-d865a4ca6070a82f-r64x64-00002a54$",
+    r"f5decbd9963946bb-d865a4ca6070a82f-r64x64-00002a54$",
+    r"cd6525eb83f8b74-d865a4ca6070a82f-r64x64-00002a54$",
+    r"f9ebab9325aaa28e-d865a4ca6070a82f-r64x64-00002a54$",
+    r"33ea0ed155772777-abaa789c1ebbac91-r64x64-00002a54$",
+    r"587720d53626e6ce-abaa789c1ebbac91-r64x64-00002a54$",
+    r"3941c8be07ac078e-abaa789c1ebbac91-r64x64-00002a54$",
+    r"8baa88dbc0e3977b-abaa789c1ebbac91-r64x64-00002a54$",
+    r"e29b6e086a0a144-abaa789c1ebbac91-r64x64-00002a54$",
+    r"ce381a47fd2bcbdb-abaa789c1ebbac91-r64x64-00002a54$",
+    r"-00002640$",
+]
+
+FORCE_DELETE_REGEXES = [re.compile(p, re.IGNORECASE) for p in FORCE_DELETE_PATTERNS]
+
+EXCLUDE_PATTERNS = [
+    r"^sr.{3}_alp_ovl.*",
+    r"^dammydoll_alp\.bmp",
+    r"^medicine_rabel_alp_ovl\.bmp",
+    r"^gasmask_alp\.bmp",
+]
+
+EXCLUDE_REGEXES = [re.compile(p, re.IGNORECASE) for p in EXCLUDE_PATTERNS]
+
+# ==========================================================
+# HELPERS
+# ==========================================================
 def get_git_root() -> Path:
     try:
         out = subprocess.check_output(["git", "rev-parse", "--show-toplevel"], stderr=subprocess.DEVNULL)
@@ -76,6 +149,12 @@ def get_image_size(path: Path) -> tuple[int, int] | None:
     except Exception:
         return None
 
+def matches_force_delete(filename: str) -> bool:
+    return any(rx.search(filename) for rx in FORCE_DELETE_REGEXES)
+
+def matches_exclude(filename: str) -> bool:
+    return any(rx.match(filename) for rx in EXCLUDE_REGEXES)
+
 def prompt_stage_name(valid_stages: set[str]) -> str:
     while True:
         stage_name = input("\nEnter stage name (new subfolder name): ").strip()
@@ -108,7 +187,6 @@ def ensure_explorer_open(folder: Path):
 # ==========================================================
 # MAIN
 # ==========================================================
-
 def main():
     repo_root = get_git_root()
     verif_root = repo_root / "final_verification_nov22_2025"
@@ -131,6 +209,53 @@ def main():
         return
     print(f"[INFO] Found {len(top_pngs)} PNG file(s) in {substance_root}.")
 
+    # ------------------------------------------------------
+    # STEP 0: FORCE DELETE REGEX MATCHES
+    # ------------------------------------------------------
+    print("[*] Removing force-delete regex matches...")
+    removed_forced = 0
+    remaining_pngs = []
+    for p in top_pngs:
+        if matches_force_delete(p.name):
+            print(f"[DELETE] {p.name} (matched force-delete regex)")
+            try:
+                p.unlink()
+                removed_forced += 1
+            except Exception as e:
+                print(f"[ERROR] Failed to delete {p}: {e}")
+        else:
+            remaining_pngs.append(p)
+    print(f"[INFO] Removed {removed_forced} force-deleted PNG(s). Remaining: {len(remaining_pngs)}")
+
+    if not remaining_pngs:
+        print("[ABORTED] No PNGs remain after force-delete filtering.")
+        return
+
+    # ------------------------------------------------------
+    # STEP 1: DELETE EXCLUDED FILENAMES (GENERAL)
+    # ------------------------------------------------------
+    print("[*] Removing excluded filenames...")
+    removed_excluded = 0
+    filtered_pngs = []
+    for p in remaining_pngs:
+        if matches_exclude(p.name):
+            print(f"[DELETE] {p.name} (matched exclude pattern)")
+            try:
+                p.unlink()
+                removed_excluded += 1
+            except Exception as e:
+                print(f"[ERROR] Failed to delete {p}: {e}")
+        else:
+            filtered_pngs.append(p)
+    print(f"[INFO] Removed {removed_excluded} excluded PNG(s). Remaining: {len(filtered_pngs)}")
+
+    if not filtered_pngs:
+        print("[ABORTED] No PNGs remain after exclude filtering.")
+        return
+
+    # ------------------------------------------------------
+    # STEP 2: LOAD STAGE/DIMENSION DATA
+    # ------------------------------------------------------
     print(f"[*] Loading valid stage names from {csv_path.name}...")
     valid_stages = load_valid_stages(csv_path)
     print(f"[+] Loaded {len(valid_stages)} unique stage names from CSV.")
@@ -140,12 +265,12 @@ def main():
     print(f"[+] Loaded {len(valid_dims)} unique dimension pairs from CSV.")
 
     # ------------------------------------------------------
-    # FILTER BY DIMENSIONS FIRST
+    # STEP 3: FILTER BY DIMENSIONS
     # ------------------------------------------------------
     print("[*] Checking PNG dimensions...")
     removed_dim = 0
     kept_pngs = []
-    for p in top_pngs:
+    for p in filtered_pngs:
         size = get_image_size(p)
         if size is None:
             print(f"[ERROR] Could not read image size for {p.name}")
@@ -165,13 +290,13 @@ def main():
         print("[ABORTED] No PNGs remain after dimension filtering.")
         return
 
+    # ------------------------------------------------------
+    # STEP 4: SHA1 CHECKS
+    # ------------------------------------------------------
     print(f"[*] Collecting SHA1s from {verif_root}...")
     verif_hashes = collect_hashes(verif_root)
     print(f"[+] Collected {len(verif_hashes)} unique hashes.")
 
-    # ------------------------------------------------------
-    # DELETE DUPLICATES BY SHA1
-    # ------------------------------------------------------
     deleted_count = 0
     for entry in kept_pngs:
         try:
@@ -184,6 +309,9 @@ def main():
             print(f"[ERROR] Failed to process {entry}: {e}")
     print(f"[DONE] Removed {deleted_count} duplicate PNG file(s).")
 
+    # ------------------------------------------------------
+    # STEP 5: MOVE REMAINING FILES
+    # ------------------------------------------------------
     remaining_pngs = [p for p in substance_root.iterdir() if p.is_file() and p.suffix.lower() == ".png"]
     if not remaining_pngs:
         print("[INFO] No remaining PNGs to move after cleanup.")
