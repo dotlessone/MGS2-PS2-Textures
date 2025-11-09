@@ -8,6 +8,118 @@ Scanning directories:
 
 Loaded 15142 valid PS2 texture names.
 
+
+=== STAGE ALIAS VERIFICATION ===
+20 stages in STAGE_ALIASES not found in CSV:
+a04a	[Alternate | Hold No.1 (Alternate)]
+a04b	[Alternate | Hold No.2 (Alternate)]
+a04c	[Alternate | Hold No.3 (Alternate)]
+a11a	[Alternate | Strut A - Dock (Snake Tales)]
+a11b	[Alternate | Strut A - Dock (Bomb) (Snake Tales)]
+a11c	[Alternate | Strut A - Dock (Fortune) (Snake Tales)]
+a12c	[Alternate | Strut A Roof (Bomb) (Snake Tales)]
+a16b	[Alternate | Dining Hall (Post Stillman) (Snake Tales)]
+a20d	[Alternate | Heliport (Post Ninja) (Snake Tales)]
+a25b	[Alternate | Shell Connecting Bridge (Destroyed) (Snake Tales)]
+a25c	[Alternate | Strut L Perimeter (Snake Tales)]
+a31d	[Alternate | Shell 2 Core (With Emma) (Snake Tales)]
+a32a	[Alternate | Oil Fence (Snake Tales)]
+a32b	[Alternate | Oil Fence (Vamp Fight) (Snake Tales)]
+a44a	[Alternate | GW - Ileum (Snake Tales)]
+a51a	[Alternate | Arsenal Gear (Snake Tales)]
+select	[Menu | Main Menu]
+sp04a	[VR: Variety | Level 4]
+sp05a	[VR: Variety | Level 5]
+sp23a	[VR: First-Person | Level 3]
+
+87 stages found in CSV not defined in STAGE_ALIASES:
+a02b
+a13c
+a14b
+a20e
+a21b
+a22b
+a23a
+a24f
+a24g
+a41b
+capture
+f00a
+f01a
+f01b
+f01c
+f01d
+f01e
+f01f
+f02a
+f03a
+f03b
+f04a
+f04b
+f04c
+f04d
+f04e
+f05a
+f06a
+init
+mobile
+node
+photo
+r_plt0
+r_plt1
+r_plt10
+r_plt11
+r_plt12
+r_plt13
+r_plt2
+r_plt3
+r_plt4
+r_plt5
+r_plt6
+r_plt7
+r_plt8
+r_plt9
+r_plt_s
+r_rai_b
+r_sna_b
+r_tnk0
+r_tnk_r
+r_vr_1
+r_vr_b
+r_vr_p
+r_vr_r
+r_vr_rp
+r_vr_s
+r_vr_sp
+r_vr_t
+r_vr_x
+sselect
+st05a
+ta00a
+ta01a
+ta01b
+ta01c
+ta01d
+ta01e
+ta01f
+ta02a
+ta12a
+ta20a
+ta22a
+ta24a
+ta31a
+ta42a
+tsp03a
+tvs03a
+tvs05a
+tvs06a
+tvs08a
+twp03a
+twp34a
+twp43a
+w24e
+w31f
+wmovie
 Found 13224 PNG/TGA files total.
 
 Detected 1357 correct mixed-alpha TGAs (will be skipped).

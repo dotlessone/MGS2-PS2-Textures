@@ -484,6 +484,37 @@ def main():
         stage_to_textures[stage].add(tex)
 
     # ==========================================================
+    # VERIFY STAGE ALIASES EXIST IN CSV
+    # ==========================================================
+    alias_stages = set(STAGE_ALIASES.keys())
+    csv_stages = {s.lower() for s in stage_to_textures.keys()}
+
+    missing_in_csv = sorted(alias_stages - csv_stages)
+    extra_in_csv = sorted(csv_stages - alias_stages)
+
+    log("\n=== STAGE ALIAS VERIFICATION ===")
+    print("\n=== STAGE ALIAS VERIFICATION ===")
+
+    if not missing_in_csv:
+        print("All STAGE_ALIASES entries exist in the CSV.")
+        log("All STAGE_ALIASES entries exist in the CSV.")
+    else:
+        print(f"{len(missing_in_csv)} stages in STAGE_ALIASES not found in CSV:")
+        log(f"{len(missing_in_csv)} stages in STAGE_ALIASES not found in CSV:")
+        for name in missing_in_csv:
+            category, desc = STAGE_ALIASES[name]
+            msg = f"{name}\t[{category} | {desc}]"
+            print(msg)
+            log(msg)
+
+    if extra_in_csv:
+        print(f"\n{len(extra_in_csv)} stages found in CSV not defined in STAGE_ALIASES:")
+        log(f"\n{len(extra_in_csv)} stages found in CSV not defined in STAGE_ALIASES:")
+        for name in extra_in_csv:
+            print(name)
+            log(name)
+
+    # ==========================================================
     # SCAN DIRECTORIES
     # ==========================================================
     final_rebuilt_dir = os.path.join(repo_root, "u - dumped from substance", "dump", "Final Rebuilt")
