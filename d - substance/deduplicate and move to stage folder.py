@@ -81,7 +81,7 @@ EXCLUDE_PATTERNS = [
     r"^gasmask_alp\.bmp",
 ]
 
-EXCLUDE_REGEXES = [re.compile(p, re.IGNORECASE) for p in EXCLUDE_PATTERNS]
+EXCLUDE_REGEXES = []
 
 # ==========================================================
 # HELPERS
@@ -208,6 +208,84 @@ def main():
         print(f"[ABORTED] No PNG files found in the top-level of {substance_root}.")
         return
     print(f"[INFO] Found {len(top_pngs)} PNG file(s) in {substance_root}.")
+
+    # ------------------------------------------------------
+    # STEP -1: DEDUPLICATE BY SHA1 IN TOP FOLDER
+    # ------------------------------------------------------
+    print("[*] Deduplicating top-level PNGs by SHA1...")
+    seen_sha1 = {}
+    duplicates_removed = 0
+    deduped_pngs = []
+
+    for p in top_pngs:
+        try:
+            sha = calc_sha1(p)
+        except Exception as e:
+            print(f"[ERROR] Could not hash {p}: {e}")
+            continue
+
+        if sha in seen_sha1:
+            print(f"[DELETE] Duplicate SHA1 {sha[:8]}... -> {p.name} (keeping {seen_sha1[sha].name})")
+            try:
+                p.unlink()
+                duplicates_removed += 1
+            except Exception as e:
+                print(f"[ERROR] Failed to delete duplicate {p}: {e}")
+        else:
+            seen_sha1[sha] = p
+            deduped_pngs.append(p)
+
+    top_pngs = deduped_pngs
+    print(f"[INFO] Removed {duplicates_removed} duplicate PNG(s). Remaining: {len(top_pngs)}")
+
+    if not top_pngs:
+        print("[ABORTED] No PNGs remain after deduplication.")
+        return
+        
+    # ------------------------------------------------------
+    # STEP -0: REMOVE TOP-LEVEL PNGs THAT EXIST IN SUBFOLDERS
+    # ------------------------------------------------------
+    print("[*] Removing top-level PNGs that duplicate files in subfolders...")
+    subfolder_pngs = [p for p in substance_root.rglob("*.png") if p.parent != substance_root]
+    if not subfolder_pngs:
+        print("[INFO] No subfolder PNGs found. Skipping SHA1 cross-check.")
+    else:
+        sub_sha1s = set()
+        lock = Lock()
+        with ThreadPoolExecutor(max_workers=max(4, os.cpu_count() or 4)) as ex:
+            futures = {ex.submit(calc_sha1, p): p for p in subfolder_pngs}
+            total = len(futures)
+            for i, fut in enumerate(as_completed(futures), 1):
+                try:
+                    sha = fut.result()
+                    with lock:
+                        sub_sha1s.add(sha)
+                except Exception as e:
+                    print(f"[ERROR] Failed to hash subfolder file {futures[fut]}: {e}")
+                if i % 250 == 0:
+                    print(f"[Progress] {i}/{total} subfolder hashes collected")
+
+        removed_subdup = 0
+        kept_pngs = []
+        for p in top_pngs:
+            try:
+                sha = calc_sha1(p)
+                if sha in sub_sha1s:
+                    print(f"[DELETE] {p.name} (duplicate SHA1 found in subfolder)")
+                    p.unlink()
+                    removed_subdup += 1
+                else:
+                    kept_pngs.append(p)
+            except Exception as e:
+                print(f"[ERROR] Could not check {p}: {e}")
+
+        top_pngs = kept_pngs
+        print(f"[INFO] Removed {removed_subdup} top-level duplicate(s). Remaining: {len(top_pngs)}")
+
+    if not top_pngs:
+        print("[ABORTED] No PNGs remain after subfolder duplicate filtering.")
+        return
+
 
     # ------------------------------------------------------
     # STEP 0: FORCE DELETE REGEX MATCHES
