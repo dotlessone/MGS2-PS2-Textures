@@ -1,5 +1,4 @@
-mgs2/base|mgs2-ps2-text /<0038f2a7|0065f82e|0066f82e|006baeb5|0092ec26|009ebc16|009fbc16|00a0bc16|00a1bc16|angle_alp_ovl.bmp|blood_1e_msk.bmp|call_alp_ovl.bmp|frost02_alp.bmp|nom_alp_ovl.bmp|pdray_eye_hl_alp.bmp|pdray_number_a02_alp_ovl.bmp|pdray_number_a03_alp_ovl.bmp|pdray_number_a04_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|sky_1_alp.bmp|smoke_lp4_alp.bmp|wrain02_add_alp_ovl.bmp|wrain03_add_alp_ovl.bmp|wrain05_add_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
-0038f2a7
+mgs2/base|mgs2-ps2-text /<0065f82e|0066f82e|006baeb5|0092ec26|009ebc16|009fbc16|00a0bc16|00a1bc16|angle_alp_ovl.bmp|blood_1e_msk.bmp|call_alp_ovl.bmp|frost02_alp.bmp|nom_alp_ovl.bmp|pdray_eye_hl_alp.bmp|pdray_number_a02_alp_ovl.bmp|pdray_number_a03_alp_ovl.bmp|pdray_number_a04_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|sky_1_alp.bmp|smoke_lp4_alp.bmp|wrain02_add_alp_ovl.bmp|wrain03_add_alp_ovl.bmp|wrain05_add_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
 0065f82e
 0066f82e
 006baeb5

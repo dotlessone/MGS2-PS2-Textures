@@ -1,6 +1,5 @@
-mgs2/base|mgs2-ps2-text /<002fc581|0038f2a7|004e93c9|007995dc|008cbb54|0092ec26|snake_tales_ltitlea_alp_ovl.bmp|snake_tales_ltitleb_alp_ovl.bmp|snake_tales_ltitlec_alp_ovl.bmp|snake_tales_ltitled_alp_ovl.bmp|snake_tales_ltitlee_alp_ovl.bmp>.png
+mgs2/base|mgs2-ps2-text /<002fc581|004e93c9|007995dc|008cbb54|0092ec26|snake_tales_ltitlea_alp_ovl.bmp|snake_tales_ltitleb_alp_ovl.bmp|snake_tales_ltitlec_alp_ovl.bmp|snake_tales_ltitled_alp_ovl.bmp|snake_tales_ltitlee_alp_ovl.bmp>.png
 002fc581
-0038f2a7
 004e93c9
 007995dc
 008cbb54

@@ -120,87 +120,66 @@ twp43a
 w24e
 w31f
 wmovie
-Found 13453 PNG/TGA files total.
+Found 13571 PNG/TGA files total.
 
 Detected 1357 correct mixed-alpha TGAs (will be skipped).
 
 === MISSING TEXTURE COUNTS BY STAGE (DESCENDING) ===
-sp25a	173	[VR: First-Person | Level 5]
-n_title	150	[Menu | Title Screen]
-sp22a	107	[VR: First-Person | Level 2]
-wp65a	101	[VR: Weapons - Nikita | Level 5]
+sp25a	171	[VR: First-Person | Level 5]
+n_title	142	[Menu | Title Screen]
+sp22a	105	[VR: First-Person | Level 2]
+wp65a	99	[VR: Weapons - Nikita | Level 5]
 node	98	
-wp62a	96	[VR: Weapons - Nikita | Level 2]
-wp01a	85	[VR: Weapons - SOCOM | Level 1]
-wp02a	85	[VR: Weapons - SOCOM | Level 2]
-sp01a	73	[VR: Variety | Level 1]
-wp54a	73	[VR: Weapons - Stinger | Level 4]
-wp05a	67	[VR: Weapons - SOCOM | Level 5]
-wp55a	66	[VR: Weapons - Stinger | Level 5]
-wp73a	63	[VR: Weapons - No Weapon | Level 3]
-wp74a	63	[VR: Weapons - No Weapon | Level 4]
-vs10a	61	[VR: Sneaking | Level 10]
-wp52a	61	[VR: Weapons - Stinger | Level 2]
+wp62a	94	[VR: Weapons - Nikita | Level 2]
+wp01a	83	[VR: Weapons - SOCOM | Level 1]
+wp02a	83	[VR: Weapons - SOCOM | Level 2]
+wp54a	71	[VR: Weapons - Stinger | Level 4]
+sp01a	70	[VR: Variety | Level 1]
+wp05a	65	[VR: Weapons - SOCOM | Level 5]
+wp55a	64	[VR: Weapons - Stinger | Level 5]
+wp73a	61	[VR: Weapons - No Weapon | Level 3]
+wp74a	61	[VR: Weapons - No Weapon | Level 4]
 a46a	59	[Alternate | GW - Rectum (Snake Tales)]
-st05a	53	
-tvs08a	53	
-vs08a	53	[VR: Sneaking | Level 8]
-twp43a	52	
-wp43a	52	[VR: Weapons - PSG1 | Level 3]
-wp44a	52	[VR: Weapons - PSG1 | Level 4]
-sp07a	50	[VR: Variety | Level 7]
-wp35a	50	[VR: Weapons - Grenade | Level 5]
-twp03a	49	
-wp03a	49	[VR: Weapons - SOCOM | Level 3]
-wp45a	47	[VR: Weapons - PSG1 | Level 5]
-wp64a	46	[VR: Weapons - Nikita | Level 4]
-wp41a	44	[VR: Weapons - PSG1 | Level 1]
-wp42a	44	[VR: Weapons - PSG1 | Level 2]
-wp53a	44	[VR: Weapons - Stinger | Level 3]
-wp63a	44	[VR: Weapons - Nikita | Level 3]
+wp52a	59	[VR: Weapons - Stinger | Level 2]
+twp43a	50	
+wp43a	50	[VR: Weapons - PSG1 | Level 3]
+wp44a	50	[VR: Weapons - PSG1 | Level 4]
+sp07a	48	[VR: Variety | Level 7]
+wp35a	48	[VR: Weapons - Grenade | Level 5]
+twp03a	47	
+wp03a	47	[VR: Weapons - SOCOM | Level 3]
+wp45a	45	[VR: Weapons - PSG1 | Level 5]
+wp64a	44	[VR: Weapons - Nikita | Level 4]
 w46a	44	[Plant | GW - Rectum]
-wp13a	43	[VR: Weapons - M4 | Level 3]
-sp03a	42	[VR: Variety | Level 3]
-tsp03a	42	
-tvs06a	42	
-vs06a	42	[VR: Sneaking | Level 6]
-r_vr_b	41	
-r_vr_p	41	
-wp23a	41	[VR: Weapons - Claymore | Level 3]
-r_vr_1	40	
-r_vr_r	40	
-r_vr_rp	40	
-r_vr_s	40	
-r_vr_sp	40	
-r_vr_t	40	
-wp04a	40	[VR: Weapons - SOCOM | Level 4]
-sp21a	39	[VR: First-Person | Level 1]
-tvs05a	39	
-twp34a	39	
-vs05a	39	[VR: Sneaking | Level 5]
-wp34a	39	[VR: Weapons - Grenade | Level 4]
-wp14a	37	[VR: Weapons - M4 | Level 4]
-wp24a	37	[VR: Weapons - Claymore | Level 4]
-wp33a	37	[VR: Weapons - Grenade | Level 3]
-wp51a	37	[VR: Weapons - Stinger | Level 1]
-r_vr_x	36	
+wp41a	42	[VR: Weapons - PSG1 | Level 1]
+wp42a	42	[VR: Weapons - PSG1 | Level 2]
+wp53a	42	[VR: Weapons - Stinger | Level 3]
+wp63a	42	[VR: Weapons - Nikita | Level 3]
+wp13a	41	[VR: Weapons - M4 | Level 3]
+sp03a	40	[VR: Variety | Level 3]
+tsp03a	40	
+wp23a	39	[VR: Weapons - Claymore | Level 3]
+wp04a	38	[VR: Weapons - SOCOM | Level 4]
+sp21a	37	[VR: First-Person | Level 1]
+twp34a	37	
+vs10a	37	[VR: Sneaking | Level 10]
+wp34a	37	[VR: Weapons - Grenade | Level 4]
 a45a	36	[Alternate | GW - Sigmoid Colon (Snake Tales)]
-wp11a	36	[VR: Weapons - M4 | Level 1]
-wp12a	36	[VR: Weapons - M4 | Level 2]
-wp25a	36	[VR: Weapons - Claymore | Level 5]
-wp75a	36	[VR: Weapons - No Weapon | Level 5]
 r_rai_b	35	
 a21b	35	
-vs07a	35	[VR: Sneaking | Level 7]
-wp61a	35	[VR: Weapons - Nikita | Level 1]
+wp14a	35	[VR: Weapons - M4 | Level 4]
+wp24a	35	[VR: Weapons - Claymore | Level 4]
+wp33a	35	[VR: Weapons - Grenade | Level 3]
+wp51a	35	[VR: Weapons - Stinger | Level 1]
 a43a	34	[Alternate | GW - Ascending Colon (Snake Tales)]
+wp11a	34	[VR: Weapons - M4 | Level 1]
+wp12a	34	[VR: Weapons - M4 | Level 2]
+wp25a	34	[VR: Weapons - Claymore | Level 5]
+wp75a	34	[VR: Weapons - No Weapon | Level 5]
 a24a	33	[Alternate | Shell 1 Core - 1F (Snake Tales)]
 ta24a	33	
-vs09a	33	[VR: Sneaking | Level 9]
+wp61a	33	[VR: Weapons - Nikita | Level 1]
 a16a	32	[Alternate | Dining Hall (Snake Tales)]
-sp02a	32	[VR: Variety | Level 2]
-wp15a	32	[VR: Weapons - M4 | Level 5]
-wp22a	32	[VR: Weapons - Claymore | Level 2]
 r_sna_b	31	
 a01c	31	[Alternate | Deck C Crew Quarters (Alternate)]
 a15a	31	[Alternate | BC Connecting Bridge (Snake Tales)]
@@ -213,10 +192,6 @@ a28a	31	[Alternate | Sewage Treatment (Snake Tales)]
 ta01c	31	
 ta20a	31	
 ta22a	31	
-wp21a	31	[VR: Weapons - Claymore | Level 1]
-wp32a	31	[VR: Weapons - Grenade | Level 2]
-wp71a	31	[VR: Weapons - No Weapon | Level 1]
-wp72a	31	[VR: Weapons - No Weapon | Level 2]
 a12a	30	[Alternate | Strut A Roof (Snake Tales)]
 a12b	30	[Alternate | Strut A Pump Room (Snake Tales)]
 a13a	30	[Alternate | AB Connecting Bridge (Snake Tales)]
@@ -225,15 +200,10 @@ a14b	30
 a15b	30	[Alternate | BC Connecting Bridge (After Stillman) (Snake Tales)]
 a17a	30	[Alternate | CD Connecting Bridge (Snake Tales)]
 a18a	30	[Alternate | Sediment Pool (Snake Tales)]
-sp08a	30	[VR: Variety | Level 8]
-sp24a	30	[VR: First-Person | Level 4]
-st02a	30	[VR: Streaking | Level 2]
-st03a	30	[VR: Streaking | Level 3]
+sp02a	30	[VR: Variety | Level 2]
 ta12a	30	
-tvs03a	30	
-vs02a	30	[VR: Sneaking | Level 2]
-vs03a	30	[VR: Sneaking | Level 3]
-wp31a	30	[VR: Weapons - Grenade | Level 1]
+wp15a	30	[VR: Weapons - M4 | Level 5]
+wp22a	30	[VR: Weapons - Claymore | Level 2]
 a01d	29	[Alternate | Deck D Crew Quarters (Alternate)]
 a24d	29	[Alternate | Shell 1 Core - B2 (Snake Tales)]
 a24g	29	
@@ -243,6 +213,10 @@ a42a	29	[Alternate | GW - Jejunum (Snake Tales)]
 ta01d	29	
 ta31a	29	
 ta42a	29	
+wp21a	29	[VR: Weapons - Claymore | Level 1]
+wp32a	29	[VR: Weapons - Grenade | Level 2]
+wp71a	29	[VR: Weapons - No Weapon | Level 1]
+wp72a	29	[VR: Weapons - No Weapon | Level 2]
 a00b	28	[Alternate | Navigational Deck (Alternate)]
 a00c	28	[Alternate | Navigational Deck (Unused Alt)]
 a01b	28	[Alternate | Deck A Crew Quarters Starboard (Alternate)]
@@ -251,11 +225,14 @@ a01f	28	[Alternate | Deck A Crew Lounge (Alternate)]
 a23a	28	
 a24c	28	[Alternate | Shell 1 Core - Hostage Room (Snake Tales)]
 a24f	28	
-st04a	28	[VR: Streaking | Level 4]
+sp08a	28	[VR: Variety | Level 8]
+sp24a	28	[VR: First-Person | Level 4]
 ta01b	28	
 ta01e	28	
 ta01f	28	
-vs04a	28	[VR: Sneaking | Level 4]
+tvs05a	28	
+vs05a	28	[VR: Sneaking | Level 5]
+wp31a	28	[VR: Weapons - Grenade | Level 1]
 a01a	27	[Alternate | Deck A Crew Quarters (Alternate)]
 a13c	27	
 a20c	27	[Alternate | Heliport (Bomb) (Snake Tales)]
@@ -263,32 +240,54 @@ a20e	27
 a22b	27	
 a23b	27	[Alternate | FA Connecting Bridge (Snake Tales)]
 a61a	27	[Alternate | Federal Hall (Snake Tales)]
-st01a	27	[VR: Streaking | Level 1]
+st05a	27	
 ta01a	27	
-vs01a	27	[VR: Sneaking | Level 1]
+tvs08a	27	
+vs08a	27	[VR: Sneaking | Level 8]
 a02b	26	
 a14a	26	[Alternate | Transformer Room (Snake Tales)]
 a19a	26	[Alternate | DE Connecting Bridge (Snake Tales)]
 a20b	26	[Alternate | Heliport (Snake Tales)]
 a31c	26	[Alternate | Shell 2 Filtration Chamber No.2 (Snake Tales)]
-d080p01	25	[Plant | Cutscene d080p01]
+tvs06a	26	
+vs06a	26	[VR: Sneaking | Level 6]
+r_vr_b	25	
+r_vr_p	25	
 a03a	25	[Alternate | Deck 2 Port (Alternate)]
 a03b	25	[Alternate | Deck 2 Starboard (Alternate)]
 a25a	25	[Alternate | Shell Connecting Bridge (Snake Tales)]
 a41b	25	
-sp06a	24	[VR: Variety | Level 6]
+st01a	25	[VR: Streaking | Level 1]
+st02a	25	[VR: Streaking | Level 2]
+st03a	25	[VR: Streaking | Level 3]
+st04a	25	[VR: Streaking | Level 4]
+tvs03a	25	
+vs01a	25	[VR: Sneaking | Level 1]
+vs02a	25	[VR: Sneaking | Level 2]
+vs03a	25	[VR: Sneaking | Level 3]
+vs04a	25	[VR: Sneaking | Level 4]
+vs07a	25	[VR: Sneaking | Level 7]
+vs09a	25	[VR: Sneaking | Level 9]
+r_vr_1	24	
+r_vr_r	24	
+r_vr_rp	24	
+r_vr_s	24	
+r_vr_sp	24	
+r_vr_t	24	
+d080p01	24	[Plant | Cutscene d080p01]
 a00a	23	[Alternate | Deck A - Port (Alternate)]
 ta00a	23	
 a02a	22	[Alternate | Engine Room (Alternate)]
+sp06a	22	[VR: Variety | Level 6]
 ta02a	22	
-r_plt0	22	
-r_plt2	22	
-r_plt3	22	
-r_plt_s	22	
-mselect	21	[Menu | VR Missions Menu]
-r_plt1	21	
-r_tnk_r	21	
+r_plt0	21	
+r_plt2	21	
+r_plt3	21	
+r_plt_s	21	
 w21b	21	[Plant | EF Connecting Bridge 2]
+r_vr_x	20	
+r_plt1	20	
+r_tnk_r	20	
 w45a	20	[Plant | GW - Sigmoid Colon]
 w25d	20	[Plant | KL Connecting Bridge]
 w01c	20	[Tanker | Deck C Crew Quarters]
@@ -299,7 +298,7 @@ w43a	18	[Plant | GW - Ascending Colon]
 w01d	18	[Tanker | Deck D Crew Quarters]
 w24a	18	[Plant | Shell 1 Core - 1F]
 w24d	18	[Plant | Shell 1 Core - B2]
-r_tnk0	17	
+mselect	17	[Menu | VR Missions Menu]
 w44a	17	[Plant | GW - Ileum]
 d01t	17	[Tanker | Navigational Deck (Russian Invasion)]
 d04t	17	[Tanker | Identifying Choppers]
@@ -309,6 +308,7 @@ w00b	17	[Tanker | Deck A - Starboard (Olga)]
 w16b	17	[Plant | Dining Hall (Post Stillman)]
 w23a	17	[Plant | FA Connecting Bridge]
 w14a	17	[Plant | Transformer Room]
+r_tnk0	16	
 w24b	16	[Plant | Shell 1 Core - B1]
 w20a	16	[Plant | Parcel Room]
 w16a	16	[Plant | Dining Hall]
@@ -323,7 +323,6 @@ w22a	16	[Plant | Warehouse]
 w28a	16	[Plant | Sewage Treatment]
 d065p02	16	[Plant | Cutscene d065p02]
 w32b	16	[Plant | Oil Fence (Vamp Fight)]
-d13t	15	[Tanker | Cutscene d13t (NG+ Rewards)]
 w18a	15	[Plant | Sediment Pool]
 w17a	15	[Plant | CD Connecting Bridge]
 w15b	15	[Plant | BC Connecting Bridge (After Stillman)]
@@ -333,6 +332,7 @@ w12b	15	[Plant | Strut A Pump Room]
 w19a	15	[Plant | DE Connecting Bridge]
 w32a	15	[Plant | Oil Fence]
 d063p01	15	[Plant | Cutscene d063p01]
+d13t	14	[Tanker | Cutscene d13t (NG+ Rewards)]
 w41a	14	[Plant | GW - Stomach]
 w42a	14	[Plant | GW - Jejunum]
 w00a	14	[Tanker | Deck A - Port]
@@ -354,7 +354,6 @@ w01a	12	[Tanker | Deck A Crew Quarters]
 w61a	12	[Plant | Federal Hall]
 w20c	12	[Plant | Heliport (Bomb)]
 w02a	12	[Tanker | Engine Room]
-tales	11	[Menu | Snake Tales Menu]
 w31c	11	[Plant | Shell 2 Filtration Chamber No.2]
 w31f	11	
 d055p01	11	[Plant | Cutscene d055p01]
@@ -369,6 +368,7 @@ d045p01	11	[Plant | Cutscene d045p01]
 d10t	11	[Tanker | Cutscene d10t]
 d11t	11	[Tanker | Cutscene d11t]
 d14t	11	[Tanker | Cutscene d14t]
+tales	10	[Menu | Snake Tales Menu]
 w51a	10	[Plant | Arsenal Gear]
 d080p08	10	[Plant | Cutscene d080p08]
 w03b	10	[Tanker | Deck 2 Starboard]
@@ -390,8 +390,6 @@ w04c	7	[Tanker | Hold No.3]
 d046p01	7	[Plant | Cutscene d046p01]
 d021p01	6	[Plant | Fatman and Ninja]
 d001p01	4	[Plant | Plant Opening]
-ending	4	[Plant | Results Screen]
-sselect	4	
 r_plt11	4	
 r_plt13	4	
 r_plt7	4	
@@ -401,18 +399,20 @@ init	4
 r_plt10	4	
 r_plt12	4	
 r_plt6	4	
+ending	3	[Plant | Results Screen]
+sselect	3	
 photo	3	
 d005p03	2	[Plant | Strut A Roof Cutscene]
-f00a	2	
-f01a	2	
-f01b	2	
-f01c	2	
-f01d	2	
-f01e	2	
-f01f	2	
-capture	2	
+f00a	1	
+f01a	1	
+f01b	1	
+f01c	1	
+f01d	1	
+f01e	1	
+f01f	1	
+capture	1	
 
-TOTAL UNIQUE MISSING: 1375
+TOTAL UNIQUE MISSING: 1257
 
 === MISSING TEXTURE COUNTS BY STAGE (ALPHABETICAL) ===
 a00a	23	[Alternate | Deck A - Port (Alternate)]
@@ -470,7 +470,7 @@ a43a	34	[Alternate | GW - Ascending Colon (Snake Tales)]
 a45a	36	[Alternate | GW - Sigmoid Colon (Snake Tales)]
 a46a	59	[Alternate | GW - Rectum (Snake Tales)]
 a61a	27	[Alternate | Federal Hall (Snake Tales)]
-capture	2	
+capture	1	
 d001p01	4	[Plant | Plant Opening]
 d005p01	12	[Plant | Raiden On Elevator]
 d005p03	2	[Plant | Strut A Roof Cutscene]
@@ -494,7 +494,7 @@ d070p01	9	[Plant | Cutscene d070p01]
 d070p09	13	[Plant | Cutscene d070p09]
 d070px9	10	[Plant | Cutscene d070px9]
 d078p01	10	[Plant | Cutscene d078p01]
-d080p01	25	[Plant | Cutscene d080p01]
+d080p01	24	[Plant | Cutscene d080p01]
 d080p06	8	[Plant | Cutscene d080p06]
 d080p07	18	[Plant | Cutscene d080p07]
 d080p08	10	[Plant | Cutscene d080p08]
@@ -504,65 +504,65 @@ d11t	11	[Tanker | Cutscene d11t]
 d12t	10	[Tanker | Cutscene d12t]
 d12t3	11	[Tanker | Cutscene d12t3]
 d12t4	11	[Tanker | Cutscene d12t4]
-d13t	15	[Tanker | Cutscene d13t (NG+ Rewards)]
+d13t	14	[Tanker | Cutscene d13t (NG+ Rewards)]
 d14t	11	[Tanker | Cutscene d14t]
-ending	4	[Plant | Results Screen]
-f00a	2	
-f01a	2	
-f01b	2	
-f01c	2	
-f01d	2	
-f01e	2	
-f01f	2	
+ending	3	[Plant | Results Screen]
+f00a	1	
+f01a	1	
+f01b	1	
+f01c	1	
+f01d	1	
+f01e	1	
+f01f	1	
 init	4	
-mselect	21	[Menu | VR Missions Menu]
-n_title	150	[Menu | Title Screen]
+mselect	17	[Menu | VR Missions Menu]
+n_title	142	[Menu | Title Screen]
 node	98	
 photo	3	
-r_plt0	22	
-r_plt1	21	
+r_plt0	21	
+r_plt1	20	
 r_plt10	4	
 r_plt11	4	
 r_plt12	4	
 r_plt13	4	
-r_plt2	22	
-r_plt3	22	
+r_plt2	21	
+r_plt3	21	
 r_plt4	19	
 r_plt5	19	
 r_plt6	4	
 r_plt7	4	
 r_plt8	4	
 r_plt9	4	
-r_plt_s	22	
+r_plt_s	21	
 r_rai_b	35	
 r_sna_b	31	
-r_tnk0	17	
-r_tnk_r	21	
-r_vr_1	40	
-r_vr_b	41	
-r_vr_p	41	
-r_vr_r	40	
-r_vr_rp	40	
-r_vr_s	40	
-r_vr_sp	40	
-r_vr_t	40	
-r_vr_x	36	
-sp01a	73	[VR: Variety | Level 1]
-sp02a	32	[VR: Variety | Level 2]
-sp03a	42	[VR: Variety | Level 3]
-sp06a	24	[VR: Variety | Level 6]
-sp07a	50	[VR: Variety | Level 7]
-sp08a	30	[VR: Variety | Level 8]
-sp21a	39	[VR: First-Person | Level 1]
-sp22a	107	[VR: First-Person | Level 2]
-sp24a	30	[VR: First-Person | Level 4]
-sp25a	173	[VR: First-Person | Level 5]
-sselect	4	
-st01a	27	[VR: Streaking | Level 1]
-st02a	30	[VR: Streaking | Level 2]
-st03a	30	[VR: Streaking | Level 3]
-st04a	28	[VR: Streaking | Level 4]
-st05a	53	
+r_tnk0	16	
+r_tnk_r	20	
+r_vr_1	24	
+r_vr_b	25	
+r_vr_p	25	
+r_vr_r	24	
+r_vr_rp	24	
+r_vr_s	24	
+r_vr_sp	24	
+r_vr_t	24	
+r_vr_x	20	
+sp01a	70	[VR: Variety | Level 1]
+sp02a	30	[VR: Variety | Level 2]
+sp03a	40	[VR: Variety | Level 3]
+sp06a	22	[VR: Variety | Level 6]
+sp07a	48	[VR: Variety | Level 7]
+sp08a	28	[VR: Variety | Level 8]
+sp21a	37	[VR: First-Person | Level 1]
+sp22a	105	[VR: First-Person | Level 2]
+sp24a	28	[VR: First-Person | Level 4]
+sp25a	171	[VR: First-Person | Level 5]
+sselect	3	
+st01a	25	[VR: Streaking | Level 1]
+st02a	25	[VR: Streaking | Level 2]
+st03a	25	[VR: Streaking | Level 3]
+st04a	25	[VR: Streaking | Level 4]
+st05a	27	
 ta00a	23	
 ta01a	27	
 ta01b	28	
@@ -577,25 +577,25 @@ ta22a	31
 ta24a	33	
 ta31a	29	
 ta42a	29	
-tales	11	[Menu | Snake Tales Menu]
-tsp03a	42	
-tvs03a	30	
-tvs05a	39	
-tvs06a	42	
-tvs08a	53	
-twp03a	49	
-twp34a	39	
-twp43a	52	
-vs01a	27	[VR: Sneaking | Level 1]
-vs02a	30	[VR: Sneaking | Level 2]
-vs03a	30	[VR: Sneaking | Level 3]
-vs04a	28	[VR: Sneaking | Level 4]
-vs05a	39	[VR: Sneaking | Level 5]
-vs06a	42	[VR: Sneaking | Level 6]
-vs07a	35	[VR: Sneaking | Level 7]
-vs08a	53	[VR: Sneaking | Level 8]
-vs09a	33	[VR: Sneaking | Level 9]
-vs10a	61	[VR: Sneaking | Level 10]
+tales	10	[Menu | Snake Tales Menu]
+tsp03a	40	
+tvs03a	25	
+tvs05a	28	
+tvs06a	26	
+tvs08a	27	
+twp03a	47	
+twp34a	37	
+twp43a	50	
+vs01a	25	[VR: Sneaking | Level 1]
+vs02a	25	[VR: Sneaking | Level 2]
+vs03a	25	[VR: Sneaking | Level 3]
+vs04a	25	[VR: Sneaking | Level 4]
+vs05a	28	[VR: Sneaking | Level 5]
+vs06a	26	[VR: Sneaking | Level 6]
+vs07a	25	[VR: Sneaking | Level 7]
+vs08a	27	[VR: Sneaking | Level 8]
+vs09a	25	[VR: Sneaking | Level 9]
+vs10a	37	[VR: Sneaking | Level 10]
 w00a	14	[Tanker | Deck A - Port]
 w00b	17	[Tanker | Deck A - Starboard (Olga)]
 w00c	13	[Tanker | Navigational Deck]
@@ -661,43 +661,43 @@ w45a	20	[Plant | GW - Sigmoid Colon]
 w46a	44	[Plant | GW - Rectum]
 w51a	10	[Plant | Arsenal Gear]
 w61a	12	[Plant | Federal Hall]
-wp01a	85	[VR: Weapons - SOCOM | Level 1]
-wp02a	85	[VR: Weapons - SOCOM | Level 2]
-wp03a	49	[VR: Weapons - SOCOM | Level 3]
-wp04a	40	[VR: Weapons - SOCOM | Level 4]
-wp05a	67	[VR: Weapons - SOCOM | Level 5]
-wp11a	36	[VR: Weapons - M4 | Level 1]
-wp12a	36	[VR: Weapons - M4 | Level 2]
-wp13a	43	[VR: Weapons - M4 | Level 3]
-wp14a	37	[VR: Weapons - M4 | Level 4]
-wp15a	32	[VR: Weapons - M4 | Level 5]
-wp21a	31	[VR: Weapons - Claymore | Level 1]
-wp22a	32	[VR: Weapons - Claymore | Level 2]
-wp23a	41	[VR: Weapons - Claymore | Level 3]
-wp24a	37	[VR: Weapons - Claymore | Level 4]
-wp25a	36	[VR: Weapons - Claymore | Level 5]
-wp31a	30	[VR: Weapons - Grenade | Level 1]
-wp32a	31	[VR: Weapons - Grenade | Level 2]
-wp33a	37	[VR: Weapons - Grenade | Level 3]
-wp34a	39	[VR: Weapons - Grenade | Level 4]
-wp35a	50	[VR: Weapons - Grenade | Level 5]
-wp41a	44	[VR: Weapons - PSG1 | Level 1]
-wp42a	44	[VR: Weapons - PSG1 | Level 2]
-wp43a	52	[VR: Weapons - PSG1 | Level 3]
-wp44a	52	[VR: Weapons - PSG1 | Level 4]
-wp45a	47	[VR: Weapons - PSG1 | Level 5]
-wp51a	37	[VR: Weapons - Stinger | Level 1]
-wp52a	61	[VR: Weapons - Stinger | Level 2]
-wp53a	44	[VR: Weapons - Stinger | Level 3]
-wp54a	73	[VR: Weapons - Stinger | Level 4]
-wp55a	66	[VR: Weapons - Stinger | Level 5]
-wp61a	35	[VR: Weapons - Nikita | Level 1]
-wp62a	96	[VR: Weapons - Nikita | Level 2]
-wp63a	44	[VR: Weapons - Nikita | Level 3]
-wp64a	46	[VR: Weapons - Nikita | Level 4]
-wp65a	101	[VR: Weapons - Nikita | Level 5]
-wp71a	31	[VR: Weapons - No Weapon | Level 1]
-wp72a	31	[VR: Weapons - No Weapon | Level 2]
-wp73a	63	[VR: Weapons - No Weapon | Level 3]
-wp74a	63	[VR: Weapons - No Weapon | Level 4]
-wp75a	36	[VR: Weapons - No Weapon | Level 5]
+wp01a	83	[VR: Weapons - SOCOM | Level 1]
+wp02a	83	[VR: Weapons - SOCOM | Level 2]
+wp03a	47	[VR: Weapons - SOCOM | Level 3]
+wp04a	38	[VR: Weapons - SOCOM | Level 4]
+wp05a	65	[VR: Weapons - SOCOM | Level 5]
+wp11a	34	[VR: Weapons - M4 | Level 1]
+wp12a	34	[VR: Weapons - M4 | Level 2]
+wp13a	41	[VR: Weapons - M4 | Level 3]
+wp14a	35	[VR: Weapons - M4 | Level 4]
+wp15a	30	[VR: Weapons - M4 | Level 5]
+wp21a	29	[VR: Weapons - Claymore | Level 1]
+wp22a	30	[VR: Weapons - Claymore | Level 2]
+wp23a	39	[VR: Weapons - Claymore | Level 3]
+wp24a	35	[VR: Weapons - Claymore | Level 4]
+wp25a	34	[VR: Weapons - Claymore | Level 5]
+wp31a	28	[VR: Weapons - Grenade | Level 1]
+wp32a	29	[VR: Weapons - Grenade | Level 2]
+wp33a	35	[VR: Weapons - Grenade | Level 3]
+wp34a	37	[VR: Weapons - Grenade | Level 4]
+wp35a	48	[VR: Weapons - Grenade | Level 5]
+wp41a	42	[VR: Weapons - PSG1 | Level 1]
+wp42a	42	[VR: Weapons - PSG1 | Level 2]
+wp43a	50	[VR: Weapons - PSG1 | Level 3]
+wp44a	50	[VR: Weapons - PSG1 | Level 4]
+wp45a	45	[VR: Weapons - PSG1 | Level 5]
+wp51a	35	[VR: Weapons - Stinger | Level 1]
+wp52a	59	[VR: Weapons - Stinger | Level 2]
+wp53a	42	[VR: Weapons - Stinger | Level 3]
+wp54a	71	[VR: Weapons - Stinger | Level 4]
+wp55a	64	[VR: Weapons - Stinger | Level 5]
+wp61a	33	[VR: Weapons - Nikita | Level 1]
+wp62a	94	[VR: Weapons - Nikita | Level 2]
+wp63a	42	[VR: Weapons - Nikita | Level 3]
+wp64a	44	[VR: Weapons - Nikita | Level 4]
+wp65a	99	[VR: Weapons - Nikita | Level 5]
+wp71a	29	[VR: Weapons - No Weapon | Level 1]
+wp72a	29	[VR: Weapons - No Weapon | Level 2]
+wp73a	61	[VR: Weapons - No Weapon | Level 3]
+wp74a	61	[VR: Weapons - No Weapon | Level 4]
+wp75a	34	[VR: Weapons - No Weapon | Level 5]

@@ -1,4 +1,4 @@
-mgs2/base|mgs2-ps2-text /<000385a3|009f2fba|00de6f30|00e0bf95|00e9c58b|00edb58b|00f0b18b|angle_alp_ovl.bmp|call_alp_ovl.bmp|cigarette_tx_alp.bmp|dogtag_chain_black_msk.bmp|dogtag_tx_alp.bmp|nametag_gbs1_def_add_alp.bmp|nametag_hexa_def_add_alp.bmp|nametag_octa_def_add_alp.bmp|nametag_square_def_add_alp.bmp|nametag_straw_def_add_alp.bmp|nametag_triangle_def_add_alp.bmp|nametag_wall_def_add_alp.bmp|nom_alp_ovl.bmp|rabel_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|stg_rabel_alp_ovl.bmp|vr2_dankon1_add_alp.bmp|vr2_dankon2_add_alp.bmp|vr2_noise_b1_alp.bmp|vs02a_sdw01_alp_ovl.bmp|vs02a_sdw03_alp_ovl.bmp|vs02a_sdw05_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
+mgs2/base|mgs2-ps2-text /<000385a3|009f2fba|00de6f30|00e0bf95|00e9c58b|00edb58b|00f0b18b|angle_alp_ovl.bmp|call_alp_ovl.bmp|cigarette_tx_alp.bmp|dogtag_chain_black_msk.bmp|dogtag_tx_alp.bmp|nametag_gbs1_def_add_alp.bmp|nametag_hexa_def_add_alp.bmp|nametag_octa_def_add_alp.bmp|nametag_square_def_add_alp.bmp|nametag_straw_def_add_alp.bmp|nametag_triangle_def_add_alp.bmp|nametag_wall_def_add_alp.bmp|nom_alp_ovl.bmp|rabel_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|stg_rabel_alp_ovl.bmp|vr2_noise_b1_alp.bmp|zoom_alp_ovl.bmp>.png
 000385a3
 009f2fba
 00de6f30
@@ -22,10 +22,5 @@ nom_alp_ovl.bmp
 rabel_alp_ovl.bmp
 rdr_yaji_alp_ovl.bmp
 stg_rabel_alp_ovl.bmp
-vr2_dankon1_add_alp.bmp
-vr2_dankon2_add_alp.bmp
 vr2_noise_b1_alp.bmp
-vs02a_sdw01_alp_ovl.bmp
-vs02a_sdw03_alp_ovl.bmp
-vs02a_sdw05_alp_ovl.bmp
 zoom_alp_ovl.bmp

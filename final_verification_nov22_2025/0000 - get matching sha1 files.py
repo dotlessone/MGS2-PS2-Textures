@@ -27,7 +27,9 @@ EXCLUDE_DIRS = ["Self Remade", "Renamed Copies - Better LODs", "skateboarding", 
 # ==========================================================
 COMBINED_LOG_PATH = os.path.join(os.path.dirname(__file__), "Get Matching SHA1 Files.log")
 EVERYTHING_LINES_PATH = os.path.join(os.path.dirname(__file__), "Everything Lines.log")
+EVERYTHING_LINES_STAGE_PATH = os.path.join(os.path.dirname(__file__), "Everything Lines - Stage Matched Only.log")
 open(EVERYTHING_LINES_PATH, "w", encoding="utf-8").close()
+open(EVERYTHING_LINES_STAGE_PATH, "w", encoding="utf-8").close()
 
 LOG_LOCK = threading.Lock()
 LOG_MEMORY = {}
@@ -140,6 +142,46 @@ def load_ps2_dimensions(csv_path):
             if tex and w.isdigit() and h.isdigit():
                 dims[tex] = (int(w), int(h))
     return dims
+
+def load_stage_map(csv_path):
+    """Return set of valid stage names from texture map (case-insensitive)."""
+    stages = set()
+    if not os.path.exists(csv_path):
+        print(f"[!] Warning: Stage map CSV not found at {csv_path}")
+        return stages
+
+    with open(csv_path, "r", encoding="utf-8", newline="") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if not row or row[0].startswith(";"):
+                continue
+            if len(row) < 2:
+                continue
+            stage = (row[1] or "").strip().lower()
+            if stage:
+                stages.add(stage)
+    print(f"[+] Loaded {len(stages)} unique stage names from texture_map.csv")
+    return stages
+
+def load_texture_stage_pairs(csv_path):
+    """Return dict mapping texture_name -> set(stages)."""
+    mapping = {}
+    if not os.path.exists(csv_path):
+        print(f"[!] Warning: Stage map CSV not found at {csv_path}")
+        return mapping
+
+    with open(csv_path, "r", encoding="utf-8", newline="") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if not row or row[0].startswith(";"):
+                continue
+            if len(row) < 2:
+                continue
+            tex = (row[0] or "").strip().lower()
+            stage = (row[1] or "").strip().lower()
+            if tex and stage:
+                mapping.setdefault(tex, set()).add(stage)
+    return mapping
 
 # ==========================================================
 # MANUAL VERIFICATION
@@ -377,6 +419,11 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
     suggestions_logged = 0
     no_match_entries = []
 
+    # Load texture map + stage info
+    texture_map_csv = os.path.join(ROOT_DIR, "u - dumped from substance", "mgs2_texture_map.csv")
+    valid_stages = load_stage_map(texture_map_csv)
+    texture_stage_map = load_texture_stage_pairs(texture_map_csv)
+
     # =====================================================
     # Full-path blacklist (applies to all passes)
     # =====================================================
@@ -483,7 +530,7 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                             "tex_name": tex
                         })
 
-        # Sort mismatches by number of matches (ascending)
+        # Sort mismatches by number of matches (ascending), then SHA1
         mismatch_results.sort(key=lambda r: (len(r["matches"]), r["sha1"].lower()))
 
         # Write sorted mismatches to log with separated match sections
@@ -504,10 +551,23 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                 with open(EVERYTHING_LINES_PATH, "a", encoding="utf-8") as f:
                     f.write(everything_line)
                 log.write(everything_line)
+
                 log.write("Possible matching textures (not already found):\n")
                 for m in not_identified:
                     suffix = '\t!"/ALREADY FILE NAME/"' if m.lower() == r["tex_name"] else ""
                     log.write(f"  - {m}{suffix}\n")
+
+                # Stage-matched variant (only matches in same stage)
+                stage_name = os.path.basename(os.path.dirname(full_path)).lower()
+                if stage_name in valid_stages:
+                    stage_matched = [
+                        m for m in not_identified
+                        if stage_name in texture_stage_map.get(m.lower(), set())
+                    ]
+                    if stage_matched:
+                        stage_line = f"\"{full_path}\"|<\"mgs2/base textures/\" /<{'|'.join(stage_matched)}>.png>\n"
+                        with open(EVERYTHING_LINES_STAGE_PATH, "a", encoding="utf-8") as f:
+                            f.write(stage_line)
 
             if already_identified:
                 inline = "|".join(already_identified)
@@ -699,6 +759,19 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
                 for m in not_identified:
                     suffix = '\t!"/ALREADY FILE NAME/"' if m.lower() == r["tex_name"] else ""
                     log.write(f"  - {m}{suffix}\n")
+
+                # Stage-matched variant (only matches in same stage)
+                stage_name = os.path.basename(os.path.dirname(full_path)).lower()
+                if stage_name in valid_stages:
+                    stage_matched = [
+                        m for m in not_identified
+                        if stage_name in texture_stage_map.get(m.lower(), set())
+                    ]
+                    if stage_matched:
+                        stage_line = f"\"{full_path}\"|<\"mgs2/base textures/\" /<{'|'.join(stage_matched)}>.png>\n"
+                        with open(EVERYTHING_LINES_STAGE_PATH, "a", encoding="utf-8") as f:
+                            f.write(stage_line)
+
             if already_identified:
                 inline = "|".join(already_identified)
                 log.write(f"Possible matching textures (already identified): {inline}\n")
@@ -733,9 +806,6 @@ def check_external_wrong_dimensions(ps2_csv, root_dir, dest_dir, exclude_dirs):
 
 # ==========================================================
 # PASS RUNNERS
-
-# ==========================================================
-# PASS RUNNERS (MERGED LOG)
 # ==========================================================
 def run_pass(csv_path, pass_name, conflict_check=False):
     log_path = COMBINED_LOG_PATH
@@ -836,7 +906,7 @@ def generate_confirmed_sha1_metadata():
     OUTPUT_CSV = os.path.join(ROOT_DIR, "u - dumped from substance", "pcsx2_confirmed_sha1_metadata.csv")
 
     # --- Helper Functions ---
-    def calc_sha1(path):
+    def _calc_sha1(path):
         h = hashlib.sha1()
         with open(path, "rb") as f:
             for chunk in iter(lambda: f.read(8192), b""):
@@ -862,11 +932,9 @@ def generate_confirmed_sha1_metadata():
             return False, str(e)
 
     def ensure_tmp_exists():
-        """Create tmp directory only if needed."""
         if not os.path.isdir(TMP_DIR):
             os.makedirs(TMP_DIR, exist_ok=True)
 
-    # --- Load existing metadata CSV (if any) ---
     existing_meta = {}
     if os.path.exists(OUTPUT_CSV):
         try:
@@ -882,7 +950,6 @@ def generate_confirmed_sha1_metadata():
         except Exception as e:
             print(f"[!] Failed to read existing metadata CSV: {e}")
 
-    # --- Gather all PNGs ---
     png_files = []
     for dirpath, _, files in os.walk(VERIFY_DIR):
         for fn in files:
@@ -905,14 +972,12 @@ def generate_confirmed_sha1_metadata():
         nonlocal reused, resaved_count, tmp_used
         try:
             name = os.path.splitext(os.path.basename(path))[0].lower()
-            sha1_original = calc_sha1(path)
+            sha1_original = _calc_sha1(path)
 
-            # Dimensions + alpha
             with Image.open(path) as img:
                 width, height = img.size
             alpha_levels = get_alpha_levels(path)
 
-            # If entry exists and hash matches, reuse resaved_sha1
             existing_entry = existing_meta.get(name)
             if existing_entry and existing_entry[0] == sha1_original:
                 sha1_resaved = existing_entry[1] or sha1_original
@@ -920,7 +985,6 @@ def generate_confirmed_sha1_metadata():
                     reused += 1
                 return (name, sha1_original, sha1_resaved, str(alpha_levels), width, height)
 
-            # Otherwise perform resave (lazy tmp creation)
             ensure_tmp_exists()
             tmp_used = True
             tmp_path = os.path.join(TMP_DIR, os.path.basename(path))
@@ -931,7 +995,7 @@ def generate_confirmed_sha1_metadata():
                 os.remove(tmp_path)
                 return None
 
-            sha1_resaved = calc_sha1(tmp_path)
+            sha1_resaved = _calc_sha1(tmp_path)
             os.remove(tmp_path)
 
             with lock:
@@ -953,10 +1017,8 @@ def generate_confirmed_sha1_metadata():
             if completed % 250 == 0 or completed == len(png_files):
                 print(f"[Metadata Export] {completed}/{len(png_files)} processed...")
 
-    # Sort alphabetically
     results.sort(key=lambda r: r[0].lower())
 
-    # Write new CSV
     os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
     with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as out:
         writer = csv.writer(out)
@@ -970,7 +1032,6 @@ def generate_confirmed_sha1_metadata():
         ])
         writer.writerows(results)
 
-    # Cleanup tmp if created
     if tmp_used and os.path.isdir(TMP_DIR):
         try:
             for f in os.listdir(TMP_DIR):
@@ -997,7 +1058,6 @@ def extract_already_named_entries():
     log_src = os.path.join(os.path.dirname(__file__), "External PNG Status Checks.log")
     output_csv = os.path.join(os.path.dirname(__file__), "already_named_files.csv")
 
-    # Clean up any existing output
     if os.path.exists(output_csv):
         try:
             os.remove(output_csv)
@@ -1031,7 +1091,6 @@ def extract_already_named_entries():
         print("[Post-Process] No !\"/ALREADY FILE NAME/\" entries found.")
         return
 
-    # Sort alphabetically by filename (case-insensitive)
     entries.sort(key=lambda x: x[0].lower())
 
     with open(output_csv, "w", encoding="utf-8", newline="") as f:
@@ -1055,7 +1114,6 @@ if __name__ == "__main__":
     extract_already_named_entries()
     print(f"\n[+] Combined verification log saved at: {COMBINED_LOG_PATH}")
 
-
     if os.path.exists(EVERYTHING_LINES_PATH):
         try:
             with open(EVERYTHING_LINES_PATH, "r", encoding="utf-8") as f:
@@ -1066,7 +1124,18 @@ if __name__ == "__main__":
             print(f"[Post-Process] Sorted {len(lines)} entries in {EVERYTHING_LINES_PATH}")
         except Exception as e:
             print(f"[!] Failed to sort {EVERYTHING_LINES_PATH}: {e}")
-            
+
+    if os.path.exists(EVERYTHING_LINES_STAGE_PATH):
+        try:
+            with open(EVERYTHING_LINES_STAGE_PATH, "r", encoding="utf-8") as f:
+                lines = sorted(set(line.strip() for line in f if line.strip()))
+            with open(EVERYTHING_LINES_STAGE_PATH, "w", encoding="utf-8") as f:
+                for line in lines:
+                    f.write(line + "\n")
+            print(f"[Post-Process] Sorted {len(lines)} entries in {EVERYTHING_LINES_STAGE_PATH}")
+        except Exception as e:
+            print(f"[!] Failed to sort {EVERYTHING_LINES_STAGE_PATH}: {e}")
+
     import subprocess
     try:
         generate_script = os.path.join(os.path.dirname(__file__), "0001 - generate list of remaining stages.py")
