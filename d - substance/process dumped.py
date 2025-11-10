@@ -81,6 +81,7 @@ def main():
     target_dir = os.path.join(repo_root, "d - substance")
     csv_path = os.path.join(repo_root, "pcsx2_dumped_sha1_log.csv")
     texture_map_path = os.path.join(repo_root, "u - dumped from substance", "mgs2_texture_map.csv")
+    next_script = os.path.join(repo_root, "scripts", "check pcsx2 crc32s against tri-dumped and mc.py")
 
     if not os.path.isdir(target_dir):
         print(f"ERROR: Target directory not found: {target_dir}")
@@ -270,6 +271,16 @@ def main():
     print(f"Stage verification errors: {len(stage_errors)} written to {log_stage}")
     print(f"Duplicate filenames: {len(duplicate_names)} written to {log_dupes}")
     print("All temporary folders removed. Done.")
+
+    if os.path.isfile(next_script):
+        print(f"[*] Running follow-up script: {next_script}")
+        try:
+            subprocess.run(["python", next_script], check=True)
+            print("[+] check pcsx2 crc32s against tri-dumped and mc.py completed successfully.")
+        except subprocess.CalledProcessError as e:
+            print(f"[ERROR] Follow-up script failed: {e}")
+    else:
+        print(f"[WARN] Follow-up script not found: {next_script}")
 
 # ==========================================================
 # ENTRY POINT

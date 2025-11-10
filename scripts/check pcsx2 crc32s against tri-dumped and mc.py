@@ -158,3 +158,13 @@ if __name__ == "__main__":
         exclude_fields=["mc_alpha_stripped_sha1"],
         ps2_ref_rows=tex_rows,
     )
+    
+    next_script = os.path.join(repo_root, "final_verification_nov22_2025", "0000 - get matching sha1 files.py")
+    if os.path.isfile(next_script):
+        print(f"[>] Running post-process script: {next_script}")
+        result = subprocess.run(["python", next_script], capture_output=True, text=True)
+        print(result.stdout)
+        if result.stderr:
+            print(result.stderr)
+    else:
+        print(f"[!] Post-process script not found at: {next_script}")

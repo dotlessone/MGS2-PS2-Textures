@@ -267,14 +267,14 @@ STAGE_ALIASES = {
     "wp14a": ("VR: Weapons - M4", "Level 4"),
     "wp15a": ("VR: Weapons - M4", "Level 5"),
 
-    # VR: Weapons - Claymore
-    "wp21a": ("VR: Weapons - Claymore", "Level 1"),
-    "wp22a": ("VR: Weapons - Claymore", "Level 2"),
-    "wp23a": ("VR: Weapons - Claymore", "Level 3"),
-    "wp24a": ("VR: Weapons - Claymore", "Level 4"),
-    "wp25a": ("VR: Weapons - Claymore", "Level 5"),
+    # VR: Weapons - C4/Claymore
+    "wp21a": ("VR: Weapons - C4/Claymore", "Level 1"),
+    "wp22a": ("VR: Weapons - C4/Claymore", "Level 2"),
+    "wp23a": ("VR: Weapons - C4/Claymore", "Level 3"),
+    "wp24a": ("VR: Weapons - C4/Claymore", "Level 4"),
+    "wp25a": ("VR: Weapons - C4/Claymore", "Level 5"),
 
-    # VR: Weapons - Grenade
+    # VR: Weapons - Grenade / RGB-8
     "wp31a": ("VR: Weapons - Grenade", "Level 1"),
     "wp32a": ("VR: Weapons - Grenade", "Level 2"),
     "wp33a": ("VR: Weapons - Grenade", "Level 3"),
@@ -302,12 +302,12 @@ STAGE_ALIASES = {
     "wp64a": ("VR: Weapons - Nikita", "Level 4"),
     "wp65a": ("VR: Weapons - Nikita", "Level 5"),
 
-    # VR: Weapons - No Weapon
-    "wp71a": ("VR: Weapons - No Weapon", "Level 1"),
-    "wp72a": ("VR: Weapons - No Weapon", "Level 2"),
-    "wp73a": ("VR: Weapons - No Weapon", "Level 3"),
-    "wp74a": ("VR: Weapons - No Weapon", "Level 4"),
-    "wp75a": ("VR: Weapons - No Weapon", "Level 5"),
+    # VR: Weapons - No Weapon / HF.Blade
+    "wp71a": ("VR: Weapons - No Weapon / HF.Blade", "Level 1"),
+    "wp72a": ("VR: Weapons - No Weapon / HF.Blade", "Level 2"),
+    "wp73a": ("VR: Weapons - No Weapon / HF.Blade", "Level 3"),
+    "wp74a": ("VR: Weapons - No Weapon / HF.Blade", "Level 4"),
+    "wp75a": ("VR: Weapons - No Weapon / HF.Blade", "Level 5"),
 }
 # ==========================================================
 # HELPERS

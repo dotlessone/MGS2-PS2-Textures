@@ -13,74 +13,63 @@ from PIL import Image
 # ==========================================================
 # CONFIGURATION
 # ==========================================================
-
-# These regexes are evaluated BEFORE all other checks
-# Any filename matching one will be deleted immediately
 FORCE_DELETE_PATTERNS = [
-    r"-20d9773182cf07ff-r553x148-000022ac$",
-    r"-c08affed504498f1-r0x320-00002654$",
-    r"-r513x449-80c02642$",
-    r"d658061781d2d4f-0000226c$",
-    r"f63f71fcdbafe788",
-    r"d4f8a5f69be016a8",
-    r"80c02a82$",
-    r"-r513x121-000022ac$",
-    r"20b055d3da46a453-0000226c$",
-    r"80402642$",
-    r"7816945abaccac11",
-    r"6f0c6024f6730294-r513x121-0000226c",
-    r"80c02202$",
-    r"-r511x447-80c02642$",
-    r"e610aa167a687a0f-00001aac$",
-    r"r4x4-00001dd4$",
-    r"f9a899aadeaaf853-abaa789c1ebbac91-r64x64-00002a54$",
-    r"343e3f4d7ac51784-abaa789c1ebbac91-r64x64-00002a54$",
-    r"cdbdf4b821b4fcce-abaa789c1ebbac91-r64x64-00002a54$",
-    r"f3ac5df1b4b11f1-abaa789c1ebbac91-r64x64-00002a54$",
-    r"723454847e1ea326-d865a4ca6070a82f-r64x64-00002a54$",
-    r"10d923f22fb93755-d865a4ca6070a82f-r64x64-00002a54$",
-    r"fbdc5d988e1e1e38-d865a4ca6070a82f-r64x64-00002a54$",
-    r"983bcf6f20159710-9d39dafa3a02bf43-r64x64-00002a54$",
-    r"f8f7d4229d4fd138-aa0d5e00a059ec1b-r64x64-00002a54$",
-    r"71d1e5856e14a61-aa0d5e00a059ec1b-r64x64-00002a54$",
-    r"a6151f56b4281894-aa0d5e00a059ec1b-r64x64-00002a54$",
-    r"660efeeb386af521-3c8cdfbb4d60154e-r64x64-00002a54$",
-    r"bf205bd3a141396e-3c8cdfbb4d60154e-r64x64-00002a54$",
-    r"-e610aa167a687a0f-00001a2c$",
-    r"228d7f93799a1978",
-    r"7215e925fde43eae",
-    r"9efcc39081b017f0",
-    r"d658061781d2d4f",
-    r"c78d5c0bfacf8095-3c8cdfbb4d60154e-r64x64-00002a54$",
-    r"1686664efe32789f-3c8cdfbb4d60154e-r64x64-00002a54$",
-    r"f67bd0c61ae10b0c-3c8cdfbb4d60154e-r64x64-00002a54$",
-    r"be314a5bf23c5b39-3c8cdfbb4d60154e-r64x64-00002a54$",
-    r"e19c3b9c4236bb10-a3993454c9a93e21-r64x64-00002a54$",
-    r"8f864fba9ba5e047-9d39dafa3a02bf43-r64x64-00002a54$",
-    r"6665d7c038605ee8-9d39dafa3a02bf43-r64x64-00002a54$",
-    r"833e6b144c858534-d865a4ca6070a82f-r64x64-00002a54$",
-    r"a80906e50e4f52ed-d865a4ca6070a82f-r64x64-00002a54$",
-    r"f5decbd9963946bb-d865a4ca6070a82f-r64x64-00002a54$",
-    r"cd6525eb83f8b74-d865a4ca6070a82f-r64x64-00002a54$",
-    r"f9ebab9325aaa28e-d865a4ca6070a82f-r64x64-00002a54$",
-    r"33ea0ed155772777-abaa789c1ebbac91-r64x64-00002a54$",
-    r"587720d53626e6ce-abaa789c1ebbac91-r64x64-00002a54$",
-    r"3941c8be07ac078e-abaa789c1ebbac91-r64x64-00002a54$",
-    r"8baa88dbc0e3977b-abaa789c1ebbac91-r64x64-00002a54$",
-    r"e29b6e086a0a144-abaa789c1ebbac91-r64x64-00002a54$",
-    r"ce381a47fd2bcbdb-abaa789c1ebbac91-r64x64-00002a54$",
-    r"-00002640$",
+    #r"-00002640\.png$",
+    #r"-20d9773182cf07ff-r553x148-000022ac\.png$",
+    #r"-c08affed504498f1-r0x320-00002654\.png$",
+    #r"-e610aa167a687a0f-00001a2c\.png$",
+    #r"-r511x447-80c02642\.png$",
+    #r"-r513x121-000022ac\.png$",
+    #r"-r513x449-80c02642\.png$",
+    #r"10d923f22fb93755-d865a4ca6070a82f-r64x64-00002a54\.png$",
+    #r"1686664efe32789f-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
+    #r"20b055d3da46a453-0000226c\.png$",
+    #r"228d7f93799a1978",
+    #r"33ea0ed155772777-abaa789c1ebbac91-r64x64-00002a54\.png$",
+    #r"343e3f4d7ac51784-abaa789c1ebbac91-r64x64-00002a54\.png$",
+    #r"3941c8be07ac078e-abaa789c1ebbac91-r64x64-00002a54\.png$",
+    #r"587720d53626e6ce-abaa789c1ebbac91-r64x64-00002a54\.png$",
+    #r"660efeeb386af521-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
+    #r"6665d7c038605ee8-9d39dafa3a02bf43-r64x64-00002a54\.png$",
+    #r"6f0c6024f6730294-r513x121-0000226c",
+    #r"71d1e5856e14a61-aa0d5e00a059ec1b-r64x64-00002a54\.png$",
+    #r"7215e925fde43eae",
+    #r"723454847e1ea326-d865a4ca6070a82f-r64x64-00002a54\.png$",
+    #r"7816945abaccac11",
+    #r"80402642\.png$",
+    #r"80c02202\.png$",
+    #r"80c02a82\.png$",
+    #r"833e6b144c858534-d865a4ca6070a82f-r64x64-00002a54\.png$",
+    #r"8baa88dbc0e3977b-abaa789c1ebbac91-r64x64-00002a54\.png$",
+    #r"8f864fba9ba5e047-9d39dafa3a02bf43-r64x64-00002a54\.png$",
+    #r"983bcf6f20159710-9d39dafa3a02bf43-r64x64-00002a54\.png$",
+    #r"9efcc39081b017f0",
+    #r"a6151f56b4281894-aa0d5e00a059ec1b-r64x64-00002a54\.png$",
+    #r"a80906e50e4f52ed-d865a4ca6070a82f-r64x64-00002a54\.png$",
+    #r"be314a5bf23c5b39-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
+    #r"bf205bd3a141396e-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
+    #r"c78d5c0bfacf8095-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
+    #r"cd6525eb83f8b74-d865a4ca6070a82f-r64x64-00002a54\.png$",
+    #r"cdbdf4b821b4fcce-abaa789c1ebbac91-r64x64-00002a54\.png$",
+    #r"ce381a47fd2bcbdb-abaa789c1ebbac91-r64x64-00002a54\.png$",
+    #r"d4f8a5f69be016a8",
+    #r"d658061781d2d4f",
+    #r"d658061781d2d4f-0000226c\.png$",
+    #r"e19c3b9c4236bb10-a3993454c9a93e21-r64x64-00002a54\.png$",
+    #r"e29b6e086a0a144-abaa789c1ebbac91-r64x64-00002a54\.png$",
+    #r"e610aa167a687a0f-00001aac\.png$",
+    #r"e7866bd43d0e65b4-00002640\.png$",
+    #r"f3ac5df1b4b11f1-abaa789c1ebbac91-r64x64-00002a54\.png$",
+    #r"f5decbd9963946bb-d865a4ca6070a82f-r64x64-00002a54\.png$",
+    #r"f63f71fcdbafe788",
+    #r"f67bd0c61ae10b0c-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
+    #r"f8f7d4229d4fd138-aa0d5e00a059ec1b-r64x64-00002a54\.png$",
+    #r"f9a899aadeaaf853-abaa789c1ebbac91-r64x64-00002a54\.png$",
+    #r"f9ebab9325aaa28e-d865a4ca6070a82f-r64x64-00002a54\.png$",
+    #r"fbdc5d988e1e1e38-d865a4ca6070a82f-r64x64-00002a54\.png$",
+    #r"r4x4-00001dd4\.png$",
 ]
-
 FORCE_DELETE_REGEXES = [re.compile(p, re.IGNORECASE) for p in FORCE_DELETE_PATTERNS]
-
-EXCLUDE_PATTERNS = [
-    r"^sr.{3}_alp_ovl.*",
-    r"^dammydoll_alp\.bmp",
-    r"^medicine_rabel_alp_ovl\.bmp",
-    r"^gasmask_alp\.bmp",
-]
-
 EXCLUDE_REGEXES = []
 
 # ==========================================================
@@ -184,6 +173,39 @@ def ensure_explorer_open(folder: Path):
     except Exception as e:
         print(f"[WARN] Could not check/open Explorer window: {e}")
 
+
+import ctypes
+import psutil
+import time
+
+def focus_pcsx2():
+    """Bring pcsx2-qt.exe to the foreground if the process is running."""
+    user32 = ctypes.windll.user32
+    kernel32 = ctypes.windll.kernel32
+
+    hwnd = None
+
+    # Try to find a window owned by pcsx2-qt.exe
+    for proc in psutil.process_iter(['pid', 'name']):
+        if proc.info['name'] and proc.info['name'].lower() == "pcsx2-qt.exe":
+            hwnd = user32.GetTopWindow(0)
+            while hwnd:
+                pid = ctypes.c_ulong()
+                user32.GetWindowThreadProcessId(hwnd, ctypes.byref(pid))
+                if pid.value == proc.info['pid']:
+                    break
+                hwnd = user32.GetWindow(hwnd, 2)  # GW_HWNDNEXT
+            break
+
+    if hwnd:
+        user32.ShowWindow(hwnd, 9)  # SW_RESTORE
+        time.sleep(0.1)
+        user32.SetForegroundWindow(hwnd)
+        print("PCSX2 window focused.")
+    else:
+        print("PCSX2 window not found.")
+
+
 # ==========================================================
 # MAIN
 # ==========================================================
@@ -193,6 +215,7 @@ def main():
     substance_root = repo_root / "d - substance"
     csv_path = repo_root / "u - dumped from substance" / "mgs2_texture_map.csv"
     dim_csv = repo_root / "u - dumped from substance" / "mgs2_ps2_dimensions.csv"
+    process_script = substance_root / "process dumped.py"
 
     if not verif_root.exists():
         raise FileNotFoundError(f"Missing directory: {verif_root}")
@@ -203,11 +226,18 @@ def main():
     if not dim_csv.exists():
         raise FileNotFoundError(f"Missing dimensions CSV: {dim_csv}")
 
-    top_pngs = [p for p in substance_root.iterdir() if p.is_file() and p.suffix.lower() == ".png"]
+    # ======================================================
+    # SNAPSHOT OF ALL FILES AT SCRIPT START
+    # ======================================================
+    initial_pngs = [p for p in substance_root.rglob("*.png")]
+    print(f"[INFO] Snapshot taken: {len(initial_pngs)} PNG(s) existed when script started.")
+
+    top_pngs = [p for p in initial_pngs if p.parent == substance_root]
+    subfolder_pngs = [p for p in initial_pngs if p.parent != substance_root]
+
     if not top_pngs:
-        print(f"[ABORTED] No PNG files found in the top-level of {substance_root}.")
+        print(f"[ABORTED] No top-level PNG files found in {substance_root}.")
         return
-    print(f"[INFO] Found {len(top_pngs)} PNG file(s) in {substance_root}.")
 
     # ------------------------------------------------------
     # STEP -1: DEDUPLICATE BY SHA1 IN TOP FOLDER
@@ -241,12 +271,11 @@ def main():
     if not top_pngs:
         print("[ABORTED] No PNGs remain after deduplication.")
         return
-        
+
     # ------------------------------------------------------
     # STEP -0: REMOVE TOP-LEVEL PNGs THAT EXIST IN SUBFOLDERS
     # ------------------------------------------------------
     print("[*] Removing top-level PNGs that duplicate files in subfolders...")
-    subfolder_pngs = [p for p in substance_root.rglob("*.png") if p.parent != substance_root]
     if not subfolder_pngs:
         print("[INFO] No subfolder PNGs found. Skipping SHA1 cross-check.")
     else:
@@ -285,7 +314,6 @@ def main():
     if not top_pngs:
         print("[ABORTED] No PNGs remain after subfolder duplicate filtering.")
         return
-
 
     # ------------------------------------------------------
     # STEP 0: FORCE DELETE REGEX MATCHES
@@ -390,7 +418,7 @@ def main():
     # ------------------------------------------------------
     # STEP 5: MOVE REMAINING FILES
     # ------------------------------------------------------
-    remaining_pngs = [p for p in substance_root.iterdir() if p.is_file() and p.suffix.lower() == ".png"]
+    remaining_pngs = [p for p in initial_pngs if p.exists() and p.parent == substance_root]
     if not remaining_pngs:
         print("[INFO] No remaining PNGs to move after cleanup.")
         return
@@ -411,6 +439,21 @@ def main():
 
     print(f"[DONE] Moved {moved_count} PNG file(s) into '{stage_dir.name}'.")
     ensure_explorer_open(stage_dir)
+
+    # ------------------------------------------------------
+    # STEP 6: RUN "process dumped.py"
+    # ------------------------------------------------------
+    focus_pcsx2();
+    
+    if process_script.exists():
+        print(f"[*] Running follow-up script: {process_script.name}")
+        try:
+            subprocess.run(["python", str(process_script)], check=True)
+            print("[+] process dumped.py completed successfully.")
+        except subprocess.CalledProcessError as e:
+            print(f"[ERROR] process dumped.py failed: {e}")
+    else:
+        print(f"[WARN] Missing script: {process_script}")
 
 # ==========================================================
 if __name__ == "__main__":
