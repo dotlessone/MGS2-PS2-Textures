@@ -14,60 +14,11 @@ from PIL import Image
 # CONFIGURATION
 # ==========================================================
 FORCE_DELETE_PATTERNS = [
-    #r"-00002640\.png$",
-    #r"-20d9773182cf07ff-r553x148-000022ac\.png$",
-    #r"-c08affed504498f1-r0x320-00002654\.png$",
-    #r"-e610aa167a687a0f-00001a2c\.png$",
-    #r"-r511x447-80c02642\.png$",
-    #r"-r513x121-000022ac\.png$",
-    #r"-r513x449-80c02642\.png$",
-    #r"10d923f22fb93755-d865a4ca6070a82f-r64x64-00002a54\.png$",
-    #r"1686664efe32789f-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
-    #r"20b055d3da46a453-0000226c\.png$",
-    #r"228d7f93799a1978",
-    #r"33ea0ed155772777-abaa789c1ebbac91-r64x64-00002a54\.png$",
-    #r"343e3f4d7ac51784-abaa789c1ebbac91-r64x64-00002a54\.png$",
-    #r"3941c8be07ac078e-abaa789c1ebbac91-r64x64-00002a54\.png$",
-    #r"587720d53626e6ce-abaa789c1ebbac91-r64x64-00002a54\.png$",
-    #r"660efeeb386af521-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
-    #r"6665d7c038605ee8-9d39dafa3a02bf43-r64x64-00002a54\.png$",
-    #r"6f0c6024f6730294-r513x121-0000226c",
-    #r"71d1e5856e14a61-aa0d5e00a059ec1b-r64x64-00002a54\.png$",
-    #r"7215e925fde43eae",
-    #r"723454847e1ea326-d865a4ca6070a82f-r64x64-00002a54\.png$",
-    #r"7816945abaccac11",
-    #r"80402642\.png$",
-    #r"80c02202\.png$",
-    #r"80c02a82\.png$",
-    #r"833e6b144c858534-d865a4ca6070a82f-r64x64-00002a54\.png$",
-    #r"8baa88dbc0e3977b-abaa789c1ebbac91-r64x64-00002a54\.png$",
-    #r"8f864fba9ba5e047-9d39dafa3a02bf43-r64x64-00002a54\.png$",
-    #r"983bcf6f20159710-9d39dafa3a02bf43-r64x64-00002a54\.png$",
-    #r"9efcc39081b017f0",
-    #r"a6151f56b4281894-aa0d5e00a059ec1b-r64x64-00002a54\.png$",
-    #r"a80906e50e4f52ed-d865a4ca6070a82f-r64x64-00002a54\.png$",
-    #r"be314a5bf23c5b39-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
-    #r"bf205bd3a141396e-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
-    #r"c78d5c0bfacf8095-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
-    #r"cd6525eb83f8b74-d865a4ca6070a82f-r64x64-00002a54\.png$",
-    #r"cdbdf4b821b4fcce-abaa789c1ebbac91-r64x64-00002a54\.png$",
-    #r"ce381a47fd2bcbdb-abaa789c1ebbac91-r64x64-00002a54\.png$",
-    #r"d4f8a5f69be016a8",
-    #r"d658061781d2d4f",
-    #r"d658061781d2d4f-0000226c\.png$",
-    #r"e19c3b9c4236bb10-a3993454c9a93e21-r64x64-00002a54\.png$",
-    #r"e29b6e086a0a144-abaa789c1ebbac91-r64x64-00002a54\.png$",
-    #r"e610aa167a687a0f-00001aac\.png$",
-    #r"e7866bd43d0e65b4-00002640\.png$",
-    #r"f3ac5df1b4b11f1-abaa789c1ebbac91-r64x64-00002a54\.png$",
-    #r"f5decbd9963946bb-d865a4ca6070a82f-r64x64-00002a54\.png$",
-    #r"f63f71fcdbafe788",
-    #r"f67bd0c61ae10b0c-3c8cdfbb4d60154e-r64x64-00002a54\.png$",
-    #r"f8f7d4229d4fd138-aa0d5e00a059ec1b-r64x64-00002a54\.png$",
-    #r"f9a899aadeaaf853-abaa789c1ebbac91-r64x64-00002a54\.png$",
-    #r"f9ebab9325aaa28e-d865a4ca6070a82f-r64x64-00002a54\.png$",
-    #r"fbdc5d988e1e1e38-d865a4ca6070a82f-r64x64-00002a54\.png$",
-    #r"r4x4-00001dd4\.png$",
+    r"-00002640\.png$",
+    r"-80402642\.png$",
+    r"-80c02202\.png$",
+    r"e610aa167a687a0f-00001a2c\.png$",
+
 ]
 FORCE_DELETE_REGEXES = [re.compile(p, re.IGNORECASE) for p in FORCE_DELETE_PATTERNS]
 EXCLUDE_REGEXES = []
@@ -395,6 +346,42 @@ def main():
     if not kept_pngs:
         print("[ABORTED] No PNGs remain after dimension filtering.")
         return
+
+    # ------------------------------------------------------
+    # STEP 3.5: FILTER BY ALPHA (reject if any pixel alpha > 128)
+    # ------------------------------------------------------
+    print("[*] Checking alpha channels (must be <= 128)...")
+    removed_alpha = 0
+    alpha_kept = []
+
+    for p in kept_pngs:
+        try:
+            with Image.open(p) as img:
+                if img.mode not in ("RGBA", "LA"):
+                    alpha_kept.append(p)
+                    continue
+
+                alpha = img.getchannel("A")
+                extrema = alpha.getextrema()
+                max_alpha = extrema[1]
+
+                if max_alpha > 128:
+                    print(f"[DELETE] {p.name} (alpha {max_alpha} > 128)")
+                    p.unlink()
+                    removed_alpha += 1
+                else:
+                    alpha_kept.append(p)
+
+        except Exception as e:
+            print(f"[ERROR] Failed alpha check for {p}: {e}")
+
+    print(f"[INFO] Removed {removed_alpha} PNG(s) for alpha > 128. Remaining: {len(alpha_kept)}")
+
+    if not alpha_kept:
+        print("[ABORTED] No PNGs remain after alpha filtering.")
+        return
+
+    kept_pngs = alpha_kept
 
     # ------------------------------------------------------
     # STEP 4: SHA1 CHECKS
