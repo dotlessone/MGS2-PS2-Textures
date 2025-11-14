@@ -120,21 +120,19 @@ twp43a
 w24e
 w31f
 wmovie
-Found 14584 PNG/TGA files total.
+Found 14639 PNG/TGA files total.
 
 Detected 1357 correct mixed-alpha TGAs (will be skipped).
 
 === MISSING TEXTURE COUNTS BY STAGE (DESCENDING) ===
 n_title	54	[Menu | Title Screen]
-a46a	49	[Alternate | GW - Rectum (Snake Tales)]
-w46a	44	[Plant | GW - Rectum]
+a46a	41	[Alternate | GW - Rectum (Snake Tales)]
 sp22a	36	[VR: First-Person | Level 2]
+w46a	36	[Plant | GW - Rectum]
 sp25a	30	[VR: First-Person | Level 5]
 r_rai_b	28	
-a45a	26	[Alternate | GW - Sigmoid Colon (Snake Tales)]
 a21b	25	
 r_sna_b	24	
-d080p01	24	[Plant | Cutscene d080p01]
 a43a	24	[Alternate | GW - Ascending Colon (Snake Tales)]
 a24a	23	[Alternate | Shell 1 Core - 1F (Snake Tales)]
 ta24a	23	
@@ -149,6 +147,7 @@ a22a	21	[Alternate | Warehouse (Snake Tales)]
 a24b	21	[Alternate | Shell 1 Core - B1 (Snake Tales)]
 a25d	21	[Alternate | KL Connecting Bridge (Snake Tales)]
 a28a	21	[Alternate | Sewage Treatment (Snake Tales)]
+a45a	21	[Alternate | GW - Sigmoid Colon (Snake Tales)]
 ta01c	21	
 ta20a	21	
 ta22a	21	
@@ -162,7 +161,6 @@ a15b	20	[Alternate | BC Connecting Bridge (After Stillman) (Snake Tales)]
 a17a	20	[Alternate | CD Connecting Bridge (Snake Tales)]
 a18a	20	[Alternate | Sediment Pool (Snake Tales)]
 ta12a	20	
-w45a	20	[Plant | GW - Sigmoid Colon]
 w25d	20	[Plant | KL Connecting Bridge]
 w01c	20	[Tanker | Deck C Crew Quarters]
 r_vr_b	19	
@@ -197,17 +195,16 @@ a24f	18
 ta01b	18	
 ta01e	18	
 ta01f	18	
-d080p07	18	[Plant | Cutscene d080p07]
 w43a	18	[Plant | GW - Ascending Colon]
 w01d	18	[Tanker | Deck D Crew Quarters]
 w24a	18	[Plant | Shell 1 Core - 1F]
 w24d	18	[Plant | Shell 1 Core - B2]
 a01a	17	[Alternate | Deck A Crew Quarters (Alternate)]
+a03a	17	[Alternate | Deck 2 Port (Alternate)]
 a20c	17	[Alternate | Heliport (Bomb) (Snake Tales)]
 a20e	17	
 a22b	17	
 a23b	17	[Alternate | FA Connecting Bridge (Snake Tales)]
-a61a	17	[Alternate | Federal Hall (Snake Tales)]
 sp08a	17	[VR: Variety | Level 8]
 sp24a	17	[VR: First-Person | Level 4]
 ta01a	17	
@@ -220,10 +217,6 @@ r_plt0	17
 r_plt2	17	
 r_plt3	17	
 r_plt_s	17	
-w44a	17	[Plant | GW - Ileum]
-d01t	17	[Tanker | Navigational Deck (Russian Invasion)]
-d04t	17	[Tanker | Identifying Choppers]
-d05t	17	[Tanker | Olga Cutscene]
 w21a	17	[Plant | EF Connecting Bridge]
 w00b	17	[Tanker | Deck A - Starboard (Olga)]
 w16b	17	[Plant | Dining Hall (Post Stillman)]
@@ -235,6 +228,7 @@ a14a	16	[Alternate | Transformer Room (Snake Tales)]
 a19a	16	[Alternate | DE Connecting Bridge (Snake Tales)]
 a20b	16	[Alternate | Heliport (Snake Tales)]
 a31c	16	[Alternate | Shell 2 Filtration Chamber No.2 (Snake Tales)]
+a61a	16	[Alternate | Federal Hall (Snake Tales)]
 sp03a	16	[VR: Variety | Level 3]
 tsp03a	16	
 tvs05a	16	
@@ -247,6 +241,10 @@ wp42a	16	[VR: Weapons - PSG1 | Level 2]
 wp53a	16	[VR: Weapons - Stinger | Level 3]
 r_plt1	16	
 r_tnk_r	16	
+w44a	16	[Plant | GW - Ileum]
+d01t	16	[Tanker | Navigational Deck (Russian Invasion)]
+d04t	16	[Tanker | Identifying Choppers]
+d05t	16	[Tanker | Olga Cutscene]
 w24b	16	[Plant | Shell 1 Core - B1]
 w20a	16	[Plant | Parcel Room]
 w16a	16	[Plant | Dining Hall]
@@ -261,7 +259,6 @@ w22a	16	[Plant | Warehouse]
 w28a	16	[Plant | Sewage Treatment]
 d065p02	16	[Plant | Cutscene d065p02]
 w32b	16	[Plant | Oil Fence (Vamp Fight)]
-a03a	15	[Alternate | Deck 2 Port (Alternate)]
 a03b	15	[Alternate | Deck 2 Starboard (Alternate)]
 a25a	15	[Alternate | Shell Connecting Bridge (Snake Tales)]
 a41b	15	
@@ -288,6 +285,7 @@ wp35a	15	[VR: Weapons - Grenade | Level 5]
 wp54a	15	[VR: Weapons - Stinger | Level 4]
 r_plt4	15	
 r_plt5	15	
+w45a	15	[Plant | GW - Sigmoid Colon]
 w18a	15	[Plant | Sediment Pool]
 w17a	15	[Plant | CD Connecting Bridge]
 w15b	15	[Plant | BC Connecting Bridge (After Stillman)]
@@ -298,6 +296,7 @@ w19a	15	[Plant | DE Connecting Bridge]
 w32a	15	[Plant | Oil Fence]
 d063p01	15	[Plant | Cutscene d063p01]
 r_vr_x	14	
+d080p01	14	[Plant | Cutscene d080p01]
 d13t	14	[Tanker | Cutscene d13t (NG+ Rewards)]
 sp02a	14	[VR: Variety | Level 2]
 twp34a	14	
@@ -330,7 +329,6 @@ w00a	14	[Tanker | Deck A - Port]
 a31b	14	[Alternate | Shell 2 Filtration Chamber No.1 (Snake Tales)]
 w31b	14	[Plant | Shell 2 Filtration Chamber No.1]
 w31d	14	[Plant | Shell 2 Core (With Emma)]
-d053p01	14	[Plant | Cutscene d053p01]
 mselect	13	[Menu | VR Missions Menu]
 a00a	13	[Alternate | Deck A - Port (Alternate)]
 ta00a	13	
@@ -339,6 +337,7 @@ w24c	13	[Plant | Shell 1 Core - Hostage Room]
 w01f	13	[Tanker | Deck A Crew Lounge]
 w31a	13	[Plant | Shell 2 Core]
 w01b	13	[Tanker | Deck A Crew Quarters Starboard]
+d053p01	13	[Plant | Cutscene d053p01]
 w01e	13	[Tanker | Deck E Bridge]
 w00c	13	[Tanker | Navigational Deck]
 d014p01	13	[Plant | Stillman Cutscene]
@@ -346,23 +345,23 @@ d070p09	13	[Plant | Cutscene d070p09]
 a02a	12	[Alternate | Engine Room (Alternate)]
 ta02a	12	
 d005p01	12	[Plant | Raiden On Elevator]
-r_tnk0	12	
 w01a	12	[Tanker | Deck A Crew Quarters]
-w61a	12	[Plant | Federal Hall]
 w20c	12	[Plant | Heliport (Bomb)]
+w03a	12	[Tanker | Deck 2 Port]
 w02a	12	[Tanker | Engine Room]
 sp06a	11	[VR: Variety | Level 6]
 sp07a	11	[VR: Variety | Level 7]
+d080p07	11	[Plant | Cutscene d080p07]
+r_tnk0	11	
 w31c	11	[Plant | Shell 2 Filtration Chamber No.2]
 w31f	11	
-d055p01	11	[Plant | Cutscene d055p01]
 d010p01	11	[Plant | Meeting Vamp]
+w61a	11	[Plant | Federal Hall]
 d012p01	11	[Plant | ADUD]
 w25b	11	[Plant | Shell Connecting Bridge (Destroyed)]
 d036p03	11	[Plant | Hostage Cutscene]
 d12t3	11	[Tanker | Cutscene d12t3]
 d12t4	11	[Tanker | Cutscene d12t4]
-d082p01	11	[Plant | Cutscene d082p01]
 d045p01	11	[Plant | Cutscene d045p01]
 d10t	11	[Tanker | Cutscene d10t]
 d11t	11	[Tanker | Cutscene d11t]
@@ -370,21 +369,22 @@ d14t	11	[Tanker | Cutscene d14t]
 node	10	
 tales	10	[Menu | Snake Tales Menu]
 w51a	10	[Plant | Arsenal Gear]
-d080p08	10	[Plant | Cutscene d080p08]
+d055p01	10	[Plant | Cutscene d055p01]
 w03b	10	[Tanker | Deck 2 Starboard]
 w11b	10	[Plant | Strut A - Dock (Bomb Disposal)]
-w03a	10	[Tanker | Deck 2 Port]
 w25a	10	[Plant | Shell Connecting Bridge]
 d070px9	10	[Plant | Cutscene d070px9]
 d078p01	10	[Plant | Cutscene d078p01]
 d12t	10	[Tanker | Cutscene d12t]
+d082p01	10	[Plant | Cutscene d082p01]
 w24e	9	
 d036p05	9	[Plant | Shell 1 Cutscene]
 w04b	9	[Tanker | Hold No.2]
-d070p01	9	[Plant | Cutscene d070p01]
-d080p06	8	[Plant | Cutscene d080p06]
+d080p08	8	[Plant | Cutscene d080p08]
 w11a	8	[Plant | Strut A - Dock]
 w04a	8	[Tanker | Hold No.1]
+d070p01	8	[Plant | Cutscene d070p01]
+d080p06	7	[Plant | Cutscene d080p06]
 w25c	7	[Plant | Strut L Perimeter]
 w04c	7	[Tanker | Hold No.3]
 d046p01	7	[Plant | Cutscene d046p01]
@@ -412,7 +412,7 @@ f01e	1
 f01f	1	
 capture	1	
 
-TOTAL UNIQUE MISSING: 326
+TOTAL UNIQUE MISSING: 302
 
 === MISSING TEXTURE COUNTS BY STAGE (ALPHABETICAL) ===
 a00a	13	[Alternate | Deck A - Port (Alternate)]
@@ -426,7 +426,7 @@ a01e	18	[Alternate | Deck E Bridge (Alternate)]
 a01f	18	[Alternate | Deck A Crew Lounge (Alternate)]
 a02a	12	[Alternate | Engine Room (Alternate)]
 a02b	16	
-a03a	15	[Alternate | Deck 2 Port (Alternate)]
+a03a	17	[Alternate | Deck 2 Port (Alternate)]
 a03b	15	[Alternate | Deck 2 Starboard (Alternate)]
 a12a	20	[Alternate | Strut A Roof (Snake Tales)]
 a12b	20	[Alternate | Strut A Pump Room (Snake Tales)]
@@ -467,9 +467,9 @@ a41a	19	[Alternate | GW - Stomach (Snake Tales)]
 a41b	15	
 a42a	19	[Alternate | GW - Jejunum (Snake Tales)]
 a43a	24	[Alternate | GW - Ascending Colon (Snake Tales)]
-a45a	26	[Alternate | GW - Sigmoid Colon (Snake Tales)]
-a46a	49	[Alternate | GW - Rectum (Snake Tales)]
-a61a	17	[Alternate | Federal Hall (Snake Tales)]
+a45a	21	[Alternate | GW - Sigmoid Colon (Snake Tales)]
+a46a	41	[Alternate | GW - Rectum (Snake Tales)]
+a61a	16	[Alternate | Federal Hall (Snake Tales)]
 capture	1	
 d001p01	4	[Plant | Plant Opening]
 d005p01	12	[Plant | Raiden On Elevator]
@@ -478,27 +478,27 @@ d00t	13	[Tanker | George Washington Bridge]
 d010p01	11	[Plant | Meeting Vamp]
 d012p01	11	[Plant | ADUD]
 d014p01	13	[Plant | Stillman Cutscene]
-d01t	17	[Tanker | Navigational Deck (Russian Invasion)]
+d01t	16	[Tanker | Navigational Deck (Russian Invasion)]
 d021p01	6	[Plant | Fatman and Ninja]
 d036p03	11	[Plant | Hostage Cutscene]
 d036p05	9	[Plant | Shell 1 Cutscene]
 d045p01	11	[Plant | Cutscene d045p01]
 d046p01	7	[Plant | Cutscene d046p01]
-d04t	17	[Tanker | Identifying Choppers]
-d053p01	14	[Plant | Cutscene d053p01]
-d055p01	11	[Plant | Cutscene d055p01]
-d05t	17	[Tanker | Olga Cutscene]
+d04t	16	[Tanker | Identifying Choppers]
+d053p01	13	[Plant | Cutscene d053p01]
+d055p01	10	[Plant | Cutscene d055p01]
+d05t	16	[Tanker | Olga Cutscene]
 d063p01	15	[Plant | Cutscene d063p01]
 d065p02	16	[Plant | Cutscene d065p02]
-d070p01	9	[Plant | Cutscene d070p01]
+d070p01	8	[Plant | Cutscene d070p01]
 d070p09	13	[Plant | Cutscene d070p09]
 d070px9	10	[Plant | Cutscene d070px9]
 d078p01	10	[Plant | Cutscene d078p01]
-d080p01	24	[Plant | Cutscene d080p01]
-d080p06	8	[Plant | Cutscene d080p06]
-d080p07	18	[Plant | Cutscene d080p07]
-d080p08	10	[Plant | Cutscene d080p08]
-d082p01	11	[Plant | Cutscene d082p01]
+d080p01	14	[Plant | Cutscene d080p01]
+d080p06	7	[Plant | Cutscene d080p06]
+d080p07	11	[Plant | Cutscene d080p07]
+d080p08	8	[Plant | Cutscene d080p08]
+d082p01	10	[Plant | Cutscene d082p01]
 d10t	11	[Tanker | Cutscene d10t]
 d11t	11	[Tanker | Cutscene d11t]
 d12t	10	[Tanker | Cutscene d12t]
@@ -536,7 +536,7 @@ r_plt9	4
 r_plt_s	17	
 r_rai_b	28	
 r_sna_b	24	
-r_tnk0	12	
+r_tnk0	11	
 r_tnk_r	16	
 r_vr_1	18	
 r_vr_b	19	
@@ -606,7 +606,7 @@ w01d	18	[Tanker | Deck D Crew Quarters]
 w01e	13	[Tanker | Deck E Bridge]
 w01f	13	[Tanker | Deck A Crew Lounge]
 w02a	12	[Tanker | Engine Room]
-w03a	10	[Tanker | Deck 2 Port]
+w03a	12	[Tanker | Deck 2 Port]
 w03b	10	[Tanker | Deck 2 Starboard]
 w04a	8	[Tanker | Hold No.1]
 w04b	9	[Tanker | Hold No.2]
@@ -656,11 +656,11 @@ w32b	16	[Plant | Oil Fence (Vamp Fight)]
 w41a	14	[Plant | GW - Stomach]
 w42a	14	[Plant | GW - Jejunum]
 w43a	18	[Plant | GW - Ascending Colon]
-w44a	17	[Plant | GW - Ileum]
-w45a	20	[Plant | GW - Sigmoid Colon]
-w46a	44	[Plant | GW - Rectum]
+w44a	16	[Plant | GW - Ileum]
+w45a	15	[Plant | GW - Sigmoid Colon]
+w46a	36	[Plant | GW - Rectum]
 w51a	10	[Plant | Arsenal Gear]
-w61a	12	[Plant | Federal Hall]
+w61a	11	[Plant | Federal Hall]
 wp01a	17	[VR: Weapons - SOCOM | Level 1]
 wp02a	17	[VR: Weapons - SOCOM | Level 2]
 wp03a	17	[VR: Weapons - SOCOM | Level 3]

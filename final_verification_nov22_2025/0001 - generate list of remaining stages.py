@@ -643,3 +643,19 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+    import subprocess
+    try:
+        generate_script = os.path.join(os.path.dirname(__file__), "0003 - doublecheck final alphas.py")
+        if os.path.exists(generate_script):
+            print(f"\n[Final Step] Launching: {os.path.basename(generate_script)}...")
+            result = subprocess.run(
+                ["python", generate_script],
+                check=False,
+                capture_output=True,
+                text=True
+            )
+        else:
+            print(f"[Final Step] Skipped — {generate_script} not found.")
+    except Exception as e:
+        print(f"[!] Failed to run 0001 - generate list of remaining stages.py: {e}")
