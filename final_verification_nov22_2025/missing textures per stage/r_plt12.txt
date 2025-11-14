@@ -1,5 +1,0 @@
-mgs2/base|mgs2-ps2-text /<oce_collar1msk.bmp|oce_collar2msk.bmp|oce_skirt6msk.bmp|rai_eye_hlf_ovl.bmp>.png
-oce_collar1msk.bmp
-oce_collar2msk.bmp
-oce_skirt6msk.bmp
-rai_eye_hlf_ovl.bmp

@@ -30,6 +30,38 @@ Resolution: 456x16
 Possible matching textures (already identified): 0056e1c2
 Total Possible Matches: 1
 --------------------------------------------
+Filename: 0020c7c1.png
+Path: d - substance\unknown\0020c7c1.png
+SHA1: 0020c7c1.png,c24d6eb6120b02552a188e48383723726fd90b18
+Name Already In List of Possible Matches: Yes
+Resolution: 158x12
+"C:\Development\Git\MGS2-PS2-Textures\d - substance\unknown\0020c7c1.png"|<"mgs2/base textures/" /<0020c7c1>.png>
+Possible matching textures (not already found):
+  - 0020c7c1	!"/ALREADY FILE NAME/"
+Total Possible Matches: 1
+--------------------------------------------
+Filename: 001a8739.png
+Path: d - substance\unknown\001a8739.png
+SHA1: 001a8739.png,ed0ddf60cd67d3cc764d14f4afa16e11db19c46e
+Name Already In List of Possible Matches: Yes
+Resolution: 156x60
+"C:\Development\Git\MGS2-PS2-Textures\d - substance\unknown\001a8739.png"|<"mgs2/base textures/" /<001a8739>.png>
+Possible matching textures (not already found):
+  - 001a8739	!"/ALREADY FILE NAME/"
+Possible matching textures (already identified): 001a8739_9b95ed97d41ce0c9da24766f77e0bf35
+Total Possible Matches: 2
+--------------------------------------------
+Filename: 005d4f23.png
+Path: d - substance\unknown\005d4f23.png
+SHA1: 005d4f23.png,f687cc12b7799f4ba027c4581a4890bfbf500d7b
+Name Already In List of Possible Matches: Yes
+Resolution: 136x120
+"C:\Development\Git\MGS2-PS2-Textures\d - substance\unknown\005d4f23.png"|<"mgs2/base textures/" /<005d4f23>.png>
+Possible matching textures (not already found):
+  - 005d4f23	!"/ALREADY FILE NAME/"
+Possible matching textures (already identified): w16a0_ref01sh_alp_ovl.bmp
+Total Possible Matches: 2
+--------------------------------------------
 Filename: fd8a9c0cab94cf5e-5e5176004c9c0003-r32x304-00002a14.png
 Path: d - substance\wp53a\fd8a9c0cab94cf5e-5e5176004c9c0003-r32x304-00002a14.png
 SHA1: 91883725fcf542c29c538246c3a5fb233ff77b00
@@ -138,6 +170,37 @@ Possible matching textures (not already found):
 Possible matching textures (already identified): irs_main.bmp|mrl_boot_bottom.bmp|orp_boot_bot00.bmp|sp21a_sdwwl00_alp_ovl.bmp|vs08a_sdw01a_alp_ovl.bmp|w01a_rfc05.bmp|w01a_rfc05.bmp_33b7c8a9295f1c42ec93f7fc8a0f1a08|w01b_hc00.bmp|w01b_wb02.bmp_d1c6883b0257f4335f1bfde989368dd9|w01f_01b_rfc01.bmp|w01f_01b_rfc02.bmp|w03a_rf03.bmp|w03b_rf03.bmp|w03b_rf03a.bmp|w03b_rf03b.bmp|w04a3_roof_himitu.bmp|w14a_blood_07_alp_ovl.bmp|w24d1_wa1_1u.bmp|w24d2_moni_mk.bmp|ws52a_sdw02c_alp_ovl.bmp|ws62a_sdw05a_alp_ovl.bmp|ws62a_sdw06a_alp_ovl.bmp|ws62a_sdw12_alp_ovl.bmp|ws62a_sdw13c_alp_ovl.bmp|ws62a_sdw13j_alp_ovl.bmp|ws64a_sdw_alp_ovl_01.bmp
 Total Possible Matches: 30
 --------------------------------------------
+Filename: 008a2128.png
+Path: d - substance\unknown\008a2128.png
+SHA1: 008a2128.png,71505587b99611ec9625651b96dd35308d3a5f5d
+Name Already In List of Possible Matches: Yes
+Resolution: 192x12
+"C:\Development\Git\MGS2-PS2-Textures\d - substance\unknown\008a2128.png"|<"mgs2/base textures/" /<005ff82e_177b36c205877f0112c491da63538970|005ff82e_f97787dc7fe63e42e80355f33d14a0d4|0060f82e_0264bded5e12e838c3912158a2f4d769|0060f82e_374e8e111c7b80fe71fb8546dc332f00|0061f82e_56a2e72ba853ea67570ccd655ca9d447|0061f82e_ca18611ab4a038674f959c4e94e7aede|0062f82e_3db2c3061fabc2281c2dd6b4130eedb9|0062f82e_ca73d55a3d70d5450a3ed37eb948cb64|0063f82e_0d434fbe975ba169dfc89ffe2f3f2a27|0063f82e_52b985aaa92b3207cd49053dffbf523d|0064f82e_923078466946a3acdea05dbf22e0f6e7|0064f82e_db973ad91fc30e3c42f866a3eb7d4d74|0065f82e|0065f82e_599e1a822c915823a768daf1f6ee7174|00667ab6|00667ab6_ef3811ba64502191909b0210b17b8b02|0066f82e|0066f82e_e37d08b66c98c80f675d8c6d9a2cebdb|006bf7fe|008a2128|00afab44>.png>
+Possible matching textures (not already found):
+  - 005ff82e_177b36c205877f0112c491da63538970
+  - 005ff82e_f97787dc7fe63e42e80355f33d14a0d4
+  - 0060f82e_0264bded5e12e838c3912158a2f4d769
+  - 0060f82e_374e8e111c7b80fe71fb8546dc332f00
+  - 0061f82e_56a2e72ba853ea67570ccd655ca9d447
+  - 0061f82e_ca18611ab4a038674f959c4e94e7aede
+  - 0062f82e_3db2c3061fabc2281c2dd6b4130eedb9
+  - 0062f82e_ca73d55a3d70d5450a3ed37eb948cb64
+  - 0063f82e_0d434fbe975ba169dfc89ffe2f3f2a27
+  - 0063f82e_52b985aaa92b3207cd49053dffbf523d
+  - 0064f82e_923078466946a3acdea05dbf22e0f6e7
+  - 0064f82e_db973ad91fc30e3c42f866a3eb7d4d74
+  - 0065f82e
+  - 0065f82e_599e1a822c915823a768daf1f6ee7174
+  - 00667ab6
+  - 00667ab6_ef3811ba64502191909b0210b17b8b02
+  - 0066f82e
+  - 0066f82e_e37d08b66c98c80f675d8c6d9a2cebdb
+  - 006bf7fe
+  - 008a2128	!"/ALREADY FILE NAME/"
+  - 00afab44
+Possible matching textures (already identified): 004613c2|005ef82e|005ff82e|0060f82e|0061f82e|0062f82e|0063f82e|0064f82e|00681d9d|w20b_tank1_pipe1_lit1.bmp
+Total Possible Matches: 31
+--------------------------------------------
 Filename: 5f19f9f4934e25b7-9b75434d35094068-r8x48-00002a94.png
 Path: d - substance\sp22a\5f19f9f4934e25b7-9b75434d35094068-r8x48-00002a94.png
 SHA1: 008815ead51145968bfef7065a0f3e49d613cedf
@@ -182,18 +245,17 @@ Path: d - substance\w43a\fde1f33f23557a90-6a6ab5363b6e7af7-r4x4-00001dd4.png
 SHA1: 15594bfea9667fd62b69075ea4ff1c077fd38146
 Name Already In List of Possible Matches: No
 Resolution: 4x4
-"C:\Development\Git\MGS2-PS2-Textures\d - substance\w43a\fde1f33f23557a90-6a6ab5363b6e7af7-r4x4-00001dd4.png"|<"mgs2/base textures/" /<for_col1.bmp|gry090.bmp|hos_red.bmp|hos_white.bmp|iro_glass_frame.bmp|rai_eye_hlf_ovl.bmp|sna_glass_flame2.bmp|vamp_col1.bmp|vmp_aaa.bmp>.png>
+"C:\Development\Git\MGS2-PS2-Textures\d - substance\w43a\fde1f33f23557a90-6a6ab5363b6e7af7-r4x4-00001dd4.png"|<"mgs2/base textures/" /<for_col1.bmp|gry090.bmp|hos_red.bmp|hos_white.bmp|iro_glass_frame.bmp|sna_glass_flame2.bmp|vamp_col1.bmp|vmp_aaa.bmp>.png>
 Possible matching textures (not already found):
   - for_col1.bmp
   - gry090.bmp
   - hos_red.bmp
   - hos_white.bmp
   - iro_glass_frame.bmp
-  - rai_eye_hlf_ovl.bmp
   - sna_glass_flame2.bmp
   - vamp_col1.bmp
   - vmp_aaa.bmp
-Possible matching textures (already identified): chr1_05.bmp|chr1_05_alp_sub_ovl.bmp|col_blk.bmp|col_gry008.bmp|col_gry024.bmp_13b642f4c31baae9642f984ba25725ad|col_gry034.bmp|col_red01.bmp|col_w01agry1.bmp|col_w01agry2.bmp|col_w01agry3.bmp|col_w01agry5.bmp|col_w01awht1.bmp|col_w01awht2.bmp|cti_shirts1.bmp|for_arm.bmp|grs_black.bmp|gry075.bmp|gw_hand_b.bmp|gw_hip_back.bmp|h6h_grey.bmp|kck_gray1.bmp|kmo_low_body.bmp|null_msk.bmp|rai_glass_flame.bmp|rev_blk.bmp|sna2h_mouin.bmp|sna_shadow.bmp|sol_body_color.bmp|sol_gantai_dt.bmp|sopelem_himo_01.bmp|vmp_hair_back.bmp|vmp_ton_b.bmp|vmp_ton_u.bmp|w00m_mush_handl_side.bmp|w00m_pick.bmp|w01a_stpt02.bmp
+Possible matching textures (already identified): chr1_05.bmp|chr1_05_alp_sub_ovl.bmp|col_blk.bmp|col_gry008.bmp|col_gry024.bmp_13b642f4c31baae9642f984ba25725ad|col_gry034.bmp|col_red01.bmp|col_w01agry1.bmp|col_w01agry2.bmp|col_w01agry3.bmp|col_w01agry5.bmp|col_w01awht1.bmp|col_w01awht2.bmp|cti_shirts1.bmp|for_arm.bmp|grs_black.bmp|gry075.bmp|gw_hand_b.bmp|gw_hip_back.bmp|h6h_grey.bmp|kck_gray1.bmp|kmo_low_body.bmp|null_msk.bmp|rai_eye_hlf_ovl.bmp|rai_glass_flame.bmp|rev_blk.bmp|sna2h_mouin.bmp|sna_shadow.bmp|sol_body_color.bmp|sol_gantai_dt.bmp|sopelem_himo_01.bmp|vmp_hair_back.bmp|vmp_ton_b.bmp|vmp_ton_u.bmp|w00m_mush_handl_side.bmp|w00m_pick.bmp|w01a_stpt02.bmp
 Total Possible Matches: 45
 --------------------------------------------
 Filename: d0a66a65c7528968-b55ce1e7c1844b0f-r4x4-00001dd4.png
@@ -201,18 +263,17 @@ Path: d - substance\unknown gray\d0a66a65c7528968-b55ce1e7c1844b0f-r4x4-00001dd4
 SHA1: 186aa6b11786cf613a7244b6c6b7abd9e79508ff
 Name Already In List of Possible Matches: No
 Resolution: 4x4
-"C:\Development\Git\MGS2-PS2-Textures\d - substance\unknown gray\d0a66a65c7528968-b55ce1e7c1844b0f-r4x4-00001dd4.png"|<"mgs2/base textures/" /<for_col1.bmp|gry090.bmp|hos_red.bmp|hos_white.bmp|iro_glass_frame.bmp|rai_eye_hlf_ovl.bmp|sna_glass_flame2.bmp|vamp_col1.bmp|vmp_aaa.bmp>.png>
+"C:\Development\Git\MGS2-PS2-Textures\d - substance\unknown gray\d0a66a65c7528968-b55ce1e7c1844b0f-r4x4-00001dd4.png"|<"mgs2/base textures/" /<for_col1.bmp|gry090.bmp|hos_red.bmp|hos_white.bmp|iro_glass_frame.bmp|sna_glass_flame2.bmp|vamp_col1.bmp|vmp_aaa.bmp>.png>
 Possible matching textures (not already found):
   - for_col1.bmp
   - gry090.bmp
   - hos_red.bmp
   - hos_white.bmp
   - iro_glass_frame.bmp
-  - rai_eye_hlf_ovl.bmp
   - sna_glass_flame2.bmp
   - vamp_col1.bmp
   - vmp_aaa.bmp
-Possible matching textures (already identified): chr1_05.bmp|chr1_05_alp_sub_ovl.bmp|col_blk.bmp|col_gry008.bmp|col_gry024.bmp_13b642f4c31baae9642f984ba25725ad|col_gry034.bmp|col_red01.bmp|col_w01agry1.bmp|col_w01agry2.bmp|col_w01agry3.bmp|col_w01agry5.bmp|col_w01awht1.bmp|col_w01awht2.bmp|cti_shirts1.bmp|for_arm.bmp|grs_black.bmp|gry075.bmp|gw_hand_b.bmp|gw_hip_back.bmp|h6h_grey.bmp|kck_gray1.bmp|kmo_low_body.bmp|null_msk.bmp|rai_glass_flame.bmp|rev_blk.bmp|sna2h_mouin.bmp|sna_shadow.bmp|sol_body_color.bmp|sol_gantai_dt.bmp|sopelem_himo_01.bmp|vmp_hair_back.bmp|vmp_ton_b.bmp|vmp_ton_u.bmp|w00m_mush_handl_side.bmp|w00m_pick.bmp|w01a_stpt02.bmp
+Possible matching textures (already identified): chr1_05.bmp|chr1_05_alp_sub_ovl.bmp|col_blk.bmp|col_gry008.bmp|col_gry024.bmp_13b642f4c31baae9642f984ba25725ad|col_gry034.bmp|col_red01.bmp|col_w01agry1.bmp|col_w01agry2.bmp|col_w01agry3.bmp|col_w01agry5.bmp|col_w01awht1.bmp|col_w01awht2.bmp|cti_shirts1.bmp|for_arm.bmp|grs_black.bmp|gry075.bmp|gw_hand_b.bmp|gw_hip_back.bmp|h6h_grey.bmp|kck_gray1.bmp|kmo_low_body.bmp|null_msk.bmp|rai_eye_hlf_ovl.bmp|rai_glass_flame.bmp|rev_blk.bmp|sna2h_mouin.bmp|sna_shadow.bmp|sol_body_color.bmp|sol_gantai_dt.bmp|sopelem_himo_01.bmp|vmp_hair_back.bmp|vmp_ton_b.bmp|vmp_ton_u.bmp|w00m_mush_handl_side.bmp|w00m_pick.bmp|w01a_stpt02.bmp
 Total Possible Matches: 45
 --------------------------------------------
 Filename: 35c5516c497ae788-e31b14ce6ab62b53-r4x4-00001dd4.png
@@ -220,18 +281,17 @@ Path: d - substance\w44a\35c5516c497ae788-e31b14ce6ab62b53-r4x4-00001dd4.png
 SHA1: c5d82fa8ecabcfd2b3ccc250039eb4c4a56507b9
 Name Already In List of Possible Matches: No
 Resolution: 4x4
-"C:\Development\Git\MGS2-PS2-Textures\d - substance\w44a\35c5516c497ae788-e31b14ce6ab62b53-r4x4-00001dd4.png"|<"mgs2/base textures/" /<for_col1.bmp|gry090.bmp|hos_red.bmp|hos_white.bmp|iro_glass_frame.bmp|rai_eye_hlf_ovl.bmp|sna_glass_flame2.bmp|vamp_col1.bmp|vmp_aaa.bmp>.png>
+"C:\Development\Git\MGS2-PS2-Textures\d - substance\w44a\35c5516c497ae788-e31b14ce6ab62b53-r4x4-00001dd4.png"|<"mgs2/base textures/" /<for_col1.bmp|gry090.bmp|hos_red.bmp|hos_white.bmp|iro_glass_frame.bmp|sna_glass_flame2.bmp|vamp_col1.bmp|vmp_aaa.bmp>.png>
 Possible matching textures (not already found):
   - for_col1.bmp
   - gry090.bmp
   - hos_red.bmp
   - hos_white.bmp
   - iro_glass_frame.bmp
-  - rai_eye_hlf_ovl.bmp
   - sna_glass_flame2.bmp
   - vamp_col1.bmp
   - vmp_aaa.bmp
-Possible matching textures (already identified): chr1_05.bmp|chr1_05_alp_sub_ovl.bmp|col_blk.bmp|col_gry008.bmp|col_gry024.bmp_13b642f4c31baae9642f984ba25725ad|col_gry034.bmp|col_red01.bmp|col_w01agry1.bmp|col_w01agry2.bmp|col_w01agry3.bmp|col_w01agry5.bmp|col_w01awht1.bmp|col_w01awht2.bmp|cti_shirts1.bmp|for_arm.bmp|grs_black.bmp|gry075.bmp|gw_hand_b.bmp|gw_hip_back.bmp|h6h_grey.bmp|kck_gray1.bmp|kmo_low_body.bmp|null_msk.bmp|rai_glass_flame.bmp|rev_blk.bmp|sna2h_mouin.bmp|sna_shadow.bmp|sol_body_color.bmp|sol_gantai_dt.bmp|sopelem_himo_01.bmp|vmp_hair_back.bmp|vmp_ton_b.bmp|vmp_ton_u.bmp|w00m_mush_handl_side.bmp|w00m_pick.bmp|w01a_stpt02.bmp
+Possible matching textures (already identified): chr1_05.bmp|chr1_05_alp_sub_ovl.bmp|col_blk.bmp|col_gry008.bmp|col_gry024.bmp_13b642f4c31baae9642f984ba25725ad|col_gry034.bmp|col_red01.bmp|col_w01agry1.bmp|col_w01agry2.bmp|col_w01agry3.bmp|col_w01agry5.bmp|col_w01awht1.bmp|col_w01awht2.bmp|cti_shirts1.bmp|for_arm.bmp|grs_black.bmp|gry075.bmp|gw_hand_b.bmp|gw_hip_back.bmp|h6h_grey.bmp|kck_gray1.bmp|kmo_low_body.bmp|null_msk.bmp|rai_eye_hlf_ovl.bmp|rai_glass_flame.bmp|rev_blk.bmp|sna2h_mouin.bmp|sna_shadow.bmp|sol_body_color.bmp|sol_gantai_dt.bmp|sopelem_himo_01.bmp|vmp_hair_back.bmp|vmp_ton_b.bmp|vmp_ton_u.bmp|w00m_mush_handl_side.bmp|w00m_pick.bmp|w01a_stpt02.bmp
 Total Possible Matches: 45
 --------------------------------------------
 Filename: 446c2a095cc283bd-40f1428a2cf4d3e7-r48x8-00002a54.png
@@ -485,14 +545,12 @@ Path: d - substance\sp22a\c4503f0bb780234d-4501dfdb370e1221-r96x32-00002a94.png
 SHA1: 4fb0144cb420d54038a7531b3c1c686fd8e3656e
 Name Already In List of Possible Matches: No
 Resolution: 96x32
-"C:\Development\Git\MGS2-PS2-Textures\d - substance\sp22a\c4503f0bb780234d-4501dfdb370e1221-r96x32-00002a94.png"|<"mgs2/base textures/" /<mark_noise_alp.bmp|sna_oss_spad.bmp|sna_oss_spad_ovl_sub_alp.bmp|sp21a_sdw01e_alp_ovl.bmp|sp21a_sdw08a_alp_ovl.bmp>.png>
+"C:\Development\Git\MGS2-PS2-Textures\d - substance\sp22a\c4503f0bb780234d-4501dfdb370e1221-r96x32-00002a94.png"|<"mgs2/base textures/" /<mark_noise_alp.bmp|sp21a_sdw01e_alp_ovl.bmp|sp21a_sdw08a_alp_ovl.bmp>.png>
 Possible matching textures (not already found):
   - mark_noise_alp.bmp
-  - sna_oss_spad.bmp
-  - sna_oss_spad_ovl_sub_alp.bmp
   - sp21a_sdw01e_alp_ovl.bmp
   - sp21a_sdw08a_alp_ovl.bmp
-Possible matching textures (already identified): crd_ppb00.bmp|crd_ppb01.bmp|hri2_missilepod_s1.bmp|m3l_flo_medienter2_bld097_ovl.bmp|org_hatfront.bmp|orn_should_dt01.bmp|orn_should_dt01_sub_alp_ovl.bmp|p90_main_natsu.bmp|raycp_arm_s1.bmp|sp25a_sdw20_alp_ovl.bmp|vs07a_sdw11_alp_ovl.bmp|w01a0_wh01d.bmp|w01a0_wh01e.bmp|w01a1_wla08.bmp|w01b_hc02.bmp|w01b_hc02a.bmp|w01d1_rfb03.bmp|w01f_01b_mark_05.bmp|w01f_tvw06c_bld090_ovl.bmp|w11a2_floor_kage08_alp_ovl.bmp|w11a2_floor_kage09_alp_ovl.bmp|w12c_sdw01_alp_ovl.bmp|w14a0_kage_r01_alp_ovl.bmp|w17a_sdwpp01b_alp_ovl.bmp|w17a_sdwpp01c_alp_ovl.bmp|w17a_sdwpp01d_alp_ovl.bmp|w17a_sdwpp01e_alp_ovl.bmp|w17a_sdwpp02b_alp_ovl.bmp|w18a_tsr_bar1.bmp|w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888|w18a_tsr_bar1.bmp_ac7a53edf3f5e3a63de0dcb94389fe91|w22a0e_r_kage_alp_ovl_ns.bmp|w24a0_rflit06b_alp_add_ovl.bmp|w24a0_rflit06b_alp_add_ovl.bmp_b764ea0962ad1ceabb3574d4f2722858|w24b1_fl00.bmp|w24c0_entfl00a.bmp|w25c1_sdw02_alp_ovl.bmp|w25c_dkt00.bmp_6be787577bdfda8d6294775ee321c709|w25c_sdw02_alp_ovl.bmp|w25c_sdw02a_alp_ovl.bmp|w28an_tsr_bar1.bmp|w28an_tsr_bar1a.bmp|w31a_mark_add_alp_ovl_02.bmp|w42a_efct_1f_disp_alp_add_ovl.bmp|w43a_wall_door_07.bmp|w43a_wall_door_07_alp_ovl.bmp|w44a_efct_1f_disp_alp_add_ovl.bmp|ws04a_sdw04_alp_ovl.bmp|ws12a_sdw03b_alp_ovl.bmp|ws52a_sdw04d_alp_ovl.bmp|ws63a_shw11_alp_ovl.bmp|ws73a_sdw_31_alp_ovl.bmp
+Possible matching textures (already identified): crd_ppb00.bmp|crd_ppb01.bmp|hri2_missilepod_s1.bmp|m3l_flo_medienter2_bld097_ovl.bmp|org_hatfront.bmp|orn_should_dt01.bmp|orn_should_dt01_sub_alp_ovl.bmp|p90_main_natsu.bmp|raycp_arm_s1.bmp|sna_oss_spad.bmp|sna_oss_spad_ovl_sub_alp.bmp|sp25a_sdw20_alp_ovl.bmp|vs07a_sdw11_alp_ovl.bmp|w01a0_wh01d.bmp|w01a0_wh01e.bmp|w01a1_wla08.bmp|w01b_hc02.bmp|w01b_hc02a.bmp|w01d1_rfb03.bmp|w01f_01b_mark_05.bmp|w01f_tvw06c_bld090_ovl.bmp|w11a2_floor_kage08_alp_ovl.bmp|w11a2_floor_kage09_alp_ovl.bmp|w12c_sdw01_alp_ovl.bmp|w14a0_kage_r01_alp_ovl.bmp|w17a_sdwpp01b_alp_ovl.bmp|w17a_sdwpp01c_alp_ovl.bmp|w17a_sdwpp01d_alp_ovl.bmp|w17a_sdwpp01e_alp_ovl.bmp|w17a_sdwpp02b_alp_ovl.bmp|w18a_tsr_bar1.bmp|w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888|w18a_tsr_bar1.bmp_ac7a53edf3f5e3a63de0dcb94389fe91|w22a0e_r_kage_alp_ovl_ns.bmp|w24a0_rflit06b_alp_add_ovl.bmp|w24a0_rflit06b_alp_add_ovl.bmp_b764ea0962ad1ceabb3574d4f2722858|w24b1_fl00.bmp|w24c0_entfl00a.bmp|w25c1_sdw02_alp_ovl.bmp|w25c_dkt00.bmp_6be787577bdfda8d6294775ee321c709|w25c_sdw02_alp_ovl.bmp|w25c_sdw02a_alp_ovl.bmp|w28an_tsr_bar1.bmp|w28an_tsr_bar1a.bmp|w31a_mark_add_alp_ovl_02.bmp|w42a_efct_1f_disp_alp_add_ovl.bmp|w43a_wall_door_07.bmp|w43a_wall_door_07_alp_ovl.bmp|w44a_efct_1f_disp_alp_add_ovl.bmp|ws04a_sdw04_alp_ovl.bmp|ws12a_sdw03b_alp_ovl.bmp|ws52a_sdw04d_alp_ovl.bmp|ws63a_shw11_alp_ovl.bmp|ws73a_sdw_31_alp_ovl.bmp
 Total Possible Matches: 57
 --------------------------------------------
 Filename: 4d1c79b31980647c-81252a24faca705-r96x32-00002a94.png
@@ -500,14 +558,12 @@ Path: d - substance\sp22a\4d1c79b31980647c-81252a24faca705-r96x32-00002a94.png
 SHA1: 725c8524077b6eae1680d716144ee73b5d107fb5
 Name Already In List of Possible Matches: No
 Resolution: 96x32
-"C:\Development\Git\MGS2-PS2-Textures\d - substance\sp22a\4d1c79b31980647c-81252a24faca705-r96x32-00002a94.png"|<"mgs2/base textures/" /<mark_noise_alp.bmp|sna_oss_spad.bmp|sna_oss_spad_ovl_sub_alp.bmp|sp21a_sdw01e_alp_ovl.bmp|sp21a_sdw08a_alp_ovl.bmp>.png>
+"C:\Development\Git\MGS2-PS2-Textures\d - substance\sp22a\4d1c79b31980647c-81252a24faca705-r96x32-00002a94.png"|<"mgs2/base textures/" /<mark_noise_alp.bmp|sp21a_sdw01e_alp_ovl.bmp|sp21a_sdw08a_alp_ovl.bmp>.png>
 Possible matching textures (not already found):
   - mark_noise_alp.bmp
-  - sna_oss_spad.bmp
-  - sna_oss_spad_ovl_sub_alp.bmp
   - sp21a_sdw01e_alp_ovl.bmp
   - sp21a_sdw08a_alp_ovl.bmp
-Possible matching textures (already identified): crd_ppb00.bmp|crd_ppb01.bmp|hri2_missilepod_s1.bmp|m3l_flo_medienter2_bld097_ovl.bmp|org_hatfront.bmp|orn_should_dt01.bmp|orn_should_dt01_sub_alp_ovl.bmp|p90_main_natsu.bmp|raycp_arm_s1.bmp|sp25a_sdw20_alp_ovl.bmp|vs07a_sdw11_alp_ovl.bmp|w01a0_wh01d.bmp|w01a0_wh01e.bmp|w01a1_wla08.bmp|w01b_hc02.bmp|w01b_hc02a.bmp|w01d1_rfb03.bmp|w01f_01b_mark_05.bmp|w01f_tvw06c_bld090_ovl.bmp|w11a2_floor_kage08_alp_ovl.bmp|w11a2_floor_kage09_alp_ovl.bmp|w12c_sdw01_alp_ovl.bmp|w14a0_kage_r01_alp_ovl.bmp|w17a_sdwpp01b_alp_ovl.bmp|w17a_sdwpp01c_alp_ovl.bmp|w17a_sdwpp01d_alp_ovl.bmp|w17a_sdwpp01e_alp_ovl.bmp|w17a_sdwpp02b_alp_ovl.bmp|w18a_tsr_bar1.bmp|w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888|w18a_tsr_bar1.bmp_ac7a53edf3f5e3a63de0dcb94389fe91|w22a0e_r_kage_alp_ovl_ns.bmp|w24a0_rflit06b_alp_add_ovl.bmp|w24a0_rflit06b_alp_add_ovl.bmp_b764ea0962ad1ceabb3574d4f2722858|w24b1_fl00.bmp|w24c0_entfl00a.bmp|w25c1_sdw02_alp_ovl.bmp|w25c_dkt00.bmp_6be787577bdfda8d6294775ee321c709|w25c_sdw02_alp_ovl.bmp|w25c_sdw02a_alp_ovl.bmp|w28an_tsr_bar1.bmp|w28an_tsr_bar1a.bmp|w31a_mark_add_alp_ovl_02.bmp|w42a_efct_1f_disp_alp_add_ovl.bmp|w43a_wall_door_07.bmp|w43a_wall_door_07_alp_ovl.bmp|w44a_efct_1f_disp_alp_add_ovl.bmp|ws04a_sdw04_alp_ovl.bmp|ws12a_sdw03b_alp_ovl.bmp|ws52a_sdw04d_alp_ovl.bmp|ws63a_shw11_alp_ovl.bmp|ws73a_sdw_31_alp_ovl.bmp
+Possible matching textures (already identified): crd_ppb00.bmp|crd_ppb01.bmp|hri2_missilepod_s1.bmp|m3l_flo_medienter2_bld097_ovl.bmp|org_hatfront.bmp|orn_should_dt01.bmp|orn_should_dt01_sub_alp_ovl.bmp|p90_main_natsu.bmp|raycp_arm_s1.bmp|sna_oss_spad.bmp|sna_oss_spad_ovl_sub_alp.bmp|sp25a_sdw20_alp_ovl.bmp|vs07a_sdw11_alp_ovl.bmp|w01a0_wh01d.bmp|w01a0_wh01e.bmp|w01a1_wla08.bmp|w01b_hc02.bmp|w01b_hc02a.bmp|w01d1_rfb03.bmp|w01f_01b_mark_05.bmp|w01f_tvw06c_bld090_ovl.bmp|w11a2_floor_kage08_alp_ovl.bmp|w11a2_floor_kage09_alp_ovl.bmp|w12c_sdw01_alp_ovl.bmp|w14a0_kage_r01_alp_ovl.bmp|w17a_sdwpp01b_alp_ovl.bmp|w17a_sdwpp01c_alp_ovl.bmp|w17a_sdwpp01d_alp_ovl.bmp|w17a_sdwpp01e_alp_ovl.bmp|w17a_sdwpp02b_alp_ovl.bmp|w18a_tsr_bar1.bmp|w18a_tsr_bar1.bmp_1c58084ea3dd78ff8ba4a3fac8949888|w18a_tsr_bar1.bmp_ac7a53edf3f5e3a63de0dcb94389fe91|w22a0e_r_kage_alp_ovl_ns.bmp|w24a0_rflit06b_alp_add_ovl.bmp|w24a0_rflit06b_alp_add_ovl.bmp_b764ea0962ad1ceabb3574d4f2722858|w24b1_fl00.bmp|w24c0_entfl00a.bmp|w25c1_sdw02_alp_ovl.bmp|w25c_dkt00.bmp_6be787577bdfda8d6294775ee321c709|w25c_sdw02_alp_ovl.bmp|w25c_sdw02a_alp_ovl.bmp|w28an_tsr_bar1.bmp|w28an_tsr_bar1a.bmp|w31a_mark_add_alp_ovl_02.bmp|w42a_efct_1f_disp_alp_add_ovl.bmp|w43a_wall_door_07.bmp|w43a_wall_door_07_alp_ovl.bmp|w44a_efct_1f_disp_alp_add_ovl.bmp|ws04a_sdw04_alp_ovl.bmp|ws12a_sdw03b_alp_ovl.bmp|ws52a_sdw04d_alp_ovl.bmp|ws63a_shw11_alp_ovl.bmp|ws73a_sdw_31_alp_ovl.bmp
 Total Possible Matches: 57
 --------------------------------------------
 Filename: 6fc27f2d14c58249-61e9a1c45eba153b-r96x8-00002a94.png
@@ -844,7 +900,7 @@ Path: d - substance\shell 2 core b2\80b085207c2d42cc-7f012fd5e309f3-r64x64-00002
 SHA1: 9104a2e10c51bcab41bea1f4f07a0a5332bc3dea
 Name Already In List of Possible Matches: No
 Resolution: 64x64
-"C:\Development\Git\MGS2-PS2-Textures\d - substance\shell 2 core b2\80b085207c2d42cc-7f012fd5e309f3-r64x64-000021d4.png"|<"mgs2/base textures/" /<00238df3|00248df3|003155d8|0050bfc5|00626739|007a0189|00b7b270|00fa15d7|apple_alp.bmp|b_mark.bmp|b_mark_msk.bmp|bottle010.bmp|bottle011.bmp|bottle012.bmp|bottle013.bmp|bottle014.bmp|bottle_008.bmp|bottle_009.bmp|bw_mark.bmp|cap_arm_wrist.bmp|caust00_alp_add_ovl.bmp|dish_tx_alp.bmp|e_sky_cld_sun_02_alp.bmp|e_sky_cld_sun_03_alp.bmp|fat_tang.bmp|fire4_msk.bmp|fire5_msk.bmp|frost02_alp.bmp|gen_boot_heel.bmp|gen_boot_toe.bmp|gen_hand.bmp|gen_hand_u.bmp|gen_mod1120_ovl_emap.bmp|ketchap_g.bmp|lnr_dankon_hibi1_alp.bmp|lnr_dankon_hibi2_alp.bmp|lnr_dankon_hibi3_alp.bmp|mrl_boot_t_0006.bmp|pump02_alp.bmp|q_mark_msk.bmp|qw_mark.bmp|rar_tuyu.bmp|sco_boots.bmp_9abb99c14789bfd99879b434af4f2e1b|shdw.bmp|sna_os_ovl_mod1120_alp_emap.bmp|sna_txd_nuno_ovl_alp_mod1120_emap.bmp|splash03.bmp|vr2_noise_a0_alp.bmp|vr2_noise_a1_alp.bmp|vr2_noise_a2_alp.bmp|vr2_noise_b0_alp.bmp|vr2_noise_b1_alp.bmp|vr2_noise_b2_alp.bmp|w10c_oil_sea_64_alp_ovl.bmp|w11b2_ironbox_dankon_f1_alp.bmp|w11b2_ironbox_dankon_s1_alp.bmp|w11c2_fire3c_alp.bmp|w51a_seacolor_04_alp_ovl.bmp|w60a_seacolor_b02_alp_ovl.bmp|ws35a_sdw12_alp_ovl.bmp|xlit24a_alp.bmp>.png>
+"C:\Development\Git\MGS2-PS2-Textures\d - substance\shell 2 core b2\80b085207c2d42cc-7f012fd5e309f3-r64x64-000021d4.png"|<"mgs2/base textures/" /<00238df3|00248df3|003155d8|0050bfc5|00626739|007a0189|00b7b270|00fa15d7|apple_alp.bmp|b_mark.bmp|b_mark_msk.bmp|bottle010.bmp|bottle011.bmp|bottle012.bmp|bottle013.bmp|bottle014.bmp|bottle_008.bmp|bottle_009.bmp|bw_mark.bmp|cap_arm_wrist.bmp|caust00_alp_add_ovl.bmp|dish_tx_alp.bmp|e_sky_cld_sun_02_alp.bmp|e_sky_cld_sun_03_alp.bmp|fat_tang.bmp|fire4_msk.bmp|fire5_msk.bmp|frost02_alp.bmp|gen_boot_heel.bmp|gen_boot_toe.bmp|gen_hand.bmp|gen_hand_u.bmp|gen_mod1120_ovl_emap.bmp|ketchap_g.bmp|lnr_dankon_hibi1_alp.bmp|lnr_dankon_hibi2_alp.bmp|lnr_dankon_hibi3_alp.bmp|pump02_alp.bmp|q_mark_msk.bmp|qw_mark.bmp|rar_tuyu.bmp|sco_boots.bmp_9abb99c14789bfd99879b434af4f2e1b|shdw.bmp|splash03.bmp|vr2_noise_a0_alp.bmp|vr2_noise_a1_alp.bmp|vr2_noise_a2_alp.bmp|vr2_noise_b0_alp.bmp|vr2_noise_b1_alp.bmp|vr2_noise_b2_alp.bmp|w10c_oil_sea_64_alp_ovl.bmp|w11b2_ironbox_dankon_f1_alp.bmp|w11b2_ironbox_dankon_s1_alp.bmp|w11c2_fire3c_alp.bmp|w51a_seacolor_04_alp_ovl.bmp|w60a_seacolor_b02_alp_ovl.bmp|ws35a_sdw12_alp_ovl.bmp|xlit24a_alp.bmp>.png>
 Possible matching textures (not already found):
   - 00238df3
   - 00248df3
@@ -883,15 +939,12 @@ Possible matching textures (not already found):
   - lnr_dankon_hibi1_alp.bmp
   - lnr_dankon_hibi2_alp.bmp
   - lnr_dankon_hibi3_alp.bmp
-  - mrl_boot_t_0006.bmp
   - pump02_alp.bmp
   - q_mark_msk.bmp
   - qw_mark.bmp
   - rar_tuyu.bmp
   - sco_boots.bmp_9abb99c14789bfd99879b434af4f2e1b
   - shdw.bmp
-  - sna_os_ovl_mod1120_alp_emap.bmp
-  - sna_txd_nuno_ovl_alp_mod1120_emap.bmp
   - splash03.bmp
   - vr2_noise_a0_alp.bmp
   - vr2_noise_a1_alp.bmp
@@ -907,14 +960,14 @@ Possible matching textures (not already found):
   - w60a_seacolor_b02_alp_ovl.bmp
   - ws35a_sdw12_alp_ovl.bmp
   - xlit24a_alp.bmp
-Possible matching textures (already identified): 005155d8|005255d8|005355d8|006262b9|009eafa1|blood_1bw_msk.bmp|blood_1c_msk.bmp|blood_1e_msk.bmp|bombgas1_alp.bmp|bombgas2_alp.bmp|bombgas3_alp.bmp|bombgas6_alp.bmp|bombpowder1_msk.bmp|box_01.bmp|box_02.bmp|box_03.bmp|box_07.bmp|box_08.bmp|box_09.bmp|btl_01.bmp|btl_02.bmp|btl_03.bmp|btl_04.bmp|btl_05.bmp|btl_06.bmp|btl_07.bmp|cam_f_ovl_mod1120_alp_emap.bmp|cam_hi_tang.bmp|cam_skl.bmp|car_lit_ground_alp_add_ovl.bmp|cbx_iner2_msk.bmp|chi01_alp.bmp|chi02_alp.bmp|chi03_alp.bmp|chi04_alp.bmp|chi05_alp.bmp|crd_pp01a.bmp|crd_pp01b.bmp|crd_pp01c.bmp|crd_pp09.bmp|crd_pp09a.bmp|crg_cap02.bmp|ctl_panel_side01.bmp|cyp_face.bmp|cyp_temp_tx.bmp|d00a_ceil_lit1_add_alp.bmp|d00a_gaitou_bonbori_add_alp.bmp|dbg_gbox_f.bmp|dbg_gbox_s.bmp|dbg_gbox_t.bmp|demo_teng_blood_03_alp_ovl.bmp|dmp_headphones_03.bmp|dnjv_f1.bmp|dtsw_tex01.bmp|ema_f_ovl_mod1120_alp_emap.bmp|ema_fd_ovl_mod1120_alp_emap.bmp|env01a_msk.bmp|env01b_msk.bmp|fat_epron3_ovl_alp_mod1120_emap.bmp|fat_shues_ovl_alp_emap_mod1120.bmp|fire1_alp.bmp|fire3_alp.bmp|floor_marker1_add_alp.bmp|floor_marker2_add_alp.bmp|for_b_ovl_mod1120_alp_emap.bmp|for_s_ovl_mod1120_alp_emap.bmp|forklift_body__back_01.bmp|forklift_body_floor_01.bmp|forklift_body_front_01.bmp|forklift_body_naka_01.bmp|forklift_body_top_01.bmp|gba_boot02.bmp|gbs_boot_ovl_sub_alp.bmp|gbs_boot_ss.bmp|gbs_e_ovl_mod1120_alp_emap.bmp|glass01_add.bmp|glass03_add.bmp|glasstest0005_alp.bmp|gpa_backbag.bmp|gw_coat_f.bmp|gw_coat_f.bmp_a9fbec5e21327a1b288d2f852444fd5d|gw_face.bmp|h6h_body_f1.bmp|h6h_door_window.bmp|h6h_door_window_sub_alp_ovl.bmp|h6h_foot_window.bmp|h6h_foot_window_sub_alp_ovl.bmp|h6h_temptex1.bmp|hamon04_add_msk.bmp|hamon05_add_msk.bmp|hamon06_add_msk.bmp|hamon09_add_alp.bmp|haze03_alp_ovl.bmp|hnm_low_ovl_alp.bmp|hos_fa_ovl_mod1120_alp_emap.bmp|hri2_fan.bmp|hri2_fan_brk.bmp|hri2_seat.bmp|hri2_seat_02.bmp|hri_canopy_ovl_mod1120_emap.bmp|iro_hi_tang.bmp|jam_e2_ovl_mod1120_alp_emap.bmp|jim_rusty_body_02.bmp|kck_canopy_ovl_mod1120_emap.bmp|kck_iner_wall.bmp|kckis_box1.bmp|kckis_chair_t1.bmp|kckis_prllit_add.bmp|ketchap00_alp.bmp|kirari_alp_ovl.bmp|light12_msk.bmp|lsight_msk.bmp|m3l_dsk_hone.bmp|m3l_dsk_paper.bmp|m3l_dsk_tana.bmp|m3l_medi_cei1.bmp|m3l_medi_cei3.bmp|m3l_medi_cei7.bmp|mrl_a_ovl_mod1120_alp_emap.bmp|mrl_b_ovl_mod1120_alp_emap.bmp|mrl_boot_t_0006.bmp_59183955acc81e5068d5f691c153560c|mrl_boot_t_sub_alp_ovl.bmp|mrl_h_ovl_mod1120_alp_emap.bmp|orn_leg_dt01.bmp|orn_leg_dt01_sub_alp_ovl.bmp|orp_f_ovl_mod1120_alp_emap.bmp|otc_tr_ovl_mod1120_alp_emap.bmp|pdray_chin_t1.bmp|pdray_cnpy_ovl_mod1120_emap.bmp|pdray_mouth_temptex.bmp|pdray_temptex1.bmp|pdray_temptex1_sub_alp_ovl.bmp|psg_r_natsu.bmp|ptr_eye_ovl_mod1120_alp_emap.bmp|pump01_alp.bmp|rai_fe_ovl_mod1120_alp_emap.bmp|rai_fx_ovl_mod1120_alp_emap.bmp|rai_hair_b_base.bmp|rai_hair_b_edge2_ovl_alp.bmp|rai_hair_b_edge_ovl_alp.bmp|rai_hair_b_sbotom_ovl_alp.bmp|rai_hair_bk_base.bmp|rai_hair_bk_edge2_ovl_alp.bmp|rai_hair_bk_edge_ovl_alp.bmp|rai_hair_bk_sbotom_ovl_alp.bmp|rai_hair_d_base.bmp|rai_hair_d_edge2_ovl_alp.bmp|rai_hair_d_edge_ovl_alp.bmp|rai_hair_d_ovl_sub_alp.bmp|rai_hair_d_sbotom_ovl_alp.bmp|rai_hair_r_base.bmp|rai_hair_r_edge2_ovl_alp.bmp|rai_hair_r_edge_ovl_alp.bmp|rai_hair_r_sbotom_ovl_alp.bmp|rai_hr_ovl_mod1120_alp_emap.bmp|rai_mask_a.bmp|rai_mask_a_ovl_sub_alp.bmp|rai_na_ovl_mod1102_alp_emap.bmp|rai_r_ovl_mod1120_alp_emap.bmp|ray_canopy.bmp_69536e0cc16b5504c7afe3237c9f388a|ray_canopy_ovl_mod1120_emap.bmp|ray_canopy_sub_ovl_alp.bmp_262887ad5d1a24632bc26b95450cb515|ray_chin_t1.bmp|ray_mouth_temptex.bmp|ray_temptex1.bmp|ray_temptex1_sub_alp_ovl.bmp|raycp_circle2_alp.bmp|raycp_liner_alp.bmp|rdat2.bmp|rev_boot_01dt.bmp|rev_boot_ss.bmp|rev_p_ovl_mod1120_alp_emap.bmp|sco_boots.bmp|sga_hope_s1.bmp|sga_hope_s1_alp.bmp|sky_sun_d_alp.bmp|sky_sun_e_alp.bmp|sna_b_ovl_mod1120_alp_emap.bmp|sna_c_ovl_mod1120_alp_emap.bmp|sna_coat_kage_ovl_alp.bmp|sna_e_ovl_mod1120_alp_emap.bmp|sna_f_ovl_mod1120_alp_emap.bmp|sna_hi_tang01dt.bmp|so_rtn2.bmp|sofa01.bmp|sofa01_alp_sub_ovl.bmp|sol_ami.bmp|sol_ami_ovl_sub_alp.bmp|sol_f2_ovl_mod1120_alp_emap.bmp|sol_hri_muscle01.bmp|sol_sa_top_dt01.bmp|sol_sarm_top.bmp|sonic02_alp.bmp|sp01a_sdw03c_alp_ovl.bmp|sp03a_sdw00_alp_ovl.bmp|sp06a_sdw00_alp_ovl.bmp|sp07a_shw00_alp_ovl.bmp|sp07a_shw03_alp_ovl.bmp|sp07a_shw24_alp_ovl.bmp|sp07a_wall_shw00_alp_ovl.bmp|sp25a_sdw03_alp_ovl.bmp|splash03_alp.bmp|splash04_alp.bmp|splash05_alp.bmp|splash07_alp.bmp|tejyou.bmp|test_bld020.bmp|tnr_dark_food_l.bmp|tnr_dark_food_r.bmp|tnr_re_foodl_ovl_sub_alp.bmp|tnr_re_foodr_ovl_sub_alp.bmp|vmp_hri_body03.bmp|vmp_l_ovl_mod1120_alp_emap.bmp|vmp_na_ovl_mod1120_alp_emap.bmp|vmp_tr_ovl_mod1120_alp_emap.bmp|vr2_chi01_alp.bmp|vr2_chi02_alp.bmp|vr2_chi03_alp.bmp|vr2_chi04_alp.bmp|vr2_chi05_alp.bmp|vr2_ketchap00_alp.bmp|vr2_locker_top.bmp|vr2_wetpanel_alp.bmp|vr_wall_03.bmp|vs08a_sdw06c_alp_ovl.bmp|vs09a_sdw10_alp_ovl.bmp|w00_blc_u1.bmp|w00_blc_u1.bmp_a248990b0be0a97361cdd3f07ff6fec9|w00_blc_u1.bmp_cfd9efc7b43957745c9bf46871fe11a6|w00_blc_u2.bmp|w00_blc_u4.bmp|w00a_abs.bmp|w00a_blc_t1.bmp|w00a_blc_t1.bmp_7f11fc01c0e5875532e7dd318d7c9e68|w00a_blc_t1.bmp_c76e68d9706f103c59be56d48ceb6867|w00a_blc_t1_mk.bmp|w00a_blc_t2.bmp|w00a_blc_t2_mk.bmp|w00a_dc1.bmp|w00a_dck_at7.bmp|w00a_dck_at8.bmp|w00a_rtn1_msk.bmp|w00ak_flrshad3_sub_alp_ovl.bmp|w00b_flr12.bmp|w00b_flr13.bmp|w00b_flr14.bmp|w00b_flr15.bmp|w00b_flr16.bmp|w00b_flr17.bmp|w00b_flr7.bmp|w00b_flr_b5.bmp|w00b_huge_light_s.bmp|w00b_raderdome.bmp|w00b_w01e_floor1_alp_ovl.bmp|w00b_w01e_rf01.bmp|w00b_wallmain1_ref.bmp_78c52d902dd3a2f081f6da5faa61474f|w00b_wbox_s.bmp|w00b_wbox_t.bmp|w00brk_crn_bonbori_add_alp.bmp|w00brk_fwall_hl_add_alp_ovl.bmp|w01a0_ppb01a.bmp|w01a1_tb01.bmp|w01a_chrb00.bmp|w01a_lit01_add_ovl.bmp|w01b_00ak_flr2.bmp|w01b_fla03_bld080_ovl.bmp|w01b_fla03u_alp_ovl.bmp|w01b_fla04_bld080_ovl.bmp|w01b_fla06_bld080_ovl.bmp|w01b_fla07_bld080_ovl.bmp|w01b_fla07u_alp_ovl.bmp|w01c_lit01_add_alp_ovl.bmp|w01c_lit01b_add_alp_ovl.bmp|w01c_rf02.bmp|w01c_rfb00.bmp|w01d1_fl00a_bld080_ovl.bmp|w01d1_fla01_bld080_ovl.bmp|w01d1_fla01a_bld080_ovl.bmp|w01d1_fu01_alp_ovl.bmp|w01e_00b_flr1.bmp|w01e_com01_f.bmp|w01e_panel04.bmp|w01e_rf01_ref.bmp|w01e_rouka_rf.bmp|w01e_rouka_rf_fade.bmp|w01e_shd_rouka_sub_alp_ovl.bmp|w01e_shd_rouka_sub_ovl.bmp|w01e_wl_shd04_sub_alp_ovl.bmp|w01e_wl_shd04_sub_ovl.bmp|w02_yuka3.bmp|w02_yuka4.bmp|w02_yuka_light.bmp|w03e_box_f.bmp|w03e_box_mog2.bmp|w03e_box_s.bmp|w03e_box_t.bmp|w04_eisha2_back.bmp|w04_eisha2_front.bmp|w10b_right_01.bmp|w10b_rightfurea_01_alp.bmp|w10b_rightfurea_04_alp.bmp|w10c_entfl00.bmp_41079b5b76f61fb1621b76f73c73ce8b|w10c_rf00.bmp|w11a0_flshd5_sub_alp_ovl.bmp|w11a2_evt_wall1.bmp_7c30018640e5e80f052e10020e03f427|w11b2_ironbox_brk3_t1.bmp|w11b2_ironbox_t.bmp|w11c2_fire3a_alp.bmp|w11c2_fire3b_alp.bmp|w11c2_oilspot_sub_alp.bmp|w11c2_spipe_temptex1.bmp|w11c2_spipe_temptex2.bmp|w12a_boxsdw01c.bmp|w12a_ironbox_t.bmp|w12b_drum.bmp|w12b_kurayami_alp.bmp|w12c_boxsdw01c.bmp|w12c_boxsdw01c2.bmp|w12c_ironbox_t2.bmp|w12c_sdw00d_alp_ovl.bmp|w12c_sdw01a_alp_ovl.bmp|w13a_sdwpp00a_alp_ovl.bmp|w13a_sdwpp00b_alp_ovl.bmp|w13a_sdwpp00c_alp_ovl.bmp|w14a0_fl_a01.bmp|w14a_blood_03_alp_ovl.bmp|w14a_h_dodai_a01.bmp|w14a_h_dodai_a02.bmp|w15b_sdwpp00a_alp_ovl.bmp|w15b_sdwpp00c_alp_ovl.bmp|w16a0_ta04.bmp|w16a0_wa3_h1.bmp|w16a0_wa3_h3.bmp|w16a_ki16_top.bmp|w16a_wa3_h1.bmp|w16an_ki16_in.bmp|w18a_hatch_ami_alp.bmp|w18a_hatch_soko.bmp|w18a_tank1_elebox1.bmp|w18a_water_ref_add_alp_ovl.bmp|w19a_stp00b.bmp|w20a3_ema_blood_alp_ovl.bmp|w20a_belst17_alp_ovl.bmp|w20b_crn_bodyobj1.bmp|w20b_crn_fukku1.bmp|w20b_crn_shd3_alp_ovl.bmp|w20b_crnfoot_dai.bmp|w20b_hri_floor1.bmp_44f5bf777c80164058c594bf93cd79e7|w20b_hri_floor2.bmp_69dcf7aabbdfc0daa941193c869c96e2|w20b_hri_hatch.bmp|w20b_tank1_t.bmp|w20b_temptex1.bmp|w21a_tnk00f.bmp_a591158e83cb91447d5587c530ad54ef|w21a_tnk00f2.bmp|w21a_tnk00f3.bmp|w22a_kurayami_alp.bmp|w24a0_rf03d.bmp|w24a1_sdw02_alp_ovl.bmp|w24b1_fld00_alp_ovl.bmp|w24bn_lit00_add_alp_ovl.bmp|w24c0_obj10.bmp|w24c0_ta01_alp_ovl.bmp|w24c0n_fl_sh01_alp_ovl.bmp|w24d2_wa3_h1.bmp|w24d2_wa3_h1.bmp_deabbdfb6d97793d88d289f81ed4e2fe|w25a_h05d.bmp|w25a_sdw05c_alp_ovl.bmp|w25a_tank00f.bmp|w31a_haisen_01.bmp|w42a_efct_disp_05_scr_alp_add_ovl.bmp|w60a_bill_a38_1.bmp|w61a_bill10_wall1.bmp|w61a_oth_kuuchoubox.bmp|w62a_bill_m01.bmp|w62a_bill_m02.bmp|w62a_bill_n01.bmp|w62a_gareki_a01.bmp|watermelon01_alp.bmp|wine_liq_ovl_mod1120_emap.bmp|ws12a_sdw01_alp_ovl.bmp|ws23a_sdw06_alp_ovl.bmp|ws34a_sdw02_alp_ovl.bmp|ws34a_sdw11_alp_ovl.bmp|ws35a_sdw01_alp_ovl.bmp|ws52a_sdw01_alp_ovl.bmp|ws54a_shw09_alp_ovl.bmp|ws54a_wshw18_alp_ovl.bmp|ws63a_shw13_alp_ovl.bmp|ws65a_sdw66_alp_ovl.bmp|xlit01b_msk.bmp|xlit04a_alp.bmp|xlit04b_alp.bmp|xlit05a_alp.bmp
+Possible matching textures (already identified): 005155d8|005255d8|005355d8|006262b9|009eafa1|blood_1bw_msk.bmp|blood_1c_msk.bmp|blood_1e_msk.bmp|bombgas1_alp.bmp|bombgas2_alp.bmp|bombgas3_alp.bmp|bombgas6_alp.bmp|bombpowder1_msk.bmp|box_01.bmp|box_02.bmp|box_03.bmp|box_07.bmp|box_08.bmp|box_09.bmp|btl_01.bmp|btl_02.bmp|btl_03.bmp|btl_04.bmp|btl_05.bmp|btl_06.bmp|btl_07.bmp|cam_f_ovl_mod1120_alp_emap.bmp|cam_hi_tang.bmp|cam_skl.bmp|car_lit_ground_alp_add_ovl.bmp|cbx_iner2_msk.bmp|chi01_alp.bmp|chi02_alp.bmp|chi03_alp.bmp|chi04_alp.bmp|chi05_alp.bmp|crd_pp01a.bmp|crd_pp01b.bmp|crd_pp01c.bmp|crd_pp09.bmp|crd_pp09a.bmp|crg_cap02.bmp|ctl_panel_side01.bmp|cyp_face.bmp|cyp_temp_tx.bmp|d00a_ceil_lit1_add_alp.bmp|d00a_gaitou_bonbori_add_alp.bmp|dbg_gbox_f.bmp|dbg_gbox_s.bmp|dbg_gbox_t.bmp|demo_teng_blood_03_alp_ovl.bmp|dmp_headphones_03.bmp|dnjv_f1.bmp|dtsw_tex01.bmp|ema_f_ovl_mod1120_alp_emap.bmp|ema_fd_ovl_mod1120_alp_emap.bmp|env01a_msk.bmp|env01b_msk.bmp|fat_epron3_ovl_alp_mod1120_emap.bmp|fat_shues_ovl_alp_emap_mod1120.bmp|fire1_alp.bmp|fire3_alp.bmp|floor_marker1_add_alp.bmp|floor_marker2_add_alp.bmp|for_b_ovl_mod1120_alp_emap.bmp|for_s_ovl_mod1120_alp_emap.bmp|forklift_body__back_01.bmp|forklift_body_floor_01.bmp|forklift_body_front_01.bmp|forklift_body_naka_01.bmp|forklift_body_top_01.bmp|gba_boot02.bmp|gbs_boot_ovl_sub_alp.bmp|gbs_boot_ss.bmp|gbs_e_ovl_mod1120_alp_emap.bmp|glass01_add.bmp|glass03_add.bmp|glasstest0005_alp.bmp|gpa_backbag.bmp|gw_coat_f.bmp|gw_coat_f.bmp_a9fbec5e21327a1b288d2f852444fd5d|gw_face.bmp|h6h_body_f1.bmp|h6h_door_window.bmp|h6h_door_window_sub_alp_ovl.bmp|h6h_foot_window.bmp|h6h_foot_window_sub_alp_ovl.bmp|h6h_temptex1.bmp|hamon04_add_msk.bmp|hamon05_add_msk.bmp|hamon06_add_msk.bmp|hamon09_add_alp.bmp|haze03_alp_ovl.bmp|hnm_low_ovl_alp.bmp|hos_fa_ovl_mod1120_alp_emap.bmp|hri2_fan.bmp|hri2_fan_brk.bmp|hri2_seat.bmp|hri2_seat_02.bmp|hri_canopy_ovl_mod1120_emap.bmp|iro_hi_tang.bmp|jam_e2_ovl_mod1120_alp_emap.bmp|jim_rusty_body_02.bmp|kck_canopy_ovl_mod1120_emap.bmp|kck_iner_wall.bmp|kckis_box1.bmp|kckis_chair_t1.bmp|kckis_prllit_add.bmp|ketchap00_alp.bmp|kirari_alp_ovl.bmp|light12_msk.bmp|lsight_msk.bmp|m3l_dsk_hone.bmp|m3l_dsk_paper.bmp|m3l_dsk_tana.bmp|m3l_medi_cei1.bmp|m3l_medi_cei3.bmp|m3l_medi_cei7.bmp|mrl_a_ovl_mod1120_alp_emap.bmp|mrl_b_ovl_mod1120_alp_emap.bmp|mrl_boot_t_0006.bmp|mrl_boot_t_0006.bmp_59183955acc81e5068d5f691c153560c|mrl_boot_t_sub_alp_ovl.bmp|mrl_h_ovl_mod1120_alp_emap.bmp|orn_leg_dt01.bmp|orn_leg_dt01_sub_alp_ovl.bmp|orp_f_ovl_mod1120_alp_emap.bmp|otc_tr_ovl_mod1120_alp_emap.bmp|pdray_chin_t1.bmp|pdray_cnpy_ovl_mod1120_emap.bmp|pdray_mouth_temptex.bmp|pdray_temptex1.bmp|pdray_temptex1_sub_alp_ovl.bmp|psg_r_natsu.bmp|ptr_eye_ovl_mod1120_alp_emap.bmp|pump01_alp.bmp|rai_fe_ovl_mod1120_alp_emap.bmp|rai_fx_ovl_mod1120_alp_emap.bmp|rai_hair_b_base.bmp|rai_hair_b_edge2_ovl_alp.bmp|rai_hair_b_edge_ovl_alp.bmp|rai_hair_b_sbotom_ovl_alp.bmp|rai_hair_bk_base.bmp|rai_hair_bk_edge2_ovl_alp.bmp|rai_hair_bk_edge_ovl_alp.bmp|rai_hair_bk_sbotom_ovl_alp.bmp|rai_hair_d_base.bmp|rai_hair_d_edge2_ovl_alp.bmp|rai_hair_d_edge_ovl_alp.bmp|rai_hair_d_ovl_sub_alp.bmp|rai_hair_d_sbotom_ovl_alp.bmp|rai_hair_r_base.bmp|rai_hair_r_edge2_ovl_alp.bmp|rai_hair_r_edge_ovl_alp.bmp|rai_hair_r_sbotom_ovl_alp.bmp|rai_hr_ovl_mod1120_alp_emap.bmp|rai_mask_a.bmp|rai_mask_a_ovl_sub_alp.bmp|rai_na_ovl_mod1102_alp_emap.bmp|rai_r_ovl_mod1120_alp_emap.bmp|ray_canopy.bmp_69536e0cc16b5504c7afe3237c9f388a|ray_canopy_ovl_mod1120_emap.bmp|ray_canopy_sub_ovl_alp.bmp_262887ad5d1a24632bc26b95450cb515|ray_chin_t1.bmp|ray_mouth_temptex.bmp|ray_temptex1.bmp|ray_temptex1_sub_alp_ovl.bmp|raycp_circle2_alp.bmp|raycp_liner_alp.bmp|rdat2.bmp|rev_boot_01dt.bmp|rev_boot_ss.bmp|rev_p_ovl_mod1120_alp_emap.bmp|sco_boots.bmp|sga_hope_s1.bmp|sga_hope_s1_alp.bmp|sky_sun_d_alp.bmp|sky_sun_e_alp.bmp|sna_b_ovl_mod1120_alp_emap.bmp|sna_c_ovl_mod1120_alp_emap.bmp|sna_coat_kage_ovl_alp.bmp|sna_e_ovl_mod1120_alp_emap.bmp|sna_f_ovl_mod1120_alp_emap.bmp|sna_hi_tang01dt.bmp|sna_os_ovl_mod1120_alp_emap.bmp|sna_txd_nuno_ovl_alp_mod1120_emap.bmp|so_rtn2.bmp|sofa01.bmp|sofa01_alp_sub_ovl.bmp|sol_ami.bmp|sol_ami_ovl_sub_alp.bmp|sol_f2_ovl_mod1120_alp_emap.bmp|sol_hri_muscle01.bmp|sol_sa_top_dt01.bmp|sol_sarm_top.bmp|sonic02_alp.bmp|sp01a_sdw03c_alp_ovl.bmp|sp03a_sdw00_alp_ovl.bmp|sp06a_sdw00_alp_ovl.bmp|sp07a_shw00_alp_ovl.bmp|sp07a_shw03_alp_ovl.bmp|sp07a_shw24_alp_ovl.bmp|sp07a_wall_shw00_alp_ovl.bmp|sp25a_sdw03_alp_ovl.bmp|splash03_alp.bmp|splash04_alp.bmp|splash05_alp.bmp|splash07_alp.bmp|tejyou.bmp|test_bld020.bmp|tnr_dark_food_l.bmp|tnr_dark_food_r.bmp|tnr_re_foodl_ovl_sub_alp.bmp|tnr_re_foodr_ovl_sub_alp.bmp|vmp_hri_body03.bmp|vmp_l_ovl_mod1120_alp_emap.bmp|vmp_na_ovl_mod1120_alp_emap.bmp|vmp_tr_ovl_mod1120_alp_emap.bmp|vr2_chi01_alp.bmp|vr2_chi02_alp.bmp|vr2_chi03_alp.bmp|vr2_chi04_alp.bmp|vr2_chi05_alp.bmp|vr2_ketchap00_alp.bmp|vr2_locker_top.bmp|vr2_wetpanel_alp.bmp|vr_wall_03.bmp|vs08a_sdw06c_alp_ovl.bmp|vs09a_sdw10_alp_ovl.bmp|w00_blc_u1.bmp|w00_blc_u1.bmp_a248990b0be0a97361cdd3f07ff6fec9|w00_blc_u1.bmp_cfd9efc7b43957745c9bf46871fe11a6|w00_blc_u2.bmp|w00_blc_u4.bmp|w00a_abs.bmp|w00a_blc_t1.bmp|w00a_blc_t1.bmp_7f11fc01c0e5875532e7dd318d7c9e68|w00a_blc_t1.bmp_c76e68d9706f103c59be56d48ceb6867|w00a_blc_t1_mk.bmp|w00a_blc_t2.bmp|w00a_blc_t2_mk.bmp|w00a_dc1.bmp|w00a_dck_at7.bmp|w00a_dck_at8.bmp|w00a_rtn1_msk.bmp|w00ak_flrshad3_sub_alp_ovl.bmp|w00b_flr12.bmp|w00b_flr13.bmp|w00b_flr14.bmp|w00b_flr15.bmp|w00b_flr16.bmp|w00b_flr17.bmp|w00b_flr7.bmp|w00b_flr_b5.bmp|w00b_huge_light_s.bmp|w00b_raderdome.bmp|w00b_w01e_floor1_alp_ovl.bmp|w00b_w01e_rf01.bmp|w00b_wallmain1_ref.bmp_78c52d902dd3a2f081f6da5faa61474f|w00b_wbox_s.bmp|w00b_wbox_t.bmp|w00brk_crn_bonbori_add_alp.bmp|w00brk_fwall_hl_add_alp_ovl.bmp|w01a0_ppb01a.bmp|w01a1_tb01.bmp|w01a_chrb00.bmp|w01a_lit01_add_ovl.bmp|w01b_00ak_flr2.bmp|w01b_fla03_bld080_ovl.bmp|w01b_fla03u_alp_ovl.bmp|w01b_fla04_bld080_ovl.bmp|w01b_fla06_bld080_ovl.bmp|w01b_fla07_bld080_ovl.bmp|w01b_fla07u_alp_ovl.bmp|w01c_lit01_add_alp_ovl.bmp|w01c_lit01b_add_alp_ovl.bmp|w01c_rf02.bmp|w01c_rfb00.bmp|w01d1_fl00a_bld080_ovl.bmp|w01d1_fla01_bld080_ovl.bmp|w01d1_fla01a_bld080_ovl.bmp|w01d1_fu01_alp_ovl.bmp|w01e_00b_flr1.bmp|w01e_com01_f.bmp|w01e_panel04.bmp|w01e_rf01_ref.bmp|w01e_rouka_rf.bmp|w01e_rouka_rf_fade.bmp|w01e_shd_rouka_sub_alp_ovl.bmp|w01e_shd_rouka_sub_ovl.bmp|w01e_wl_shd04_sub_alp_ovl.bmp|w01e_wl_shd04_sub_ovl.bmp|w02_yuka3.bmp|w02_yuka4.bmp|w02_yuka_light.bmp|w03e_box_f.bmp|w03e_box_mog2.bmp|w03e_box_s.bmp|w03e_box_t.bmp|w04_eisha2_back.bmp|w04_eisha2_front.bmp|w10b_right_01.bmp|w10b_rightfurea_01_alp.bmp|w10b_rightfurea_04_alp.bmp|w10c_entfl00.bmp_41079b5b76f61fb1621b76f73c73ce8b|w10c_rf00.bmp|w11a0_flshd5_sub_alp_ovl.bmp|w11a2_evt_wall1.bmp_7c30018640e5e80f052e10020e03f427|w11b2_ironbox_brk3_t1.bmp|w11b2_ironbox_t.bmp|w11c2_fire3a_alp.bmp|w11c2_fire3b_alp.bmp|w11c2_oilspot_sub_alp.bmp|w11c2_spipe_temptex1.bmp|w11c2_spipe_temptex2.bmp|w12a_boxsdw01c.bmp|w12a_ironbox_t.bmp|w12b_drum.bmp|w12b_kurayami_alp.bmp|w12c_boxsdw01c.bmp|w12c_boxsdw01c2.bmp|w12c_ironbox_t2.bmp|w12c_sdw00d_alp_ovl.bmp|w12c_sdw01a_alp_ovl.bmp|w13a_sdwpp00a_alp_ovl.bmp|w13a_sdwpp00b_alp_ovl.bmp|w13a_sdwpp00c_alp_ovl.bmp|w14a0_fl_a01.bmp|w14a_blood_03_alp_ovl.bmp|w14a_h_dodai_a01.bmp|w14a_h_dodai_a02.bmp|w15b_sdwpp00a_alp_ovl.bmp|w15b_sdwpp00c_alp_ovl.bmp|w16a0_ta04.bmp|w16a0_wa3_h1.bmp|w16a0_wa3_h3.bmp|w16a_ki16_top.bmp|w16a_wa3_h1.bmp|w16an_ki16_in.bmp|w18a_hatch_ami_alp.bmp|w18a_hatch_soko.bmp|w18a_tank1_elebox1.bmp|w18a_water_ref_add_alp_ovl.bmp|w19a_stp00b.bmp|w20a3_ema_blood_alp_ovl.bmp|w20a_belst17_alp_ovl.bmp|w20b_crn_bodyobj1.bmp|w20b_crn_fukku1.bmp|w20b_crn_shd3_alp_ovl.bmp|w20b_crnfoot_dai.bmp|w20b_hri_floor1.bmp_44f5bf777c80164058c594bf93cd79e7|w20b_hri_floor2.bmp_69dcf7aabbdfc0daa941193c869c96e2|w20b_hri_hatch.bmp|w20b_tank1_t.bmp|w20b_temptex1.bmp|w21a_tnk00f.bmp_a591158e83cb91447d5587c530ad54ef|w21a_tnk00f2.bmp|w21a_tnk00f3.bmp|w22a_kurayami_alp.bmp|w24a0_rf03d.bmp|w24a1_sdw02_alp_ovl.bmp|w24b1_fld00_alp_ovl.bmp|w24bn_lit00_add_alp_ovl.bmp|w24c0_obj10.bmp|w24c0_ta01_alp_ovl.bmp|w24c0n_fl_sh01_alp_ovl.bmp|w24d2_wa3_h1.bmp|w24d2_wa3_h1.bmp_deabbdfb6d97793d88d289f81ed4e2fe|w25a_h05d.bmp|w25a_sdw05c_alp_ovl.bmp|w25a_tank00f.bmp|w31a_haisen_01.bmp|w42a_efct_disp_05_scr_alp_add_ovl.bmp|w60a_bill_a38_1.bmp|w61a_bill10_wall1.bmp|w61a_oth_kuuchoubox.bmp|w62a_bill_m01.bmp|w62a_bill_m02.bmp|w62a_bill_n01.bmp|w62a_gareki_a01.bmp|watermelon01_alp.bmp|wine_liq_ovl_mod1120_emap.bmp|ws12a_sdw01_alp_ovl.bmp|ws23a_sdw06_alp_ovl.bmp|ws34a_sdw02_alp_ovl.bmp|ws34a_sdw11_alp_ovl.bmp|ws35a_sdw01_alp_ovl.bmp|ws52a_sdw01_alp_ovl.bmp|ws54a_shw09_alp_ovl.bmp|ws54a_wshw18_alp_ovl.bmp|ws63a_shw13_alp_ovl.bmp|ws65a_sdw66_alp_ovl.bmp|xlit01b_msk.bmp|xlit04a_alp.bmp|xlit04b_alp.bmp|xlit05a_alp.bmp
 Total Possible Matches: 454
 --------------------------------------------
 
 [Summary]
-Checked: 47
+Checked: 51
 Renamed (wrong dims): 0
 Alpha >128: 0
-Suggestions logged: 47
+Suggestions logged: 51
 No-match files: 0
 Log file saved at: C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\External PNG Status Checks.log

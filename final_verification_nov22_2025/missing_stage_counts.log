@@ -120,12 +120,12 @@ twp43a
 w24e
 w31f
 wmovie
-Found 14639 PNG/TGA files total.
+Found 14661 PNG/TGA files total.
 
 Detected 1357 correct mixed-alpha TGAs (will be skipped).
 
 === MISSING TEXTURE COUNTS BY STAGE (DESCENDING) ===
-n_title	54	[Menu | Title Screen]
+n_title	51	[Menu | Title Screen]
 a46a	41	[Alternate | GW - Rectum (Snake Tales)]
 sp22a	36	[VR: First-Person | Level 2]
 w46a	36	[Plant | GW - Rectum]
@@ -163,7 +163,6 @@ a18a	20	[Alternate | Sediment Pool (Snake Tales)]
 ta12a	20	
 w25d	20	[Plant | KL Connecting Bridge]
 w01c	20	[Tanker | Deck C Crew Quarters]
-r_vr_b	19	
 r_vr_p	19	
 a01d	19	[Alternate | Deck D Crew Quarters (Alternate)]
 a24d	19	[Alternate | Shell 1 Core - B2 (Snake Tales)]
@@ -179,6 +178,7 @@ wp25a	19	[VR: Weapons - C4/Claymore | Level 5]
 wp73a	19	[VR: Weapons - No Weapon / HF.Blade | Level 3]
 wp74a	19	[VR: Weapons - No Weapon / HF.Blade | Level 4]
 r_vr_1	18	
+r_vr_b	18	
 r_vr_r	18	
 r_vr_rp	18	
 r_vr_s	18	
@@ -390,15 +390,7 @@ w04c	7	[Tanker | Hold No.3]
 d046p01	7	[Plant | Cutscene d046p01]
 d021p01	6	[Plant | Fatman and Ninja]
 d001p01	4	[Plant | Plant Opening]
-r_plt11	4	
-r_plt13	4	
-r_plt7	4	
-r_plt8	4	
-r_plt9	4	
 init	4	
-r_plt10	4	
-r_plt12	4	
-r_plt6	4	
 ending	3	[Plant | Results Screen]
 sselect	3	
 photo	3	
@@ -412,7 +404,7 @@ f01e	1
 f01f	1	
 capture	1	
 
-TOTAL UNIQUE MISSING: 302
+TOTAL UNIQUE MISSING: 295
 
 === MISSING TEXTURE COUNTS BY STAGE (ALPHABETICAL) ===
 a00a	13	[Alternate | Deck A - Port (Alternate)]
@@ -516,30 +508,22 @@ f01e	1
 f01f	1	
 init	4	
 mselect	13	[Menu | VR Missions Menu]
-n_title	54	[Menu | Title Screen]
+n_title	51	[Menu | Title Screen]
 node	10	
 photo	3	
 r_plt0	17	
 r_plt1	16	
-r_plt10	4	
-r_plt11	4	
-r_plt12	4	
-r_plt13	4	
 r_plt2	17	
 r_plt3	17	
 r_plt4	15	
 r_plt5	15	
-r_plt6	4	
-r_plt7	4	
-r_plt8	4	
-r_plt9	4	
 r_plt_s	17	
 r_rai_b	28	
 r_sna_b	24	
 r_tnk0	11	
 r_tnk_r	16	
 r_vr_1	18	
-r_vr_b	19	
+r_vr_b	18	
 r_vr_p	19	
 r_vr_r	18	
 r_vr_rp	18	
