@@ -1,0 +1,4 @@
+d - substance\unknown\001a8739.png -> INVALID STAGE (found 'unknown', valid=['n_title', 'r_rai_b', 'r_sna_b'])
+d - substance\unknown\0020c7c1.png -> INVALID STAGE (found 'unknown', valid=['n_title'])
+d - substance\unknown\005d4f23.png -> INVALID STAGE (found 'unknown', valid=['r_rai_b', 'r_sna_b'])
+d - substance\unknown\008a2128.png -> INVALID STAGE (found 'unknown', valid=['n_title'])

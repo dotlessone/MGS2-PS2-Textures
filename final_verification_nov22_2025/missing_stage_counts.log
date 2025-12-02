@@ -120,19 +120,17 @@ twp43a
 w24e
 w31f
 wmovie
-Found 14661 PNG/TGA files total.
+Found 14682 PNG/TGA files total.
 
 Detected 1357 correct mixed-alpha TGAs (will be skipped).
 
 === MISSING TEXTURE COUNTS BY STAGE (DESCENDING) ===
-n_title	51	[Menu | Title Screen]
+n_title	44	[Menu | Title Screen]
 a46a	41	[Alternate | GW - Rectum (Snake Tales)]
 sp22a	36	[VR: First-Person | Level 2]
 w46a	36	[Plant | GW - Rectum]
 sp25a	30	[VR: First-Person | Level 5]
-r_rai_b	28	
 a21b	25	
-r_sna_b	24	
 a43a	24	[Alternate | GW - Ascending Colon (Snake Tales)]
 a24a	23	[Alternate | Shell 1 Core - 1F (Snake Tales)]
 ta24a	23	
@@ -222,6 +220,7 @@ w00b	17	[Tanker | Deck A - Starboard (Olga)]
 w16b	17	[Plant | Dining Hall (Post Stillman)]
 w23a	17	[Plant | FA Connecting Bridge]
 w14a	17	[Plant | Transformer Room]
+r_rai_b	16	
 a02b	16	
 a13c	16	
 a14a	16	[Alternate | Transformer Room (Snake Tales)]
@@ -342,6 +341,7 @@ w01e	13	[Tanker | Deck E Bridge]
 w00c	13	[Tanker | Navigational Deck]
 d014p01	13	[Plant | Stillman Cutscene]
 d070p09	13	[Plant | Cutscene d070p09]
+r_sna_b	12	
 a02a	12	[Alternate | Engine Room (Alternate)]
 ta02a	12	
 d005p01	12	[Plant | Raiden On Elevator]
@@ -404,7 +404,7 @@ f01e	1
 f01f	1	
 capture	1	
 
-TOTAL UNIQUE MISSING: 295
+TOTAL UNIQUE MISSING: 279
 
 === MISSING TEXTURE COUNTS BY STAGE (ALPHABETICAL) ===
 a00a	13	[Alternate | Deck A - Port (Alternate)]
@@ -508,7 +508,7 @@ f01e	1
 f01f	1	
 init	4	
 mselect	13	[Menu | VR Missions Menu]
-n_title	51	[Menu | Title Screen]
+n_title	44	[Menu | Title Screen]
 node	10	
 photo	3	
 r_plt0	17	
@@ -518,8 +518,8 @@ r_plt3	17
 r_plt4	15	
 r_plt5	15	
 r_plt_s	17	
-r_rai_b	28	
-r_sna_b	24	
+r_rai_b	16	
+r_sna_b	12	
 r_tnk0	11	
 r_tnk_r	16	
 r_vr_1	18	
