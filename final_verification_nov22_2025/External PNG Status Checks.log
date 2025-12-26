@@ -767,32 +767,6 @@ Possible matching textures (not already found):
 Possible matching textures (already identified): vs10a_sdw04a1_alp_ovl.bmp|vs10a_sdw04a2_alp_ovl.bmp|vs10a_sdw04a4_alp_ovl.bmp|vs10a_sdw04c0_alp_ovl.bmp|vs10a_sdw04c1_alp_ovl.bmp|vs10a_sdw04c2_alp_ovl.bmp|w01a0_rf07.bmp_ea80884f64793dde75381de817553e2d|w01d1_rf03.bmp|w10c_flu00b.bmp|w10c_flu00d.bmp|w10c_flu01.bmp|w10c_sk01au.bmp|w10c_w07a.bmp|w12a_w03a.bmp_8157a03cb9be3978ab56df2e7d8b16d8|w13a_pp01.bmp|w13a_pp02.bmp|w13a_w01h.bmp|w13a_w01k.bmp|w14a_h_pipe_a01.bmp|w14a_h_pipe_a05.bmp|w14a_h_souti_e18.bmp|w14a_hasira_a04.bmp|w15a_h08a.bmp|w15a_h08d.bmp|w15a_h08e.bmp|w15a_hbrk08a.bmp|w15a_hbrk08d.bmp|w17a_sk01au.bmp|w17a_sk01au2.bmp|w19a_stpw00.bmp|w21a_h01.bmp|w21a_h01a.bmp|w21a_h01b.bmp|w23b_ppobj01d.bmp|w24a0_litbase00a.bmp|w24a0_litbase00a.bmp_6af71df6ae1e7fa9ce7c11006fa9de93|w24c0_obj17f.bmp|w25a_boxu00.bmp|w25a_boxu00a.bmp|w25a_fls00.bmp|w25a_fls00a.bmp|w25a_fls00a2.bmp|w25a_fls00b.bmp|w25a_fls00b2.bmp|w25b_h08a.bmp|w25b_sk01au.bmp|w43a_rail_01.bmp|ws33a_shw06_alp_ovl.bmp
 Total Possible Matches: 60
 --------------------------------------------
-Filename: 21624ead2b872962-78457134fca4c6f8-r128x64-00002a14.png
-Path: d - substance\n_title\21624ead2b872962-78457134fca4c6f8-r128x64-00002a14.png
-SHA1: 2d23d4f02fafd7ddd2992cdc4d31df6b34b5a842
-Name Already In List of Possible Matches: No
-Resolution: 128x64
-"C:\Development\Git\MGS2-PS2-Textures\d - substance\n_title\21624ead2b872962-78457134fca4c6f8-r128x64-00002a14.png"|<"mgs2/base textures/" /<e_sky_cld_sun_01_alp.bmp|sna_txd_hi_hand1.bmp|w60a_sky_b01_alp_ovl.bmp>.png>
-Possible matching textures (not already found):
-  - e_sky_cld_sun_01_alp.bmp
-  - sna_txd_hi_hand1.bmp
-  - w60a_sky_b01_alp_ovl.bmp
-Possible matching textures (already identified): aks_sb_s.bmp|aks_sb_s.bmp_73f39fdb33d46a0ad4126ed3d411da41|bombsphere01_alp.bmp|bsn3.bmp|d00a_sdw_cu01_sub_alp_ovl.bmp|di_wall1_da.bmp|ema_reback_hair_ovl_alp.bmp|h6h_f_window_sub_alp_ovl.bmp|h6h_front_window.bmp|h6h_tank1_s1.bmp|m4a_sb_s1.bmp|pdray_eye_noise_alp.bmp|rai_mask_c.bmp|rev_coat_shoulder01dt.bmp|ric_hair03_alp_ovl.bmp|saa_all_kimu.bmp|vr_wall_01.bmp|vr_wall_02.bmp|vr_wall_irr03.bmp|vs09a_sdw08_alp_ovl.bmp|vs10a_sdw05_alp_ovl.bmp|w00_ldk_u1.bmp|w00_ldk_u2.bmp|w00_wng_u1.bmp|w00_wng_u1.bmp_3f957df1c534fa76d26519cb029cce76|w00_wng_u2.bmp|w00_wng_u2.bmp_273e2424025b59f7f77541d55438dda8|w00_wng_u3.bmp|w00_wng_u3.bmp_ecc7f93dfb421763e79aa897bc1bca51|w00a_dck_at11.bmp|w00a_dck_at11_mk.bmp|w00ak_sf1.bmp|w01b_wc13a.bmp|w01b_winc02.bmp|w01c_rf03.bmp|w01e_com02_f.bmp|w01e_comp3_f.bmp|w01e_deck_t2_alp_ovl.bmp|w02_y_light_f1a1.bmp|w03e_box_mog1.bmp|w04_eisha3_back.bmp|w04_eisha3_side.bmp|w10b_gurade_01_alp.bmp|w11a_t_tana2_d.bmp|w11b2_ironbox_sf.bmp|w12a_boxsdw00.bmp|w12a_boxsdw01.bmp|w12a_boxsdw01a.bmp|w12a_boxsdw01b.bmp|w12a_boxsdw01d.bmp|w12a_ironbox_sf.bmp|w12c_boxsdw01a.bmp|w12c_boxsdw01b.bmp|w20a4n_floor_oku_02a.bmp|w20b_rack1_shd_alp_ovl.bmp|w24c0_gate_head.bmp|w24c0_gate_head.bmp_4cce7bb0e02990b6b0413ee36563c4e8|w28an_floor_oku_02a.bmp|w61a_step1.bmp|w61a_tank1_s1.bmp|w62a_bill_b01.bmp|w62a_bill_b02.bmp|w62a_bill_e01.bmp|w62a_bill_e03.bmp|w62a_car_01_2.bmp|w62a_car_s2.bmp|ws35a_sdw11_alp_ovl.bmp|ws55a_sdw12_alp_ovl.bmp
-Total Possible Matches: 71
---------------------------------------------
-Filename: 3c96aa1f3ec0d736-2ffb6918c12c256e-r128x64-00002a14.png
-Path: d - substance\n_title\3c96aa1f3ec0d736-2ffb6918c12c256e-r128x64-00002a14.png
-SHA1: 3c9f40ed9bb4b58ba346a12f2da0341d52b06397
-Name Already In List of Possible Matches: No
-Resolution: 128x64
-"C:\Development\Git\MGS2-PS2-Textures\d - substance\n_title\3c96aa1f3ec0d736-2ffb6918c12c256e-r128x64-00002a14.png"|<"mgs2/base textures/" /<e_sky_cld_sun_01_alp.bmp|sna_txd_hi_hand1.bmp|w60a_sky_b01_alp_ovl.bmp>.png>
-Possible matching textures (not already found):
-  - e_sky_cld_sun_01_alp.bmp
-  - sna_txd_hi_hand1.bmp
-  - w60a_sky_b01_alp_ovl.bmp
-Possible matching textures (already identified): aks_sb_s.bmp|aks_sb_s.bmp_73f39fdb33d46a0ad4126ed3d411da41|bombsphere01_alp.bmp|bsn3.bmp|d00a_sdw_cu01_sub_alp_ovl.bmp|di_wall1_da.bmp|ema_reback_hair_ovl_alp.bmp|h6h_f_window_sub_alp_ovl.bmp|h6h_front_window.bmp|h6h_tank1_s1.bmp|m4a_sb_s1.bmp|pdray_eye_noise_alp.bmp|rai_mask_c.bmp|rev_coat_shoulder01dt.bmp|ric_hair03_alp_ovl.bmp|saa_all_kimu.bmp|vr_wall_01.bmp|vr_wall_02.bmp|vr_wall_irr03.bmp|vs09a_sdw08_alp_ovl.bmp|vs10a_sdw05_alp_ovl.bmp|w00_ldk_u1.bmp|w00_ldk_u2.bmp|w00_wng_u1.bmp|w00_wng_u1.bmp_3f957df1c534fa76d26519cb029cce76|w00_wng_u2.bmp|w00_wng_u2.bmp_273e2424025b59f7f77541d55438dda8|w00_wng_u3.bmp|w00_wng_u3.bmp_ecc7f93dfb421763e79aa897bc1bca51|w00a_dck_at11.bmp|w00a_dck_at11_mk.bmp|w00ak_sf1.bmp|w01b_wc13a.bmp|w01b_winc02.bmp|w01c_rf03.bmp|w01e_com02_f.bmp|w01e_comp3_f.bmp|w01e_deck_t2_alp_ovl.bmp|w02_y_light_f1a1.bmp|w03e_box_mog1.bmp|w04_eisha3_back.bmp|w04_eisha3_side.bmp|w10b_gurade_01_alp.bmp|w11a_t_tana2_d.bmp|w11b2_ironbox_sf.bmp|w12a_boxsdw00.bmp|w12a_boxsdw01.bmp|w12a_boxsdw01a.bmp|w12a_boxsdw01b.bmp|w12a_boxsdw01d.bmp|w12a_ironbox_sf.bmp|w12c_boxsdw01a.bmp|w12c_boxsdw01b.bmp|w20a4n_floor_oku_02a.bmp|w20b_rack1_shd_alp_ovl.bmp|w24c0_gate_head.bmp|w24c0_gate_head.bmp_4cce7bb0e02990b6b0413ee36563c4e8|w28an_floor_oku_02a.bmp|w61a_step1.bmp|w61a_tank1_s1.bmp|w62a_bill_b01.bmp|w62a_bill_b02.bmp|w62a_bill_e01.bmp|w62a_bill_e03.bmp|w62a_car_01_2.bmp|w62a_car_s2.bmp|ws35a_sdw11_alp_ovl.bmp|ws55a_sdw12_alp_ovl.bmp
-Total Possible Matches: 71
---------------------------------------------
 Filename: 5b8fbe463992fbec-dc050162eb67a64e-r48x16-00001dd4.png
 Path: d - substance\r_vr_r\5b8fbe463992fbec-dc050162eb67a64e-r48x16-00001dd4.png
 SHA1: 7a3a53bd9216e5a96570649565621c5af0e18e26
@@ -860,9 +834,9 @@ Total Possible Matches: 109
 --------------------------------------------
 
 [Summary]
-Checked: 48
+Checked: 46
 Renamed (wrong dims): 0
 Alpha >128: 0
-Suggestions logged: 48
+Suggestions logged: 46
 No-match files: 0
 Log file saved at: C:\Development\Git\MGS2-PS2-Textures\final_verification_nov22_2025\External PNG Status Checks.log
