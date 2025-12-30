@@ -41,6 +41,8 @@ def sha1_file(path: Path) -> str:
     return h.hexdigest()
 
 
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
 def collect_tga_hashes(root: Path, label: str) -> Dict[str, str]:
     if not root.is_dir():
         raise SystemExit(f"Error: directory does not exist: {root}")
@@ -48,17 +50,22 @@ def collect_tga_hashes(root: Path, label: str) -> Dict[str, str]:
     files = [p for p in root.rglob("*.tga") if p.is_file()]
     result: Dict[str, str] = {}
 
-    for path in tqdm(files, desc=f"Hashing {label}", unit="file"):
-        stem = path.stem
-        digest = sha1_file(path)
+    def worker(path: Path):
+        return path.stem.lower(), sha1_file(path), path
 
-        if stem in result and result[stem] != digest:
-            raise SystemExit(
-                f"Error: conflicting hashes for stem '{stem}' in {root}\n"
-                f"Existing: {result[stem]}\nNew from: {path} -> {digest}"
-            )
+    with ThreadPoolExecutor(max_workers=8) as exe:
+        futures = [exe.submit(worker, p) for p in files]
 
-        result[stem] = digest
+        for f in tqdm(as_completed(futures), total=len(futures), desc=f"Hashing {label}", unit="file"):
+            stem_lower, digest, path = f.result()
+
+            if stem_lower in result and result[stem_lower] != digest:
+                raise SystemExit(
+                    f"Error: conflicting hashes for case-insensitive stem '{stem_lower}' in {root}\n"
+                    f"Existing digest: {result[stem_lower]}\nNew from: {path} -> {digest}"
+                )
+
+            result[stem_lower] = digest
 
     return result
 
@@ -84,22 +91,22 @@ def main() -> None:
     sol_hashes = collect_tga_hashes(sol_root, "Sons of Liberty")
     subs_hashes = collect_tga_hashes(subs_root, "Substance")
 
-    print(f"Found {len(sol_hashes)} unique stems in Sons of Liberty Final Rebuilt.")
-    print(f"Found {len(subs_hashes)} unique stems in Substance Final Rebuilt.")
+    print(f"Found {len(sol_hashes)} unique case-insensitive stems in Sons of Liberty Final Rebuilt.")
+    print(f"Found {len(subs_hashes)} unique case-insensitive stems in Substance Final Rebuilt.")
 
     sol_unix = get_unix_timestamp_jst(2001, 9, 27, 22, 17, 38)
     subs_unix = get_unix_timestamp_jst(2002, 10, 24, 11, 31, 17)
 
     csv_out.parent.mkdir(parents=True, exist_ok=True)
 
-    items = sorted(subs_hashes.items())
+    items = sorted(subs_hashes.items(), key=lambda x: x[0])
 
     with csv_out.open("w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow(["stem", "hash", "origin_date", "origin_version"])
+        writer.writerow(["stem", "tga_hash", "origin_date", "origin_version"])
 
-        for stem, subs_hash in tqdm(items, desc="Writing CSV", unit="file"):
-            sol_hash = sol_hashes.get(stem)
+        for stem_lower, subs_hash in tqdm(items, desc="Writing CSV", unit="file"):
+            sol_hash = sol_hashes.get(stem_lower)
 
             if sol_hash is not None and sol_hash == subs_hash:
                 origin_version = "sons of liberty"
@@ -108,7 +115,7 @@ def main() -> None:
                 origin_version = "substance"
                 origin_date = subs_unix
 
-            writer.writerow([stem, subs_hash, origin_date, origin_version])
+            writer.writerow([stem_lower, subs_hash, origin_date, origin_version])
 
     print("Done.")
 
