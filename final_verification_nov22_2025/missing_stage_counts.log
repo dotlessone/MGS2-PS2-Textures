@@ -120,12 +120,12 @@ twp43a
 w24e
 w31f
 wmovie
-Found 14682 PNG/TGA files total.
+Found 14685 PNG/TGA files total.
 
 Detected 1357 correct mixed-alpha TGAs (will be skipped).
 
 === MISSING TEXTURE COUNTS BY STAGE (DESCENDING) ===
-n_title	44	[Menu | Title Screen]
+n_title	41	[Menu | Title Screen]
 a46a	41	[Alternate | GW - Rectum (Snake Tales)]
 sp22a	36	[VR: First-Person | Level 2]
 w46a	36	[Plant | GW - Rectum]
@@ -404,7 +404,7 @@ f01e	1
 f01f	1	
 capture	1	
 
-TOTAL UNIQUE MISSING: 279
+TOTAL UNIQUE MISSING: 276
 
 === MISSING TEXTURE COUNTS BY STAGE (ALPHABETICAL) ===
 a00a	13	[Alternate | Deck A - Port (Alternate)]
@@ -508,7 +508,7 @@ f01e	1
 f01f	1	
 init	4	
 mselect	13	[Menu | VR Missions Menu]
-n_title	44	[Menu | Title Screen]
+n_title	41	[Menu | Title Screen]
 node	10	
 photo	3	
 r_plt0	17	
