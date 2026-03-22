@@ -1,3 +1,30 @@
-mgs2/base|mgs2-ps2-text /<kmo_droppings01_alp.bmp|sky_1_alp.bmp>.png
+mgs2/base|mgs2-ps2-text /<000062b9|00006739|006262b9|00626739|00ed29fc|00edb9fc|ketchap_g.bmp|kmo_droppings01_alp.bmp|kmo_droppings04_alp.bmp|nypo_ovl_mod1210_alp.bmp|powfog03_add.bmp|sky_1_alp.bmp|w10a_fogsky_01.bmp|w10a_sky_b02_alp_ovl.bmp|w10a_sky_b03_alp_ovl.bmp|w10a_sky_c00_1.bmp|w10a_sky_c00_2.bmp|w10a_sky_c00_3.bmp|w10a_sky_c00_4.bmp|w10a_sky_hasira.bmp|w10a_sky_test_01.bmp|w60a_seacolor_b01.bmp|w60a_seacolor_b02_alp_ovl.bmp|w60a_seacolor_b03.bmp|w60a_sky_b01_alp_ovl.bmp|w60a_sky_b02_alp_ovl.bmp|w60a_sky_b03_alp_ovl.bmp|w60a_sky_b04_alp_ovl.bmp|w60a_sky_d01_alp_ovl.bmp>.png
+000062b9
+00006739
+006262b9
+00626739
+00ed29fc
+00edb9fc
+ketchap_g.bmp
 kmo_droppings01_alp.bmp
+kmo_droppings04_alp.bmp
+nypo_ovl_mod1210_alp.bmp
+powfog03_add.bmp
 sky_1_alp.bmp
+w10a_fogsky_01.bmp
+w10a_sky_b02_alp_ovl.bmp
+w10a_sky_b03_alp_ovl.bmp
+w10a_sky_c00_1.bmp
+w10a_sky_c00_2.bmp
+w10a_sky_c00_3.bmp
+w10a_sky_c00_4.bmp
+w10a_sky_hasira.bmp
+w10a_sky_test_01.bmp
+w60a_seacolor_b01.bmp
+w60a_seacolor_b02_alp_ovl.bmp
+w60a_seacolor_b03.bmp
+w60a_sky_b01_alp_ovl.bmp
+w60a_sky_b02_alp_ovl.bmp
+w60a_sky_b03_alp_ovl.bmp
+w60a_sky_b04_alp_ovl.bmp
+w60a_sky_d01_alp_ovl.bmp

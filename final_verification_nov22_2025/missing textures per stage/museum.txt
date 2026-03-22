@@ -1,0 +1,6 @@
+mgs2/base|mgs2-ps2-text /<museum_de_alp_ovl.bmp|museum_es_alp_ovl.bmp|museum_fr_alp_ovl.bmp|museum_it_alp_ovl.bmp|museum_j_alp_ovl.bmp>.png
+museum_de_alp_ovl.bmp
+museum_es_alp_ovl.bmp
+museum_fr_alp_ovl.bmp
+museum_it_alp_ovl.bmp
+museum_j_alp_ovl.bmp

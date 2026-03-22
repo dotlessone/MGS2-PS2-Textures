@@ -1,11 +1,25 @@
-mgs2/base|mgs2-ps2-text /<angle_alp_ovl.bmp|call_alp_ovl.bmp|frost02_alp.bmp|kmo_droppings01_alp.bmp|nom_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|sky_1_alp.bmp|wrain02_add_alp_ovl.bmp|wrain03_add_alp_ovl.bmp|wrain05_add_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
+mgs2/base|mgs2-ps2-text /<angle_alp_ovl.bmp|bombgas5_alp.bmp|call_alp_ovl.bmp|for_col1.bmp|frost02_alp.bmp|ketchap_g.bmp|kmo_droppings01_alp.bmp|kmo_droppings04_alp.bmp|mode_alp_ovl.bmp|nom_alp_ovl.bmp|powfog03_add.bmp|rdr_yaji_alp_ovl.bmp|sel_eye_a1.bmp|sel_eye_b0.bmp|sel_eye_b1.bmp|sel_eye_d0.bmp|sel_eye_d1.bmp|sky_1_alp.bmp|vamp_col1.bmp|vmp_aaa.bmp|vmp_eri_belt.bmp_6e4be7e6df81f272c20b7a5649956fd8|wrain02_add_alp_ovl.bmp|wrain03_add_alp_ovl.bmp|wrain05_add_alp_ovl.bmp|zoom_alp_ovl.bmp>.png
 angle_alp_ovl.bmp
+bombgas5_alp.bmp
 call_alp_ovl.bmp
+for_col1.bmp
 frost02_alp.bmp
+ketchap_g.bmp
 kmo_droppings01_alp.bmp
+kmo_droppings04_alp.bmp
+mode_alp_ovl.bmp
 nom_alp_ovl.bmp
+powfog03_add.bmp
 rdr_yaji_alp_ovl.bmp
+sel_eye_a1.bmp
+sel_eye_b0.bmp
+sel_eye_b1.bmp
+sel_eye_d0.bmp
+sel_eye_d1.bmp
 sky_1_alp.bmp
+vamp_col1.bmp
+vmp_aaa.bmp
+vmp_eri_belt.bmp_6e4be7e6df81f272c20b7a5649956fd8
 wrain02_add_alp_ovl.bmp
 wrain03_add_alp_ovl.bmp
 wrain05_add_alp_ovl.bmp

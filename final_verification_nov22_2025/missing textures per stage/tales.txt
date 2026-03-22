@@ -1,9 +1,18 @@
-mgs2/base|mgs2-ps2-text /<002fc581|004e93c9|007995dc|008cbb54|0092ec26|snake_tales_ltitlea_alp_ovl.bmp|snake_tales_ltitleb_alp_ovl.bmp|snake_tales_ltitlec_alp_ovl.bmp|snake_tales_ltitled_alp_ovl.bmp|snake_tales_ltitlee_alp_ovl.bmp>.png
+mgs2/base|mgs2-ps2-text /<002fc581|004e93c9|007995dc|008cbb54|0092ec26|00e8533f|a_bg.bmp|b_bg.bmp|c_bg.bmp|d_bg.bmp|e_bg.bmp|jpnw_news_genora.bmp|jpnw_news_gollgon.bmp|r_bg.bmp|snake_tales_ltitlea_alp_ovl.bmp|snake_tales_ltitleb_alp_ovl.bmp|snake_tales_ltitlec_alp_ovl.bmp|snake_tales_ltitled_alp_ovl.bmp|snake_tales_ltitlee_alp_ovl.bmp>.png
 002fc581
 004e93c9
 007995dc
 008cbb54
 0092ec26
+00e8533f
+a_bg.bmp
+b_bg.bmp
+c_bg.bmp
+d_bg.bmp
+e_bg.bmp
+jpnw_news_genora.bmp
+jpnw_news_gollgon.bmp
+r_bg.bmp
 snake_tales_ltitlea_alp_ovl.bmp
 snake_tales_ltitleb_alp_ovl.bmp
 snake_tales_ltitlec_alp_ovl.bmp

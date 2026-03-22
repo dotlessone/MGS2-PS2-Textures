@@ -1,2 +1,6 @@
-mgs2/base|mgs2-ps2-text /<0092ec26>.png
+mgs2/base|mgs2-ps2-text /<0092ec26|00e8533f|taisa_gb_alp_ovl.bmp|taisa_mgs1_alp_ovl.bmp|taisa_msx_alp_ovl.bmp>.png
 0092ec26
+00e8533f
+taisa_gb_alp_ovl.bmp
+taisa_mgs1_alp_ovl.bmp
+taisa_msx_alp_ovl.bmp

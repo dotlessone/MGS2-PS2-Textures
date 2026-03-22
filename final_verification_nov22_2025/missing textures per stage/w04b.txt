@@ -1,10 +1,23 @@
-mgs2/base|mgs2-ps2-text /<angle_alp_ovl.bmp|call_alp_ovl.bmp|dogtag_chain_black_msk.bmp|nom_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|sensou_01_alp_ovl.bmp|usa_met_ovl_sub_alp.bmp|w04a_mecha_ami_alp.bmp|zoom_alp_ovl.bmp>.png
+mgs2/base|mgs2-ps2-text /<a_p_sensor_case.bmp|a_p_sensor_case2.bmp|angle_alp_ovl.bmp|brack_01_01_01.bmp|call_alp_ovl.bmp|dogtag_chain_black_msk.bmp|kantoku_alp_01.bmp|ketchap_g.bmp|m4a_scope.bmp|met_ovl_mod1120_alp_emap.bmp|mode_alp_ovl.bmp|nom_alp_ovl.bmp|rdr_yaji_alp_ovl.bmp|sensou_01_alp_ovl.bmp|usa_belt.bmp|usa_helmet.bmp|usa_met_ovl_sub_alp.bmp|w04a_mecha_02.bmp|w04a_mecha_03.bmp|w04a_mecha_ami_alp.bmp|w04a_mecha_ashi.bmp_a0d0335bdbfa6e0ae5adb911c284a59b|zoom_alp_ovl.bmp>.png
+a_p_sensor_case.bmp
+a_p_sensor_case2.bmp
 angle_alp_ovl.bmp
+brack_01_01_01.bmp
 call_alp_ovl.bmp
 dogtag_chain_black_msk.bmp
+kantoku_alp_01.bmp
+ketchap_g.bmp
+m4a_scope.bmp
+met_ovl_mod1120_alp_emap.bmp
+mode_alp_ovl.bmp
 nom_alp_ovl.bmp
 rdr_yaji_alp_ovl.bmp
 sensou_01_alp_ovl.bmp
+usa_belt.bmp
+usa_helmet.bmp
 usa_met_ovl_sub_alp.bmp
+w04a_mecha_02.bmp
+w04a_mecha_03.bmp
 w04a_mecha_ami_alp.bmp
+w04a_mecha_ashi.bmp_a0d0335bdbfa6e0ae5adb911c284a59b
 zoom_alp_ovl.bmp

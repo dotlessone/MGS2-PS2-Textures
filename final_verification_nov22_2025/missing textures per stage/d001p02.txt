@@ -1,0 +1,5 @@
+mgs2/base|mgs2-ps2-text /<ketchap_g.bmp|w002_door.bmp|w11a_walllit_brk.bmp|w11a_walllit_iner_brk.bmp>.png
+ketchap_g.bmp
+w002_door.bmp
+w11a_walllit_brk.bmp
+w11a_walllit_iner_brk.bmp
