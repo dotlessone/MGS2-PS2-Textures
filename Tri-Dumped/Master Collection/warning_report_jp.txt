@@ -1,7 +1,1 @@
-=== Multiple conflicting mappings matched for region='jp', tri_name='boss_rush', texture_strcode='fb5e0d' (1) ===
-boss_rush\fb5e0d.png
-lookup: mgs2 /base /fb5e0d.png
-
-=== Multiple conflicting mappings matched for region='jp', tri_name='clear_code', texture_strcode='fb5e0d' (1) ===
-clear_code\fb5e0d.png
-lookup: mgs2 /base /fb5e0d.png
+No warnings.
