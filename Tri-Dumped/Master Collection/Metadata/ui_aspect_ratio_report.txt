@@ -1,0 +1,715 @@
+Hit stems:
+0007bc34
+00100d1b
+001463f1
+00304bad
+00481d9d
+004d1d9d
+004f1d9d
+004fb78a
+004fc78a
+006f7421
+00814bac
+00919e1e
+00af4bac
+00bc9205
+00c1181b
+00cdeba7
+00ce4bac
+1_chuou_1f_alp_ovl.bmp
+1_chuou_b1_alp_ovl.bmp
+1_chuou_b2_densan_alp_ovl.bmp
+1f_live_alp_ovl.bmp
+1f_live_left_alp_ovl.bmp
+1f_live_right_alp_ovl.bmp
+2_chuou_1f_kuki_alp_ovl.bmp
+2_chuou_b1_roka_01_alp_ovl.bmp
+2f_live_alp_ovl.bmp
+2f_live_left_alp_ovl.bmp
+2f_live_right_alp_ovl.bmp
+3f_live_alp_ovl.bmp
+3f_live_left_alp_ovl.bmp
+4f_live_alp_ovl.bmp
+5f_souda_alp_ovl.bmp
+a_kaitei_alp_ovl.bmp
+a_okujou_alp_ovl.bmp
+a_pump_alp_ovl.bmp
+ab_renraku_alp_ovl.bmp
+act_telop10_alp_ovl.bmp
+act_telop11_alp_ovl.bmp
+act_telop2_alp_ovl.bmp
+act_telop3_alp_ovl.bmp
+act_telop4_alp_ovl.bmp
+act_telop5_alp_ovl.bmp_e350349959b1556776f7b5d2e07689fc
+act_telop6_alp_ovl.bmp
+act_telop8_alp_ovl.bmp
+act_telop9_alp_ovl.bmp
+ag_ascending_alp_ovl.bmp
+ag_jejunum_alp_ovl.bmp
+ag_rectum_alp_ovl.bmp
+ag_sigmoid_alp_ovl.bmp
+ag_stmach_alp_ovl.bmp
+aoyama_alp_ovl.bmp
+azabu_alp_ovl.bmp
+b_henden_alp_ovl.bmp
+bc_renraku_alp_ovl.bmp
+c_shokudou_alp_ovl.bmp
+cd_renraku_alp_ovl.bmp
+d_chinden_alp_ovl.bmp
+de_renraku_alp_ovl.bmp
+dg_renraku_alp_ovl.bmp
+e_heliport_alp_ovl.bmp
+e_shuhai_1f_alp_ovl.bmp
+e_shuhai_2f_alp_ovl.bmp
+e_shuhai_b1_alp_ovl.bmp
+ef_renraku_alp_ovl.bmp
+f_souko_alp_ovl.bmp
+f_souko_b1_alp_ovl.bmp
+fa_renraku_alp_ovl.bmp
+funabashi_alp_ovl.bmp
+kanpan_02_left_alp_ovl.bmp
+kanpan_02_right_alp_ovl.bmp
+kanpan_alp_ovl.bmp
+kanpan_left_alp_ovl.bmp
+kanpan_right_alp_ovl.bmp
+kcej_logo_alp_ovl.bmp
+kikan_alp_ovl.bmp
+kikan_ent_left_alp_ovl.bmp
+kikan_ent_right_alp_ovl.bmp
+kikan_left_alp_ovl.bmp
+kikan_right_alp_ovl.bmp
+kl_renraku_alp_ovl.bmp
+l_gaishu_alp_ovl.bmp
+l_oilfence_alp_ovl.bmp
+l_osui_alp_ovl.bmp
+newyork_alp_ovl.bmp
+odai_a01a_ldr00.bmp
+odai_a01a_ldr00a.bmp
+odai_a01a_ldr01.bmp
+odai_a01a_ldr01a.bmp
+odai_a01a_ldr02.bmp
+odai_a01a_ldr03.bmp
+odai_a01a_ldr03a.bmp
+odai_a01a_ldr04.bmp
+odai_a01a_ldr04a.bmp
+odai_a24a_ldr00.bmp
+odai_a24a_ldr01.bmp
+odai_a24a_ldr02.bmp
+odai_a24d2_pane03.bmp
+odai_a24d2_pane04.bmp
+refre_alp_ovl.bmp
+refre_right_alp_ovl.bmp
+senbi_kanpan_alp_ovl.bmp
+senbi_kanpan_left_alp_ovl.bmp
+senbi_kanpan_right_alp_ovl.bmp
+sensou_02_alp_ovl.bmp
+sensou_03_alp_ovl.bmp
+title_logo_blue_alp_ovl.bmp
+
+====================================================================================================
+
+0007bc34
+PS2: 440 x 110 -> MC: 1359 x 489. (Scaling factor: X=1.00, Y=1.44)
+Corrected PS2: 440 x 158 (rounded)
+
+00100d1b
+PS2: 128 x 32 -> MC: 512 x 32. (Scaling factor: X=4.00, Y=1.00)
+Corrected PS2: 512 x 32
+
+001463f1
+PS2: 360 x 8 -> MC: 684 x 16. (Scaling factor: X=1.00, Y=1.05)
+Corrected PS2: 360 x 8 (rounded, raw reduction to 342 x 8)
+
+00304bad
+PS2: 128 x 32 -> MC: 512 x 32. (Scaling factor: X=4.00, Y=1.00)
+Corrected PS2: 512 x 32
+
+00481d9d
+PS2: 138 x 12 -> MC: 468 x 24. (Scaling factor: X=1.70, Y=1.00)
+Corrected PS2: 234 x 12
+
+004d1d9d
+PS2: 90 x 12 -> MC: 623 x 24. (Scaling factor: X=3.46, Y=1.00)
+Corrected PS2: 311 x 12 (rounded)
+
+004f1d9d
+PS2: 298 x 12 -> MC: 626 x 24. (Scaling factor: X=1.05, Y=1.00)
+Corrected PS2: 313 x 12
+
+004fb78a
+PS2: 512 x 448 -> MC: 1280 x 720. (Scaling factor: X=1.56, Y=1.00)
+Corrected PS2: 796 x 448 (rounded)
+
+004fc78a
+PS2: 512 x 448 -> MC: 1280 x 720. (Scaling factor: X=1.56, Y=1.00)
+Corrected PS2: 796 x 448 (rounded)
+
+006f7421
+PS2: 144 x 24 -> MC: 373 x 48. (Scaling factor: X=1.30, Y=1.00)
+Corrected PS2: 186 x 24 (rounded)
+
+00814bac
+PS2: 128 x 32 -> MC: 512 x 32. (Scaling factor: X=4.00, Y=1.00)
+Corrected PS2: 512 x 32
+
+00919e1e
+PS2: 512 x 448 -> MC: 1280 x 720. (Scaling factor: X=1.56, Y=1.00)
+Corrected PS2: 796 x 448 (rounded)
+
+00af4bac
+PS2: 128 x 32 -> MC: 512 x 32. (Scaling factor: X=4.00, Y=1.00)
+Corrected PS2: 512 x 32
+
+00bc9205
+PS2: 160 x 12 -> MC: 618 x 24. (Scaling factor: X=1.93, Y=1.00)
+Corrected PS2: 309 x 12
+
+00c1181b
+PS2: 28 x 64 -> MC: 8 x 8. (Scaling factor: X=2.29, Y=1.00)
+Corrected PS2: 64 x 64
+
+00cdeba7
+PS2: 86 x 12 -> MC: 320 x 24. (Scaling factor: X=1.86, Y=1.00)
+Corrected PS2: 160 x 12
+
+00ce4bac
+PS2: 128 x 32 -> MC: 512 x 32. (Scaling factor: X=4.00, Y=1.00)
+Corrected PS2: 512 x 32
+
+1_chuou_1f_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+1_chuou_b1_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+1_chuou_b2_densan_alp_ovl.bmp
+PS2: 312 x 80 -> MC: 588 x 132. (Scaling factor: X=1.14, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+1f_live_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+1f_live_left_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+1f_live_right_alp_ovl.bmp
+PS2: 312 x 80 -> MC: 588 x 132. (Scaling factor: X=1.14, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+2_chuou_1f_kuki_alp_ovl.bmp
+PS2: 412 x 80 -> MC: 588 x 132. (Scaling factor: X=1.00, Y=1.16)
+Corrected PS2: 412 x 92 (rounded)
+
+2_chuou_b1_roka_01_alp_ovl.bmp
+PS2: 412 x 80 -> MC: 588 x 132. (Scaling factor: X=1.00, Y=1.16)
+Corrected PS2: 412 x 92 (rounded)
+
+2f_live_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+2f_live_left_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+2f_live_right_alp_ovl.bmp
+PS2: 312 x 80 -> MC: 588 x 132. (Scaling factor: X=1.14, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+3f_live_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+3f_live_left_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+4f_live_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+5f_souda_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+a_kaitei_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+a_okujou_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+a_pump_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+ab_renraku_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+act_telop10_alp_ovl.bmp
+PS2: 248 x 42 -> MC: 904 x 160. (Scaling factor: X=1.00, Y=1.05)
+Corrected PS2: 248 x 43 (rounded)
+
+act_telop11_alp_ovl.bmp
+PS2: 168 x 42 -> MC: 904 x 160. (Scaling factor: X=1.41, Y=1.00)
+Corrected PS2: 237 x 42 (rounded)
+
+act_telop2_alp_ovl.bmp
+PS2: 340 x 42 -> MC: 904 x 160. (Scaling factor: X=1.00, Y=1.43)
+Corrected PS2: 340 x 60 (rounded)
+
+act_telop3_alp_ovl.bmp
+PS2: 250 x 42 -> MC: 904 x 160. (Scaling factor: X=1.00, Y=1.05)
+Corrected PS2: 250 x 44 (rounded)
+
+act_telop4_alp_ovl.bmp
+PS2: 244 x 42 -> MC: 904 x 160. (Scaling factor: X=1.00, Y=1.03)
+Corrected PS2: 244 x 43 (rounded)
+
+act_telop5_alp_ovl.bmp_e350349959b1556776f7b5d2e07689fc
+PS2: 378 x 42 -> MC: 904 x 160. (Scaling factor: X=1.00, Y=1.59)
+Corrected PS2: 378 x 66 (rounded)
+
+act_telop6_alp_ovl.bmp
+PS2: 294 x 42 -> MC: 904 x 160. (Scaling factor: X=1.00, Y=1.24)
+Corrected PS2: 294 x 52 (rounded)
+
+act_telop8_alp_ovl.bmp
+PS2: 452 x 58 -> MC: 904 x 160. (Scaling factor: X=1.00, Y=1.38)
+Corrected PS2: 452 x 80
+
+act_telop9_alp_ovl.bmp
+PS2: 328 x 42 -> MC: 904 x 160. (Scaling factor: X=1.00, Y=1.38)
+Corrected PS2: 328 x 58 (rounded)
+
+ag_ascending_alp_ovl.bmp
+PS2: 312 x 80 -> MC: 588 x 132. (Scaling factor: X=1.14, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+ag_jejunum_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+ag_rectum_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+ag_sigmoid_alp_ovl.bmp
+PS2: 312 x 80 -> MC: 588 x 132. (Scaling factor: X=1.14, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+ag_stmach_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+aoyama_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+azabu_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+b_henden_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+bc_renraku_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+c_shokudou_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+cd_renraku_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+d_chinden_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+de_renraku_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+dg_renraku_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+e_heliport_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+e_shuhai_1f_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+e_shuhai_2f_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+e_shuhai_b1_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+ef_renraku_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+f_souko_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+f_souko_b1_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+fa_renraku_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+funabashi_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kanpan_02_left_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kanpan_02_right_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kanpan_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kanpan_left_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kanpan_right_alp_ovl.bmp
+PS2: 312 x 80 -> MC: 588 x 132. (Scaling factor: X=1.14, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kcej_logo_alp_ovl.bmp
+PS2: 512 x 448 -> MC: 1280 x 720. (Scaling factor: X=1.56, Y=1.00)
+Corrected PS2: 796 x 448 (rounded)
+
+kikan_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kikan_ent_left_alp_ovl.bmp
+PS2: 312 x 80 -> MC: 588 x 132. (Scaling factor: X=1.14, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kikan_ent_right_alp_ovl.bmp
+PS2: 312 x 80 -> MC: 588 x 132. (Scaling factor: X=1.14, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kikan_left_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kikan_right_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+kl_renraku_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+l_gaishu_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+l_oilfence_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+l_osui_alp_ovl.bmp
+PS2: 412 x 80 -> MC: 588 x 132. (Scaling factor: X=1.00, Y=1.16)
+Corrected PS2: 412 x 92 (rounded)
+
+newyork_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+odai_a01a_ldr00.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a01a_ldr00a.bmp
+PS2: 144 x 108 -> MC: 256 x 256. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a01a_ldr01.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a01a_ldr01a.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a01a_ldr02.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a01a_ldr03.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a01a_ldr03a.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a01a_ldr04.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a01a_ldr04a.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a24a_ldr00.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a24a_ldr01.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a24a_ldr02.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a24d2_pane03.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+odai_a24d2_pane04.bmp
+PS2: 144 x 108 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 144 x 144
+
+refre_alp_ovl.bmp
+PS2: 312 x 80 -> MC: 588 x 132. (Scaling factor: X=1.14, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+refre_right_alp_ovl.bmp
+PS2: 312 x 80 -> MC: 588 x 132. (Scaling factor: X=1.14, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+senbi_kanpan_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+senbi_kanpan_left_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+senbi_kanpan_right_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+sensou_02_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+sensou_03_alp_ovl.bmp
+PS2: 264 x 80 -> MC: 588 x 132. (Scaling factor: X=1.35, Y=1.00)
+Corrected PS2: 356 x 80 (rounded)
+
+title_logo_blue_alp_ovl.bmp
+PS2: 440 x 110 -> MC: 1006 x 326. (Scaling factor: X=1.00, Y=1.30)
+Corrected PS2: 440 x 142 (rounded)
+
+
+####################################################################################################
+
+Previously-hit stems excluded by the multiple-of-ceil-pow2 rule:
+00678eb1
+24c_over_alp_ovl.bmp
+alt_alp_ovl.bmp
+alt_b_alp_ovl.bmp
+animal_alp_ovl.bmp
+blt_alp_ovl.bmp
+cau_alp_ovl.bmp
+class1_alp_ovl.bmp
+class2_alp_ovl.bmp
+class3_alp_ovl.bmp
+clr_alp_ovl.bmp
+dekisi_alp_ovl.bmp
+densou_font_alp_ovl.bmp
+ema_died_alp_ovl.bmp
+empty_alp_ovl.bmp
+eva_alp_ovl.bmp
+exit_alp_add_ovl.bmp
+exit_alp_ovl.bmp
+exit_alp_ovl.bmp_2e80fcdf52d4e88c977557d852b3bb00
+exit_alp_ovl.bmp_6caebe23bde6080a351ba6c3fd17f622
+exit_alp_ovl.bmp_794456ba9bbbfd3e16cf3cf4157c6d56
+exit_alp_ovl.bmp_7f9196f232454b86ef93cc3591f1f2ab
+fake_exit_alp_ovl.bmp
+fall_alp_ovl.bmp
+fiction_e_alp_ovl.bmp
+font_mini_alp_ovl.bmp
+jam_alp_ovl.bmp
+nom_b_alp_ovl.bmp
+tag1_alp_ovl.bmp
+tag2_alp_ovl.bmp
+tag3_alp_ovl.bmp
+title_mgs2_alp_ovl.bmp
+w24c_over_mrs_alp_ovl.bmp
+w24c_over_oba_alp_ovl.bmp
+w24c_overguy_alp_ovl.bmp
+
+====================================================================================================
+
+00678eb1
+PS2: 300 x 384 -> MC: 1024 x 1024. (Scaling factor: X=1.28, Y=1.00)
+Corrected PS2: 384 x 384
+
+24c_over_alp_ovl.bmp
+PS2: 240 x 180 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 240 x 240
+
+alt_alp_ovl.bmp
+PS2: 120 x 14 -> MC: 256 x 32. (Scaling factor: X=1.00, Y=1.07)
+Corrected PS2: 120 x 15
+
+alt_b_alp_ovl.bmp
+PS2: 120 x 12 -> MC: 256 x 32. (Scaling factor: X=1.00, Y=1.25)
+Corrected PS2: 120 x 15
+
+animal_alp_ovl.bmp
+PS2: 512 x 448 -> MC: 1024 x 1024. (Scaling factor: X=1.00, Y=1.14)
+Corrected PS2: 512 x 512
+
+blt_alp_ovl.bmp
+PS2: 6 x 10 -> MC: 16 x 32. (Scaling factor: X=1.00, Y=1.20)
+Corrected PS2: 6 x 12
+
+cau_alp_ovl.bmp
+PS2: 120 x 14 -> MC: 256 x 32. (Scaling factor: X=1.00, Y=1.07)
+Corrected PS2: 120 x 15
+
+class1_alp_ovl.bmp
+PS2: 136 x 48 -> MC: 512 x 128. (Scaling factor: X=1.41, Y=1.00)
+Corrected PS2: 192 x 48
+
+class2_alp_ovl.bmp
+PS2: 136 x 48 -> MC: 512 x 128. (Scaling factor: X=1.41, Y=1.00)
+Corrected PS2: 192 x 48
+
+class3_alp_ovl.bmp
+PS2: 136 x 48 -> MC: 512 x 128. (Scaling factor: X=1.41, Y=1.00)
+Corrected PS2: 192 x 48
+
+clr_alp_ovl.bmp
+PS2: 88 x 10 -> MC: 256 x 32. (Scaling factor: X=1.00, Y=1.10)
+Corrected PS2: 88 x 11
+
+dekisi_alp_ovl.bmp
+PS2: 240 x 180 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 240 x 240
+
+densou_font_alp_ovl.bmp
+PS2: 256 x 36 -> MC: 512 x 128. (Scaling factor: X=1.00, Y=1.78)
+Corrected PS2: 256 x 64
+
+ema_died_alp_ovl.bmp
+PS2: 240 x 180 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 240 x 240
+
+empty_alp_ovl.bmp
+PS2: 64 x 12 -> MC: 128 x 32. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 64 x 16
+
+eva_alp_ovl.bmp
+PS2: 120 x 14 -> MC: 256 x 32. (Scaling factor: X=1.00, Y=1.07)
+Corrected PS2: 120 x 15
+
+exit_alp_add_ovl.bmp
+PS2: 48 x 16 -> MC: 128 x 32. (Scaling factor: X=1.33, Y=1.00)
+Corrected PS2: 64 x 16
+
+exit_alp_ovl.bmp
+PS2: 296 x 12 -> MC: 1024 x 32. (Scaling factor: X=1.30, Y=1.00)
+Corrected PS2: 384 x 12
+
+exit_alp_ovl.bmp_2e80fcdf52d4e88c977557d852b3bb00
+PS2: 60 x 18 -> MC: 128 x 64. (Scaling factor: X=1.00, Y=1.67)
+Corrected PS2: 60 x 30
+
+exit_alp_ovl.bmp_6caebe23bde6080a351ba6c3fd17f622
+PS2: 64 x 12 -> MC: 128 x 32. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 64 x 16
+
+exit_alp_ovl.bmp_794456ba9bbbfd3e16cf3cf4157c6d56
+PS2: 76 x 24 -> MC: 256 x 64. (Scaling factor: X=1.26, Y=1.00)
+Corrected PS2: 96 x 24
+
+exit_alp_ovl.bmp_7f9196f232454b86ef93cc3591f1f2ab
+PS2: 60 x 12 -> MC: 128 x 32. (Scaling factor: X=1.00, Y=1.25)
+Corrected PS2: 60 x 15
+
+fake_exit_alp_ovl.bmp
+PS2: 60 x 12 -> MC: 128 x 32. (Scaling factor: X=1.00, Y=1.25)
+Corrected PS2: 60 x 15
+
+fall_alp_ovl.bmp
+PS2: 240 x 180 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 240 x 240
+
+fiction_e_alp_ovl.bmp
+PS2: 512 x 384 -> MC: 1024 x 1024. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 512 x 512
+
+font_mini_alp_ovl.bmp
+PS2: 320 x 42 -> MC: 1024 x 128. (Scaling factor: X=1.05, Y=1.00)
+Corrected PS2: 336 x 42
+
+jam_alp_ovl.bmp
+PS2: 120 x 14 -> MC: 256 x 32. (Scaling factor: X=1.00, Y=1.07)
+Corrected PS2: 120 x 15
+
+nom_b_alp_ovl.bmp
+PS2: 120 x 12 -> MC: 256 x 32. (Scaling factor: X=1.00, Y=1.25)
+Corrected PS2: 120 x 15
+
+tag1_alp_ovl.bmp
+PS2: 186 x 160 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.16)
+Corrected PS2: 186 x 186
+
+tag2_alp_ovl.bmp
+PS2: 186 x 160 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.16)
+Corrected PS2: 186 x 186
+
+tag3_alp_ovl.bmp
+PS2: 186 x 160 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.16)
+Corrected PS2: 186 x 186
+
+title_mgs2_alp_ovl.bmp
+PS2: 480 x 88 -> MC: 2048 x 512. (Scaling factor: X=1.00, Y=1.36)
+Corrected PS2: 480 x 120
+
+w24c_over_mrs_alp_ovl.bmp
+PS2: 240 x 180 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 240 x 240
+
+w24c_over_oba_alp_ovl.bmp
+PS2: 240 x 180 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 240 x 240
+
+w24c_overguy_alp_ovl.bmp
+PS2: 240 x 180 -> MC: 512 x 512. (Scaling factor: X=1.00, Y=1.33)
+Corrected PS2: 240 x 240
