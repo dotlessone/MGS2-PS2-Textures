@@ -3,7 +3,6 @@ from __future__ import annotations
 import csv
 import hashlib
 import os
-import sys
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
@@ -26,7 +25,7 @@ DRY_RUN = False
 # Add the region folders you want to process here.
 PROCESS_REGION_FOLDERS = [
     # "us",
-    "eu",
+     "eu",
     #"jp",
 ]
 
@@ -88,6 +87,13 @@ class WarningEntry:
     region: str
     tri_name: Optional[str]
     texture_strcode: Optional[str]
+
+
+@dataclass(frozen=True)
+class ConflictCandidate:
+    conflict_combos: List[ComboKey]
+    unique_combos: List[ComboKey]
+    possible_names: List[str]
 
 
 @dataclass
@@ -483,11 +489,21 @@ def flatten_conflict_texture_names(
     return sorted(names)
 
 
-def format_conflict_combo_lines(conflict_combos: List[ComboKey]) -> List[str]:
+def format_combo_lines(conflict_combos: List[ComboKey], unique_combos: List[ComboKey]) -> List[str]:
     lines: List[str] = []
 
-    for stage, tri_strcode, texture_strcode in sorted(conflict_combos):
-        lines.append(f"  - stage={stage}, tri_strcode={tri_strcode}, texture_strcode={texture_strcode}")
+    if conflict_combos:
+        lines.append("Conflicting combos:")
+        for stage, tri_strcode, texture_strcode in sorted(conflict_combos):
+            lines.append(f"  - stage={stage}, tri_strcode={tri_strcode}, texture_strcode={texture_strcode}")
+
+    if unique_combos:
+        if lines:
+            lines.append("Unique combos:")
+        else:
+            lines.append("Unique combos:")
+        for stage, tri_strcode, texture_strcode in sorted(unique_combos):
+            lines.append(f"  - stage={stage}, tri_strcode={tri_strcode}, texture_strcode={texture_strcode}")
 
     return lines
 
@@ -498,15 +514,15 @@ def resolve_nested_png(
     tri_alias_map: Dict[TriAliasKey, Set[StageTriKey]],
     unique_texture_map: Dict[ComboKey, str],
     conflict_texture_map: Dict[ComboKey, List[str]],
-) -> Tuple[Optional[ResolvedNestedFile], List[ComboKey], Optional[str]]:
+) -> Tuple[Optional[ResolvedNestedFile], Optional[ConflictCandidate], Optional[str]]:
     if is_direct_region_file(path, region_root):
-        return None, [], None
+        return None, None, None
 
     rel = path.relative_to(region_root)
     parts = rel.parts
 
     if len(parts) < 2:
-        return None, [], f"Unexpected nested layout: {rel}"
+        return None, None, f"Unexpected nested layout: {rel}"
 
     region_folder = normalize(region_root.name)
     tri_name = normalize(parts[0])
@@ -516,67 +532,62 @@ def resolve_nested_png(
     alias_values = tri_alias_map.get(alias_key)
 
     if not alias_values:
-        return None, [], f"No tri alias for region='{region_folder}', tri_name='{tri_name}'"
+        return None, None, f"No tri alias for region='{region_folder}', tri_name='{tri_name}'"
 
-    matched_unique_texture_name: Optional[str] = None
-    matched_unique_combo: Optional[ComboKey] = None
+    matched_unique_combos: List[ComboKey] = []
+    matched_unique_texture_names: Set[str] = set()
     matched_conflict_combos: List[ComboKey] = []
 
     for stage, tri_strcode in sorted(alias_values):
         combo = (stage, tri_strcode, texture_strcode)
 
         if combo in conflict_texture_map:
-            if matched_unique_texture_name is not None:
-                return None, [], (
-                    f"Both unique and conflicting mappings matched for "
-                    f"region='{region_folder}', tri_name='{tri_name}', texture_strcode='{texture_strcode}'"
-                )
-
             matched_conflict_combos.append(combo)
             continue
 
         if combo in unique_texture_map:
             texture_name = unique_texture_map[combo]
+            matched_unique_combos.append(combo)
+            matched_unique_texture_names.add(texture_name)
 
-            if matched_conflict_combos:
-                return None, [], (
-                    f"Both conflicting and unique mappings matched for "
-                    f"region='{region_folder}', tri_name='{tri_name}', texture_strcode='{texture_strcode}'"
-                )
+    if matched_conflict_combos or matched_unique_combos:
+        if matched_conflict_combos:
+            possible_names = set(flatten_conflict_texture_names(matched_conflict_combos, conflict_texture_map))
+            for combo in matched_unique_combos:
+                possible_names.add(unique_texture_map[combo])
 
-            if matched_unique_texture_name is None:
-                matched_unique_texture_name = texture_name
-                matched_unique_combo = combo
-                continue
+            candidate = ConflictCandidate(
+                conflict_combos=sorted(matched_conflict_combos),
+                unique_combos=sorted(matched_unique_combos),
+                possible_names=sorted(possible_names),
+            )
+            return None, candidate, None
 
-            if texture_name != matched_unique_texture_name:
-                return None, [], (
-                    f"Ambiguous unique mapping match for "
-                    f"region='{region_folder}', tri_name='{tri_name}', texture_strcode='{texture_strcode}'"
-                )
+        if len(matched_unique_texture_names) > 1:
+            return None, None, (
+                f"Ambiguous unique mapping match for "
+                f"region='{region_folder}', tri_name='{tri_name}', texture_strcode='{texture_strcode}'"
+            )
 
-    if matched_conflict_combos:
-        return None, matched_conflict_combos, None
+        chosen_combo = matched_unique_combos[0]
+        chosen_texture_name = unique_texture_map[chosen_combo]
+        stage, tri_strcode, _ = chosen_combo
 
-    if matched_unique_combo is None or matched_unique_texture_name is None:
-        return None, [], (
-            f"No texture mapping match for region='{region_folder}', tri_name='{tri_name}', "
-            f"texture_strcode='{texture_strcode}'"
+        resolved = ResolvedNestedFile(
+            path=path,
+            region_folder=region_folder,
+            tri_name=tri_name,
+            stage=stage,
+            tri_strcode=tri_strcode,
+            texture_strcode=texture_strcode,
+            texture_name=chosen_texture_name,
         )
+        return resolved, None, None
 
-    stage, tri_strcode, _ = matched_unique_combo
-    texture_name = matched_unique_texture_name
-
-    resolved = ResolvedNestedFile(
-        path=path,
-        region_folder=region_folder,
-        tri_name=tri_name,
-        stage=stage,
-        tri_strcode=tri_strcode,
-        texture_strcode=texture_strcode,
-        texture_name=texture_name,
+    return None, None, (
+        f"No texture mapping match for region='{region_folder}', tri_name='{tri_name}', "
+        f"texture_strcode='{texture_strcode}'"
     )
-    return resolved, [], None
 
 
 def action_delete(state: RegionState, path: Path) -> None:
@@ -634,37 +645,19 @@ def consolidate_manual_selection(state: RegionState, source: Path, texture_name:
         sha_map = batch_sha1(state, [source, existing_root_source])
 
         if sha_map[source] != sha_map[existing_root_source]:
-            chosen_sha1 = choose_sha1_for_texture_name(
-                state=state,
-                texture_name=texture_name,
-                all_paths=[source, existing_root_source],
-                sha_map=sha_map,
-            )
-
-            source_sha1 = sha_map[source]
-            existing_sha1 = sha_map[existing_root_source]
-
-            if source_sha1 == chosen_sha1 and existing_sha1 != chosen_sha1:
-                action_delete(state, existing_root_source)
-                action_move_to_root(state, source, texture_name)
-                return
-
-            if existing_sha1 == chosen_sha1 and source_sha1 != chosen_sha1:
-                action_delete(state, source)
-                return
-
             pause_and_exit(
-                f"Internal error while resolving manual SHA1 conflict for '{texture_name}'.\n"
-                f"Chosen SHA1: {chosen_sha1}\n"
-                f"Existing root source: {existing_root_source} ({existing_sha1})\n"
-                f"Selected source:      {source} ({source_sha1})"
+                f"Manual SHA1 override collision for '{texture_name}{PNG_SUFFIX}'.\n"
+                f"The override-selected file would overwrite an existing region-root texture with a different SHA1.\n"
+                f"Existing root source: {existing_root_source}\n"
+                f"Existing root SHA1 : {sha_map[existing_root_source]}\n"
+                f"Selected source    : {source}\n"
+                f"Selected source SHA1: {sha_map[source]}"
             )
 
         action_delete(state, source)
         return
 
     action_move_to_root(state, source, texture_name)
-
 
 def get_manual_conflict_override_texture_name(
     state: RegionState,
@@ -703,8 +696,7 @@ def get_manual_conflict_override_texture_name(
 def prompt_for_manual_conflict_resolution(
     state: RegionState,
     conflict_file: Path,
-    conflict_combos: List[ComboKey],
-    possible_names: List[str],
+    candidate: ConflictCandidate,
 ) -> None:
     folder = conflict_file.parent
     texture_strcode = conflict_file.stem
@@ -717,17 +709,16 @@ def prompt_for_manual_conflict_resolution(
     print(f"Folder          : {folder}")
     print(f"File            : {conflict_file.name}")
     print(f"Texture strcode : {texture_strcode}")
-    print("Matched conflicting combos:")
 
-    for line in format_conflict_combo_lines(conflict_combos):
+    for line in format_combo_lines(candidate.conflict_combos, candidate.unique_combos):
         print(line)
 
     print("Possible texture_name values:")
 
-    for index, texture_name in enumerate(possible_names, start=1):
+    for index, texture_name in enumerate(candidate.possible_names, start=1):
         print(f"  {index}) {texture_name}")
 
-    lookup_string = f"mgs2 /base /<{'|'.join(possible_names)}>.png"
+    lookup_string = f"mgs2 /base /<{'|'.join(candidate.possible_names)}>.png"
 
     print()
     print("Lookup:")
@@ -737,7 +728,7 @@ def prompt_for_manual_conflict_resolution(
     forced_texture_name = get_manual_conflict_override_texture_name(
         state=state,
         source=conflict_file,
-        possible_names=possible_names,
+        possible_names=candidate.possible_names,
     )
 
     if forced_texture_name is not None:
@@ -763,11 +754,11 @@ def prompt_for_manual_conflict_resolution(
 
         choice = int(raw)
 
-        if not (1 <= choice <= len(possible_names)):
+        if not (1 <= choice <= len(candidate.possible_names)):
             print("Selection out of range.")
             continue
 
-        selected_texture_name = possible_names[choice - 1]
+        selected_texture_name = candidate.possible_names[choice - 1]
         consolidate_manual_selection(state, conflict_file, selected_texture_name)
         return
 
@@ -778,13 +769,13 @@ def preflight_manual_conflicts(
     unique_texture_map: Dict[ComboKey, str],
     conflict_texture_map: Dict[ComboKey, List[str]],
 ) -> None:
-    pending: List[Tuple[Path, List[ComboKey]]] = []
+    pending: List[Tuple[Path, ConflictCandidate]] = []
 
     for path in iter_region_pngs(state.region_root):
         if path in state.removed_paths:
             continue
 
-        resolved, conflict_combos, warning = resolve_nested_png(
+        resolved, conflict_candidate, warning = resolve_nested_png(
             path=path,
             region_root=state.region_root,
             tri_alias_map=tri_alias_map,
@@ -795,10 +786,10 @@ def preflight_manual_conflicts(
         if warning is not None:
             continue
 
-        if not conflict_combos:
+        if conflict_candidate is None:
             continue
 
-        pending.append((path, conflict_combos))
+        pending.append((path, conflict_candidate))
 
     if not pending:
         print(f"[{state.region_root.name}] No manual conflicts found.")
@@ -806,16 +797,14 @@ def preflight_manual_conflicts(
 
     print(f"[{state.region_root.name}] Found {len(pending)} manual conflict file(s).")
 
-    for path, conflict_combos in pending:
+    for path, conflict_candidate in pending:
         if path in state.removed_paths:
             continue
 
-        possible_names = flatten_conflict_texture_names(conflict_combos, conflict_texture_map)
         prompt_for_manual_conflict_resolution(
             state=state,
             conflict_file=path,
-            conflict_combos=conflict_combos,
-            possible_names=possible_names,
+            candidate=conflict_candidate,
         )
 
 
@@ -835,7 +824,7 @@ def collect_resolved_nested_groups(
         if is_direct_region_file(path, state.region_root):
             continue
 
-        resolved, conflict_combos, warning = resolve_nested_png(
+        resolved, conflict_candidate, warning = resolve_nested_png(
             path=path,
             region_root=state.region_root,
             tri_alias_map=tri_alias_map,
@@ -843,13 +832,12 @@ def collect_resolved_nested_groups(
             conflict_texture_map=conflict_texture_map,
         )
 
-        if conflict_combos:
-            possible_names = flatten_conflict_texture_names(conflict_combos, conflict_texture_map)
+        if conflict_candidate is not None:
             warnings.append(
                 make_warning_entry(
                     state,
                     path,
-                    f"Unresolved conflict remains: {', '.join(possible_names)}",
+                    f"Unresolved conflict remains: {', '.join(conflict_candidate.possible_names)}",
                 )
             )
             continue
@@ -925,7 +913,7 @@ def validate_region_folder(region_root: Path) -> None:
 # MAIN
 # ==========================================================
 def main() -> None:
-    print("Loading CSV mappings...")
+    print("Loading CSV mappings.")
 
     unique_texture_map, conflict_texture_map = load_texture_mappings(TEXTURE_MAPPINGS_CSV)
     tri_alias_map = load_tri_aliases(TRI_MAPPINGS_CSV)
