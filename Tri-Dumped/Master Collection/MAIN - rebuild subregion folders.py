@@ -21,7 +21,7 @@ TEXTURE_MAPPINGS_CSV = SCRIPT_DIR / "mgs2_texture_strcode_mappings.csv"
 TRI_MAPPINGS_CSV = SCRIPT_DIR / "mgs2_tri_mappings.csv"
 
 # Dry mode is ON by default.
-DRY_RUN = True
+DRY_RUN = False
 
 # Add the region folders you want to process here.
 PROCESS_REGION_FOLDERS = [
