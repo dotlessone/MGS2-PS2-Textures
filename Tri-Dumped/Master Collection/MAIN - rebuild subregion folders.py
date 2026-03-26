@@ -30,7 +30,6 @@ PROCESS_REGION_FOLDERS = [
     "jp",
 ]
 
-
 MANUAL_CONFLICT_SHA1_OVERRIDES: Dict[str, str] = {
     "ba34283c172431fa75f69d68824c7d23d92fb6c2": "0009bc34_b930b4499997afc4e26e408ea169f9c7",
     "eda27df6e2ba6d8b30a0606f3ec5e02b4bc5fb29": "act_telop5_alp_ovl.bmp_e350349959b1556776f7b5d2e07689fc",
@@ -61,6 +60,15 @@ class ResolvedNestedFile:
     tri_strcode: str
     texture_strcode: str
     texture_name: str
+
+
+@dataclass(frozen=True)
+class WarningEntry:
+    path: Path
+    message: str
+    region: str
+    tri_name: Optional[str]
+    texture_strcode: Optional[str]
 
 
 @dataclass
@@ -265,6 +273,126 @@ def batch_sha1(state: RegionState, paths: Iterable[Path]) -> Dict[Path, str]:
     return result
 
 
+def get_warning_log_path(region_root: Path) -> Path:
+    return SCRIPT_DIR / f"warning_report_{region_root.name}.txt"
+
+
+def make_warning_entry(state: RegionState, path: Path, message: str) -> WarningEntry:
+    tri_name: Optional[str] = None
+
+    try:
+        rel = path.relative_to(state.region_root)
+        if len(rel.parts) >= 2:
+            tri_name = rel.parts[0]
+    except ValueError:
+        pass
+
+    return WarningEntry(
+        path=path,
+        message=message,
+        region=state.region_root.name,
+        tri_name=tri_name,
+        texture_strcode=path.stem if path.suffix.lower() == PNG_SUFFIX else None,
+    )
+
+
+def print_warnings(state: RegionState, warnings: List[WarningEntry]) -> None:
+    if not warnings:
+        return
+
+    grouped: Dict[str, List[WarningEntry]] = defaultdict(list)
+
+    for warning in warnings:
+        grouped[warning.message].append(warning)
+
+    print()
+    print("Warnings")
+    print("--------")
+
+    for message in sorted(grouped):
+        items = sorted(grouped[message], key=lambda item: str(item.path).lower())
+
+        print()
+        print(f"{message} ({len(items)})")
+
+        for item in items:
+            rel = safe_rel(item.path, state.region_root)
+            print(f"  {rel}")
+
+            if item.texture_strcode:
+                print(f"    lookup: mgs2 /base /{item.texture_strcode}.png")
+
+
+def write_warnings_to_file(state: RegionState, warnings: List[WarningEntry]) -> None:
+    log_path = get_warning_log_path(state.region_root)
+
+    if not warnings:
+        if state.dry_run:
+            print(f"[DRY] WRITE   {log_path.name} (no warnings)")
+            return
+
+        log_path.write_text("No warnings.\n", encoding="utf-8", newline="\n")
+        print(f"WRITE        {log_path.name}")
+        return
+
+    grouped: Dict[str, List[WarningEntry]] = defaultdict(list)
+
+    for warning in warnings:
+        grouped[warning.message].append(warning)
+
+    lines: List[str] = []
+
+    for message in sorted(grouped):
+        items = sorted(grouped[message], key=lambda item: str(item.path).lower())
+
+        lines.append(f"=== {message} ({len(items)}) ===")
+
+        for item in items:
+            rel = safe_rel(item.path, state.region_root)
+            lines.append(rel)
+
+            if item.texture_strcode:
+                lines.append(f"lookup: mgs2 /base /{item.texture_strcode}.png")
+
+        lines.append("")
+
+    content = "\n".join(lines).rstrip() + "\n"
+
+    if state.dry_run:
+        print(f"[DRY] WRITE   {log_path.name}")
+        return
+
+    log_path.write_text(content, encoding="utf-8", newline="\n")
+    print(f"WRITE        {log_path.name}")
+
+
+def cleanup_empty_dirs(root: Path, dry_run: bool) -> int:
+    removed_count = 0
+
+    all_dirs = sorted(
+        [p for p in root.rglob("*") if p.is_dir()],
+        key=lambda p: len(p.parts),
+        reverse=True,
+    )
+
+    for directory in all_dirs:
+        try:
+            if any(directory.iterdir()):
+                continue
+
+            if dry_run:
+                print(f"[DRY] RMDIR   {safe_rel(directory, root)}")
+            else:
+                directory.rmdir()
+                print(f"RMDIR        {safe_rel(directory, root)}")
+
+            removed_count += 1
+        except OSError:
+            continue
+
+    return removed_count
+
+
 def resolve_nested_png(
     path: Path,
     region_root: Path,
@@ -419,6 +547,7 @@ def consolidate_manual_selection(state: RegionState, source: Path, texture_name:
 
     action_move_to_root(state, source, texture_name)
 
+
 def get_manual_conflict_override_texture_name(
     state: RegionState,
     source: Path,
@@ -439,6 +568,7 @@ def get_manual_conflict_override_texture_name(
         )
 
     return forced_texture_name
+
 
 def prompt_for_manual_conflict_resolution(
     state: RegionState,
@@ -508,6 +638,7 @@ def prompt_for_manual_conflict_resolution(
         consolidate_manual_selection(state, conflict_file, selected_texture_name)
         return
 
+
 def preflight_manual_conflicts(
     state: RegionState,
     tri_alias_map: Dict[TriAliasKey, Set[StageTriKey]],
@@ -555,9 +686,9 @@ def collect_resolved_nested_groups(
     tri_alias_map: Dict[TriAliasKey, Set[StageTriKey]],
     unique_texture_map: Dict[ComboKey, str],
     conflict_texture_map: Dict[ComboKey, List[str]],
-) -> Tuple[Dict[str, List[ResolvedNestedFile]], List[str]]:
+) -> Tuple[Dict[str, List[ResolvedNestedFile]], List[WarningEntry]]:
     groups: Dict[str, List[ResolvedNestedFile]] = defaultdict(list)
-    warnings: List[str] = []
+    warnings: List[WarningEntry] = []
 
     for path in iter_region_pngs(state.region_root):
         if path in state.removed_paths:
@@ -577,13 +708,16 @@ def collect_resolved_nested_groups(
         if conflict_combo is not None:
             stage, tri_strcode, texture_strcode = conflict_combo
             warnings.append(
-                f"Unresolved conflict remains: {safe_rel(path, state.region_root)} "
-                f"-> ({stage}, {tri_strcode}, {texture_strcode})"
+                make_warning_entry(
+                    state,
+                    path,
+                    f"Unresolved conflict remains: ({stage}, {tri_strcode}, {texture_strcode})",
+                )
             )
             continue
 
         if warning is not None:
-            warnings.append(f"{safe_rel(path, state.region_root)}: {warning}")
+            warnings.append(make_warning_entry(state, path, warning))
             continue
 
         if resolved is None:
@@ -700,18 +834,29 @@ def main() -> None:
         )
 
         if warnings:
+            print_warnings(state, warnings)
+        else:
             print()
             print("Warnings")
             print("--------")
-            for warning in warnings:
-                print(warning)
-            print()
+            print("None")
+
+        print()
+        print("3) WRITING WARNING REPORT")
+        write_warnings_to_file(state, warnings)
 
         if not groups:
+            print()
             print(f"[{region_name}] No resolvable nested PNGs found.")
         else:
+            print()
             print(f"[{region_name}] Resolved texture groups: {len(groups)}")
             process_resolved_groups(state, groups)
+
+        print()
+        print("4) CLEANING UP EMPTY FOLDERS")
+        removed_dirs = cleanup_empty_dirs(region_root, state.dry_run)
+        print(f"[{region_name}] Empty folders removed: {removed_dirs}")
 
         print()
         print(f"[{region_name}] Actions planned/executed: {state.actions_taken}")
