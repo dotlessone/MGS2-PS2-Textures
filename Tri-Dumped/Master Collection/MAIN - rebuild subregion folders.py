@@ -30,10 +30,47 @@ PROCESS_REGION_FOLDERS = [
     "jp",
 ]
 
+# Global manual conflict override:
+# sha1 -> texture_name
 MANUAL_CONFLICT_SHA1_OVERRIDES: Dict[str, str] = {
     "ba34283c172431fa75f69d68824c7d23d92fb6c2": "0009bc34_b930b4499997afc4e26e408ea169f9c7",
     "eda27df6e2ba6d8b30a0606f3ec5e02b4bc5fb29": "act_telop5_alp_ovl.bmp_e350349959b1556776f7b5d2e07689fc",
     "fec0481213902971719ca44ae0962dee41bb8b22": "act_telop5_alp_ovl.bmp",
+    "09dfa9d6264915502af8cfd4d41a5c34493dcf90": "00fb5e0d_3a2f9c020f2b36a95c909e29cb3e4aae",
+    "936ee9ca2c65360f5f735a7f4d021b8abbae5742": "00fb5e0d_a4c6847d4b922f6cd44f7d23a8727f2c",
+    
+   }
+
+# Region-specific manual conflict override:
+# (region, sha1) -> texture_name
+#
+# Example:
+# REGION_MANUAL_CONFLICT_SHA1_OVERRIDES = {
+#     ("jp", "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"): "some_texture_name",
+#     ("us", "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"): "some_other_texture_name",
+# }
+REGION_MANUAL_CONFLICT_SHA1_OVERRIDES: Dict[Tuple[str, str], str] = {
+    # ("jp", "sha1_here"): "texture_name_here",
+}
+
+# When multiple different SHA1s map to the same texture_name, use this per-texture
+# priority list to decide which SHA1 to keep.
+#
+# Example:
+# SHA1_KEEP_PRIORITIES = {
+#     "001a8739": [
+#         "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+#         "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+#     ],
+# }
+#
+# The first SHA1 in the list that is present wins.
+# If none of the listed SHA1s are present, the script hard fails.
+SHA1_KEEP_PRIORITIES: Dict[str, List[str]] = {
+    # "texture_name": [
+    #     "preferred_sha1_here",
+    #     "fallback_sha1_here",
+    # ],
 }
 
 MAX_WORKERS = max(4, os.cpu_count() or 4)
@@ -76,7 +113,7 @@ class RegionState:
     region_root: Path
     dry_run: bool
     removed_paths: Set[Path] = field(default_factory=set)
-    planned_root_sources: Dict[str, Path] = field(default_factory=dict)  # texture_name -> source path or planned destination source
+    planned_root_sources: Dict[str, Path] = field(default_factory=dict)  # texture_name -> current/planned kept file path
     sha1_cache: Dict[Path, str] = field(default_factory=dict)
     sha1_cache_lock: Lock = field(default_factory=Lock)
     actions_taken: int = 0
@@ -222,7 +259,7 @@ def sha1_of_file(path: Path) -> str:
         for chunk in iter(lambda: f.read(SHA1_BUFFER_SIZE), b""):
             h.update(chunk)
 
-    return h.hexdigest()
+    return h.hexdigest().lower()
 
 
 def get_cached_sha1(state: RegionState, path: Path) -> str:
@@ -393,6 +430,61 @@ def cleanup_empty_dirs(root: Path, dry_run: bool) -> int:
     return removed_count
 
 
+def format_sha1_conflict_report(
+    state: RegionState,
+    texture_name: str,
+    sha_to_paths: Dict[str, List[Path]],
+) -> str:
+    lines: List[str] = []
+    lines.append(f"Multiple different SHA1s point to texture_name '{texture_name}'.")
+    lines.append("Add an entry to SHA1_KEEP_PRIORITIES for this texture_name, or fix the source data.")
+    lines.append("")
+    lines.append("Observed SHA1 groups:")
+
+    for sha1 in sorted(sha_to_paths):
+        lines.append(f"  {sha1}")
+        for path in sorted(sha_to_paths[sha1], key=lambda p: str(p).lower()):
+            lines.append(f"    {safe_rel(path, state.region_root)}")
+
+    configured = SHA1_KEEP_PRIORITIES.get(texture_name)
+    lines.append("")
+    lines.append(f"Configured SHA1 priority list: {configured if configured is not None else 'None'}")
+
+    return "\n".join(lines)
+
+
+def choose_sha1_for_texture_name(
+    state: RegionState,
+    texture_name: str,
+    all_paths: List[Path],
+    sha_map: Dict[Path, str],
+) -> str:
+    sha_to_paths: Dict[str, List[Path]] = defaultdict(list)
+
+    for path in all_paths:
+        sha_to_paths[sha_map[path]].append(path)
+
+    unique_sha1s = sorted(sha_to_paths)
+
+    if len(unique_sha1s) == 1:
+        return unique_sha1s[0]
+
+    preferred_list = [value.lower() for value in SHA1_KEEP_PRIORITIES.get(texture_name, [])]
+    matching_preferred = [sha1 for sha1 in preferred_list if sha1 in sha_to_paths]
+
+    if len(matching_preferred) == 1:
+        return matching_preferred[0]
+
+    if len(matching_preferred) > 1:
+        pause_and_exit(
+            format_sha1_conflict_report(state, texture_name, sha_to_paths)
+            + "\n\nMore than one configured preferred SHA1 is present. Fix the priority list."
+        )
+
+    pause_and_exit(format_sha1_conflict_report(state, texture_name, sha_to_paths))
+    raise AssertionError("Unreachable")
+
+
 def resolve_nested_png(
     path: Path,
     region_root: Path,
@@ -419,54 +511,60 @@ def resolve_nested_png(
     if not alias_values:
         return None, None, f"No tri alias for region='{region_folder}', tri_name='{tri_name}'"
 
+    matched_unique_texture_name: Optional[str] = None
     matched_unique_combo: Optional[ComboKey] = None
-    matched_conflict_combo: Optional[ComboKey] = None
+    matched_conflict_combos: List[ComboKey] = []
 
     for stage, tri_strcode in sorted(alias_values):
         combo = (stage, tri_strcode, texture_strcode)
 
         if combo in conflict_texture_map:
-            if matched_unique_combo is not None:
+            if matched_unique_texture_name is not None:
                 return None, None, (
                     f"Both unique and conflicting mappings matched for "
                     f"region='{region_folder}', tri_name='{tri_name}', texture_strcode='{texture_strcode}'"
                 )
 
-            if matched_conflict_combo is not None and matched_conflict_combo != combo:
-                return None, None, (
-                    f"Multiple conflicting mappings matched for "
-                    f"region='{region_folder}', tri_name='{tri_name}', texture_strcode='{texture_strcode}'"
-                )
-
-            matched_conflict_combo = combo
+            matched_conflict_combos.append(combo)
             continue
 
         if combo in unique_texture_map:
-            if matched_conflict_combo is not None:
+            texture_name = unique_texture_map[combo]
+
+            if matched_conflict_combos:
                 return None, None, (
                     f"Both conflicting and unique mappings matched for "
                     f"region='{region_folder}', tri_name='{tri_name}', texture_strcode='{texture_strcode}'"
                 )
 
-            if matched_unique_combo is not None and matched_unique_combo != combo:
+            if matched_unique_texture_name is None:
+                matched_unique_texture_name = texture_name
+                matched_unique_combo = combo
+                continue
+
+            if texture_name != matched_unique_texture_name:
                 return None, None, (
                     f"Ambiguous unique mapping match for "
                     f"region='{region_folder}', tri_name='{tri_name}', texture_strcode='{texture_strcode}'"
                 )
 
-            matched_unique_combo = combo
+    if matched_conflict_combos:
+        if len(matched_conflict_combos) == 1:
+            return None, matched_conflict_combos[0], None
 
-    if matched_conflict_combo is not None:
-        return None, matched_conflict_combo, None
+        return None, None, (
+            f"Multiple conflicting mappings matched for "
+            f"region='{region_folder}', tri_name='{tri_name}', texture_strcode='{texture_strcode}'"
+        )
 
-    if matched_unique_combo is None:
+    if matched_unique_combo is None or matched_unique_texture_name is None:
         return None, None, (
             f"No texture mapping match for region='{region_folder}', tri_name='{tri_name}', "
             f"texture_strcode='{texture_strcode}'"
         )
 
     stage, tri_strcode, _ = matched_unique_combo
-    texture_name = unique_texture_map[matched_unique_combo]
+    texture_name = matched_unique_texture_name
 
     resolved = ResolvedNestedFile(
         path=path,
@@ -535,11 +633,30 @@ def consolidate_manual_selection(state: RegionState, source: Path, texture_name:
         sha_map = batch_sha1(state, [source, existing_root_source])
 
         if sha_map[source] != sha_map[existing_root_source]:
+            chosen_sha1 = choose_sha1_for_texture_name(
+                state=state,
+                texture_name=texture_name,
+                all_paths=[source, existing_root_source],
+                sha_map=sha_map,
+            )
+
+            source_sha1 = sha_map[source]
+            existing_sha1 = sha_map[existing_root_source]
+
+            if source_sha1 == chosen_sha1 and existing_sha1 != chosen_sha1:
+                action_delete(state, existing_root_source)
+                action_move_to_root(state, source, texture_name)
+                return
+
+            if existing_sha1 == chosen_sha1 and source_sha1 != chosen_sha1:
+                action_delete(state, source)
+                return
+
             pause_and_exit(
-                f"Manual conflict resolution would collide with existing root texture '{texture_name}{PNG_SUFFIX}' "
-                f"but SHA1 does not match.\n"
-                f"Existing root source: {existing_root_source}\n"
-                f"Selected source:      {source}"
+                f"Internal error while resolving manual SHA1 conflict for '{texture_name}'.\n"
+                f"Chosen SHA1: {chosen_sha1}\n"
+                f"Existing root source: {existing_root_source} ({existing_sha1})\n"
+                f"Selected source:      {source} ({source_sha1})"
             )
 
         action_delete(state, source)
@@ -554,20 +671,32 @@ def get_manual_conflict_override_texture_name(
     possible_names: List[str],
 ) -> Optional[str]:
     source_sha1 = get_cached_sha1(state, source).lower()
-    forced_texture_name = MANUAL_CONFLICT_SHA1_OVERRIDES.get(source_sha1)
+    region_name = normalize(state.region_root.name)
 
-    if forced_texture_name is None:
-        return None
+    region_specific = REGION_MANUAL_CONFLICT_SHA1_OVERRIDES.get((region_name, source_sha1))
+    if region_specific is not None:
+        if region_specific not in possible_names:
+            pause_and_exit(
+                f"Region-specific manual conflict SHA1 override matched '{source}', but forced texture_name "
+                f"'{region_specific}' is not a valid candidate for this file.\n"
+                f"Region: {region_name}\n"
+                f"SHA1: {source_sha1}\n"
+                f"Valid candidates: {', '.join(possible_names)}"
+            )
+        return region_specific
 
-    if forced_texture_name not in possible_names:
-        pause_and_exit(
-            f"Manual conflict SHA1 override matched '{source}', but forced texture_name "
-            f"'{forced_texture_name}' is not a valid candidate for this file.\n"
-            f"SHA1: {source_sha1}\n"
-            f"Valid candidates: {', '.join(possible_names)}"
-        )
+    global_override = MANUAL_CONFLICT_SHA1_OVERRIDES.get(source_sha1)
+    if global_override is not None:
+        if global_override not in possible_names:
+            pause_and_exit(
+                f"Global manual conflict SHA1 override matched '{source}', but forced texture_name "
+                f"'{global_override}' is not a valid candidate for this file.\n"
+                f"SHA1: {source_sha1}\n"
+                f"Valid candidates: {', '.join(possible_names)}"
+            )
+        return global_override
 
-    return forced_texture_name
+    return None
 
 
 def prompt_for_manual_conflict_resolution(
@@ -736,40 +865,42 @@ def process_resolved_groups(state: RegionState, groups: Dict[str, List[ResolvedN
         nested_paths = [item.path for item in items]
         root_source = region_root_source_for_texture(state, texture_name)
 
+        all_paths = list(nested_paths)
+
         if root_source is not None:
-            sha_map = batch_sha1(state, nested_paths + [root_source])
-            root_sha1 = sha_map[root_source]
+            all_paths.append(root_source)
 
-            mismatches = [path for path in nested_paths if sha_map[path] != root_sha1]
+        sha_map = batch_sha1(state, all_paths)
+        chosen_sha1 = choose_sha1_for_texture_name(
+            state=state,
+            texture_name=texture_name,
+            all_paths=all_paths,
+            sha_map=sha_map,
+        )
 
-            if mismatches:
-                pause_and_exit(
-                    f"SHA1 mismatch for texture_name '{texture_name}'.\n"
-                    f"Root source: {root_source}\n"
-                    f"Mismatching nested file: {mismatches[0]}"
-                )
+        chosen_nested_paths = [path for path in nested_paths if sha_map[path] == chosen_sha1]
 
-            for path in nested_paths:
-                action_delete(state, path)
-
-            continue
-
-        sha_map = batch_sha1(state, nested_paths)
-        unique_sha1s = {sha_map[path] for path in nested_paths}
-
-        if len(unique_sha1s) != 1:
-            sorted_paths = "\n".join(f"  {path}" for path in nested_paths)
+        if not chosen_nested_paths and root_source is None:
             pause_and_exit(
-                f"Multiple files mapping to '{texture_name}' do not all share the same SHA1.\n"
-                f"Files:\n{sorted_paths}"
+                f"No nested file with chosen SHA1 was found for texture_name '{texture_name}'.\n"
+                f"Chosen SHA1: {chosen_sha1}"
             )
 
-        keep_path = nested_paths[0]
-        delete_paths = nested_paths[1:]
+        if root_source is not None and sha_map[root_source] == chosen_sha1:
+            for path in nested_paths:
+                action_delete(state, path)
+            continue
+
+        keep_path = chosen_nested_paths[0]
+
+        if root_source is not None:
+            action_delete(state, root_source)
 
         action_move_to_root(state, keep_path, texture_name)
 
-        for path in delete_paths:
+        for path in nested_paths:
+            if path == keep_path:
+                continue
             action_delete(state, path)
 
 
