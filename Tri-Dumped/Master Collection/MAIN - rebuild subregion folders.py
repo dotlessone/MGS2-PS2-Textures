@@ -24,19 +24,26 @@ DRY_RUN = False
 
 # Add the region folders you want to process here.
 PROCESS_REGION_FOLDERS = [
-    # "us",
-     "eu",
+    "us",
+     #"eu",
     #"jp",
 ]
 
 # Global manual conflict override:
 # sha1 -> texture_name
 MANUAL_CONFLICT_SHA1_OVERRIDES: Dict[str, str] = {
+    "c68cd2b9ee0a8f85984570a53f2c1a284660228d": "0009bc34",
+    #us 2003 / eu 2012
     "ba34283c172431fa75f69d68824c7d23d92fb6c2": "0009bc34_b930b4499997afc4e26e408ea169f9c7",
+    #jp 2002 / jp 2011
     "eda27df6e2ba6d8b30a0606f3ec5e02b4bc5fb29": "act_telop5_alp_ovl.bmp_e350349959b1556776f7b5d2e07689fc",
     "fec0481213902971719ca44ae0962dee41bb8b22": "act_telop5_alp_ovl.bmp",
-    "09dfa9d6264915502af8cfd4d41a5c34493dcf90": "00fb5e0d_3a2f9c020f2b36a95c909e29cb3e4aae",
-    "936ee9ca2c65360f5f735a7f4d021b8abbae5742": "00fb5e0d_a4c6847d4b922f6cd44f7d23a8727f2c",
+    "af92a54b0ba148b8c8d4b7cb9607517f59f506be": "00fb5e0d",
+    #study your battle results well to know better ways of survival on the battlefield
+    "09dfa9d6264915502af8cfd4d41a5c34493dcf90": "00fb5e0d_3a2f9c020f2b36a95c909e29cb3e4aae", 
+    #study your battle results well to know better ways of survival battlefield
+    "936ee9ca2c65360f5f735a7f4d021b8abbae5742": "00fb5e0d_a4c6847d4b922f6cd44f7d23a8727f2c", 
+    #study your battle results well to know better ways of survival battlefield - black background
 }
 
 # Region-specific manual conflict override:
@@ -352,12 +359,15 @@ def write_warnings_to_file(state: RegionState, warnings: List[WarningEntry]) -> 
     log_path = get_warning_log_path(state.region_root)
 
     if not warnings:
-        if state.dry_run:
-            print(f"[DRY] WRITE   {log_path.name} (no warnings)")
-            return
-
-        log_path.write_text("No warnings.\n", encoding="utf-8", newline="\n")
-        print(f"WRITE        {log_path.name}")
+        if log_path.exists():
+            if state.dry_run:
+                print(f"[DRY] DELETE  {log_path.name} (no warnings)")
+            else:
+                log_path.unlink()
+                print(f"DELETE       {log_path.name}")
+        else:
+            if state.dry_run:
+                print(f"[DRY] SKIP    {log_path.name} (no warnings)")
         return
 
     grouped: Dict[str, List[WarningEntry]] = defaultdict(list)
