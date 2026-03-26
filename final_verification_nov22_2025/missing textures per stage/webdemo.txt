@@ -1,8 +1,0 @@
-mgs2/base|mgs2-ps2-text /<web_fall0_alp_ovl.bmp|web_fall1_alp_ovl.bmp|web_fall2alp_ovl.bmp|web_fall3_alp_ovl.bmp|web_fall4_alp_ovl.bmp|web_syouko0_alp_ovl.bmp|web_syouko1_alp_ovl.bmp>.png
-web_fall0_alp_ovl.bmp
-web_fall1_alp_ovl.bmp
-web_fall2alp_ovl.bmp
-web_fall3_alp_ovl.bmp
-web_fall4_alp_ovl.bmp
-web_syouko0_alp_ovl.bmp
-web_syouko1_alp_ovl.bmp

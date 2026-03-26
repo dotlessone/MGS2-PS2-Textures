@@ -1,5 +1,0 @@
-mgs2/base|mgs2-ps2-text /<foot_shadow2_sub_ovl.bmp|for_col1.bmp|vamp_col1.bmp|vmp_aaa.bmp>.png
-foot_shadow2_sub_ovl.bmp
-for_col1.bmp
-vamp_col1.bmp
-vmp_aaa.bmp
