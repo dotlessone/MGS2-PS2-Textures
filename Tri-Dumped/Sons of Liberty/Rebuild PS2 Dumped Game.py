@@ -21,11 +21,11 @@ CSV_PATH = Path(
 )
 
 SOURCE_ROOT = Path(
-    r"C:\Development\Git\MGS2-PS2-Textures\Tri-Dumped\Sons of Liberty\USA\PNG"
+    r"C:\Development\Git\MGS2-PS2-Textures\Tri-Dumped\Document\JP\MGS2"
 )
 
 DEST_ROOT = Path(
-    r"C:\Development\Git\MGS2-PS2-Textures\Tri-Dumped\Sons of Liberty\USA"
+    r"C:\Development\Git\MGS2-PS2-Textures\Tri-Dumped\Document\JP"
 )
 
 SHA1_COLUMN = "mc_tri_dumped_sha1"
