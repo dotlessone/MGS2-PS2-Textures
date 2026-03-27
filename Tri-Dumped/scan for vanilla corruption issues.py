@@ -7,7 +7,7 @@ import multiprocessing
 # ==========================================================
 # CONFIGURATION
 # ==========================================================
-TARGET_DIR = Path(r"C:\Development\Git\MGS2-PS2-Textures\u - dumped from substance\dump\Final Rebuilt\US-Sub")
+TARGET_DIR = Path(r"C:\Development\Git\MGS2-PS2-Textures\Tri-Dumped\Master Collection")
 OUTPUT_LOG = Path("possible vanilla corruption issues.txt")
 
 SUSPICIOUS_RGB = {
@@ -52,9 +52,9 @@ def has_suspicious_color(path: Path) -> str | None:
 # MAIN
 # ==========================================================
 def main():
-    tga_files = list(TARGET_DIR.rglob("*.tga"))
+    tga_files = list(TARGET_DIR.rglob("*.png"))
     if not tga_files:
-        print("No .tga files found under 'mixed_alpha'.")
+        print("No .png files found under 'mixed_alpha'.")
         return
 
     print(f"Scanning {len(tga_files)} .tga files using {multiprocessing.cpu_count()} threads...")
