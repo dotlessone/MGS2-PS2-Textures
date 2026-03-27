@@ -58,39 +58,17 @@ What tools are you using for this?
 
 **Answer:**
 
+- Tri Extraction & Rebuilding
+  - MGS Tri-Dumper (self-made .tri dumping / rebuilding utility.)
+
 - File Management:
-  - Funduc's Duplicate File Finder
   - Voidtool's Everything
 
 - BP_Asset / Manifest Management:
   - Visual Studio Code
   - Notepad++
 
-- Texturing:
-  - Adobe Photoshop 2025
-    - Using self-made scripts for proper UV edge padding on export due to a legacy photoshop bug with transparent textures.
-  - Adobe Substance 3D Painter
-  - Chainner
-  - Gimp
-  - Nvidia Texture Export Tool
-    - Using self-made presets for production quality Kaiser filtered mipmaps.
-    - I'm more than happy to share my preset with other modders at request!
-
 - Model Viewers:
-  - Blender
-  - Autodesk Maya
-  - Noesis Model Viewer / Exporter
   - Jayveer's MGS2 Master Collection & PS2 Noesis plugins
 
-- Texture Dumping:
-  - PCSX2
-
-- CTXR Generation:
-  - 316austin316's CTXR3
-  - Jayveer's CTXRTool
-    - Using self-made batch scripts for automated mipmap generation using Nvidia's texture tool.
-
-- Other:
-  - i2ocr's Japanese Optical Character Recognition
-  - Self made tooling to automatically identify remade textures & images that area already ^2.
-  - [Self made tooling](https://github.com/ShizCalev/Resize_Images_To_Power_of_Two) to automatically resize needed images up to the next power of 2. 
+- PCSX2 for .TRI dumped texture verification.
