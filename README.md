@@ -1,3 +1,10 @@
+
+All SHA1's are based off PNG's saved using PIL with compression optimization disabled.
+
+
+
+
+
 # FAQ
 **Question:** 
 
