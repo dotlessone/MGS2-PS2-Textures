@@ -9,7 +9,26 @@ All SHA1's are based off PNG's saved using PIL with compression optimization dis
 Made by Afevis.
 
 
-------------
+
+
+
+#Progress:
+
+Document of MGS2: 100% dumped & deduped. (Contains various promotional images, original storyboards, and some source pictures for some textures - notably some of the staff member's pictures.)
+
+Sons of Liberty: In Progress (Early versions of textures that were changed in Substance are still being mapped. Unmapped/early files can be found in the /PNG subfolder.)
+
+Substance: USA, Japan, and Europe are 100% dumped and rebuilt. Korea is still WIP (just need to map the Korean UI textures. This will also provide the based for a Korean translation mod for the MC once completed.)
+
+Master Collection TRI's: 100% dumped and rebuilt.
+
+
+-----
+
+
+
+
+# FAQ
 
 **Question:** 
 
@@ -48,12 +67,8 @@ That is correct! The PS2 had a different color depth from modern systems, and as
 
   - Stripping opacity outright from a texture / setting it to 100% / fully opaque via photoshop will result in MGS2's lighting engine treating the texture completely different. 
 
--------------
 
 
-
-
-# FAQ
 **Question:** 
 
 Why are you doing this?
