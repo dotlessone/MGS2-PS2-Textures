@@ -1,6 +1,54 @@
+# MGS2-PS2-Textures
+
+
+All textures from all PS2 versions of Metal Gear Solid 2, dumped & restructured for usage with the 2023 MGS Master Collection.
+
 
 All SHA1's are based off PNG's saved using PIL with compression optimization disabled.
 
+Made by Afevis.
+
+
+------------
+
+**Question:** 
+
+What tools are you using for this?
+
+**Answer:**
+
+- Tri Extraction & Rebuilding
+  - MGS Tri-Dumper (self-made .tri dumping / rebuilding utility. Will be released publicly once Sons of Liberty & Snake Eater -> MC mappings have been completed.)
+
+- File Management:
+  - Voidtool's Everything
+
+- BP_Asset / Manifest Management:
+  - Visual Studio Code
+  - Notepad++
+
+- Model Viewers:
+  - Jayveer's MGS2 Master Collection & PS2 Noesis plugins (personally modified to fix various corruption issues the original plugin had with ~40% of textures.)
+
+- PCSX2 for .TRI dumped texture verification.
+
+
+--------
+
+**Question:** 
+
+All these textures appear to be transparent - [#1](https://github.com/dotlessone/MGS2-PS2-Textures/issues/1)
+
+**Answer:** 
+
+That is correct! The PS2 had a different color depth from modern systems, and as a result, fully opaque textures from the PS2 show up as having 50% opacity on PC. 
+ - Pixels that have 128 (50%) opacity were actually fully opaque on PS2, pixels that are 102 (40%) opacity were 80% on the PS2, 64 (25%) is 50%, ect.
+
+ - All ports of MGS2 to non-PS2 systems have code that automatically double the opacity level to account for the difference in rendering on other systems. 
+
+  - Stripping opacity outright from a texture / setting it to 100% / fully opaque via photoshop will result in MGS2's lighting engine treating the texture completely different. 
+
+-------------
 
 
 
@@ -8,9 +56,18 @@ All SHA1's are based off PNG's saved using PIL with compression optimization dis
 # FAQ
 **Question:** 
 
-Why is this needed?
+Why are you doing this?
 
 **Answer:** 
+
+### TLDR: 
+
+The 2003 PC port, 2011 HD Collection, and 2023 Master Collection versions of MGS2 all have varying degrees of texture corruption/jpeg-esque artifacting with a vast majority of its textures.
+
+This artifacting was introduced by various memory/VRAM optimization efforts when these ports were originally created (the PS3 for example only had 256MB of VRAM.)
+
+
+### Longer Version:
 
 The vast majority of textures in the original PS2 version of MGS2 had dimensions that were not a power of 2, ie 2, 4, 8, 16, 32, 64, 128, 256, 512, ect. 
 
@@ -42,40 +99,3 @@ Presumably, it was simply a forgotten footnote in the game's past development cy
   - Several stages (such as the Shell 1 Core, B2 - Computer Room) were identified to have been fully retextured, and this allows for the creation of an OG Sons of Liberty texture pack - which fully returns those retextured areas back to the original state they were in for the 2001 US Sons of Liberty release.
  
 
--------------
-
-**Question:** 
-
-All these textures appear to be transparent - [#1](https://github.com/dotlessone/MGS2-PS2-Textures/issues/1)
-
-**Answer:** 
-
-That is correct! The PS2 had a different color depth from modern systems, and as a result, fully opaque textures from the PS2 show up as having 50% opacity on PC. 
- - Pixels that have 128 (50%) opacity were actually fully opaque on PS2, pixels that are 102 (40%) opacity were 80% on the PS2, 64 (25%) is 50%, ect.
-
- - All ports of MGS2 to non-PS2 systems have code that automatically double the opacity level to account for the difference in rendering on other systems. 
-
-  - Stripping opacity outright from a texture / setting it to 100% / fully opaque via photoshop will result in MGS2's lighting engine treating the texture completely different. 
-
--------------
-
-**Question:** 
-
-What tools are you using for this?
-
-**Answer:**
-
-- Tri Extraction & Rebuilding
-  - MGS Tri-Dumper (self-made .tri dumping / rebuilding utility.)
-
-- File Management:
-  - Voidtool's Everything
-
-- BP_Asset / Manifest Management:
-  - Visual Studio Code
-  - Notepad++
-
-- Model Viewers:
-  - Jayveer's MGS2 Master Collection & PS2 Noesis plugins
-
-- PCSX2 for .TRI dumped texture verification.
