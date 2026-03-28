@@ -9,10 +9,11 @@ All SHA1's are based off PNG's saved using PIL with compression optimization dis
 Made by Afevis.
 
 
+</br>
 
 
 
-#Progress:
+# Progress:
 
 Document of MGS2: 100% dumped & deduped. (Contains various promotional images, original storyboards, and some source pictures for some textures - notably some of the staff member's pictures.)
 
@@ -23,10 +24,8 @@ Substance: USA, Japan, and Europe are 100% dumped and rebuilt. Korea is still WI
 Master Collection TRI's: 100% dumped and rebuilt.
 
 
------
 
-
-
+</br>
 
 # FAQ
 
@@ -67,6 +66,8 @@ That is correct! The PS2 had a different color depth from modern systems, and as
 
   - Stripping opacity outright from a texture / setting it to 100% / fully opaque via photoshop will result in MGS2's lighting engine treating the texture completely different. 
 
+
+--------
 
 
 **Question:** 
