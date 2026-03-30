@@ -49,6 +49,8 @@ PC_VERSION_UNIX_TIME = "1045766390"
 HD_ORIGIN_VERSION = "HD Collection (PS3)"
 HD_VERSION_UNIX_TIME = "1318534422"
 
+CTRLTYPE_MC_VERSION = "1.2.0"
+
 
 # ==========================================================
 # HELPERS
@@ -344,6 +346,7 @@ def process_ctxr(
     tri_metadata_map: Dict[str, Dict[str, int]],
     manual_bp_remade_stems: Set[str],
     mc_update_map: Dict[Tuple[str, str], Tuple[str, str]],
+    mc_version_date_map: Dict[str, str],
 ):
     png_path = ctxr_path.with_suffix(".png")
 
@@ -356,6 +359,7 @@ def process_ctxr(
     texture_name = ctxr_path.stem
     texture_name_lower = texture_name.lower()
     relative_parent_dir = get_ctxr_relative_parent_dir(ctxr_path)
+    relative_parent_dir_lower = relative_parent_dir.lower()
 
     mc_ctxr_sha1 = sha1_file(ctxr_path)
     mc_resaved_sha1 = sha1_file(png_path)
@@ -406,6 +410,18 @@ def process_ctxr(
 
             if raw_width == ciel_width and raw_height == ciel_height:
                 pc_equal_dims_log_entry = texture_name
+
+    # Priority 3.5: ctrltype_ folders are Master Collection 1.2.0
+    if not origin_version and "ctrltype_" in relative_parent_dir_lower:
+        ctrltype_unix_time = mc_version_date_map.get(CTRLTYPE_MC_VERSION)
+        if ctrltype_unix_time is None:
+            raise ValueError(
+                f"Required MC version '{CTRLTYPE_MC_VERSION}' was not found in MC_Version_Dates.csv"
+            )
+
+        origin_version = f"Master Collection - {CTRLTYPE_MC_VERSION}"
+        version_unix_time = ctrltype_unix_time
+        bp_remade = True
 
     # Priority 4: everything else
     if not origin_version:
@@ -500,6 +516,7 @@ def process_dataset(
     tri_metadata_map: Dict[str, Dict[str, int]],
     manual_bp_remade_stems: Set[str],
     mc_update_map: Dict[Tuple[str, str], Tuple[str, str]],
+    mc_version_date_map: Dict[str, str],
     output_csv: Path,
     missing_png_log: Path,
     pc_nonpow2_match_log: Path,
@@ -534,6 +551,7 @@ def process_dataset(
                 tri_metadata_map,
                 manual_bp_remade_stems,
                 mc_update_map,
+                mc_version_date_map,
             )
             for ctxr_path in ctxr_files
         ]
@@ -611,6 +629,7 @@ def main() -> int:
         tri_metadata_map=tri_metadata_map,
         manual_bp_remade_stems=manual_bp_remade_stems,
         mc_update_map=mc_update_map,
+        mc_version_date_map=mc_version_date_map,
         output_csv=OUTPUT_CSV_WIN_ONLY,
         missing_png_log=MISSING_PNG_LOG_WIN_ONLY,
         pc_nonpow2_match_log=PC_NONPOW2_MATCH_LOG_WIN_ONLY,
@@ -627,6 +646,7 @@ def main() -> int:
         tri_metadata_map=tri_metadata_map,
         manual_bp_remade_stems=manual_bp_remade_stems,
         mc_update_map=mc_update_map,
+        mc_version_date_map=mc_version_date_map,
         output_csv=OUTPUT_CSV_FULL_RECURSIVE,
         missing_png_log=MISSING_PNG_LOG_FULL_RECURSIVE,
         pc_nonpow2_match_log=PC_NONPOW2_MATCH_LOG_FULL_RECURSIVE,
